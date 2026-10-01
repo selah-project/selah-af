@@ -5,13 +5,46 @@
   "book": "ruth",
   "lang": "af",
   "chapter": 4,
-  "translation": "En Noömi het ⟨את⟩ die kindjie geneem en hom in haar skoot gelê, en sy het vir hom tot voedster geword.",
+  "translation": "En Naömi het ⟨את⟩ die kind geneem en hom in haar skoot gelê, en sy het vir hom 'n voedster geword.",
   "tokens": [
     {
-      "surface": "ויקח נעמי את הילד ותשתהו בחיקה ותהי לו לאמנת",
-      "gloss": ""
+      "surface": "ותקח",
+      "gloss": "en het geneem"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Naömi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "en hom gelê"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "in haar skoot"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en sy het geword"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "'n voedster"
     }
   ],
-  "timestamp": "2026-10-01T00:24:41.579409184Z",
+  "timestamp": "2026-10-01T05:33:39.931523248Z",
   "model": "glm-5.3"
 }

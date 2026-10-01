@@ -5,23 +5,23 @@
   "book": "psalms",
   "lang": "af",
   "chapter": 38,
-  "translation": "Want ek het gesê: <moet nie> — laat hulle nie oor my jubel nie; toe my voet gewankel het, het hulle hulleself teen my verhef.",
+  "translation": "Want ek het gesê: dat hulle nie oor my sou juig nie; by ⟨die⟩ gly van my voet het hulle hulleself teen my verhef.",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Want"
+      "gloss": "want"
     },
     {
       "surface": "אמרתי",
-      "gloss": "ek het gesê"
+      "gloss": "het ek gesê"
     },
     {
       "surface": "פן",
-      "gloss": "moet nie"
+      "gloss": "dat ... nie"
     },
     {
       "surface": "ישמחו",
-      "gloss": "laat hulle jubel"
+      "gloss": "sou hulle juig"
     },
     {
       "surface": "לי",
@@ -29,11 +29,11 @@
     },
     {
       "surface": "במוט",
-      "gloss": "toe ... gewankel het"
+      "gloss": "by ⟨die⟩ gly"
     },
     {
       "surface": "רגלי",
-      "gloss": "my voet"
+      "gloss": "van my voet"
     },
     {
       "surface": "עלי",
@@ -44,6 +44,6 @@
       "gloss": "het hulle hulleself verhef"
     }
   ],
-  "timestamp": "2026-09-30T23:16:43.421070732Z",
+  "timestamp": "2026-10-01T05:33:37.468898958Z",
   "model": "glm-5.3"
 }

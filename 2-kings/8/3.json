@@ -5,11 +5,27 @@
   "book": "2-kings",
   "lang": "af",
   "chapter": 8,
-  "translation": "En dit het gebeur, aan die einde van sewe jaar, dat die vrou uit die land van die Pelistim teruggekeer het; en sy het uitgegaan om tot die koning te roep om ⟨את⟩ haar huis en om ⟨את⟩ haar veld.",
+  "translation": "En dit het gebeur aan die einde van sewe jaar, dat die vrou teruggekeer het uit die land van die Filistyne; en sy het uitgegaan om te roep tot die koning oor haar huis en oor haar land.",
   "tokens": [
     {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "aan die einde"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
       "surface": "ותשב",
-      "gloss": "het teruggekeer"
+      "gloss": "teruggekeer het"
     },
     {
       "surface": "האשה",
@@ -21,11 +37,11 @@
     },
     {
       "surface": "פלשתים",
-      "gloss": "van die Pelistim"
+      "gloss": "van die Filistyne"
     },
     {
       "surface": "ותצא",
-      "gloss": "en het uitgegaan"
+      "gloss": "uitgegaan het"
     },
     {
       "surface": "לצעק",
@@ -41,7 +57,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "om"
+      "gloss": "oor"
     },
     {
       "surface": "ביתה",
@@ -49,13 +65,13 @@
     },
     {
       "surface": "ואל",
-      "gloss": "en om"
+      "gloss": "en oor"
     },
     {
       "surface": "שדה",
-      "gloss": "haar veld"
+      "gloss": "haar land"
     }
   ],
-  "timestamp": "2026-09-30T22:08:58.123281114Z",
+  "timestamp": "2026-10-01T05:32:41.950642779Z",
   "model": "glm-5.3"
 }

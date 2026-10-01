@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "af",
   "chapter": 23,
-  "translation": "Nie 'n man ⟨is⟩ El, dat hy sou lieg, en nie 'n seun van Adam, dat hy hom sou bekeer — ⟨Hy⟩ het gesê, en sal ⟨Hy⟩ dit nie doen nie? en gesproe het ⟨Hy⟩, en sal ⟨Hy⟩ dit nie bevestig nie?",
+  "translation": "Geen man ⟨is⟩ El dat hy sou lieg, en geen seun van Adam dat hy sou berou ⟨voel⟩ — ⟨is⟩ Hy die een ⟨wat⟩ gesê het en nie sal doen nie, en ⟨die een wat⟩ gespreek het en dit nie sal bevestig nie?",
   "tokens": [
     {
       "surface": "לא",
@@ -21,27 +21,27 @@
     },
     {
       "surface": "ויכזב",
-      "gloss": "dat hy sou lieg"
+      "gloss": "en sou lieg"
     },
     {
       "surface": "ובן",
-      "gloss": "en 'n seun"
+      "gloss": "en 'n seun van"
     },
     {
       "surface": "אדם",
-      "gloss": "van Adam"
+      "gloss": "Adam"
     },
     {
       "surface": "ויתנחם",
-      "gloss": "dat hy hom sou bekeer"
+      "gloss": "en sou berou voel"
     },
     {
       "surface": "ההוא",
-      "gloss": "Hy"
+      "gloss": "Hy die een"
     },
     {
       "surface": "אמר",
-      "gloss": "het gesê"
+      "gloss": "gesê het"
     },
     {
       "surface": "ולא",
@@ -53,13 +53,17 @@
     },
     {
       "surface": "ודבר",
-      "gloss": "en gesproe"
+      "gloss": "en gespreek het"
     },
     {
-      "surface": "ויקימנה",
-      "gloss": "sal bevestig"
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יקימנה",
+      "gloss": "sal dit bevestig"
     }
   ],
-  "timestamp": "2026-09-30T21:12:28.249025337Z",
+  "timestamp": "2026-10-01T05:32:57.456381331Z",
   "model": "glm-5.3"
 }

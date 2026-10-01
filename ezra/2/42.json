@@ -5,8 +5,81 @@
   "book": "ezra",
   "lang": "af",
   "chapter": 2,
-  "translation": "Die kinders van die poortwagters: die kinders van Sjalum, die kinders van Ater, die kinders van Talmon, die kinders van Akkub, die kinders of Gatita se kinders — die kinders van Gatita, die kinders van Sobai — altesaam honderd nege-en-dertig.",
-  "tokens": [],
-  "timestamp": "2026-10-01T00:35:57.712325423Z",
+  "translation": "Die seuns van die poortwagters: die seuns van Sjalom, die seuns van Ater, die seuns of Talmon, die seuns of Akkow, die seuns of Gatita, die seuns of Sobai — altesaam honderd nege-en-dertig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "die poortwagters"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Ater"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "טלמון",
+      "gloss": "Talmon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Akkow"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "חטיטא",
+      "gloss": "Gatita"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "Sobai"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "altesaam"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "ותשעה",
+      "gloss": "en nege"
+    }
+  ],
+  "timestamp": "2026-10-01T05:33:38.073055817Z",
   "model": "glm-5.3"
 }

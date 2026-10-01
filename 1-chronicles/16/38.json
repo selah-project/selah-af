@@ -5,11 +5,15 @@
   "book": "1-chronicles",
   "lang": "af",
   "chapter": 16,
-  "translation": "en Oved-Edom en hulle broers, agt en sestig, en Oved-Edom seun van Jedoetoen en Gosja as poortwagters.",
+  "translation": "en Obed-Edom en hulle broers, ses-en-sestig ⟨was hulle⟩ — agt-en-sestig; en Obed-Edom, seun van Jedoetoen, en Gosja, as poortwagters.",
   "tokens": [
     {
-      "surface": "ועבד אדם",
-      "gloss": "en Oved-Edom"
+      "surface": "ועבד",
+      "gloss": "en Obed-Edom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edom"
     },
     {
       "surface": "ואחיהם",
@@ -24,8 +28,12 @@
       "gloss": "en agt"
     },
     {
-      "surface": "ועבד אדם",
-      "gloss": "en Oved-Edom"
+      "surface": "ועבד",
+      "gloss": "en Obed-Edom"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Obed-Edom"
     },
     {
       "surface": "בן",
@@ -44,6 +52,6 @@
       "gloss": "as poortwagters"
     }
   ],
-  "timestamp": "2026-10-01T00:48:49.710115889Z",
+  "timestamp": "2026-10-01T05:33:43.106469642Z",
   "model": "glm-5.3"
 }

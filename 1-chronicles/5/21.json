@@ -5,16 +5,11 @@
   "book": "1-chronicles",
   "lang": "af",
   "chapter": 5,
-  "translation": "En hulle het weggevoer ⟨את⟩ hulle vee: hulle kamele vyftigduisend, en kleinvee tweehonderd en vyftigduisend, en donkies tweeduisend, en siele van mense honderdduisend.",
+  "translation": "En hulle het hulle vee weggevoer: hulle kamele vyftigduisend, en kleinvee tweehonderd vyftigduisend, en esels tweeduisend, en mense-siele honderdduisend.",
   "tokens": [
     {
       "surface": "וישבו",
       "gloss": "en hulle het weggevoer"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "hulle vee"
     },
     {
       "surface": "מקניהם",
@@ -50,7 +45,7 @@
     },
     {
       "surface": "וחמורים",
-      "gloss": "en donkies"
+      "gloss": "en esels"
     },
     {
       "surface": "אלפים",
@@ -73,6 +68,6 @@
       "gloss": "duisend"
     }
   ],
-  "timestamp": "2026-10-01T00:45:08.042101666Z",
+  "timestamp": "2026-10-01T05:33:45.554370861Z",
   "model": "glm-5.3"
 }

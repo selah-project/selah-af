@@ -5,7 +5,7 @@
   "book": "genesis",
   "lang": "af",
   "chapter": 31,
-  "translation": "En Lavan het vir Jaäkow gesê: Wat het jy gedoen? Jy het ⟨את⟩ my hart gesteel en my doggers weggevoer soos gevanges van die swaard.",
+  "translation": "En Lawan het tot Jaäkow gesê: Wat het jy gedoen? En jy het ⟨את⟩ my hart gesteel en ⟨את⟩ my dogters weggevoer soos gevangenes van die swaard.",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,11 +13,11 @@
     },
     {
       "surface": "לבן",
-      "gloss": "Laban"
+      "gloss": "Lawan"
     },
     {
       "surface": "ליעקב",
-      "gloss": "vir Jaäkow"
+      "gloss": "tot Jaäkow"
     },
     {
       "surface": "מה",
@@ -25,15 +25,11 @@
     },
     {
       "surface": "עשית",
-      "gloss": "het jy gedoen"
-    },
-    {
-      "surface": "ויגגנוב את",
-      "gloss": ""
+      "gloss": "het jy gedaan"
     },
     {
       "surface": "ותגנב",
-      "gloss": "⟨את⟩ jy het gesteel"
+      "gloss": "en jy het gesteel"
     },
     {
       "surface": "את",
@@ -46,26 +42,26 @@
     },
     {
       "surface": "ותנהג",
-      "gloss": "⟨את⟩ jy het weggevoer"
+      "gloss": "en jy het weggevoer"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "my doggers"
+      "marks": "my dogters"
     },
     {
       "surface": "בנתי",
-      "gloss": "my doggers"
+      "gloss": "my dogters"
     },
     {
       "surface": "כשביות",
-      "gloss": "soos gevanges"
+      "gloss": "soos gevangenes"
     },
     {
       "surface": "חרב",
       "gloss": "van die swaard"
     }
   ],
-  "timestamp": "2026-09-30T20:37:23.527025473Z",
+  "timestamp": "2026-10-01T05:33:07.926055296Z",
   "model": "glm-5.3"
 }

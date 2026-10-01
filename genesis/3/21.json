@@ -5,8 +5,41 @@
   "book": "genesis",
   "lang": "af",
   "chapter": 3,
-  "translation": "En Jahweh Elohim het vir Awraham se eerste mens — vir die mens en vir sy vrou — van huide klere gemaak en hulle geklee.",
-  "tokens": [],
-  "timestamp": "2026-09-30T20:28:46.486889374Z",
+  "translation": "En Jahweh Elohim het vir Awraham se... vir ⟨את⟩ die mens en vir sy vrou klere van vel gemaak en hulle toe geklee.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "vir die mens"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "en vir sy vrou"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "klere"
+    },
+    {
+      "surface": "עור",
+      "gloss": "van vel"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "en hulle geklee"
+    }
+  ],
+  "timestamp": "2026-10-01T05:33:06.618957499Z",
   "model": "glm-5.3"
 }

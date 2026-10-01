@@ -5,19 +5,19 @@
   "book": "ezra",
   "lang": "af",
   "chapter": 2,
-  "translation": "En van die hoofde van die vaderlike huise, toe hulle by die huis van Jahweh in Jerusjalajim aankom, het hulle gewillig gegee vir die huis van ⟨את⟩ die Elohim, om dit op sy plek te laat staan.",
+  "translation": "En van die hoofde van die vaders, toe hulle by die huis van Jahweh kom, wat in Jerusjalajim is, het hulle vrywillig gegee vir die huis van Elohim om dit op sy plek op te rig.",
   "tokens": [
     {
       "surface": "ומראשי",
-      "gloss": "En van die hoofde"
+      "gloss": "en van die hoofde"
     },
     {
       "surface": "האבות",
-      "gloss": "van die vaderlike huise"
+      "gloss": "van die vaders"
     },
     {
       "surface": "בבואם",
-      "gloss": "toe hulle aankom"
+      "gloss": "toe hulle kom"
     },
     {
       "surface": "לבית",
@@ -33,11 +33,11 @@
     },
     {
       "surface": "בירושלם",
-      "gloss": "in Jerusjalajim"
+      "gloss": "in Jerusjalajim is"
     },
     {
       "surface": "התנדבו",
-      "gloss": "het hulle gewillig gegee"
+      "gloss": "het hulle vrywillig gegee"
     },
     {
       "surface": "לבית",
@@ -45,16 +45,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "die Elohim"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "die Elohim"
+      "gloss": "Elohim"
     },
     {
       "surface": "להעמידו",
-      "gloss": "om dit te laat staan"
+      "gloss": "om dit op te rig"
     },
     {
       "surface": "על",
@@ -65,6 +60,6 @@
       "gloss": "sy plek"
     }
   ],
-  "timestamp": "2026-10-01T00:37:12.552885556Z",
+  "timestamp": "2026-10-01T05:33:36.002953408Z",
   "model": "glm-5.3"
 }

@@ -5,19 +5,19 @@
   "book": "exodus",
   "lang": "af",
   "chapter": 1,
-  "translation": "Toe stel hulle owerstes van dwangarbeid oor hom om hom met sy laste te onderdruk; en hy het vir Paro voorraadstede gebou, ⟨את⟩ Pitom en ⟨את⟩ Raämses.",
+  "translation": "En hulle het oor hulle voormanne van dwangarbeid gestel om hulle te verdruk met hulle laste; en ⟨hy⟩ het voorraadstede gebou vir Paro: ⟨את⟩ Pitom en ⟨את⟩ Raämses.",
   "tokens": [
     {
       "surface": "וישימו",
-      "gloss": "Toe stel hulle"
+      "gloss": "en hulle het gestel"
     },
     {
       "surface": "עליו",
-      "gloss": "oor hom"
+      "gloss": "oor hulle"
     },
     {
       "surface": "שרי",
-      "gloss": "owerstes"
+      "gloss": "voormanne"
     },
     {
       "surface": "מסים",
@@ -25,11 +25,11 @@
     },
     {
       "surface": "למען",
-      "gloss": "om"
+      "gloss": "om te"
     },
     {
       "surface": "ענתו",
-      "gloss": "hom te onderdruk"
+      "gloss": "hulle te verdruk"
     },
     {
       "surface": "בסבלתם",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "מסכנות",
-      "gloss": "van voorraad"
+      "gloss": "voorraadstede"
     },
     {
       "surface": "לפרעה",
@@ -61,12 +61,8 @@
       "gloss": "Pitom"
     },
     {
-      "surface": "ויבן",
-      "gloss": "⟨את⟩"
-    },
-    {
       "surface": "ואת",
-      "gloss": "⟨את⟩",
+      "gloss": "en ⟨את⟩",
       "marks": "Raämses"
     },
     {
@@ -74,6 +70,6 @@
       "gloss": "Raämses"
     }
   ],
-  "timestamp": "2026-09-30T20:43:22.185285999Z",
+  "timestamp": "2026-10-01T05:33:23.893810101Z",
   "model": "glm-5.3"
 }

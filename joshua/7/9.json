@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "af",
   "chapter": 7,
-  "translation": "Want die Kanaäniet en al die bewoners van die land sal ⟨dit⟩ hoor, en hulle sal ons omsingel en ⟨את⟩ ons naam uit die land uitroei — en wat sal U vir u groot Naam doen?",
+  "translation": "En die Kanaäniet en al die bewoners van die land sal ⟨dit⟩ hoor, en hulle sal ons omsingel en ons naam ⟨את⟩ van die aarde af uitwis — en wat sal U vir U groot Naam doen?",
   "tokens": [
     {
       "surface": "וישמעו",
@@ -16,8 +16,12 @@
       "gloss": "die Kanaäniet"
     },
     {
-      "surface": "וישבי",
-      "gloss": "en al die bewoners van"
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die bewoners van"
     },
     {
       "surface": "הארץ",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "והכריתו",
-      "gloss": "en uitroei"
+      "gloss": "en af uitwis"
     },
     {
       "surface": "את",
@@ -42,15 +46,15 @@
     },
     {
       "surface": "שמנו",
-      "gloss": "⟨את⟩ ons naam"
+      "gloss": "ons naam"
     },
     {
       "surface": "מן",
-      "gloss": "uit"
+      "gloss": "van"
     },
     {
       "surface": "הארץ",
-      "gloss": "die land"
+      "gloss": "die aarde"
     },
     {
       "surface": "ומה",
@@ -62,13 +66,13 @@
     },
     {
       "surface": "לשמך",
-      "gloss": "vir u Naam"
+      "gloss": "vir U Naam"
     },
     {
       "surface": "הגדול",
       "gloss": "die groot"
     }
   ],
-  "timestamp": "2026-09-30T21:28:23.718905743Z",
+  "timestamp": "2026-10-01T05:32:41.082425868Z",
   "model": "glm-5.3"
 }

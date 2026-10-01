@@ -5,7 +5,7 @@
   "book": "isaiah",
   "lang": "af",
   "chapter": 23,
-  "translation": "Wie het ⟨את⟩ dit teen Tsor beraam, die kroonskenker, wie se handelaars vorsen ⟨is⟩, wie se Kenaäniete die geagtes van ⟨die⟩ aarde ⟨is⟩?",
+  "translation": "Wie het dit teen Tsor beraam, die kroon-skenkende, wie se handelaars vorste ⟨is⟩, wie se Kenaäniete die gesiene van die aarde ⟨is⟩?",
   "tokens": [
     {
       "surface": "מי",
@@ -13,16 +13,11 @@
     },
     {
       "surface": "יעץ",
-      "gloss": "het beraam"
+      "gloss": "beraam"
     },
     {
       "surface": "זאת",
       "gloss": "dit"
-    },
-    {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "dit"
     },
     {
       "surface": "על",
@@ -34,7 +29,7 @@
     },
     {
       "surface": "המעטירה",
-      "gloss": "die kroonskenker"
+      "gloss": "die kroon-skenkende"
     },
     {
       "surface": "אשר",
@@ -46,7 +41,7 @@
     },
     {
       "surface": "שרים",
-      "gloss": "vorsen"
+      "gloss": "vorste"
     },
     {
       "surface": "כנעניה",
@@ -54,13 +49,13 @@
     },
     {
       "surface": "נכבדי",
-      "gloss": "die geagtes"
+      "gloss": "die gesiene"
     },
     {
       "surface": "ארץ",
       "gloss": "van die aarde"
     }
   ],
-  "timestamp": "2026-09-30T22:19:06.001799860Z",
+  "timestamp": "2026-10-01T05:33:34.750271383Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,37 @@
   "book": "2-chronicles",
   "lang": "af",
   "chapter": 20,
-  "translation": "En die koninkryk van Jehosjoea seun van… ",
-  "tokens": [],
-  "timestamp": "2026-10-01T00:59:51.071610231Z",
+  "translation": "En die koninkryk van Jehosjoea was stil, want sy Elohim het hom rus gegee rondom aan alle kante.",
+  "tokens": [
+    {
+      "surface": "ותשקט",
+      "gloss": "was stil"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "van Jehosjoea"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "het rus gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom aan alle kante"
+    }
+  ],
+  "timestamp": "2026-10-01T05:33:41.065934891Z",
   "model": "glm-5.3"
 }

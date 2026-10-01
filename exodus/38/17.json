@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "af",
   "chapter": 38,
-  "translation": "en die voetstukke vir die pilare ⟨was⟩ koper, en die hakies van die pilare en hulle ringe silwer, en die oorlê van hulle koppe silwer, en hulle was omring met silwer, al die pilare van die voorhof",
+  "translation": "En die voetstukke vir die pilare was van koper; die hake van die pilare en hulle ringe van silwer; en die oortrek van hulle koppe van silwer; en hulle was omring van silwer — al die pilare van die werf.",
   "tokens": [
     {
       "surface": "והאדנים",
@@ -20,8 +20,12 @@
       "gloss": "koper"
     },
     {
-      "surface": "והעמודים ווי",
-      "gloss": "en die hakies van die pilare"
+      "surface": "וכוי",
+      "gloss": "en die hake"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "van die pilare"
     },
     {
       "surface": "וחשוקיהם",
@@ -33,7 +37,7 @@
     },
     {
       "surface": "וצפוי",
-      "gloss": "en die oorlê"
+      "gloss": "en die oortrek"
     },
     {
       "surface": "ראשיהם",
@@ -53,7 +57,7 @@
     },
     {
       "surface": "כסף",
-      "gloss": "met silwer"
+      "gloss": "silwer"
     },
     {
       "surface": "כל",
@@ -65,9 +69,9 @@
     },
     {
       "surface": "החצר",
-      "gloss": "van die voorhof"
+      "gloss": "van die werf"
     }
   ],
-  "timestamp": "2026-09-30T20:54:41.385281894Z",
+  "timestamp": "2026-10-01T05:56:30.070148670Z",
   "model": "glm-5.3"
 }

@@ -5,15 +5,15 @@
   "book": "1-samuel",
   "lang": "af",
   "chapter": 2,
-  "translation": "En Eli was baie oud, en hy het ⟨את⟩ alles gehoor wat sy seuns aan die hele Jisraël doen, en ⟨את⟩ dat hulle by ⟨את⟩ die vroue lê wat diens doen by die ingang van die tent van samekoms.",
+  "translation": "En Eli was baie oud, en hy het ⟨את⟩ alles gehoor wat sy seuns aan die hele Jisraël gedoen het, en ⟨את⟩ wat hulle by ⟨את⟩ die vroue lê wat diens doen, by die ingang van die tent van samekoms.",
   "tokens": [
     {
       "surface": "ועלי",
-      "gloss": "en Eli"
+      "gloss": "En Eli"
     },
     {
       "surface": "זקן",
-      "gloss": "oud was"
+      "gloss": "was oud"
     },
     {
       "surface": "מאד",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "יעשון",
-      "gloss": "hulle doen"
+      "gloss": "hulle gedoen het"
     },
     {
       "surface": "בניו",
@@ -55,11 +55,11 @@
     {
       "surface": "ואת",
       "gloss": "en ⟨את⟩",
-      "marks": "dat hulle by die vroue lê"
+      "marks": "wat hulle by die vroue lê"
     },
     {
       "surface": "אשר",
-      "gloss": "dat"
+      "gloss": "wat"
     },
     {
       "surface": "ישכבון",
@@ -67,7 +67,7 @@
     },
     {
       "surface": "את",
-      "gloss": "by ⟨את⟩",
+      "gloss": "⟨את⟩ by",
       "marks": "die vroue"
     },
     {
@@ -83,10 +83,14 @@
       "gloss": "by die ingang"
     },
     {
-      "surface": "אהל מועד",
-      "gloss": "van die tent van samekoms"
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
     }
   ],
-  "timestamp": "2026-09-30T21:40:11.107127004Z",
+  "timestamp": "2026-10-01T05:32:59.643173509Z",
   "model": "glm-5.3"
 }

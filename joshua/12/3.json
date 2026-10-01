@@ -5,11 +5,11 @@
   "book": "joshua",
   "lang": "af",
   "chapter": 12,
-  "translation": "En die Araba tot by die see van Kinnerot ooswaarts, en tot by die see van die Araba, die soutsee, ooswaarts, die pad van Bet-ha-Jesjimot; en van die suide af, onder die hellings van die Pisga.",
+  "translation": "en die Arava tot by die see van Kinnerot oostwaarts, en tot by die see van die Arava, die soutsee, oostwaarts, op die weg na Bet-ha-Jesjimot, en van die suide, onder die hange van die Pisga;",
   "tokens": [
     {
       "surface": "והערבה",
-      "gloss": "en die Araba"
+      "gloss": "en die Arava"
     },
     {
       "surface": "עד",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ים",
-      "gloss": "die see"
+      "gloss": "see"
     },
     {
       "surface": "כנרות",
@@ -25,39 +25,47 @@
     },
     {
       "surface": "מזרחה",
-      "gloss": "ooswaarts"
-    },
-    {
-      "surface": "וים הערבה",
-      "gloss": "en tot by die see van die Araba"
+      "gloss": "oostwaarts"
     },
     {
       "surface": "ועד",
       "gloss": "en tot by"
     },
     {
-      "surface": "ים הערבה",
-      "gloss": "die see van die Araba"
+      "surface": "ים",
+      "gloss": "see"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "van die Arava"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
     },
     {
       "surface": "המלח",
-      "gloss": "die soutsee"
+      "gloss": "die sout"
     },
     {
       "surface": "מזרחה",
-      "gloss": "ooswaarts"
+      "gloss": "oostwaarts"
     },
     {
       "surface": "דרך",
-      "gloss": "die pad"
+      "gloss": "op die weg"
     },
     {
-      "surface": "בית הישמות",
-      "gloss": "van Bet-ha-Jesjimot"
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ha-Jesjimot"
     },
     {
       "surface": "ומתימן",
-      "gloss": "en van die suide af"
+      "gloss": "en van die suide"
     },
     {
       "surface": "תחת",
@@ -65,13 +73,13 @@
     },
     {
       "surface": "אשדות",
-      "gloss": "die hellings"
+      "gloss": "die hange"
     },
     {
       "surface": "הפסגה",
       "gloss": "van die Pisga"
     }
   ],
-  "timestamp": "2026-10-01T00:01:17.801324278Z",
+  "timestamp": "2026-10-01T05:32:41.100741787Z",
   "model": "glm-5.3"
 }

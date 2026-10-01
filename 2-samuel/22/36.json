@@ -5,38 +5,33 @@
   "book": "2-samuel",
   "lang": "af",
   "chapter": 22,
-  "translation": "En jy het my ⟨את⟩ die skild van jou heil gegee, en jou nederigheid maak my groot.",
+  "translation": "En U het aan my die skild van U redding gegee, en U sagmoedigheid het my vermeerder.",
   "tokens": [
     {
-      "surface": "ותתן",
-      "gloss": "en jy het gegee"
+      "surface": "וַתִּתֶּן",
+      "gloss": "en U het gegee"
     },
     {
-      "surface": "לי",
+      "surface": "לִי",
       "gloss": "aan my"
     },
     {
-      "surface": "את",
-      "gloss": "⟨את⟩",
-      "marks": "die skild van jou heil"
+      "surface": "מָגֵן",
+      "gloss": "skild"
     },
     {
-      "surface": "מגן",
-      "gloss": "die skild"
+      "surface": "יִשְׁעֶךָ",
+      "gloss": "van U redding"
     },
     {
-      "surface": "ישעך",
-      "gloss": "van jou heil"
+      "surface": "וַעֲנֹתֶךָ",
+      "gloss": "en U sagmoedigheid"
     },
     {
-      "surface": "וענתך",
-      "gloss": "en jou nederigheid"
-    },
-    {
-      "surface": "תרבני",
-      "gloss": "maak my groot"
+      "surface": "תַּרְבֵּנִי",
+      "gloss": "het my vermeerder"
     }
   ],
-  "timestamp": "2026-09-30T21:56:54.876428162Z",
+  "timestamp": "2026-10-01T05:32:57.103417644Z",
   "model": "glm-5.3"
 }

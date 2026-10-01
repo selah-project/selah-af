@@ -5,8 +5,80 @@
   "book": "joshua",
   "lang": "af",
   "chapter": 24,
-  "translation": "duplikaat",
-  "tokens": [],
-  "timestamp": "2026-09-30T21:32:59.820673671Z",
+  "translation": "En ek het aan Jitsgak ⟨את⟩ Jaäkow en ⟨את⟩ Esav gegee; en ek het aan Esav ⟨את⟩ die berg Seïr gegee om ⟨את⟩ dit in besit te neem; en Jaäkow en sy seuns het na Mitsrajim afgegaan.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "en ek het gegee"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitsgak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "en ek het gegee"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "aan Esav"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berg Seïr"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om in besit te neem"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dit"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaäkow"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "het afgegaan"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-01T05:33:08.093969246Z",
   "model": "glm-5.3"
 }

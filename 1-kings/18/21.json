@@ -5,11 +5,11 @@
   "book": "1-kings",
   "lang": "af",
   "chapter": 18,
-  "translation": "En Elia het nader gekom aan die hele volk en gesê: Hoe lank hink julle op die twee takke? As Jahweh ⟨die⟩ Elohim ⟨is⟩, loop agter Hom aan; en as die Baäl, loop agter hom aan. En ⟨את⟩ die volk het hom nie 'n woord geantwoord nie.",
+  "translation": "En Elia het naby die hele volk gekom en gesê: Hoe lank huppel julle op die twee takke? As Jahweh ⟨is⟩ die Elohim, gaan agter Hom aan; en as die Baäl, gaan agter hom aan. En die volk het hom nie ⟨את⟩ 'n woord geantwoord nie.",
   "tokens": [
     {
       "surface": "ויגש",
-      "gloss": "het nader gekom"
+      "gloss": "het naby gekom"
     },
     {
       "surface": "אליהו",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "אל",
-      "gloss": "aan"
+      "gloss": "naby"
     },
     {
       "surface": "כל",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "פסחים",
-      "gloss": "hink"
+      "gloss": "huppel"
     },
     {
       "surface": "על",
@@ -69,11 +69,11 @@
     },
     {
       "surface": "האלהים",
-      "gloss": "Elohim"
+      "gloss": "die Elohim"
     },
     {
       "surface": "לכו",
-      "gloss": "loop"
+      "gloss": "gaan"
     },
     {
       "surface": "אחריו",
@@ -89,15 +89,11 @@
     },
     {
       "surface": "לכו",
-      "gloss": "loop"
+      "gloss": "gaan"
     },
     {
       "surface": "אחריו",
       "gloss": "agter hom aan"
-    },
-    {
-      "surface": "ויאמר",
-      "gloss": ""
     },
     {
       "surface": "ולא",
@@ -109,7 +105,7 @@
     },
     {
       "surface": "העם",
-      "gloss": "⟨את⟩ die volk"
+      "gloss": "die volk"
     },
     {
       "surface": "אתו",
@@ -121,6 +117,6 @@
       "gloss": "'n woord"
     }
   ],
-  "timestamp": "2026-09-30T22:04:50.065878213Z",
+  "timestamp": "2026-10-01T05:32:43.916250596Z",
   "model": "glm-5.3"
 }

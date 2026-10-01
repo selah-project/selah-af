@@ -5,7 +5,7 @@
   "book": "daniel",
   "lang": "af",
   "chapter": 6,
-  "translation": "Toe kom hulle naby en sê voor die koning oor die gebod van die koning: Het u nie 'n gebod onderteken nie, dat elke man wat 'n versoek vra aan enige god of mens, tot dertig dae, behalwe aan u, o koning, in die leeu-kuil gegooi sal word? Die koning het geantwoord en gesê: Die saak staan vas, volgens die wet van die Mede en Persiërs, wat nie verander nie.",
+  "translation": "Toe kom hulle nader en sê voor die koning oor die verbod van die koning: Het jy nie 'n verbod onderteken nie, dat elke man wat 'n versoek vra aan enige god of mens, tot dertig dae, behalwe aan jou, o koning, in die leeukuil gegooi sal word? Die koning het geantwoord en gesê: Die saak is vas, volgens die wet van die Mede en Perse, wat nie verander nie.",
   "tokens": [
     {
       "surface": "באדין",
@@ -13,7 +13,11 @@
     },
     {
       "surface": "קריבו",
-      "gloss": "kom hulle naby"
+      "gloss": "kom hulle nader"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "en sê"
     },
     {
       "surface": "קדם",
@@ -29,7 +33,7 @@
     },
     {
       "surface": "אסר",
-      "gloss": "die gebod"
+      "gloss": "die verbod"
     },
     {
       "surface": "מלכא",
@@ -37,11 +41,11 @@
     },
     {
       "surface": "הלא",
-      "gloss": "het u nie"
+      "gloss": "het jy nie"
     },
     {
       "surface": "אסר",
-      "gloss": "'n gebod"
+      "gloss": "'n verbod"
     },
     {
       "surface": "רשמת",
@@ -97,11 +101,11 @@
     },
     {
       "surface": "להן",
-      "gloss": "daarna"
+      "gloss": "behalwe"
     },
     {
       "surface": "מנך",
-      "gloss": "behalwe u"
+      "gloss": "aan jou"
     },
     {
       "surface": "מלכא",
@@ -109,19 +113,19 @@
     },
     {
       "surface": "יתרמא",
-      "gloss": "gegooi word"
+      "gloss": "gegooi sal word"
     },
     {
       "surface": "לגוב",
-      "gloss": "in die kuil"
+      "gloss": "in"
     },
     {
       "surface": "אריותא",
-      "gloss": "leeus"
+      "gloss": "die leeukuil"
     },
     {
       "surface": "ענה",
-      "gloss": "geantwoord"
+      "gloss": "het geantwoord"
     },
     {
       "surface": "מלכא",
@@ -133,7 +137,7 @@
     },
     {
       "surface": "יציבא",
-      "gloss": "vast"
+      "gloss": "is vas"
     },
     {
       "surface": "מלתא",
@@ -149,7 +153,7 @@
     },
     {
       "surface": "ופרס",
-      "gloss": "en Persiërs"
+      "gloss": "en Perse"
     },
     {
       "surface": "די",
@@ -161,9 +165,9 @@
     },
     {
       "surface": "תעדא",
-      "gloss": "verander nie"
+      "gloss": "verander"
     }
   ],
-  "timestamp": "2026-10-01T00:34:23.966436180Z",
+  "timestamp": "2026-10-01T05:33:55.165926642Z",
   "model": "glm-5.3"
 }

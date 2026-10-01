@@ -5,11 +5,11 @@
   "book": "2-chronicles",
   "lang": "af",
   "chapter": 31,
-  "translation": "en Korag, seun van Jimna die Leviet, die poortwagter aan die oostekant, was oor die vrywillige gawes van Elohim, om die hefoffer van Jahweh en ⟨את⟩ die Allerheiligste uit te deel.",
+  "translation": "En Kore, seun van Jímna, die Leviet, die poortwagter aan die oostekant, was oor die vrywillige gawes van Elohim, om die hefoffer van Jahweh te gee en ⟨die⟩ heiliges van die heiliges.",
   "tokens": [
     {
       "surface": "וקורא",
-      "gloss": "en Korag"
+      "gloss": "En Kore"
     },
     {
       "surface": "בן",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "ימנה",
-      "gloss": "Jimna"
+      "gloss": "Jímna"
     },
     {
       "surface": "הלוי",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "לתת",
-      "gloss": "om uit te deel"
+      "gloss": "om te gee"
     },
     {
       "surface": "תרומת",
@@ -57,9 +57,13 @@
     },
     {
       "surface": "וקדשי",
-      "gloss": "en ⟨את⟩ die Allerheiligste"
+      "gloss": "en die heiliges"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van die heiliges"
     }
   ],
-  "timestamp": "2026-10-01T01:02:37.124725137Z",
+  "timestamp": "2026-10-01T05:33:49.700613764Z",
   "model": "glm-5.3"
 }

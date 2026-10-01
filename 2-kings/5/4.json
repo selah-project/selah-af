@@ -5,15 +5,11 @@
   "book": "2-kings",
   "lang": "af",
   "chapter": 5,
-  "translation": "En hy het ingegaan en aan sy heer vertel en gesê: Só en só het die meisie gepraat wat uit die land van Jisraël ⟨is⟩.",
+  "translation": "En hy het ingekom en aan sy heer vertel deur te sê: so en so het die jongmeisie gepraat wat uit die land Jisraël ⟨is⟩.",
   "tokens": [
     {
-      "surface": "והוא",
-      "gloss": ""
-    },
-    {
       "surface": "ויבא",
-      "gloss": "En hy het ingegaan"
+      "gloss": "en hy het ingekom"
     },
     {
       "surface": "ויגד",
@@ -25,15 +21,15 @@
     },
     {
       "surface": "לאמר",
-      "gloss": "en gesê"
+      "gloss": "deur te sê"
     },
     {
       "surface": "כזאת",
-      "gloss": "só"
+      "gloss": "so"
     },
     {
       "surface": "וכזאת",
-      "gloss": "en só"
+      "gloss": "en so"
     },
     {
       "surface": "דברה",
@@ -41,7 +37,7 @@
     },
     {
       "surface": "הנערה",
-      "gloss": "die meisie"
+      "gloss": "die jongmeisie"
     },
     {
       "surface": "אשר",
@@ -53,9 +49,9 @@
     },
     {
       "surface": "ישראל",
-      "gloss": "van Jisraël"
+      "gloss": "Jisraël"
     }
   ],
-  "timestamp": "2026-09-30T22:08:15.959883712Z",
+  "timestamp": "2026-10-01T05:33:15.025510234Z",
   "model": "glm-5.3"
 }

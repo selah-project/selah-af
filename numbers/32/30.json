@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "af",
   "chapter": 32,
-  "translation": "Maar as hulle nie gewapen ⟨את⟩ met julle oortrek nie, dan word hulle gevestig in julle midde in die land Kenaän.",
+  "translation": "En as hulle nie gewapen ⟨את⟩ saam met julle oortrek nie, dan word hulle ⟨⟨hebben⟩⟩ besittings in julle midde, in die land Kenaän.",
   "tokens": [
     {
       "surface": "ואם",
-      "gloss": "maar as"
+      "gloss": "en as"
     },
     {
       "surface": "לא",
@@ -21,19 +21,16 @@
     },
     {
       "surface": "חלוצים",
-      "gloss": "gewapen"
+      "gloss": "gewapen (toegerus)"
     },
     {
       "surface": "אתכם",
-      "gloss": "⟨את⟩ met julle"
-    },
-    {
-      "surface": "ויענו-placeholder",
-      "gloss": ""
+      "gloss": "⟨את⟩ saam met julle",
+      "marks": "saam met julle"
     },
     {
       "surface": "ונאחזו",
-      "gloss": "dan word gevestig"
+      "gloss": "dan word besittings geneem"
     },
     {
       "surface": "בתככם",
@@ -48,6 +45,6 @@
       "gloss": "Kenaän"
     }
   ],
-  "timestamp": "2026-09-30T21:15:10.345615535Z",
+  "timestamp": "2026-10-01T05:33:08.093617915Z",
   "model": "glm-5.3"
 }

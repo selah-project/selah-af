@@ -5,13 +5,45 @@
   "book": "2-samuel",
   "lang": "af",
   "chapter": 14,
-  "translation": "En Absalom het twee jaar dae in Jerusjalajim gewoon, en die aangesig van die koning het hy nie gesien nie.",
+  "translation": "En Awbsjalom het in Jerusjalajim gewoon twee jare dae toe, en die gesig van die koning het hy nie gesien nie.",
   "tokens": [
     {
-      "surface": "ושב אבשלום",
-      "gloss": "En Absalom het gewoon"
+      "surface": "וישב",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awbsjalom"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "twee jare"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die gesig"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesien"
     }
   ],
-  "timestamp": "2026-09-30T21:54:13.369096078Z",
+  "timestamp": "2026-10-01T05:56:27.978607175Z",
   "model": "glm-5.3"
 }

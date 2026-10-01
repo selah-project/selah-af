@@ -5,8 +5,106 @@
   "book": "deuteronomy",
   "lang": "af",
   "chapter": 28,
-  "translation": "En dit sal gebeur as jy die stem van Jahweh jou Elohim luisterend luister, om te wag om te doen ⟨את⟩ al sy gebooie wat ek jou vandag beveel, dat Jahweh jou Elohim jou bo allenasies… bowesal stel: hy sal jou as hoogste stel bo al die nasies van die aarde.",
-  "tokens": [],
-  "timestamp": "2026-09-30T21:24:06.965275452Z",
+  "translation": "En dit sal gebeur, as jy die stem van Jahweh jou Elohim nougeset luisterend gehoorsaam, om te onderhou en te doen ⟨את⟩ al sy gebooie wat ek jou vandag beveel, dat Jahweh jou Elohim jou hooger as al die nasies van die aarde sal stel:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En dit sal gebeur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "nougeset luisterend"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "gehoorsaam"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te onderhou"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "en te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy gebooie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "sy gebooie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ונתנך",
+      "gloss": "jou sal stel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hooger"
+    },
+    {
+      "surface": "על",
+      "gloss": "as"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T05:33:09.796722208Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "ecclesiastes",
   "lang": "af",
   "chapter": 7,
-  "translation": "Ver is dit wat ⟨was⟩, en diep, diep — wie kan dit vind?",
+  "translation": "Ver weg is dit wat was, en diep, diep — wie kan dit vind?",
   "tokens": [
     {
       "surface": "רחוק",
-      "gloss": "Ver"
+      "gloss": "ver weg"
     },
     {
       "surface": "מה",
@@ -17,15 +17,11 @@
     },
     {
       "surface": "שהיה",
-      "gloss": "⟨was⟩"
+      "gloss": "was"
     },
     {
       "surface": "ועמק",
-      "gloss": "en"
-    },
-    {
-      "surface": "עמק",
-      "gloss": "diep"
+      "gloss": "en diep"
     },
     {
       "surface": "עמק",
@@ -40,6 +36,6 @@
       "gloss": "kan dit vind"
     }
   ],
-  "timestamp": "2026-10-01T00:28:55.077235872Z",
+  "timestamp": "2026-10-01T05:33:32.073734810Z",
   "model": "glm-5.3"
 }

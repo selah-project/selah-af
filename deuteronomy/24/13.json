@@ -5,8 +5,74 @@
   "book": "deuteronomy",
   "lang": "af",
   "chapter": 24,
-  "translation": "Terughé? — net dit: **inlewering van die pand moet jy hom terughé**, by die ingang van die son, en hy slaap in sy kleed en seën jou, en vir jou sal dit tsedek wees voor die aangesig van Jahweh jou Elohim.",
-  "tokens": [],
-  "timestamp": "2026-09-30T21:23:25.825886638Z",
+  "translation": "Teruggee sal jy aan hom gee ⟨את⟩ die pand by die ingang van die son, en hy sal slaap in sy kleed en jou seën; en vir jou sal dit tsedek wees voor die aangesig van Jahweh jou Elohim.",
+  "tokens": [
+    {
+      "surface": "השב",
+      "gloss": "Teruggee"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "sal jy gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die pand"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "die pand"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "van die son"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "en hy sal slaap"
+    },
+    {
+      "surface": "בשלמתו",
+      "gloss": "in sy kleed"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "en jou seën"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en vir jou"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal dit wees"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T05:32:41.336871084Z",
   "model": "glm-5.3"
 }

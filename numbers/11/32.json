@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "af",
   "chapter": 11,
-  "translation": "En die volk het opgestaan daardie hele dag en die hele nag en die hele volgende dag, en hulle het ⟨את⟩ die kwalsters versamel; hy wat die minste versamel het, het tien gomer versamel; en hulle het hulle vir hulleself uitgesprei rondom die laer.",
+  "translation": "En die volk het gestaan die hele dag dié dag, en die hele nag, en die hele dag van môre, en hulle het ⟨את⟩ die kwartels versamel; hy wat die minste versamel het, het tien giethomers versamel, en hulle het hulle vir hulleself uitgesprei rondom die kamp.",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "en het opgestaan"
+      "gloss": "het gestaan"
     },
     {
       "surface": "העם",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ההוא",
-      "gloss": "daardie"
+      "gloss": "dié"
     },
     {
       "surface": "וכל",
@@ -45,20 +45,20 @@
     },
     {
       "surface": "המחרת",
-      "gloss": "die volgende"
+      "gloss": "van môre"
     },
     {
       "surface": "ויאספו",
-      "gloss": "en hulle het versamel"
+      "gloss": "het versamel"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "die kwalsters"
+      "marks": "die kwartels"
     },
     {
       "surface": "השלו",
-      "gloss": "die kwalsters"
+      "gloss": "die kwartels"
     },
     {
       "surface": "הממעיט",
@@ -74,15 +74,11 @@
     },
     {
       "surface": "חמרים",
-      "gloss": "gomer"
+      "gloss": "giethomers"
     },
     {
       "surface": "וישטחו",
-      "gloss": "en hulle het uitgesprei"
-    },
-    {
-      "surface": "להם",
-      "gloss": "hulle"
+      "gloss": "het uitgesprei"
     },
     {
       "surface": "להם",
@@ -98,9 +94,9 @@
     },
     {
       "surface": "המחנה",
-      "gloss": "die laer"
+      "gloss": "die kamp"
     }
   ],
-  "timestamp": "2026-09-30T21:08:40.056128589Z",
+  "timestamp": "2026-10-01T05:32:42.507994342Z",
   "model": "glm-5.3"
 }

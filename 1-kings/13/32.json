@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "af",
   "chapter": 13,
-  "translation": "want die woord sal sekerlik wees wat hy geroep het deur die woord van Jahweh teen die altaar wat in Bet-El is, en teen al die huise van die hoogtes wat in die stede van Sjomeron is.",
+  "translation": "want die woord sal sekerlik uitkom wat hy geroep het deur die woord van Jahweh teen ⟨die⟩ altaas wat in Bet-El ⟨is⟩, en teen al die huise van die hoogtes wat in die stede van Sjomron ⟨is⟩.",
   "tokens": [
     {
       "surface": "כי",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "יהיה",
-      "gloss": "sal wees"
+      "gloss": "sal uitkom"
     },
     {
       "surface": "הדבר",
@@ -29,7 +29,7 @@
     },
     {
       "surface": "קרא",
-      "gloss": "geroep het"
+      "gloss": "hy geroep het"
     },
     {
       "surface": "בדבר",
@@ -45,7 +45,7 @@
     },
     {
       "surface": "המזבח",
-      "gloss": "die altaar"
+      "gloss": "die altaas"
     },
     {
       "surface": "אשר",
@@ -53,15 +53,11 @@
     },
     {
       "surface": "בבית",
-      "gloss": "in Bet"
+      "gloss": "in"
     },
     {
       "surface": "אל",
-      "gloss": "El"
-    },
-    {
-      "surface": "ויהוה",
-      "gloss": ""
+      "gloss": "Bet-El"
     },
     {
       "surface": "ועל",
@@ -73,11 +69,11 @@
     },
     {
       "surface": "בתי",
-      "gloss": "die huise van"
+      "gloss": "die huise"
     },
     {
       "surface": "הבמות",
-      "gloss": "die hoogtes"
+      "gloss": "van die hoogtes"
     },
     {
       "surface": "אשר",
@@ -85,13 +81,13 @@
     },
     {
       "surface": "בערי",
-      "gloss": "in die stede van"
+      "gloss": "in die stede"
     },
     {
       "surface": "שמרון",
-      "gloss": "Sjomeron"
+      "gloss": "van Sjomron"
     }
   ],
-  "timestamp": "2026-09-30T22:03:18.751861225Z",
+  "timestamp": "2026-10-01T05:32:42.042423742Z",
   "model": "glm-5.3"
 }

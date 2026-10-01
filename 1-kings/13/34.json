@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "af",
   "chapter": 13,
-  "translation": "En hierdie ding was ⟨tot⟩ 'n sonde vir die huis van Jerobeam, om uit te roei en te vernietig van die oppervlak van die aarde af.",
+  "translation": "En hierdie ding was tot 'n sonde vir die huis van Jerobeam, en ⟨om⟩ dit uit te roei en te vernietig van die aangesig van die aarde af.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -32,16 +32,12 @@
       "gloss": "van Jerobeam"
     },
     {
-      "surface": "ויהי",
-      "gloss": ""
+      "surface": "ולהכחיד",
+      "gloss": "en om uit te roei"
     },
     {
       "surface": "ולהשמיד",
-      "gloss": "en om te vernietig"
-    },
-    {
-      "surface": "ולהכחיד",
-      "gloss": "om uit te roei"
+      "gloss": "en te vernietig"
     },
     {
       "surface": "מעל",
@@ -49,13 +45,13 @@
     },
     {
       "surface": "פני",
-      "gloss": "die oppervlak"
+      "gloss": "die aangesig van"
     },
     {
       "surface": "האדמה",
-      "gloss": "van die aarde"
+      "gloss": "die aarde"
     }
   ],
-  "timestamp": "2026-09-30T22:02:11.275275044Z",
+  "timestamp": "2026-10-01T05:32:55.745104071Z",
   "model": "glm-5.3"
 }
