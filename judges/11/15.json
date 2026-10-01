@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en hy sê aan hom: Só sê Jiftag: Jisraël het nie ⟨את⟩ die land van Moab geneem en ⟨את⟩ die land van die kinders van Ammon nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "só"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jiftag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land van Moab"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die land van die kinders van Ammon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die kinders"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    }
+  ],
+  "timestamp": "2026-10-01T01:15:37.882335099Z",
+  "model": "glm-5.3"
+}
