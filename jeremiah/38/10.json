@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 38:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En die koning het ⟨את⟩ Eved-Meleg die Kusiet beveel om te sê: Neem in jou hand hiervandaan dertig man, en bring ⟨את⟩ Jirmeja die profeet uit die put op voordat hy sterwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "en … beveel het"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eved-Meleg"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Eved-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-Meleg"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "die Kusiet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiervandaan"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "man"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "en bring … op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jirmeja"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmeja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "die put"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "hy sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:40:26.889679721Z",
+  "model": "glm-5.3"
+}

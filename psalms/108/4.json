@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Ek sal U loof onder die volke, Jahweh, en ek sal U psalmsing onder die nasies.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ek sal U loof"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "en ek sal U psalmsing"
+    },
+    {
+      "surface": "בל",
+      "gloss": "onder"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "die nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:51.527490913Z",
+  "model": "glm-5.3"
+}

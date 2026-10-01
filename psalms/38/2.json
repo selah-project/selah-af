@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 38:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Jahweh, vermaan my nie in u gramskap nie, en tugtig my nie in u woede nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקצפך",
+      "gloss": "in u gramskap"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "vermaan my"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "en in u woede"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "tugtig my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:42.597364213Z",
+  "model": "glm-5.3"
+}

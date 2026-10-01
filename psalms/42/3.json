@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "My siel dors na Elohim, na ⟨die⟩ El, die Lewende: wanneer sal ek kom en die aangesig van Elohim sien?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "dors"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "na ⟨die⟩ El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "die Lewende"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sal ek kom"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:04.158322116Z",
+  "model": "glm-5.3"
+}

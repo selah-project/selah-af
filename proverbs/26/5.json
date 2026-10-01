@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 26:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Antwoord 'n dwaas volgens sy dwaasheid, sodat hy nie wys word in sy eie oë nie.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "volgens sy dwaasheid"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "word"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wys"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy eie oë"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:16.517359620Z",
+  "model": "glm-5.3"
+}

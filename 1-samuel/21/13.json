@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Dawid het ⟨את⟩ hierdie woorde in sy hart gestel, en hy was verskriklik bang vir Agisj, die koning van Gat.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hy het gestel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy was bang"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "verskriklik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Agisj"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "גת",
+      "gloss": "van Gat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:35.305848358Z",
+  "model": "glm-5.3"
+}

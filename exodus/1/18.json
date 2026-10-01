@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 1:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe roep die koning van Mitsrajim die vroedvroue en sê vir hulle: Waarom het julle hierdie ding gedoen, dat julle die seuntjies laat lewe ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Toe roep"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "die vroedvroue"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "להן",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "עשיתן",
+      "gloss": "het julle gedoen"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "dat julle laat lewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuntjies"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "die seuntjies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.961224872Z",
+  "model": "glm-5.3"
+}

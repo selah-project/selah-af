@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As haar pa heeltemal weier om haar aan hom te gee, moet hy silwer afweeg volgens die bruidsprys van die jongdogters.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "heeltemal weier"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "sal weier"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "haar pa"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "om haar te gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "moet afweeg"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "volgens die bruidsprys"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "van die jongdogters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:10.763156540Z",
+  "model": "glm-5.3"
+}

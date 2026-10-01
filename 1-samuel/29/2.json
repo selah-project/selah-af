@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En die vorste van die Filistyne het in honderdes en in duisende verbygetrek, en Dawid en sy manne het agteraan getrek met Akis.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "en die vorste"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "het verbygetrek"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "in honderdes"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "en in duisende"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "het getrek"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "agteraan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Akis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:43.972844959Z",
+  "model": "glm-5.3"
+}

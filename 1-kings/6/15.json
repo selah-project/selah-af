@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 6:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het ⟨את⟩ die mure van die huis van binne bebou met planke van sederhout, van die vloer van die huis tot by die mure van die plafon; met hout het hy dit binne oortrek, en hy het ⟨את⟩ die vloer van die huis oortrek met planke van sipres.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "En hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mure van die huis"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "die mure"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "מביתה",
+      "gloss": "van binne"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "met planke"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "van sederhout"
+    },
+    {
+      "surface": "מקרקע",
+      "gloss": "van die vloer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "die mure"
+    },
+    {
+      "surface": "הספן",
+      "gloss": "van die plafon"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "het hy oortrek"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "met hout"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "binne"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en hy het oortrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vloer van die huis"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "die vloer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "met planke"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "van sipres"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:59.777097647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 1:18",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Enige man wat teen ⟨את⟩ jou mond rebelleer en nie luister na ⟨את⟩ jou woorde in alles wat jy hom beveel nie, hy sal gedood word; net: wees sterk en standvastig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ימרה",
+      "gloss": "rebelleer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou mond"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou woorde"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jou woorde"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תצונו",
+      "gloss": "jy hom beveel"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "hy sal gedood word"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wees sterk"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "en standvastig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:30.815600510Z",
+  "model": "glm-5.3"
+}

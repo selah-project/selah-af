@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Almal wat op die pad verbytrek, plunder hom; hy ⟨is⟩ 'n smaad vir sy bure geword.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "plunder hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wat verbytrek"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "היה",
+      "gloss": "geword"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "'n smaad"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "vir sy bure"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.091135119Z",
+  "model": "glm-5.3"
+}

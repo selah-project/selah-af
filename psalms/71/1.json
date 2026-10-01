@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "In U, Jahweh, het ek my toevlug genéem; laat my nie beskaam word tot in ewigheid nie.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "het ek my toevlug geneem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "beskaam word"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:40.028422324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "om hulle konings te bind in kettings, en hulle edeles in ysterboeie.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "om te bind"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hulle konings"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "in kettings"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "en hulle edeles"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "in boeie"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van yster"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.480820958Z",
+  "model": "glm-5.3"
+}

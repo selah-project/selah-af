@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 11:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die suigelinge sal speel by die gat van die adder, en by die nes van die viper sal die gespeende kind sy hand uitsteek.",
+  "tokens": [
+    {
+      "surface": "ושעשע",
+      "gloss": "sal speel"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "suigelinge"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "חר",
+      "gloss": "gat"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "adder"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "מאורת",
+      "gloss": "nes"
+    },
+    {
+      "surface": "צפעוני",
+      "gloss": "viper"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "die gespeende kind"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "הדה",
+      "gloss": "sal uitsteek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:38.159372728Z",
+  "model": "glm-5.3"
+}

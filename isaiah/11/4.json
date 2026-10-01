@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 11:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En met tsedek sal hy die armes oordeel, en met regmaak beslis vir die sagmoediges van die land; en hy sal ⟨את⟩ die aarde slaan met die staf van sy mond, en met die asem van sy lippe die goddelose doodmaak.",
+  "tokens": [
+    {
+      "surface": "ושפט",
+      "gloss": "sal hy oordeel"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "met tsedek"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "die armes"
+    },
+    {
+      "surface": "והוכיח",
+      "gloss": "en beslis"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "met regmaak"
+    },
+    {
+      "surface": "לענוי",
+      "gloss": "vir die sagmoediges"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "sal hy slaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩ die aarde",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met die staf"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van sy mond"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "en met die asem"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "van sy lippe"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "sal doodmaak"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:02.414567332Z",
+  "model": "glm-5.3"
+}

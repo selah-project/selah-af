@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Sien my vyande, want hulle ⟨is⟩ baie, en met geweldhaat het hulle my gehaat.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sien"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "is baie"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "met haat"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "het hulle my gehaat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:22.696148831Z",
+  "model": "glm-5.3"
+}

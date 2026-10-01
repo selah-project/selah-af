@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Want sewewoord sal van Kajin gewreek word, maar van Lemeg sewentig-en-sewe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sewewoord"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "sal gewreek word"
+    },
+    {
+      "surface": "קין",
+      "gloss": "van Kajin"
+    },
+    {
+      "surface": "ו למך",
+      "gloss": "maar van Lemeg"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sewentig"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "en sewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:58.109126558Z",
+  "model": "glm-5.3"
+}

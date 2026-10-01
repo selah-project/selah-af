@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Uitspraak van die oortreding tot die goddelose, binne-in my hart: daar is geen vrees vir Elohim voor sy oë nie.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "uitspraak"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "van die oortreding"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "tot die goddelose"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vir Elohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.520723083Z",
+  "model": "glm-5.3"
+}

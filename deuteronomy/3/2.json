@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jahweh het vir my gesê: Moet hom nie vrees nie, want in jou hand gee ek hom en ⟨את⟩ sy hele volk en ⟨את⟩ sy land; en jy sal aan hom doen soos jy gedoen het aan Sigon, koning van die Emoriete, wat in Chesjbon gewoon het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "moet vrees"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gee ek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal doen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jy gedoen het"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "aan Sigon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van die Emoriete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gewoon het"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Chesjbon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:17.295592024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hy wat 'n bees doodslaan, moet dit vergoed; en hy wat 'n mens doodslaan, moet gedood word.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "en hy wat doodslaan"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "'n bees"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "moet dit vergoed"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "en hy wat doodslaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "'n mens"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:40.865253596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En dit het gebeur, toe Dawid en sy manne op die derde dag in Tsiklag aankom, dat die Amalekiete 'n aanval gedoen het op die Negew en op Tsiklag, en hulle het Tsiklag geslaan en dit ⟨את⟩ met vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "toe ... aankom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "in Tsiklag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "derde"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "en die Amalekiete"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "het 'n aanval gedoen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "die Negew"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsiklag"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Tsiklag"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "en hulle het verbrand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (met vuur)"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:28.191664395Z",
+  "model": "glm-5.3"
+}

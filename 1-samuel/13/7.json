@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Hebreërs het ⟨את⟩ die Jordaan oorgesteek na die land van Gad en Gilead; en Sjaul was nog in Gilgal, en die hele volk het bewend agter hom aangekom.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "En Hebreërs"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "het oorgesteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na die land"
+    },
+    {
+      "surface": "גד",
+      "gloss": "van Gad"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "en Gilead"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "en Sjaul"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "was nog"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in Gilgal"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "het bewend"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom aangekom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:26.216041220Z",
+  "model": "glm-5.3"
+}

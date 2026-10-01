@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Jahweh sal ⟨את⟩ die pes aan jou laat kleef, totdat hy jou uitroei van ⟨die⟩ grond af waarheen jy gaan om dit in besit te neem.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "sal laat kleef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die pes"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die pes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "hy jou uitroei"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "om dit in besit te neem"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:19.593271980Z",
+  "model": "glm-5.3"
+}

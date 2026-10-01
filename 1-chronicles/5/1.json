@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 5:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die seuns van Reuben, eersgeborene van Jisraël — want hy ⟨was⟩ ⟨die⟩ eersgeborene, maar toe hy die bed van sy vader ontheilig het, is sy eersgeboortereg aan die seuns van Josef, seun van Jisraël, gegee, en hy word nie volgens die eersgeboorte in die geslagsregister gereken nie.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "van Reuben"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eersgeborene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "ובחללו",
+      "gloss": "maar toe hy ontheilig het"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "die bed"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "is gegee"
+    },
+    {
+      "surface": "בכרתו",
+      "gloss": "sy eersgeboortereg"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Josef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "להתיחש",
+      "gloss": "om in die geslagsregister gereken te word"
+    },
+    {
+      "surface": "לבכרה",
+      "gloss": "volgens die eersgeboorte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:12.656687056Z",
+  "model": "glm-5.3"
+}

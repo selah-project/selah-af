@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 1:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die priester moet dit na die altaar bring, en ⟨את⟩ sy kop afknyp, en dit op die altaar aan die rook wys; en sy bloed moet uitgedruk word teen die wand van die altaar.",
+  "tokens": [
+    {
+      "surface": "והקריבו",
+      "gloss": "en moet dit bring"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "en afknyp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy kop"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy kop"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en aan die rook wys"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "ונמצה",
+      "gloss": "en uitgedruk word"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "die wand"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:39.688959239Z",
+  "model": "glm-5.3"
+}

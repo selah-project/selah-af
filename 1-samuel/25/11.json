@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En moet ek dan ⟨את⟩ my brood neem en ⟨את⟩ my water en ⟨את⟩ my geslagte vlees wat ek geslag het vir my skeerskes, en dit gee aan manne wat ek nie ken nie — van waar hulle is?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "En moet ek neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my brood"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "my brood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my water"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "my water"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my geslagte vlees"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "my geslagte vlees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "ek geslag het"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "vir my skeerskes"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "aan manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "אי",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "המה",
+      "gloss": "is"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:06.902942251Z",
+  "model": "glm-5.3"
+}

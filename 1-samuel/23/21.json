@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Sjaul het gesê: Geseënd is julle deur Jahweh, want julle het jammer gevra oor my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "is julle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "deur Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "het julle jammer gevra"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:16.902981112Z",
+  "model": "glm-5.3"
+}

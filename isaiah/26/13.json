@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Jahweh ons Elohim, heren behalse U het oor ons geheers; alleen deur U maak ons U naam gedenk.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "het oor ons geheers"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "heren"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "behalwe U"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בך",
+      "gloss": "deur U"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "maak ons gedenk"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "U naam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:52.409589406Z",
+  "model": "glm-5.3"
+}

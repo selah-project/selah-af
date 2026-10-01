@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Hy sal neerdaal soos reën op die geslypte gras, soos reënbuië wat die aarde deursop.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "sal Hy neerdaal"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "soos reën"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גז",
+      "gloss": "die geslypte gras"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "soos reënbuië"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "deursop"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.960104956Z",
+  "model": "glm-5.3"
+}

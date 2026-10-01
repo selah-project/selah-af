@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Hierdie dinge het jy gedoen, en ek het geswyg — jy het gedink dat ek soos jy ⟨is⟩; ek sal jou teregwys en dit voor jou oë uitsit.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het jy gedoen"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "en ek het geswyg"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "jy het gedink"
+    },
+    {
+      "surface": "היות",
+      "gloss": "dat … is"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ek is"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "soos jy"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ek sal jou teregwys"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "en uitsit"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "voor jou oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:39.264541469Z",
+  "model": "glm-5.3"
+}

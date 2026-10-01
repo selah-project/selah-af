@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Hy⟩ wat sy woord na die aarde stuur — baie vinnig hardloop sy uitspraak.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "wat stuur"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "sy uitspraak"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "na die aarde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "baie vinnig"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "hardloop"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:16.579793682Z",
+  "model": "glm-5.3"
+}

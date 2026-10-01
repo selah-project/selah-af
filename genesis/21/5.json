@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Awraham ⟨was⟩ 'n seun van 'n honderd jaar toe ⟨את⟩ Jitsgak sy seun vir hom gebore is.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "En Awraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van 'n honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "toe gebore is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:57.224034840Z",
+  "model": "glm-5.3"
+}

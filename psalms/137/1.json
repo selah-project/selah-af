@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Aan die riviere van Babel, daar het ons gesit, ook het ons gehuil toe ons ⟨את⟩ Tsijon gedink het.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "riviere"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "het ons gesit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "het ons gehuil"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "toe ons gedink het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:32.690009470Z",
+  "model": "glm-5.3"
+}

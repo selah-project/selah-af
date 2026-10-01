@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En waarom dra ⟨⟨⟨את⟩⟩⟩ … En waarom dra jy my oortreding nie op nie, en laat my skuld nie verbygaan nie? Want nou lê ek neer in die stof; en jy sal my soek, en ek ⟨is⟩ nie meer nie.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dra jy op"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortreding"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "en laat verbygaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my skuld"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "my skuld"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "in die stof"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "lê ek neer"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "en jy sal my soek"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "en ek ⟨is⟩ nie meer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:00.170167385Z",
+  "model": "glm-5.3"
+}

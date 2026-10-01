@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 16:17",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Absalom het aan Chusai gesê: Is dit jou gesed teenoor jou vriend? Waarom het jy nie met ⟨את⟩ jou vriend gegaan nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Chusai"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jou gesed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vriend"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "jou vriend"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "het jy gegaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vriend"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "jou vriend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:46.476677890Z",
+  "model": "glm-5.3"
+}

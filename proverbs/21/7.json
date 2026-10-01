@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die geweld van goddeloses sal hulle wegruk, want hulle het geweier om reg te doen.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van goddeloses"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "sal hulle wegruk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hulle het geweier"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:39.215392989Z",
+  "model": "glm-5.3"
+}

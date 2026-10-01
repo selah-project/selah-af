@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 4:1",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Ek, Nevukadnetsar, was rustig in my huis en voorspoedig in my paleis.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nevukadnetsar"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "rustig"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "was"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "in my huis"
+    },
+    {
+      "surface": "ורענן",
+      "gloss": "en voorspoedig"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "in my paleis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:33:17.101476156Z",
+  "model": "glm-5.3"
+}

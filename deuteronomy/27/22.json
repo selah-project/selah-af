@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek ⟨is hy⟩ wat lê by sy suster, dogter van sy vader of dogter van sy moeder; en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloek"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "wat lê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sy suster"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van sy moeder"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:48.097619028Z",
+  "model": "glm-5.3"
+}

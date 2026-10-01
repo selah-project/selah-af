@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 7:25",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Ek het rondgedraai, ek en my hart, om te weet en te verken, en wysheid en berekening te soek, en om die verdorwenheid van dwaasheid te ken, en die gesotte se malheid.",
+  "tokens": [
+    {
+      "surface": "סבותי",
+      "gloss": "ek het rondgedraai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "en my hart"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weet"
+    },
+    {
+      "surface": "ולתור",
+      "gloss": "en te verken"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "en te soek"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "en berekening"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "en om te weet"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "verdorwenheid"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "dwaasheid"
+    },
+    {
+      "surface": "והסכלות",
+      "gloss": "en die gesotte"
+    },
+    {
+      "surface": "הוללות",
+      "gloss": "malheid"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:49.170564077Z",
+  "model": "glm-5.3"
+}

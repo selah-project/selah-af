@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 44:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "U gee ons soos skape as voedsel, en onder die nasies het U ons verstrooi.",
+  "tokens": [
+    {
+      "surface": "תתננו",
+      "gloss": "U gee ons"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "soos skape"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "as voedsel"
+    },
+    {
+      "surface": "ובגוים",
+      "gloss": "en onder die nasies"
+    },
+    {
+      "surface": "זריתנו",
+      "gloss": "het U ons verstrooi"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:15.839284805Z",
+  "model": "glm-5.3"
+}

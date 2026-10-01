@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle weet nie om reg te doen nie, sê Jahweh — hulle wat geweld en roofskat in hulle vestings wegsteek.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weet hulle"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "reg"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "wat wegsteek"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "en roofskat"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "in hulle vestings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:11.245928408Z",
+  "model": "glm-5.3"
+}

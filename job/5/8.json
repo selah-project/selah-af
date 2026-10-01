@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Maar ek — ek sal El soek, en tot Elohim sal ek my saak rig.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ek sal soek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨tot⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "sal ek rig"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "my saak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:22.142245440Z",
+  "model": "glm-5.3"
+}

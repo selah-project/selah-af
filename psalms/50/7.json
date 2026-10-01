@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Hoor, my volk, en Ek sal spreek; Jisraël, en Ek sal teen jou getuig: Ek ⟨is⟩ Elohim, jou Elohim.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en Ek sal spreek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "en Ek sal getuig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:36.064375039Z",
+  "model": "glm-5.3"
+}

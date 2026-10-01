@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 129,
+  "translation": "en die verbygaandes sê nie: Die seën van Jahweh oor julle; ons seën julle ⟨את⟩ in die naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "die verbygaandes"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "oor julle"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "ons seën"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.086195753Z",
+  "model": "glm-5.3"
+}

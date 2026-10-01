@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Moet my hart nie laat neig tot 'n slegte saak nie, om goddelose dade te pleeg saam met ⟨את⟩ manne wat nietigheid werk nie; en laat my nie eet van hulle lekkernye nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Moet nie"
+    },
+    {
+      "surface": "תט",
+      "gloss": "laat neig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "tot 'n saak"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "om te pleeg"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "dade"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "goddelose"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "manne"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wat werk"
+    },
+    {
+      "surface": "און",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "ek eet"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "van hulle lekkernye"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:30.829644407Z",
+  "model": "glm-5.3"
+}

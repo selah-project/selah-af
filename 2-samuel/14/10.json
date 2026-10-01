@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 14:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die koning het gesê: Hy wat tot jou spreek, en jy moet hom na my bring, en hy sal nie voortgaan om jou aan te raak nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hy wat spreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "והבאתו",
+      "gloss": "en jy moet hom bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "sal hy voortgaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie weer"
+    },
+    {
+      "surface": "לגעת",
+      "gloss": "om aan te raak"
+    },
+    {
+      "surface": "בך",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:06.220971752Z",
+  "model": "glm-5.3"
+}

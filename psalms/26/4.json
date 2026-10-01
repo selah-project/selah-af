@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Nie het ek gesit met manne van niet, en met verhuldes sal ek nie inkom nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "het ek gesit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "manne"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "van niet"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "verhuldes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sal ek inkom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:39.912653179Z",
+  "model": "glm-5.3"
+}

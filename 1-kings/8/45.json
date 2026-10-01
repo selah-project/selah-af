@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "dan sal jy in ⟨die⟩ hemel ⟨את⟩ hul gebed en ⟨את⟩ hul smeking verhoor, en hul reg doen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dan sal jy verhoor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in ⟨die⟩ hemel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hul gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul smeking"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hul smeking"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hul reg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:14.647001727Z",
+  "model": "glm-5.3"
+}

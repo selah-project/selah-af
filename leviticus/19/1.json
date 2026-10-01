@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Jahweh het met Mosje gepraat en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:37.961619397Z",
+  "model": "glm-5.3"
+}

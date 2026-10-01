@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "Van die seuns van Korag, 'n maskil-lied. Sy grondvesting is op die heilige berge.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "sy grondvesting"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "op die berge van"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:52.815167813Z",
+  "model": "glm-5.3"
+}

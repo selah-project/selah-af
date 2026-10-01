@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 135:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Hy het tekens en wonders gestuur in jou midde, o Mitsrajim, aan Paro en aan al sy dienaars.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "tekens"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "en wonders"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "in jou midde"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "o Mitsrajim"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "aan Paro"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en aan al"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.891049518Z",
+  "model": "glm-5.3"
+}

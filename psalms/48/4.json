@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Elohim in haar vestings het Hom bekend gemaak as ⟨'n⟩ toevlug.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "in haar vestings"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "het Hom bekend gemaak"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "as toevlug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:56.427566411Z",
+  "model": "glm-5.3"
+}

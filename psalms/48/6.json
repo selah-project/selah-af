@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Hulle het ⟨dit⟩ gesien, so was hulle verstom; hulle is verskrik, hulle het gejaag weg.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "was verstom"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "is verskrik"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "het gejaag weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.842645506Z",
+  "model": "glm-5.3"
+}

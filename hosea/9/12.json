@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want selfs as hulle ⟨את⟩ hulle kinders grootmaak, sal Ek hulle kinderlos maak, weg van die mens af; want ook wee aan hulle as Ek My van hulle afwend!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "selfs as"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "hulle grootmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kinders"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle kinders"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "sal Ek hulle kinderlos maak"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "weg van die mens af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "as Ek My afwend"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:13.221312799Z",
+  "model": "glm-5.3"
+}

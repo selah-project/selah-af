@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En as die slaaf sêend sê: Ek het ⟨את⟩ my heer lief, ⟨את⟩ my vrou en ⟨את⟩ my kinders — ek sal nie vry uitgaan nie —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sêend"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "die slaaf"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ek het lief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vrou"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "my vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my kinders"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my kinders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "sal ek uitgaan"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "vry"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:20.159149401Z",
+  "model": "glm-5.3"
+}

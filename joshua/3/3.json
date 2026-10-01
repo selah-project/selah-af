@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "en hulle het ⟨את⟩ die volk beveel en gesê: Soos julle ⟨את⟩ die ark van die verbond van Jahweh julle Elohim sien dra deur die priesters, die Lewiete, dan moet julle van julle plek af vertrek en agter ⟨את⟩ dit aan loop.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "soos julle sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die verbond van Jahweh julle Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "en die priesters"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiete"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "dra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "dan julle"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "moet vertrek"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "van julle plek af"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "en loop"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter dit aan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:49.124162979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jehonatan en Dawid het 'n verbond gesluit, omdat hy ⟨את⟩ hom liefgehad het soos sy eie siel.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "En hulle het gesluit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "omdat hy liefgehad het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "soos sy eie siel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:13.800811267Z",
+  "model": "glm-5.3"
+}

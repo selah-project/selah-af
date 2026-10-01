@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ek het 'n dwaas wortel sien skiet, en skielik het ek sy woonplek vervloek.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "wortel skiet"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "en het vervloek"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "sy woonplek"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "skielik"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:19.110751641Z",
+  "model": "glm-5.3"
+}

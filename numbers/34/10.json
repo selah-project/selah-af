@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "en julle sal vir julle ⟨die⟩ grens afbaken aan die oostekant, van Ḥatsar-Enan tot Sjefam",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "en julle sal afbaken"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "as grens"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aan die oostekant"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "van Ḥatsar"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enan"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "tot Sjefam"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:22.455989475Z",
+  "model": "glm-5.3"
+}

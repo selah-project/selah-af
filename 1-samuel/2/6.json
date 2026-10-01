@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Jahweh laat sterf en laat lewe, Hy bring af na die Sjeol en laat opklim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "laat sterf"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "en laat lewe"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "bring af"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na die Sjeol"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en laat opklim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:45.529641684Z",
+  "model": "glm-5.3"
+}

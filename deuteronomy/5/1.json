@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Mosje het na heel Jisraël geroep en vir hulle gesê: Hoor, Jisraël, ⟨את⟩ die verordeninge en ⟨את⟩ die regte wat ek vandag in julle ore spreek, en julle moet hulle leer en hulle bewaar om hulle te doen.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En ... het geroep"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die verordeninge"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die verordeninge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die regte"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die regte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "in julle ore"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "en julle moet leer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "en bewaar"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:49.668258985Z",
+  "model": "glm-5.3"
+}

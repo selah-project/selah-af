@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh het aan Mosje gesê: Sien, Ek het jou as Elohim vir Paro gestel, en Aharon jou broer sal jou profeet wees.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "Ek het jou gestel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "as Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "vir Paro"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "jou profeet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:46.508972180Z",
+  "model": "glm-5.3"
+}

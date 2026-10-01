@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en hy sal ⟨את⟩ die huis ontsondig met die bloed van die voël en met die lewende water en met die lewende voël en met die sederhout en met die hisop en met die skarlakenrooi garedraad;",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "en hy sal ontsondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "met die bloed"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "van die voël"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en met die water"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewende"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "en met die voël"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "die lewende"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "en met die hout"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "die seder"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "en met die hisop"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "en met die skarlaken"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "die garedraad (van die tolwurm)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:30.634453908Z",
+  "model": "glm-5.3"
+}

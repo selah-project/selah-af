@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Jahweh het na die stem van Jisraël geluister en die Kanaäniet oorgegee, en hulle het hulle en hulle stede banvry gemaak; en hy het die naam van die plek Chorma genoem.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en oorgegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "en hulle banvry gemaak"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle stede"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "hulle stede"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "van die plek"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Chorma"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:47.923721730Z",
+  "model": "glm-5.3"
+}

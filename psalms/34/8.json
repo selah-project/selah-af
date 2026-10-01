@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 34:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "'n Boodskapper van Jahweh laer rondom die wat hom vrees, en hy ruk hulle weg ⟨uit gevaar⟩.",
+  "tokens": [
+    {
+      "surface": "חנה",
+      "gloss": "laer"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "'n boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "die wat hom vrees"
+    },
+    {
+      "surface": "ויחלצם",
+      "gloss": "en hy ruk hulle weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:15.874455838Z",
+  "model": "glm-5.3"
+}

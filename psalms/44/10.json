@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Maar u het ons verwerp en ons beskaam gemaak, en u trek nie uit met ons leërskare nie.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "maar"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "het u verwerp"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "en ons beskaam gemaak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "trek uit"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "met ons leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:15.838422684Z",
+  "model": "glm-5.3"
+}

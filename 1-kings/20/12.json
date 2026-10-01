@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En dit het gebeur, toe hy ⟨את⟩ hierdie woord hoor — terwyl hy besig was om te drink, hy en die konings in die hutte — dat hy vir sy dienaars gesê het: Stel julle op. En hulle het hulle teen ⟨את⟩ die stad gestel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe hy hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwyl hy"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "besig was om te drink"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "en die konings"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "in die hutte"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "het hy gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "stel julle op"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "en hulle het hulle gestel"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:49.659088083Z",
+  "model": "glm-5.3"
+}

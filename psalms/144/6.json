@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Blits bliksem, en verstrooi hulle; skiet u pyle uit, en bring hulle in verwarring.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "blits"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "bliksem"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "en verstrooi hulle"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "skiet uit"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "u pyle"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "en bring hulle in verwarring"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.225523476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle het nie rekening gehou met ⟨את⟩ die manne aan wie hulle ⟨את⟩ die silwer in hulle hand gegee het om dit aan die wat die werk doen te gee nie, want in getrouheid handel hulle.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "het hulle rekening gehou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die manne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "hulle gegee het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "aan die wat doen"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "in getrouheid"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "handel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:08.900920063Z",
+  "model": "glm-5.3"
+}

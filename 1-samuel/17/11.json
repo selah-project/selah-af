@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Sjaoel en heel Jisraël het ⟨את⟩ die woorde van die Filistyn, hierdie, gehoor, en hulle was verslae en het baie gevrees.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en gehoor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van die Filistyn"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "van die Filistyn"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "en was verslae"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en gevrees"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:23.330295530Z",
+  "model": "glm-5.3"
+}

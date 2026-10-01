@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ook Ek het ⟨את⟩ die gekreun van die seuns van Jisraël gehoor, wat Mitsrajim laat slawe-arbei, en Ek het ⟨את⟩ my verbond gedink.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gekreun"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "die gekreun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "laat slawe-arbei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "en Ek het gedink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:38.893787913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Van Dawid. Geseënd is Jahweh, my rots, wat my hande leer vir ⟨die⟩ oorlog, my vingers vir ⟨die⟩ slag.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "wat leer"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hande"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "vir oorlog"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "my vingers"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir slag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.406213444Z",
+  "model": "glm-5.3"
+}

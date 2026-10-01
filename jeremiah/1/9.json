@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 1:9",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het ⟨את⟩ sy hand uitgestrek en dit aan my mond gebring, en Jahweh het vir my gesê: Kyk, ek het my woorde in jou mond gesit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en het uitgestrek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "en dit gebring"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gesit"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "in jou mond"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:03.353932735Z",
+  "model": "glm-5.3"
+}

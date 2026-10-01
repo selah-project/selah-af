@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 1:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die groot seediere geskep, en ⟨את⟩ elke lewende wese wat roer, wat die waters gewemel het volgens hulle soort, en ⟨את⟩ elke gevleuelde voël volgens sy soort; en Elohim het gesien dat dit goed was.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "het geskep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die groot seediere"
+    },
+    {
+      "surface": "התנינם",
+      "gloss": "die seediere"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "die groot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "elke lewende wese"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wese"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "wat roer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "gewemel het"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "למינהם",
+      "gloss": "volgens hulle soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "elke gevleuelde voël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voël"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gevleuelde"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "volgens sy soort"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.417861944Z",
+  "model": "glm-5.3"
+}

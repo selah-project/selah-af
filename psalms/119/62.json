@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Om middernag staan ek op om U te dank oor ⟨die⟩ regsbesluite van jou tsedek.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "middernag"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "staan ek op"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "om te dank"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "regsbesluite"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jou tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:12.038300799Z",
+  "model": "glm-5.3"
+}

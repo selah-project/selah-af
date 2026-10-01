@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Brood van magtiges het ⟨elke⟩ man geëet; voedsel het Hy vir hulle gestuur tot versadiging.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "van magtiges"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "het geëet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tot versadiging"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.916223135Z",
+  "model": "glm-5.3"
+}

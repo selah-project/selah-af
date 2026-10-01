@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En 'n boodskapper van Jahweh het met Elija gespreek: Stap ⟨את⟩ saam met hom af, wees nie bang voor hom nie; en hy het opgestaan en ⟨את⟩ saam met hom afgegaan na die koning.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "En gespreek"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "'n boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elija"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Stap af"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "saam met hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bang"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en hy het opgestaan"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en afgegaan"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "saam met hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:10.905685041Z",
+  "model": "glm-5.3"
+}

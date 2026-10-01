@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "En hy laat hulle wandel op ⟨'n⟩ regte weg, om te gaan na ⟨'n⟩ stad van woning.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "en hy laat hulle wandel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op weg"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "regte"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "van woning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:33.437541518Z",
+  "model": "glm-5.3"
+}

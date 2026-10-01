@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Elohim, toe U uitgegaan het voor u volk, toe U gestap het deur die woestyn — Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "toe U uitgegaan het"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "toe U gestap het"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "deur die woestyn"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.119256071Z",
+  "model": "glm-5.3"
+}

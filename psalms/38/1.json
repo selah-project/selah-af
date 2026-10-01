@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "’n psalm van Dawid, om te laat gedenk.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "’n psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "om te laat gedenk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:42.596868718Z",
+  "model": "glm-5.3"
+}

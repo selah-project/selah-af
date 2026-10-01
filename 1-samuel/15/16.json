@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Sjemoeël het vir Sjaoel gesê: Hou op, en ek sal jou verkondig ⟨את⟩ wat Jahweh vannag vir my gespreek het. En hy het vir hom gesê: Spreek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "hou op"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "en sal ek verkondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vannag"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:28.095667800Z",
+  "model": "glm-5.3"
+}

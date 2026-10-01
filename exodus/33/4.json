@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En die volk het hierdie slegte woord gehoor, en hulle het gerou; en nie 'n man het sy sierade op hom gesit nie.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hulle het gehoor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "en hulle het gerou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "sy sierade"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:25.720233044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "'n Amah sy lengte en 'n amah sy breedte, vierkantig sal ⟨dit⟩ wees; en twee amahs sy hoogte — uit hom ⟨is⟩ sy horings.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "'n amah"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en 'n amah"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "vierkantig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "en twee amahs"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sy hoogte"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "uit hom"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sy horings"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.639852030Z",
+  "model": "glm-5.3"
+}

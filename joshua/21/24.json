@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "⟨את⟩ Ajalon met sy wysland, ⟨את⟩ Gat-Rimmon met sy wysland — vier stede.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ajalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy wysland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy wysland"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Rimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy wysland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy wysland"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "stede"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:34.559112325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek is hy wat ⟨את⟩ die woorde van hierdie Tora nie bevestig om ⟨את⟩ hulle te doen nie — en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "bevestig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "van die Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:47.110724515Z",
+  "model": "glm-5.3"
+}

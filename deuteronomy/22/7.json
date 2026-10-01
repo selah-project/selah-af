@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Stuur ⟨את⟩ die moeder beslis weg, en ⟨את⟩ die kleintjies mag jy vir jou neem, sodat dit goed met jou gaan en jy jou dae verleng.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "wegstuur"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "beslis wegstuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die moeder"
+    },
+    {
+      "surface": "האם",
+      "gloss": "die moeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die kleintjies"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "die kleintjies"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mag jy neem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dit goed gaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "en jy verleng"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "jou dae"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:08.856406547Z",
+  "model": "glm-5.3"
+}

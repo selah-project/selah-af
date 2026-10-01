@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Die heerlikheid van jou koninkryk sal hulle uitspreek, en jou kragte sal hulle beskrywe.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "die heerlikheid"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "van jou koninkryk"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sal hulle uitspreek"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "en jou kragte"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "sal hulle beskrywe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:13.782450454Z",
+  "model": "glm-5.3"
+}

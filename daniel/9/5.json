@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Ons het gesondig en onreg gedoen, ons het goddeloos gehandel en ons het gerebelleer, en ⟨is⟩ afgewyk van u gebooie en van u regte.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "gesondig"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "en onreg gedoen"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "goddeloos gehandel"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "gerebelleer"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "afgeweek"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "van u gebooie"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "en van u regte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:34:50.484765417Z",
+  "model": "glm-5.3"
+}

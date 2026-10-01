@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "So het Sjaoel gesterwe, en sy drie seuns, en sy hele huis — saam het hulle gesterwe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "so het hy gesterwe"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "en sy drie"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en sy hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "het hulle gesterwe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:16.057670798Z",
+  "model": "glm-5.3"
+}

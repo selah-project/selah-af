@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle sê: Jy het ons nie onderdruk nie en ons nie gekneus nie, en jy het uit die hand van niemand enigiets geneem nie.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "jy het ons onderdruk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "ons gekneus"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "jy het geneem"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van niemand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "enigiets"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:00.255419509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Red my uit die slyk, en laat my nie sink nie; laat my gered word van my haters, en uit die dieptes van waters.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "uit die slyk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "my sink nie"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "laat my gered word"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "van my haters"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "en uit die dieptes van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:43.766315674Z",
+  "model": "glm-5.3"
+}

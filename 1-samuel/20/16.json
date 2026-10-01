@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 20:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Toe het Jehonatan 'n verbond gesluit met die huis van Dawid, en mag Jahweh dit eis uit die hand van die vyande van Dawid.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "Toe het gesluit"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ובקש",
+      "gloss": "en mag eis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "die vyande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:31.864547921Z",
+  "model": "glm-5.3"
+}

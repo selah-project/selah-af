@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Maar Dawid het ⟨את⟩ die vesting van Sion ingeneem — dit is die stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "het ingeneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vesting van Sion"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "die vesting"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Sion"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:20.530163059Z",
+  "model": "glm-5.3"
+}

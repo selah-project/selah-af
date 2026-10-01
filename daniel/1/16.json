@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die oppasser het gedurig ⟨את⟩ hulle delikatesses en die wyn van hulle drank weggeneem en vir hulle groentes gegee.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "die oppasser"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "weggeneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle delikatesses"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "hulle delikatesses"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en die wyn"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "van hulle drank"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gegee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "groentes"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:08.314799689Z",
+  "model": "glm-5.3"
+}

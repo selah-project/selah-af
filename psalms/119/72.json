@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Goed is vir my die Tora van u mond, bo duisende goud en silwer.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van u mond"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "bo duisende"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "en silwer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:43.013212717Z",
+  "model": "glm-5.3"
+}

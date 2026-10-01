@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 22:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Al jou owerstes het saam gevlug, van die boog is hulle gebind; al jou gevindenes is saam gebind, van ver af het hulle gevlug.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "קציניך",
+      "gloss": "jou owerstes"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "het gevlug"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "מקשת",
+      "gloss": "van die boog"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "is hulle gebind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נמצאיך",
+      "gloss": "jou gevindenes"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "is gebind"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van ver af"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "het hulle gevlug"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:12.594775153Z",
+  "model": "glm-5.3"
+}

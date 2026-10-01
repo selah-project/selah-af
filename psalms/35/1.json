@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Van Dawid. Twis, Jahweh, met ⟨את⟩ my twisters; veg teen ⟨את⟩ my vegters.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "twis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my twisters"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "my twisters"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "veg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vegters"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "my vegters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:44.660812161Z",
+  "model": "glm-5.3"
+}

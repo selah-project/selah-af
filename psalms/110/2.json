@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Die staf van jou mag sal Jahweh vanaf Tsijon stuur: heers in die middel van jou vyande.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van jou mag"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sal stuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "vanaf Tsijon"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "heers"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "van jou vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.628150084Z",
+  "model": "glm-5.3"
+}

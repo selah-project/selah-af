@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En jy sal ⟨את⟩ die planke vir die Misjkan maak van sittim-hout, staande.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die planke"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die planke"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "vir die Misjkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "staande"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:36.983104408Z",
+  "model": "glm-5.3"
+}

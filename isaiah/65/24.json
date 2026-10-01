@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "En dit sal gebeur: voordat hulle roep, sal Ek antwoord; terwyl hulle nog praat, sal Ek hoor.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "hulle roep"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sal Ek"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "praat"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "sal Ek"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hoor"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:50.472738374Z",
+  "model": "glm-5.3"
+}

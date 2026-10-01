@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 16:19",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Beter ⟨is dit⟩ om 'n nedergesinde roeag te wees met ⟨את⟩ die armes as om buit te verdeel met ⟨את⟩ die hoogmoediges.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "שפל",
+      "gloss": "'n nedergesinde"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die armes"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "die armes"
+    },
+    {
+      "surface": "מחלק",
+      "gloss": "om te verdeel"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "buit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoogmoediges"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "die hoogmoediges"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:08.960432165Z",
+  "model": "glm-5.3"
+}

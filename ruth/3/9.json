@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 3:9",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het gesê: Wie ⟨is⟩ jy? En sy het gesê: Ek ⟨is⟩ Rut, jou diensmaagd — en jy moet jou vlerke oor jou diensmaagd uitsprei, want jy ⟨is⟩ 'n losser.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "jy",
+      "marks": "die onbekende vrou by sy voete"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jou diensmaagd"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "en jy moet uitsprei"
+    },
+    {
+      "surface": "כנפך",
+      "gloss": "jou vlerke"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jou diensmaagd"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "'n losser"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:52.413122620Z",
+  "model": "glm-5.3"
+}

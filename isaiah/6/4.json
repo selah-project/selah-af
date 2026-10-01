@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨die␣drempels⟩ se stylpunte het geskudder van die stem van hom wat roep, en die huis het met rook gevul ⟨geraak⟩.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "het geskudder"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "stylpunte"
+    },
+    {
+      "surface": "הספים",
+      "gloss": "van die drepels"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "van die stem"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "van hom wat roep"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "het gevul"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "met rook"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:49.818914104Z",
+  "model": "glm-5.3"
+}

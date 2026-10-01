@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 15:11",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Asa het gedoen wat reg is in die oë van Jahweh, soos Dawid sy vader.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En het gedoen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "wat reg is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "soos Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:24.528623697Z",
+  "model": "glm-5.3"
+}

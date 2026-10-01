@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Omdat ek geweet het dat jy hard ⟨is⟩, en 'n pees van yster ⟨is⟩ jou nek, en jou voorkop koper.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Omdat ek geweet het"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "en 'n pees"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van yster"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "jou nek"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "en jou voorkop"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:59.476303751Z",
+  "model": "glm-5.3"
+}

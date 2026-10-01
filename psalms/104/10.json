@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 104:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hy wat fonteine stuur in die ravyne — tussen die berge loop hulle",
+  "tokens": [
+    {
+      "surface": "המשלח",
+      "gloss": "Hy wat stuur"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "fonteine"
+    },
+    {
+      "surface": "בנחלים",
+      "gloss": "in die ravyne"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "loop hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:12.764038420Z",
+  "model": "glm-5.3"
+}

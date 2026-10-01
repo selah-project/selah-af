@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 42:5",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En die boonste kamers was korter, want die galerye het ⟨van⟩ hulle weggeneem, van die onderstes en van die middelstes van die gebou.",
+  "tokens": [
+    {
+      "surface": "והלשכות",
+      "gloss": "en die kamers"
+    },
+    {
+      "surface": "העליונת",
+      "gloss": "die boonste"
+    },
+    {
+      "surface": "קצרות",
+      "gloss": "was korter"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "het weggeneem"
+    },
+    {
+      "surface": "אתיקים",
+      "gloss": "die galerye"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "מהתחתנות",
+      "gloss": "van die onderstes"
+    },
+    {
+      "surface": "ומהתכנות",
+      "gloss": "en van die middelstes"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "van die gebou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:56:36.417979228Z",
+  "model": "glm-5.3"
+}

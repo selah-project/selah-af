@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Jahweh, in u krag verheug die koning hom, en in u redding — hoe verbly hy hom uiters!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "in u krag"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheug hom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "en in u redding"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "verbly hy hom"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "uiters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:54.858750534Z",
+  "model": "glm-5.3"
+}

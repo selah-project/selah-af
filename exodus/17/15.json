@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Mosje het 'n altaar gebou, en hy het sy naam Jahweh Nissi genoem.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "Nissi"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:33.288346333Z",
+  "model": "glm-5.3"
+}

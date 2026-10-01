@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En hulle het ⟨את⟩ hulle graan op hulle donkies gelaai en van daar weggegaan.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het gelig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle graan"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "hulle graan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hulle donkies"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:14.514431780Z",
+  "model": "glm-5.3"
+}

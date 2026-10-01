@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 6:55",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en uit die helfte van die stam van Menasje: ⟨את⟩ Aner met sy weivelde en ⟨את⟩ Bilam met sy weivelde, vir die familie van die seuns van Kehat, dié wat oorgebly het.",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "en uit die helfte"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aner"
+    },
+    {
+      "surface": "ענר",
+      "gloss": "Aner"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "vir die familie"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "dié wat oorgebly het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:37.214007010Z",
+  "model": "glm-5.3"
+}

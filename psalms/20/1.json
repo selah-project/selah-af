@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Aan die koorleier. 'n Mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die koorleier"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:00.230951346Z",
+  "model": "glm-5.3"
+}

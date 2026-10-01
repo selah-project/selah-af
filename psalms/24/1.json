@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Van Dawid, 'n mizmor. Aan Jahweh ⟨is⟩ die aarde en sy volheid, die wêreld en die wat daarin woon.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "en sy volheid"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "en die wat woon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:41.902200867Z",
+  "model": "glm-5.3"
+}

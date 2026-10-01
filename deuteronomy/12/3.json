@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En julle moet ⟨את⟩ hulle altare afbreek en ⟨את⟩ hulle gedenkstene verbrysel, en hulle Asjerim moet julle met vuur verbrand, en die gesnede beelde van hulle gode moet julle omkap, en ⟨את⟩ hulle naam moet julle uitwis van daardie plek af.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "En julle moet afbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle altare"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "hulle altare"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "en julle moet verbrysel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gedenkstene"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "hulle gedenkstene"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "en hulle Asjerim"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "moet julle verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "en die gesnede beelde van"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle gode"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "moet julle omkap"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "en julle moet uitwis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle naam"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hulle naam"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:27.515194849Z",
+  "model": "glm-5.3"
+}

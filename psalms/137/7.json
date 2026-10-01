@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Gedenk, o Jahweh, teenoor die seuns van Edom ⟨את⟩ die dag van Jerusjalajim, hulle wat sê: Breek af, breek af tot by die fondament daarvan!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "teenoor die seuns"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dag van Jerusjalajim"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "hulle wat sê"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Breek af"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "breek af"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "die fondament"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:52.259193803Z",
+  "model": "glm-5.3"
+}

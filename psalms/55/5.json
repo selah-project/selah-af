@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "My hart kronkel binne-in my, en die verskrikkinge van die dood het op my geval.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "kronkel"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "binne-in my"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "en die verskrikkinge"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.546284562Z",
+  "model": "glm-5.3"
+}

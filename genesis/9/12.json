@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 9:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Elohim het gesê: dit is die teken van die verbond wat ek gee tussen my en julle, en tussen elke lewende wese wat ⟨את⟩ by julle is, vir geslagte ewig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אות",
+      "gloss": "die teken"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "en tussen julle"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "wese"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ by julle"
+    },
+    {
+      "surface": "לדרת",
+      "gloss": "vir geslagte"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:02.509500098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "⟨Wanneer⟩ die aarde en al sy bewoners wegsmelt, ⟨dan⟩ is ek dit wat sy pilare stewig maak. Sela.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "wegsmelt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "sy bewoners"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "stewig gemaak"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "sy pilare"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:47.334343518Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Ek het met jou gespreek in jou voorspoed — jy het gesê: Ek sal nie luister nie. Dít is ⟨jou⟩ weg van jou jeug af, want jy het nie na my stem geluister nie.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Ek het gespreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "in jou voorspoed"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jy het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "sal ek luister"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dít"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jou weg"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "van jou jeug af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "jy het geluister"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "na my stem"
+    }
+  ],
+  "timestamp": "2026-09-30T22:33:59.752690355Z",
+  "model": "glm-5.3"
+}

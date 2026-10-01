@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Dit sy vir hom soos ⟨die⟩ kleed wat hy toedraai, en soos ⟨die⟩ gordel waarmee hy hom gedurig omgord.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "sy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "soos ⟨die⟩ kleed"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "wat hy toedraai"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "en soos ⟨die⟩ gordel"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "omgord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.391217799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Deel soos deel sal hulle eet, behalwe ⟨wat kom⟩ van sy verkope, volgens die vaders.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Deel"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "soos deel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal hulle eet"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "van sy verkope"
+    },
+    {
+      "surface": "על",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "die vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:23.254581989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 23:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En ek sal ⟨את⟩ jou grens vasstel van die Rietsee tot by die see van die Filistyne, en van die woestyn tot by die Rivier, want ek gee ⟨את⟩ die bewoners van die land in julle hand, en jy sal hulle voor jou uitdryf.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "en ek sal vasstel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou grens"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "jou grens"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Rietsee"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot by"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "וממדבר",
+      "gloss": "en van die woestyn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "die Rivier"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ek gee"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in julle hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bewoners van die land"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die bewoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "וגרשתמו",
+      "gloss": "en jy sal hulle uitdryf"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:30.620398201Z",
+  "model": "glm-5.3"
+}

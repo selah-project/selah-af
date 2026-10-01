@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "sodat die land ⟨את⟩ julle nie uitbraak wanneer julle dit ⟨את⟩ onrein maak, soos dit ⟨את⟩ die nasie wat voor julle is, uitgebraak het.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "uitbraak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "wanneer julle onrein maak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "die land"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "uitgebraak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nasie"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "die nasie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:00.725017341Z",
+  "model": "glm-5.3"
+}

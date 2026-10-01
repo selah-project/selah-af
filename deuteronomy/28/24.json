@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Jahweh sal ⟨את⟩ die reën van jou land gee as stof en fynstof; van die hemel af sal dit op jou neerdaal totdat jy verdelg word.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die reën van jou land"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "reën"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "van jou land"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "as stof"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "en fynstof"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sal neerdaal"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op jou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "jy verdelg word"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:19.593998739Z",
+  "model": "glm-5.3"
+}

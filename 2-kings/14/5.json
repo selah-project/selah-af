@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En dit het gebeur, toe die koninkryk sterk geword het in sy hand, dat hy ⟨את⟩ sy dienaars geslaan het, die wat ⟨את⟩ die koning, sy vader, geslaan het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterk geword het"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dat hy geslaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dienaars"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "die wat geslaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning, sy vader"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:36.717695075Z",
+  "model": "glm-5.3"
+}

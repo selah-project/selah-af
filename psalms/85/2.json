@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "U het welbehae gehad in u land, o Jahweh; die gevangenskap van Jaäkow het U omgekeer.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "U het welbehae gehad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "in u land"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "het U omgekeer"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die gevangenskap"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:22.869391931Z",
+  "model": "glm-5.3"
+}

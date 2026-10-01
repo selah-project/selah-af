@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hulle het ⟨את⟩ die koning gegryp en hom gebring na die koning van Babel, in Ribla; en hulle het met ⟨את⟩ hom geoordeel.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "en hulle het gegryp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "in Ribla"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "en hulle het gepraat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "'n oordeel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:07.075792789Z",
+  "model": "glm-5.3"
+}

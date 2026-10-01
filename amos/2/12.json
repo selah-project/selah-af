@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 2:12",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Maar julle het ⟨את⟩ die nasireërs wyn laat drink, en aan die profete beveel en gesê: Moenie profeteer nie.",
+  "tokens": [
+    {
+      "surface": "ותשקו",
+      "gloss": "maar julle het laat drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nasireërs"
+    },
+    {
+      "surface": "הנזרים",
+      "gloss": "die nasireërs"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die profete"
+    },
+    {
+      "surface": "צויתם",
+      "gloss": "het julle beveel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנבאו",
+      "gloss": "moenie profeteer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:31.722673008Z",
+  "model": "glm-5.3"
+}

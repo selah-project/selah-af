@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En julle moet nie 'n man ⟨את⟩ sy naaste onderdruk nie, en jy moet jou Elohim vrees, want ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "moet julle onderdruk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en jy moet vrees"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:58.189797266Z",
+  "model": "glm-5.3"
+}

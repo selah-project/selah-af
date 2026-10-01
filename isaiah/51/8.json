@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 51:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Want soos 'n kleed sal 'n mot hulle opvreet, en soos wol sal 'n wurm hulle opvreet; maar my tsedek sal tot in ewigheid wees, en my verlossing van geslag tot geslagte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "soos 'n kleed"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "sal opvreet"
+    },
+    {
+      "surface": "עש",
+      "gloss": "'n mot"
+    },
+    {
+      "surface": "וכצמר",
+      "gloss": "en soos wol"
+    },
+    {
+      "surface": "יאכלם",
+      "gloss": "sal opvreet"
+    },
+    {
+      "surface": "סס",
+      "gloss": "'n wurm"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "maar my tsedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en my verlossing"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "tot geslagte"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:41.816791263Z",
+  "model": "glm-5.3"
+}

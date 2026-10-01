@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het gestaan en ⟨את⟩ die hele vergadering van Jisraël geseën met 'n groot stem, deur te sê:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hy het gestaan"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele vergadering van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "קול",
+      "gloss": "stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:55.100367731Z",
+  "model": "glm-5.3"
+}

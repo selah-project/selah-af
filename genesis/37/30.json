@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hy het na sy broers teruggekeer en gesê: Die jong seun is daar nie, en ek — waarheen gaan ek?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die jong seun"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is daar nie"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:07.284026196Z",
+  "model": "glm-5.3"
+}

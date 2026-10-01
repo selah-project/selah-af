@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "As sy seuns my Tora verlaat en in my regte nie wandel nie,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Tora"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "en in my regte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "wandele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:50.018973134Z",
+  "model": "glm-5.3"
+}

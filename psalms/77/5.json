@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "U het ⟨die⟩ wakers van my oë vasgegryp; ek ⟨is⟩ verslae en ek spreek nie.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "het U vasgegryp"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "wakers"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "van my oë"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ek ⟨is⟩ verslae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ek spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:29.975374449Z",
+  "model": "glm-5.3"
+}

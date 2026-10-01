@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Deur U stoot ons ons teëpartydighede terug; in U Naam vertrap ons ons vyande wat teen ons opstaan.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "deur U"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "ons teëpartydighede"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "stoot ons terug"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in U Naam"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "vertrap ons"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "wat teen ons opstaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:03.271596124Z",
+  "model": "glm-5.3"
+}

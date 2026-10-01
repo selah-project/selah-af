@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ hierdie staf moet jy in jou hand neem, waarmee jy ⟨את⟩ die tekens sal doen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie staf"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "hierdie staf"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "moet jy neem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy sal doen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tekens"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "die tekens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:47.844553605Z",
+  "model": "glm-5.3"
+}

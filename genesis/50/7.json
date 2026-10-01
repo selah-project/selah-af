@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 50:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En Joosef het opgegaan om sy vader te begrawe ⟨את⟩, en saam met hom ⟨את⟩ het opgegaan al die dienaars van Paro, die oudstes van sy huis, en al die oudstes van die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hy het opgegaan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joosef"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "om te begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het opgegaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ saam met hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van sy huis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:13.144204163Z",
+  "model": "glm-5.3"
+}

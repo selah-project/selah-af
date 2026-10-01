@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "En ⟨die⟩ mens, in eer, bly nie ⟨oornag⟩ nie; hy is aan ⟨die⟩ diere gelyk gestel — hulle het vergaan.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "En ⟨die⟩ mens"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "in eer"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "bly ⟨oornag⟩"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "is gelyk gestel"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "aan ⟨die⟩ diere"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "hulle het vergaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:55.019071198Z",
+  "model": "glm-5.3"
+}

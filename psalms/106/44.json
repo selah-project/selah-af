@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hy het hulle benoudheid gesien toe hy ⟨את⟩ hulle geroep gehoor het.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "hulle benoudheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "toe hy gehoor het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle geroep"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "hulle geroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:24.127418965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal My Misjkan in julle midde stel, en My siel sal ⟨את⟩ julle nie verfoei nie.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Ek sal stel"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "My Misjkan"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in julle midde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "sal verfoei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "My siel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:17.703887640Z",
+  "model": "glm-5.3"
+}

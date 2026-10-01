@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die vlas en die gars was geslaan, want die gars was in die aar, en die vlas was in knop.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "en die vlas"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "en die gars"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "was geslaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "die gars"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "in die aar"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "en die vlas"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "in knop"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:09.177686822Z",
+  "model": "glm-5.3"
+}

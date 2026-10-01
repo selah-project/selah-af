@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Jahweh, ek sal U verhoog, want U het my opgetrek en my vyande nie laat juig oor my nie.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "ek sal U verhoog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "het my opgetrek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "laat juig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:42.433149114Z",
+  "model": "glm-5.3"
+}

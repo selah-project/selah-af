@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "en jy laat jou siel uitgaan vir die hongerige, en die gekwelde siel versadig jy — dan sal jou lig skyn in die duisternis, en jou donkerheid soos die middag.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "en jy laat uitgaan"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "vir die hongerige"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en die siel"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "gekelde"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "versadig jy"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "dan sal skyn"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in die duisternis"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "jou lig"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "en jou donkerheid"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "soos die middag"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:09.481306370Z",
+  "model": "glm-5.3"
+}

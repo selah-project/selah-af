@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Die broer van Migah ⟨was⟩ Jissija; van die seuns van Jissija: Zekarjahoe.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Die broer van"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Migah"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jissija"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Jissija"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Zekarjahoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:50.896233915Z",
+  "model": "glm-5.3"
+}

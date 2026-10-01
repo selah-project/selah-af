@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En vir die tweede kant van die Misjkan, na die noorde: twintig planke.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "en vir die kant"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "na die kant"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "van die noorde"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "planke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:40.962863529Z",
+  "model": "glm-5.3"
+}

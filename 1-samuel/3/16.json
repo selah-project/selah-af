@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Eli het ⟨את⟩ Sjemuël geroep en gesê: Sjemuël, my seun. En hy het gesê: Hier is ek.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemuël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier is ek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:58.867753875Z",
+  "model": "glm-5.3"
+}

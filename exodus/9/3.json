@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 9:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "kyk, die hand van Jahweh sal wees oor jou vee wat in die veld is, oor die perde, oor die donkies, oor die kamele, oor die beeste en oor die skape — 'n baie swaar pes.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "הויה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "במקנך",
+      "gloss": "oor jou vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "oOR die perde",
+      "": ""
+    },
+    {
+      "surface": "בחמרים",
+      "gloss": "oor die donkies"
+    },
+    {
+      "surface": "בגמלים",
+      "gloss": "oor die kamele"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "oor die beeste"
+    },
+    {
+      "surface": "ובצאן",
+      "gloss": "en oor die skape"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n pes"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:26.368468031Z",
+  "model": "glm-5.3"
+}

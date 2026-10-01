@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Soos 'n slak wat smelt, so gaan hy voort; soos 'n miskraam van 'n vrou — hulle het die son nooit gesien nie.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "'n slak"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "smelt"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "gaan voort"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "'n miskraam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "van 'n vrou"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nooit ... nie"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "gesien"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:43.640451122Z",
+  "model": "glm-5.3"
+}

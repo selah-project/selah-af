@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 15:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die koning het uitgegaan, en sy hele huis op sy voete, en die koning het ⟨את⟩ tien vroue, byvroue, agtergelaat om die huis te bewaar.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en sy hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "op sy voete"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "het agtergelaat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "tien vroue, byvroue"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vroue"
+    },
+    {
+      "surface": "פלגשים",
+      "gloss": "byvroue"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaar"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:43.519934912Z",
+  "model": "glm-5.3"
+}

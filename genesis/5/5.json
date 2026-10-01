@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En al die dae van Adam wat hy geleef het, was nege honderd jaar en dertig jaar, en hy het gesterwe.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "was"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חי",
+      "gloss": "geleef het"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nege"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hy het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:54.657441463Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Raak my gesalfdes nie aan nie, en doen my profete geen kwaad nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "raak aan"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "my gesalfdes"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "en my profete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "doen kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:13.734178555Z",
+  "model": "glm-5.3"
+}

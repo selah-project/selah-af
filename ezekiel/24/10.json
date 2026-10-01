@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Maak die hout volop, steek die vuur aan, maak die vleis klaar, en roer die mengsel goed, en laat die bene verbrand.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "Maak volop"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "steek aan"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "התם",
+      "gloss": "maak klaar"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "die vleis"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "en roer"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "die mengsel"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "en die bene"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "laat verbrand"
+    }
+  ],
+  "timestamp": "2026-09-30T22:51:11.333268913Z",
+  "model": "glm-5.3"
+}

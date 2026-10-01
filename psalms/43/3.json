@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Stuur U lig en U waarheid — hulle, hulle moet my lei, hulle moet my bring na U heilige berg en na U Misjkan-wonings.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Stuur"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "U lig"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "en U waarheid"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "hulle moet my lei"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "hulle moet my bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "U heilige"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "U Misjkan-wonings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:13.194513210Z",
+  "model": "glm-5.3"
+}

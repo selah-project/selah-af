@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "'n Krom hart vind geen goed nie, en wie in sy tong omgedraai ⟨is⟩, val in rampspoed.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "krom"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vind"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "omgedraai"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "in sy tong"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "val"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in rampspoed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:23.990047107Z",
+  "model": "glm-5.3"
+}

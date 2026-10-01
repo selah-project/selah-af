@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die reën was oor ⟨die⟩ aarde veertig dae en veertig nagte.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "die reën"
+    },
+    {
+      "surface": "על",
+      "gloss": "was oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nagte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:20.727721568Z",
+  "model": "glm-5.3"
+}

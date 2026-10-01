@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Laat my juiging en blydskap hoor; laat ⟨die⟩ beeste wat u verbrysel het, juig.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "laat my hoor"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "juiging"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "en blydskap"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "laat juig"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "beende"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "u het verbrysel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:23.618293880Z",
+  "model": "glm-5.3"
+}

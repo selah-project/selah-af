@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Vader van wesies en regter van weduwees — Elohim — in sy heilige woning.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Vader"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "van wesies"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "en regter"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "van weduwees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "in sy woning"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.118757922Z",
+  "model": "glm-5.3"
+}

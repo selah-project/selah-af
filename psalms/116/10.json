@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Ek het geglo, want ek spreek — ek, ek was geaffligeer buitengewoon.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ek het geglo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ek spreek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ek was geaffligeer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "buitengewoon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:33.758297591Z",
+  "model": "glm-5.3"
+}

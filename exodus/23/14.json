@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Drie voete sal jy vir My as fees vier in die jaar.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "voete"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "sal jy as fees vier"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in die jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:15.782047187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die seuns van Kalef, seun van Jefunne: Iru, Ela en Naäm; en die seuns van Ela: Kenaz.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kalef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Iru"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "en Naäm"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ela"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "en Kenaz"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:18.287468819Z",
+  "model": "glm-5.3"
+}

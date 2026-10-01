@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mosje het ⟨את⟩ die volk uitgebring om Elohim te ontmoet, uit die laer, en hulle het hulle gestel onder aan die berg.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hy het uitgebring"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "om te ontmoet"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die laer"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "en hulle het hulle gestel"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "onder aan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:34.987071294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Sing vir Jahweh met dank; speel vir ons Elohim op die kinor.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dank"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "vir ons Elohim"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "op die kinor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:25.682069855Z",
+  "model": "glm-5.3"
+}

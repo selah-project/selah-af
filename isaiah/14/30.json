@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 14:30",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die eersgeborenes van die armes sal wei, en die behoeftiges sal veilig neerlê; en ek sal met hongersnood jou wortel doodmaak, en jou oorblyfsel sal gedood word.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "en sal wei"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "die eersgeborenes"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "van die armes"
+    },
+    {
+      "surface": "ואביונים",
+      "gloss": "en die behoeftiges"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "ירבצו",
+      "gloss": "sal neerlê"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "en ek sal doodmaak"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "met hongersnood"
+    },
+    {
+      "surface": "שרשך",
+      "gloss": "jou wortel"
+    },
+    {
+      "surface": "ושאריתך",
+      "gloss": "en jou oorblyfsel"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "sal gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:29.611242111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Dit staan, maar ek ken sy gedaante nie; 'n gestalte is reg voor my oë; stilte — en 'n stem hoor ek.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "dit staan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "sy gedaante"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "'n gestalte"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "reg voor"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en 'n stem"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hoor ek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:06.789513873Z",
+  "model": "glm-5.3"
+}

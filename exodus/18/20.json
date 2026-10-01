@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 18:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "en jy moet hulle ⟨את⟩ waarsku: ⟨את⟩ die insettinge en ⟨את⟩ die Toras; en jy moet hulle ⟨את⟩ die weg waar hulle op moet loop bekend maak, en ⟨את⟩ die werk wat hulle moet doen.",
+  "tokens": [
+    {
+      "surface": "והזהרתה",
+      "gloss": "en jy moet waarsku"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die insettinge"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Toras"
+    },
+    {
+      "surface": "התורת",
+      "gloss": "die Toras"
+    },
+    {
+      "surface": "והודעת",
+      "gloss": "en jy moet bekend maak"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hulle moet loop"
+    },
+    {
+      "surface": "בה",
+      "gloss": "op"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die werk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "hulle moet doen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:17.922398760Z",
+  "model": "glm-5.3"
+}

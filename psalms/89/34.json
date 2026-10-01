@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "maar my gesed sal ek nie van hom verbreek nie, en ek sal nie in my trou lieg nie.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "maar my gesed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "sal ek verbreek"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "sal ek lieg"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "in my trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:39.988706618Z",
+  "model": "glm-5.3"
+}

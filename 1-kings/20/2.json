@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hy het boodskappers gestuur na Agab, koning van Jisraël, die stad in.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En hy het gestuur"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "die stad in"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:23.062591407Z",
+  "model": "glm-5.3"
+}

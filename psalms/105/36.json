@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 105:36",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "En hy het elke eersgeborene in hulle land geslaan, die eersteling van al hulle krag.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eersgeborene"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in hulle land"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die eersteling"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hulle krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.200969279Z",
+  "model": "glm-5.3"
+}

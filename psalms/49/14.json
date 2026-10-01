@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 49:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Dit ⟨is⟩ hulle weg — dwaasheid vir hulle; en die wat na hulle kom, is met hul woorde welgevalle. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hulle weg"
+    },
+    {
+      "surface": "כסל",
+      "gloss": "dwaasheid"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "en die wat na hulle kom"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "met hul woorde"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "is welgevalle"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:55.020387954Z",
+  "model": "glm-5.3"
+}

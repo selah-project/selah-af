@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en by enige doodsiel sal hy nie ingaan nie; vir sy vader en vir sy moeder sal hy hom nie onrein maak nie.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "doodsiel"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sal hy ingaan"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "vir sy vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en vir sy moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sal hy hom onrein maak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:28.015745580Z",
+  "model": "glm-5.3"
+}

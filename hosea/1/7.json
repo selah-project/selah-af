@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ die huis van Jehoeda sal Ek ontferm en hulle red deur Jahweh hul Elohim, en hulle nie red deur boog en deur swaard en deur oorlog nie, deur perde en deur ruiters nie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "sal Ek ontferm"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "en hulle red"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "deur Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hul Elohim"
+    },
+    {
+      "surface": "וולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "hulle red"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "deur boog"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "en deur swaard"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "en deur oorlog"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "deur perde"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "en deur ruiters"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:44.349357217Z",
+  "model": "glm-5.3"
+}

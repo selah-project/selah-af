@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 134,
+  "translation": "Mag Jahweh jou seën uit Tsijon, die Maker van die hemel en die aarde.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "mag hy jou seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsijon"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "die Maker"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:09.758631276Z",
+  "model": "glm-5.3"
+}

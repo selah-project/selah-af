@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 45:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Jou pyle ⟨is⟩ skerp — volke val onder jou — in die hart van die vyande van die koning.",
+  "tokens": [
+    {
+      "surface": "חציך",
+      "gloss": "jou pyle"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "skerp"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "onder jou"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "val"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in die hart"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "van die vyande"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:10.898925867Z",
+  "model": "glm-5.3"
+}

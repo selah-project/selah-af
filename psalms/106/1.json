@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Loof Jah, bring dank aan Jahweh, want hy ⟨is⟩ goed, want tot in ewigheid ⟨duur⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "bring dank aan"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:44.436090124Z",
+  "model": "glm-5.3"
+}

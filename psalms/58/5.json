@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Hulle gif is na die gedaante van die gif van 'n slang; soos 'n doof adder wat hy sy oor toemaak.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "hulle gif"
+    },
+    {
+      "surface": "למו",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "na die gedaante van"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "die gif"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "van 'n slang"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "'n adder"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "doof"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "toemaak"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sy oor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.896226668Z",
+  "model": "glm-5.3"
+}

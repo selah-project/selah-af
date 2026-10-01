@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Ons vaders in Mitsrajim het u wonders nie verstaan nie, hulle het ⟨את⟩ die oorvloed van u gesed nie onthou nie, en hulle het wederstrewig geword by die see, by die See van Soef.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Ons vaders"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "het verstaan"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "u wonders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "het onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oorvloed van u gesed"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die oorvloed"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "van u gesed"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "en hulle het wederstrewig geword"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "בים",
+      "gloss": "by die See"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:21.144890618Z",
+  "model": "glm-5.3"
+}

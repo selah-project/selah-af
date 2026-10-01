@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "My hart bruis ⟨'n⟩ goeie woord, ek sê: my werke ⟨is vir⟩ 'n koning; my tong ⟨is⟩ die pen van 'n vlytige skrywer.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "bruis"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ek sê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "my werke"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vir 'n koning"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    },
+    {
+      "surface": "עט",
+      "gloss": "die pen"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "van 'n skrywer"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "vlytige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:11.042056466Z",
+  "model": "glm-5.3"
+}

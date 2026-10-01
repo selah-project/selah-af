@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Jongmanne en ook jongedogters, bejaardes saam met seuns,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "jongmanne"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jongedogters"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bejaardes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "seuns"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:09.023089027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 63:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "So het ek U in die heiligdom gesien, om u mag en u heerlikheid te aanskou.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligdom"
+    },
+    {
+      "surface": "חזיתיך",
+      "gloss": "het ek U gesien"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te aanskou"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "u mag"
+    },
+    {
+      "surface": "וכבודך",
+      "gloss": "en u heerlikheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.046133470Z",
+  "model": "glm-5.3"
+}

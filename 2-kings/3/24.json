@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het by die kamp van Jisraël gekom, en Jisraël het opgestaan en ⟨את⟩ Moab geslaan, en hulle het voor hulle gevlug; en ⟨hulle⟩ het daarin ingegaan en Moab geslaan, selfs ⟨את⟩ Moab slaan.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "en hulle het opgestaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en hulle het gevlug"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "en hulle het ingegaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "en slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:09.682748488Z",
+  "model": "glm-5.3"
+}

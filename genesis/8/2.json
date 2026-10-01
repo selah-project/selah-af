@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 8:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die fontyne van die Tehom is toegemaak, en die vensters van ⟨die⟩ hemel, en die reën is teruggehou van ⟨die⟩ hemel af.",
+  "tokens": [
+    {
+      "surface": "ויסכרו",
+      "gloss": "is toegemaak"
+    },
+    {
+      "surface": "מעינת",
+      "gloss": "die fontyne van"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "die Tehom"
+    },
+    {
+      "surface": "וארבת",
+      "gloss": "en die vensters van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ויכלא",
+      "gloss": "is teruggehou"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "die reën"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel af"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:10.562164851Z",
+  "model": "glm-5.3"
+}

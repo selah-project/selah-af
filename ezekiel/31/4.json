@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Water het hom grootgemaak, die diepte hom verhewe; ⟨את⟩ sy riviere het geloop rondom sy planting, en ⟨את⟩ sy slote het ⟨hulle⟩ gestuur na al die bome van die veld.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "het hom grootgemaak"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "die diepte"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "hom verhewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy riviere"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "sy riviere"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "het geloop"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "sy planting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy slote"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "sy slote"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "die bome"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T22:54:47.909963042Z",
+  "model": "glm-5.3"
+}

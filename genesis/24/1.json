@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Awraham was oud, ⟨was⟩ gekom in dae, en Jahweh het ⟨את⟩ Awraham geseën in alles.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "En Awraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in dae"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:55.960686182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "En haar priesters sal Ek met verlossing beklee, en haar getroues sal van vreugde juig.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "en haar priesters"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "sal Ek beklee"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "met verlossing"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "en haar getroues"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "van vreugde juig"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sal hulle juig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:04.629743573Z",
+  "model": "glm-5.3"
+}

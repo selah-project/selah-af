@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 12:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Ek sal deur die land van Mitsrajim gaan in hierdie nag, en Ek sal elke eersgeborene slaan in die land van Mitsrajim, van mens tot vee; en aan al die gode van Mitsrajim sal Ek oordele volbring — Ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ועברתי",
+      "gloss": "en Ek sal gaan"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deur die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "en Ek sal slaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eersgeborene"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van mens"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vee"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en aan al"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal Ek volbring"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "oordele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:48.773791237Z",
+  "model": "glm-5.3"
+}

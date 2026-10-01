@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Hy vestig ⟨die⟩ berge met sy krag, omgord met mag.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "Hy vestig"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "met sy krag"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "met mag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.451644890Z",
+  "model": "glm-5.3"
+}

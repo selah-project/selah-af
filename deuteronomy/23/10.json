@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wanneer ⟨die⟩ kamp uittrek teen jou vyande, moet jy jou bewaar van elke slegte ding.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uittrek"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "moet jy jou bewaar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van elke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ding"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:47.793107106Z",
+  "model": "glm-5.3"
+}

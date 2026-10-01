@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 31:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jaäkow het geantwoord en vir Lavan gesê: omdat ek bang was, want ek het gesê: miskien sal jy ⟨את⟩ jou dogters van my af wegruk.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hy het geantwoord"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "vir Lavan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ek bang was"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "פן",
+      "gloss": "miskien"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "sal jy wegruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dogters"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "jou dogters"
+    },
+    {
+      "surface": "מעמי",
+      "gloss": "van my af"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:09.954187879Z",
+  "model": "glm-5.3"
+}

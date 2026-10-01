@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Vrees nie vir skrikking van skielikheid, of vir ⟨die⟩ ruïne van die goddeloses wanneer dit kom nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "vir skrikking"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "van skielikheid"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "of vir ⟨die⟩ ruïne"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "dit kom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:24.721201168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En ek sal my verbond gee tussen my en tussen jou, en ek sal jou ⟨את⟩ oorvloedig oorvloedig vermenigvuldig.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "en sal gee"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen jou"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "en sal vermenigvuldig"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "oorvloedig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "oorvloedig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:37.818347588Z",
+  "model": "glm-5.3"
+}

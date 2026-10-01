@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy sê vir hom: Ek ⟨is dit⟩; gaan, sê vir jou heer: Kyk, Eliahu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "vir jou heer"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:28.603676368Z",
+  "model": "glm-5.3"
+}

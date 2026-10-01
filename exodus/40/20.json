@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het geneem en ⟨את⟩ die getuienis in die ark geplaas, en ⟨את⟩ die draagstokke aan die ark gesit, en ⟨את⟩ die deksel op die ark geplaas, van bo af.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die getuienis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en hy het gesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die draagstokke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die draagstokke"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die deksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die deksel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "van bo af"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:25.725412810Z",
+  "model": "glm-5.3"
+}

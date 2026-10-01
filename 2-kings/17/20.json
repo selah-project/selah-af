@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Jahweh het die hele nageslag van Jisraël verwerp, en hulle verneder, en hulle oorgelewer in die hand van plunderaars, totdat hy hulle van sy aangesig af weggegooi het.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "verwerp"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "verneder"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "oorgelewer"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "van plunderaars"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "weggegooi het"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "van sy aangesig af"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:49.597549475Z",
+  "model": "glm-5.3"
+}

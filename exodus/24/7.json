@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hy het die boek van die verbond geneem en in die ore van die volk gelees, en hulle het gesê: Alles wat Jahweh gespreek het, sal ons doen, en sal ons gehoorsaam wees.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "die boek"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het gelees"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die ore"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sal ons doen"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "en sal ons gehoorsaam wees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:40.523543931Z",
+  "model": "glm-5.3"
+}

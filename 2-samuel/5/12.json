@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 5:12",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Dawid het geweet dat Jahweh hom as koning oor Jisraël bevestig het, en dat hy sy koninkryk verhoog het ter wille van sy volk Jisraël.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "en hy het geweet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bevestig het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "verhoog het"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "sy koninkryk"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:54.457507917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Maar u, Adonai, ⟨is⟩ 'n El barmhartig en genadig, lank van toorn en groot in gesed en trou.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "barmhartig"
+    },
+    {
+      "surface": "ויחנון",
+      "gloss": "en genadig"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lank"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "van toorn"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "in gesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:41.189041554Z",
+  "model": "glm-5.3"
+}

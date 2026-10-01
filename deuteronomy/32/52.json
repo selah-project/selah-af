@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "want van oorkant af sal jy ⟨את⟩ die land sien, maar daarheen sal jy nie kom nie, na die land wat ek aan die seuns van Jisraël gee.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "van oorkant af"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sal jy sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "maar daarheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sal jy kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:15.548488158Z",
+  "model": "glm-5.3"
+}

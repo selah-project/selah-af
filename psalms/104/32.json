@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hy wat ⟨the⟩ na die aarde kyk en sy bewe; die berge raak Hy aan en hulle rook.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "Hy wat kyk"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na die aarde"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "en sy bewe"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "raak Hy aan"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "en hulle rook"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.350708433Z",
+  "model": "glm-5.3"
+}

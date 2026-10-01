@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 44:28",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En die een het van my uitgegaan, en ek het gesê: Seker is hy verskeur, verskeur; en ek hom nie gesien nie tot nou toe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en het uitgegaan"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "van ⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "seker"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "verskeur"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "verskeur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "ek hom gesien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nou toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:56.224753061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 48:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "En dit het gebeur na hierdie dinge, dat ⟨iemand⟩ aan Josef gesê het: Kyk, jou vader is siek. En hy het sy ⟨את⟩ twee seuns saam met hom geneem, ⟨את⟩ Menasje en ⟨את⟩ Efrajim.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "aan Josef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "is siek"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy twee seuns"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Menasje"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Efrajim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:30.268520019Z",
+  "model": "glm-5.3"
+}

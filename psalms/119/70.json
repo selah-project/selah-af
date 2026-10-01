@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "psalms 119:70",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Vet-agtig stomp is hulle hart — ek vind my vreugde in u Tora.",
+  "tokens": [
+    {
+      "surface": "טפש",
+      "gloss": "stomp"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "vet-agtig"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle hart"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    },
+    {
+      "surface": "שעשעתי",
+      "gloss": "vind my vreugde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:43.012912590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 6:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Mosje het so met die kinders van Jisraël gepraat, maar hulle het nie na Mosje geluister nie, weens kortheid van roeag en weens harde slawerny.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מקצר",
+      "gloss": "weens kortheid"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van roeag"
+    },
+    {
+      "surface": "ומעבדה",
+      "gloss": "en weens slawerny"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:44.712549642Z",
+  "model": "glm-5.3"
+}

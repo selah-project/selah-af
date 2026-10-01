@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Neem jou in ag, dat jy nie Jahweh ⟨את⟩ vergeet wat jou uitgebring het uit ⟨die⟩ land Mitsrajim, uit ⟨die⟩ huis van slawe nie.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Neem jou in ag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat … nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "jy vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "jou uitgebring het"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slawe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:45.787241164Z",
+  "model": "glm-5.3"
+}

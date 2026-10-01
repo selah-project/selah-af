@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 30:12",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Teen my regterhand kom die gebroed op; my voete stoot hulle weg, en hulle werp teen my die paaie van hulle rampspoed op.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Teen"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "my regterhand"
+    },
+    {
+      "surface": "פרחח",
+      "gloss": "die gebroed"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "kom op"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "stoot hulle weg"
+    },
+    {
+      "surface": "ויסלו",
+      "gloss": "en hulle werp op"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "die paaie"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "van hulle rampspoed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:19.439405628Z",
+  "model": "glm-5.3"
+}

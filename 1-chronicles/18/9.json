@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Tow, die koning van Hamat, het gehoor dat Dawid ⟨את⟩ die hele leër van Hadadéser, die koning van Soba, geslaan het.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Tow"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van Hamat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslaan het"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele leër van Hadadéser"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leër"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "van Hadadéser"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "van Soba"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:31.228983518Z",
+  "model": "glm-5.3"
+}

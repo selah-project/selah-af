@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 17:13",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En enige man van die seuns van Jisraël en van die vreemdeling wat as vreemdeling in hul midde woon, wat wild of voël jag wat geëet mag word — hy moet ⟨את⟩ sy bloed uitgiet en dit met stof bedek.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en enige man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die vreemdeling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "as vreemdeling woon"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hul midde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יצוד",
+      "gloss": "jag"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "buit"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "wild"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "geëet mag word"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": "moet uitgiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "וכסהו",
+      "gloss": "en bedek dit"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "met stof"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:23.953159199Z",
+  "model": "glm-5.3"
+}

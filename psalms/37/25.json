@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "'n Jongman was ek, ook het ek oud geword, en ek het nie 'n regverdige verlaat gesien nie, en sy nageslag wat brood soek nie.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "'n Jongman"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "het ek oud geword"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het ek gesien"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "'n regverdige"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en sy nageslag"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "wat soek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:31.857161062Z",
+  "model": "glm-5.3"
+}

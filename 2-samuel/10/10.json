@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 10:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ die res van die volk het hy in die hand gegee van Awisjai sy broer, en hy het ⟨hulle⟩ in gelid opgestel om die seuns van Ammon te ontmoet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die res van die volk"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "die res"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het hy gegee"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "van Awisjai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ויערך",
+      "gloss": "en hy het in gelid opgestel"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "om te ontmoet"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:27.389288603Z",
+  "model": "glm-5.3"
+}

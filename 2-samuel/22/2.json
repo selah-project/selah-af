@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 22:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En hy het gesê: Jahweh ⟨is⟩ my rots en my vesting en my redder vir my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "ומצדתי",
+      "gloss": "en my vesting"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en my redder"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:30.712105656Z",
+  "model": "glm-5.3"
+}

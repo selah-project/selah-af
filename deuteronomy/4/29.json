@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En julle sal van daar ⟨את⟩ Jahweh julle Elohim soek, en julle sal ⟨hom⟩ vind, wanneer julle Hom soek met jul hele hart en met jul hele lewe.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "en julle sal soek"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "en julle sal vind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "julle Hom soek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met jul hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met jul hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:12.620576157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 15:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Gaan nou en slaan ⟨את⟩ Amalek, en wy ⟨את⟩ alles wat hy het tot vernietiging, en jul mag geen medelye met hom hê nie; maar dood van man tot vrou, van kindjie tot suigeling, van os tot skaap, van kameel tot esel.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "והכיתה",
+      "gloss": "en jy sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "והחרמתם",
+      "gloss": "en jul sal tot vernietiging wy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hy het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "sal medelye hê"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "והמתה",
+      "gloss": "en dood"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vrou"
+    },
+    {
+      "surface": "מעלל",
+      "gloss": "van kindjie"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "suigeling"
+    },
+    {
+      "surface": "משור",
+      "gloss": "van os"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "שה",
+      "gloss": "skaap"
+    },
+    {
+      "surface": "מגמל",
+      "gloss": "van kameel"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "esel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:57.212193621Z",
+  "model": "glm-5.3"
+}

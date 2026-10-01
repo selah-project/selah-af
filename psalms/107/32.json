@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "en laat hulle Hom verhoog in die vergadering van ⟨die⟩ volk, en in die sitting van die oues Hom lof toesing.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "laat hulle Hom verhoog"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in die vergadering"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "en in die sitting"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "van die oues"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "Hom lof toesing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.726551704Z",
+  "model": "glm-5.3"
+}

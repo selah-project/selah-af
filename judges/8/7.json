@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Gidion sê: Daarom, wanneer Jahweh ⟨את⟩ Sebag en ⟨את⟩ Tsalmunna in my hand gee, sal ek ⟨את⟩ jul vlees tamp met ⟨את⟩ die dorings van die wildernis en met ⟨את⟩ die distels.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gidion"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "wanneer ... gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sebag"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "Sebag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tsalmunna"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "Tsalmunna"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in my hand"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "sal ek tamp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jul vlees"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "jul vlees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dorings"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "die dorings van"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die wildernis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die distels"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "die distels"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:36.342187263Z",
+  "model": "glm-5.3"
+}

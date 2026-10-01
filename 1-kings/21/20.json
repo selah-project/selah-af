@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Agab het gesê tot Elia: Het jy my gevind, o my vyand? En hy het gesê: Ek het ⟨jou⟩ gevind, omdat jy jouself verkoop het om die kwaad te doen in die oë van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "Het jy my gevind"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "o my vyand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Ek het gevind"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "jy jouself verkoop het"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:35.560210700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Onderdruk ⟨is⟩ Efraim, verbrysel in ⟨die⟩ reg, want hy was vasberade om agter ⟨die⟩ bevel aan te loop.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "onderdruk"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "verbrysel"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "in reg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "was vasberade"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "om te loop"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "צו",
+      "gloss": "bevel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:50.288715812Z",
+  "model": "glm-5.3"
+}

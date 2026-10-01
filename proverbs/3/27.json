@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Weerhou nie die goeie van sy eienaars nie, wanneer dit in die mag van jou hand ⟨is⟩ om dit te doen.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "weerhou"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "van sy eienaars"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "wanneer dit ⟨is⟩"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "in die mag"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van jou hand"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:24.721641901Z",
+  "model": "glm-5.3"
+}

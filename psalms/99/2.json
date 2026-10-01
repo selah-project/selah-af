@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Jahweh is groot in Tsijon, en verhewen ⟨is⟩ hy bo al die volke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsijon"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "verhewen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:34.175458675Z",
+  "model": "glm-5.3"
+}

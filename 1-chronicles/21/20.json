@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Arnan het hom omgedraai en ⟨את⟩ die boodskapper gesien; en sy vier seuns by hom het hulle weggesteek, en Arnan was besig om koring te dors.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hy het omgedraai"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boodskapper"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die boodskapper"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "en sy vier"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "het hulle weggesteek"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "en Arnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "dors"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "koring"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:41.166332497Z",
+  "model": "glm-5.3"
+}

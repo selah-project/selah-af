@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "En alle konings sal hul neerbuig voor hom; alle nasies sal hom dien.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "en sal hul neerbuig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "sal hom dien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.293857745Z",
+  "model": "glm-5.3"
+}

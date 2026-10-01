@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En julle sal my insettinge bewaar en ⟨את⟩ my regte, wat die mens sal doen en daarin lewe; ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle sal bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my insettinge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my regte"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my regte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en lewe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:40.515934223Z",
+  "model": "glm-5.3"
+}

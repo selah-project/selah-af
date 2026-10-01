@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Maar julle ⟨is⟩ smeerders van leuens, geneeshere van niet — julle almal.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "smeerders"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuens"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "geneeshere"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "van niet"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "julle almal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:47.851728612Z",
+  "model": "glm-5.3"
+}

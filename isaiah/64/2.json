@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Toe U vreeslike dinge gedoen het ⟨wat⟩ ons nie verwag het nie, het U neergedaal; voor u aangesig het die berge gestort.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "toe U gedoen het"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "vreeslike dinge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "verwag het"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "het U neergedaal"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor u aangesig"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "het gestort"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:44.440508988Z",
+  "model": "glm-5.3"
+}

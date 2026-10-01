@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Want Ek ⟨is⟩ Jahweh, Ek het nie verander nie, en julle, seuns van Jaäkow, julle is nie verteer nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "het Ek verander"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "is julle verteer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:24.476948109Z",
+  "model": "glm-5.3"
+}

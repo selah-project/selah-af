@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Vir die koorleier, op snare. ’n Psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "op snare"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "’n psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:46.295105682Z",
+  "model": "glm-5.3"
+}

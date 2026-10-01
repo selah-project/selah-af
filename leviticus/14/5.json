@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester sal beveel, en ⟨hy⟩ sal ⟨את⟩ die een voël slag oor 'n erdewerkvat, oor lewende water.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "en sal beveel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een voël"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "die voël"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die een"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "vat"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "erdewerk"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:13.411255682Z",
+  "model": "glm-5.3"
+}

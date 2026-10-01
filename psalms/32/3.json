@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Want toe ek geswyg het, het my gebeente verslyt, deur my gebrul die hele dag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "toe ek geswyg het"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "verslyt"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my gebeente"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "deur my gebrul"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:53.938794797Z",
+  "model": "glm-5.3"
+}

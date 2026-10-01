@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die koning het gesê: Sterwend moet jy sterwe, Agimeleg, jy en die hele huis van jou vader.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Sterwend"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "moet jy sterwe"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Agimeleg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:21.764014776Z",
+  "model": "glm-5.3"
+}

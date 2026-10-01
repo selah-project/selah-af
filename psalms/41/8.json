@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Saam fluister al my haters teen my; teen my bedink hulle kwaad vir my.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "fluister"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "my haters"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bedink"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:59.378428641Z",
+  "model": "glm-5.3"
+}

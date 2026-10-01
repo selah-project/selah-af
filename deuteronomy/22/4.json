@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 22:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Jy mag nie ⟨את⟩ die donkie van jou broer of sy os sien val op die pad en jou vir hulle verberg nie — oprig sal jy hulle saam met hom oprig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "jy sal sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die donkie van jou broer"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "die donkie"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "van jou broer"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "שורו",
+      "gloss": "sy os"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "geval"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "en jou verberg"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "הקם",
+      "gloss": "oprig"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "sal jy oprig"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:19.346183695Z",
+  "model": "glm-5.3"
+}

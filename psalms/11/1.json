@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Vir die koorleier, van Dawid. In Jahweh het ek skuiling gesoek; hoe sê julle aan my siel: Vlug na jul berg, ⟨soos⟩ 'n voël?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "het ek skuiling gesoek"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sê julle"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "aan my siel"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "vlug"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "jul berg"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "'n voël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:02.229507237Z",
+  "model": "glm-5.3"
+}

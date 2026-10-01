@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die priester sal ⟨את⟩ hierdie vloeke in 'n boek skryf, en in die bittere waters uitvee.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "en sal skryf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie vloeke"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "die vloeke"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in 'n boek"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "en sal uitvee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "die bittere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:03.227726227Z",
+  "model": "glm-5.3"
+}

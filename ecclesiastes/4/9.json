@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Beter ⟨is⟩ die twee as die een, want vir hulle ⟨is⟩ daar 'n goeie loon in hulle moeite.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Beter"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "מן",
+      "gloss": "as"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "want"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨is⟩ daar"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "'n loon"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "in hulle moeite"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:23.215599242Z",
+  "model": "glm-5.3"
+}

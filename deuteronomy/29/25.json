@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "en hulle het gegaan en ander gode gedien en hulle aanbid — gode wat hulle nie geken het nie en wat ⟨Hy⟩ nie aan hulle toebedeel het nie",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "gedien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hulle aanbid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "hulle geken het"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "toebedeel het"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:39.159905002Z",
+  "model": "glm-5.3"
+}

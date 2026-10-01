@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 17:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Staan op, Jahweh, kom hom tegemoet, buig hom neer; red my siel van die wrede ⟨deur⟩ u swaard",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "kom tegemoet"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "hom (sy aangesig)"
+    },
+    {
+      "surface": "הכריעהו",
+      "gloss": "buig hom neer"
+    },
+    {
+      "surface": "פלטה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "מרשע",
+      "gloss": "van die wrede"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "u swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:19.120176231Z",
+  "model": "glm-5.3"
+}

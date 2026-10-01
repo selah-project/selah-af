@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 89:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "En my getrouheid en my gesed ⟨sal wees⟩ by hom, en in my naam ⟨sal⟩ sy horing verhoog word.",
+  "tokens": [
+    {
+      "surface": "ואמונתי",
+      "gloss": "en my getrouheid"
+    },
+    {
+      "surface": "וחסדי",
+      "gloss": "en my gesed"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "ובשמי",
+      "gloss": "en in my naam"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "verhoog word"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sy horing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.675669743Z",
+  "model": "glm-5.3"
+}

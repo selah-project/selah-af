@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Dawid en die hele huis van Jisraël het ⟨את⟩ die ark van Jahweh laat opgaan met gejubel en met die klank van 'n sjofar.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "het laat opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "met gejubel"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "en met die klank van"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "'n sjofar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:40.217493425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 43:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Elkeen wat met my Naam aangeroep word, en vir my eer: ek het hom geskep, ek het hom gevorm, ja, ek het hom gemaak.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Elkeen"
+    },
+    {
+      "surface": "הנקרא",
+      "gloss": "aangeroep word"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "met my Naam"
+    },
+    {
+      "surface": "ולכבודי",
+      "gloss": "en vir my eer"
+    },
+    {
+      "surface": "בראתיו",
+      "gloss": "ek het hom geskep"
+    },
+    {
+      "surface": "יצרתיו",
+      "gloss": "ek het hom gevorm"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עשיתיו",
+      "gloss": "ek het hom gemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:48.904475847Z",
+  "model": "glm-5.3"
+}

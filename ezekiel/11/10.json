@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Deur die swaard sal julle val; op die grens van Jisraël sal ek ⟨את⟩ julle oordeel, en julle sal weet dat ek Jahweh ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "deur die swaard"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "sal julle val"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die grens"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "sal ek oordeel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "en julle sal weet"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en julle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:19.499321858Z",
+  "model": "glm-5.3"
+}

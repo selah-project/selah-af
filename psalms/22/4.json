@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En U ⟨is⟩ heilig, ⟨U⟩ wat troon op die lof van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "troon"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "op die lof"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:03.360389889Z",
+  "model": "glm-5.3"
+}

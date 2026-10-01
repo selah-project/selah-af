@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hulle bely ⟨את⟩ hulle sonde wat hulle gedoen het, en hy vergoed ⟨את⟩ sy skuld in die hoofbedrag daarvan en voeg die vyfde deel daarby en gee dit aan die een teenoor wie hy skuldig geword het.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "En hulle bely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle sonde"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hulle sonde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hulle gedoen het"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en hy vergoed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy skuld"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sy skuld"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "in die hoofbedrag daarvan"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "en die vyfde deel daarvan"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "voeg ... by"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarby"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "aan die een teenoor wie"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "hy skuldig geword het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:02.943753908Z",
+  "model": "glm-5.3"
+}

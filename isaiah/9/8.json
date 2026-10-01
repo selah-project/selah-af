@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 9:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die volk sal dit weet, die hele — Efrajim en die bewoner van Sjomeron — wat in hoogmoed en in grootheid van hart sê:",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en hulle sal weet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "ויושב",
+      "gloss": "en die bewoner"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "van Sjomeron"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "in hoogmoed"
+    },
+    {
+      "surface": "ובגדל",
+      "gloss": "en in grootheid"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wat sê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:39.573219683Z",
+  "model": "glm-5.3"
+}

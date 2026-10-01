@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En dit het gebeur op hierdie selfde dag: Jahweh het die seuns van Jisraël ⟨את⟩ uit die land van Mitsrajim gebring, volgens hulle leërskare.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "op ... selfde"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "het gebring uit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "hulle leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:00.519228990Z",
+  "model": "glm-5.3"
+}

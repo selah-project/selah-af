@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Gilad is ⟨die⟩ myne; Menasjé is ⟨die⟩ myne; en Efraim ⟨is⟩ die vesting van my kop; Jehoeda is my wetgewer.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "is die myne"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "is die myne"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasjé"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "en Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "die vesting"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "van my kop"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "my wetgewer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.414720838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Soos die voorkoms van perde ⟨is⟩ hulle voorkoms, en soos ruiters, so sal hulle hardloop.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "Soos die voorkoms"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "van perde"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "hulle voorkoms"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "en soos ruiters"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "sal hulle hardloop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:31.151873065Z",
+  "model": "glm-5.3"
+}

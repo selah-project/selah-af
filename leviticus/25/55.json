@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Want aan My ⟨is⟩ die kinders van Jisraël diensknegte — My diensknegte ⟨is⟩ hulle, wat Ek uit die land van Mitsrajim ⟨את⟩ hulle uitgelei het; Ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan My"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "diensknegte"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "My diensknegte"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "Ek uitgelei het"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle — uitgelei uit die land van Mitsrajim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:57.285279893Z",
+  "model": "glm-5.3"
+}

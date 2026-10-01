@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 32:12",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Is dit nie hy, Gizkijahoe, wat ⟨את⟩ sy hoogtes en ⟨את⟩ sy altare verwyder het en tot Jehoeda en tot Jerusjalajim gesê het, om te sê: voor een altaar sal julle jul neerbuig, en daarop sal julle reukwerk laat opgaan nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "verwyder het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hoogtes"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "sy hoogtes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy altare"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "sy altare"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tot Jehoeda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "en tot Jerusjalajim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "sal julle jul neerbuig"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "en daarop"
+    },
+    {
+      "surface": "תקטירו",
+      "gloss": "sal julle reukwerk laat opgaan"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:13.090883881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Maar vleis met sy lewe — sy bloed — mag julle nie eet nie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vleis"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "met sy lewe"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:04.505695540Z",
+  "model": "glm-5.3"
+}

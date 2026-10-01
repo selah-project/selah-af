@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hulle het ⟨את⟩ Kedesj in Galilea, in die bergland van Naftali, geheilig, en ⟨את⟩ Skegem in die bergland van Efraim, en ⟨את⟩ Kirjat-Arba, dit is Ghebron, in die bergland van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "En hulle het geheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedesj"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kedesj"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "in Galilea"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die bergland"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "van Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Skegem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Skegem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die bergland"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efraim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kirjat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Ghebron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die bergland"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:07.969394222Z",
+  "model": "glm-5.3"
+}

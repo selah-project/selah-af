@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het ⟨את⟩ die stem van Jahweh Elohim gehoor wat in die tuin wandel by die roeag van die dag, en die mens en sy vrou het hulle weggesteek vir die aangesig van Jahweh Elohim in die middel van die boom van die tuin.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "En hulle het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stem van Jahweh Elohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wat wandel"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in die tuin"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "by die roeag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "van die dag"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "en ... het weggesteek"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en sy vrou"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vir die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel van"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van die tuin"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.387641002Z",
+  "model": "glm-5.3"
+}

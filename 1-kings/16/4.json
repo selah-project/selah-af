@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 16:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Wie van Baäsa se mense in die stad sterf, die honde sal hom eet; en wie van hom in die veld sterf, die voëls van die hemel sal hom eet.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "Wie sterf"
+    },
+    {
+      "surface": "לבעשא",
+      "gloss": "van Baäsa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die honde hom"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en wie sterf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:04.472382889Z",
+  "model": "glm-5.3"
+}

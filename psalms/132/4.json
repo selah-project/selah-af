@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "as ek nie slaap aan my oë gee nie, aan my ooglidder sluimering nie —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "slaap"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "aan my oë"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "aan my ooglidder"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "sluimering"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:34.835749476Z",
+  "model": "glm-5.3"
+}

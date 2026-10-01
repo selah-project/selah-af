@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": " Leer my, o Jahweh, die weg van u insettinge, en ek sal dit bewaar tot die einde toe.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "van u insettinge"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "en ek sal dit bewaar"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "tot die einde toe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.443126236Z",
+  "model": "glm-5.3"
+}

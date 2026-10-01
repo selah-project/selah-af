@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 33:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Esav hardloop hom tegemoet en omhels hom en val op sy nek en soen hom, en hulle huil.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "en hy hardloop"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "hom tegemoet"
+    },
+    {
+      "surface": "ויחבקהו",
+      "gloss": "en hy omhels hom"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hy val"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "צוארו",
+      "gloss": "sy nek"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "en hy soen hom"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en hulle huil"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:32.172961164Z",
+  "model": "glm-5.3"
+}

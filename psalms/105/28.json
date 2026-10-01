@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het duisternis gestuur en dit het donker geword, en hulle het ⟨את⟩ sy woord nie weerstaan nie.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gestuur het"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "en dit het donker geword"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "weerstaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy woord"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "sy woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.380523951Z",
+  "model": "glm-5.3"
+}

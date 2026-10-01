@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het ⟨hom⟩ verbitter by die waters van Meriba, en dit het sleg gegaan met Mosje ter wille van hulle.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "het verbitter"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "van Meriba"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "het sleg gegaan"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "met Mosje"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ter wille van hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:36.207331839Z",
+  "model": "glm-5.3"
+}

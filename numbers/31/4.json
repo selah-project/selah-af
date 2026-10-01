@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 31:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Duisend vir ⟨die⟩ stam, duisend vir ⟨die⟩ stam, vir al die stamme van Jisraël, sal julle na die leërskare stuur.",
+  "tokens": [
+    {
+      "surface": "אלף",
+      "gloss": "Duisend"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir ⟨die⟩ stam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir ⟨die⟩ stam"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "die stamme van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "sal julle stuur"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "na die leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:34.851584738Z",
+  "model": "glm-5.3"
+}

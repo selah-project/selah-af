@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En die seuns van Jisraël moet ⟨את⟩ die Sjabbat bewaar, om ⟨את⟩ die Sjabbat te onderhou vir hulle geslagte, 'n ewige verbond.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en moet bewaar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Sjabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "die Sjabbat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te onderhou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Sjabbat"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "die Sjabbat"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "vir hulle geslagte"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:45.516091458Z",
+  "model": "glm-5.3"
+}

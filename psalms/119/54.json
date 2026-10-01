@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "U insettinge was vir my liedere in die huis van my vreemdelingskap.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "liedere"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u insettinge"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "van my vreemdelingskap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:59.878886895Z",
+  "model": "glm-5.3"
+}

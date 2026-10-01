@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "In ⟨die⟩ vierde jaar is ⟨die⟩ fondament van ⟨die⟩ huis van Jahweh gelê, in die maand Siw.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "in ⟨die⟩ jaar"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "die vierde"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "is gelê ⟨die⟩ fondament"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Siw"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:07.329355402Z",
+  "model": "glm-5.3"
+}

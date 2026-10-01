@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Awraham het ⟨את⟩ Jitsgak, sy seun, besny — 'n seun van agt dae — soos Elohim hom beveel het, ⟨את⟩ hom.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "En hy het besny"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak, sy seun"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "van agt"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:23.404427499Z",
+  "model": "glm-5.3"
+}

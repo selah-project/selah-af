@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Tot ek kom in die heiligdomme van El, verstaan ek hulle einde.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ek kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "die heiligdomme"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "verstaan ek"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "hulle einde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:20.604785443Z",
+  "model": "glm-5.3"
+}

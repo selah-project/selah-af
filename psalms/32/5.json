@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "My sondig maak ek aan U bekend, en my ongeregtigheid het ek nie bedek nie; ek het gesê: Ek bely my oortredings aan Jahweh — en U, U het die skuld van my sondig gedra. Sela.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "my sondig"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "maak ek aan U bekend"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "en my ongeregtigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "het ek bedek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ek bely"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortredings"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "U het gedra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die skuld"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sondig"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:59.670476070Z",
+  "model": "glm-5.3"
+}

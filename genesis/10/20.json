@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Dit is die seuns van Gam, na hulle families, na hulle tale, in hulle lande, in hulle nasies.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Gam"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na hulle families"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "na hulle tale"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "in hulle lande"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "in hulle nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:35.259898972Z",
+  "model": "glm-5.3"
+}

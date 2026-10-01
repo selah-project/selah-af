@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ⟨die⟩ brandoffer het hulle na hom toe gebring, in sy dele, en ⟨את⟩ die kop, en hy het ⟨dit⟩ laat rook op die altaar.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "het hulle gebring"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom toe"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "in sy dele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kop"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en hy het laat rook"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.859925734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Toe het Sjaul nader gekom aan ⟨את⟩ Sjemooël binne-in die poort en gesê: Vertel tog vir my, waar is die huis van die siener?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "Toe het nader gekom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemooël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemooël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "השער",
+      "gloss": "die poort"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אי",
+      "gloss": "waar"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "van die siener"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:54.160352173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ook op die pad — as ⟨die⟩ dwaas loop, ontbreek sy verstand, en hy sê aan almal dat hy 'n dwaas ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "as die dwaas"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "loop"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy verstand"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ontbreek"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan almal"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:40.777671862Z",
+  "model": "glm-5.3"
+}

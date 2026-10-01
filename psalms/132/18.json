@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Sy vyande sal ek met skaamte beklee, maar op hom sal sy kroon bloei.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Sy vyande"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "sal ek beklee"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "met skaamte"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "maar op hom"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "sal bloei"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sy kroon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:52.872611806Z",
+  "model": "glm-5.3"
+}

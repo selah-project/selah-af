@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "En Jaäkow het aan Josef gesê: El Sjaddai het aan my verskyn in Loz, in die land Kenaän, en my geseën ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "het verskyn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "in Loz"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:30.269108619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 19:11",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En ⟨Hy⟩ sê: Gaan uit en staan op die berg voor Jahweh; en kyk, Jahweh gaan verby, en 'n roeag, groot en sterk, wat berge skeur en rotse stukkend breek voor Jahweh — nie in die roeag ⟨is⟩ Jahweh nie; en ná die roeag 'n gedruis — nie in die gedruis ⟨is⟩ Jahweh nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ⟨Hy⟩ sê"
+    },
+    {
+      "surface": "צא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "ועמדת",
+      "gloss": "en staan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gaan verby"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en 'n roeag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "en sterk"
+    },
+    {
+      "surface": "מפרק",
+      "gloss": "wat skeur"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "ומשבר",
+      "gloss": "en stukkend breek"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "rotse"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "in die roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en ná"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "'n gedruis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ברעש",
+      "gloss": "in die gedruis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:05.762836009Z",
+  "model": "glm-5.3"
+}

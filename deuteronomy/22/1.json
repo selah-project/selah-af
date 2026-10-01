@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Jy mag nie ⟨את⟩ die os van jou broer sien of ⟨את⟩ sy skaap verdwaal en jou vir hulle verberg nie — terugbring sal jy hulle bring na jou broer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "jy sal sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die os van jou broer"
+    },
+    {
+      "surface": "שור",
+      "gloss": "die os"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van jou broer"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy skaap"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "sy skaap"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "verdwaald"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "en jou verberg"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "השב",
+      "gloss": "terugbring"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "sal jy hulle bring"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "na jou broer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:19.345571695Z",
+  "model": "glm-5.3"
+}

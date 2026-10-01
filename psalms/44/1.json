@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Vir die koordirekteur, vir die seuns van Korag, 'n Masjkiel.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koordirekteur"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n Masjkiel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.168232535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ongeveer vyfduisend man geneem en hulle ⟨את⟩ as hinderlaag gestel tussen Bet-El en Ai, wes van die stad.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "ongeveer vyf"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "het gestel"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "as hinderlaag"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "as hinderlaag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ai"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van die weste"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "van die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:02.665398670Z",
+  "model": "glm-5.3"
+}

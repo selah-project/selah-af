@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "My mond gaan wysheid spreek, en die oorpeinsing van my hart insigte.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "gaan spreek"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "en die oorpeinsing"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van my hart"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "insigte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:02.194684559Z",
+  "model": "glm-5.3"
+}

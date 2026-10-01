@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 1:4",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die oorskiet van die gazam het die arbeh geëet, en die oorskiet van die arbeh het die jélek geëet, en die oorskiet van die jélek het die gasil geëet.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "die oorskiet"
+    },
+    {
+      "surface": "הגזם",
+      "gloss": "van die gazam"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "het geëet"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "die arbeh"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "en die oorskiet"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "van die arbeh"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "het geëet"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "die jélek"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "en die oorskiet"
+    },
+    {
+      "surface": "הילק",
+      "gloss": "van die jélek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "het geëet"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "die gasil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:06.662806473Z",
+  "model": "glm-5.3"
+}

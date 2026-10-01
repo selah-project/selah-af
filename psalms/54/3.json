@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Elohim, red my deur u Naam, en spreek reg deur u mag.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "deur u Naam"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "en deur u mag"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "spreek oor my reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:24.739207282Z",
+  "model": "glm-5.3"
+}

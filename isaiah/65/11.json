@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Maar julle is die wat Jahweh verlaat, die wat my heilige berg ⟨את⟩ vergeet, die wat vir Gad 'n tafel regmaak en vir Meni gemengde drank skink.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "maar julle"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "die wat verlaat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "die wat vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heilige berg"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "my heilige"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "die wat regmaak"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "vir Gad"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "'n tafel"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "en die wat skink"
+    },
+    {
+      "surface": "למני",
+      "gloss": "vir Meni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "gemengde drank"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:03.002237143Z",
+  "model": "glm-5.3"
+}

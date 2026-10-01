@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En jy mag nie met hulle deur huwelik verbind nie: jou dogter mag jy nie aan sy seun gee nie, en sy dogter mag jy nie vir jou seun neem nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "deur huwelik verbind"
+    },
+    {
+      "surface": "בם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "jou dogter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jy mag gee"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "aan sy seun"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "en sy dogter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "jy mag neem"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "vir jou seun"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:17.740699525Z",
+  "model": "glm-5.3"
+}

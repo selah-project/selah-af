@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En die wolk het ⟨את⟩ die tent van ontmoeting bedek, en die kavod van Jahweh het ⟨את⟩ die Misjkan gevul.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "en die wolk het bedek"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die wolk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tent van ontmoeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en die kavod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "het gevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:19.756998754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En julle moet ⟨את⟩ die voorhuid van jul hart besny, en jul nek nie meer hard maak nie",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "en julle moet besny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhuid van jul hart"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "die voorhuid"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "van jul hart"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "en jul nek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "hard maak"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie meer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:33.728876256Z",
+  "model": "glm-5.3"
+}

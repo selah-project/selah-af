@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 17:16",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "So seker as ek leef, sê Adonai Jahweh: in die plek van die koning wat ⟨את⟩ hom koning gemaak het, hy wie se eed hy verag het en wie se verbond hy verbreek het, met ⟨את⟩ hom, in die middel van Babel, sal hy sterwe.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "indien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הממליך",
+      "gloss": "wat koning maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom as koning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "verag het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy eed"
+    },
+    {
+      "surface": "אלתו",
+      "gloss": "sy eed"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wie se"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "verbreek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy verbond"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "hy"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sal hy sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:49:35.490073417Z",
+  "model": "glm-5.3"
+}

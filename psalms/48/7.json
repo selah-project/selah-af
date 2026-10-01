@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Bewing het hulle daar gegryp, ⌜wee⌜ soos van 'n vrou wat baar.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "bewing"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "het hulle gegryp"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "⌜wee⌜"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "soos van 'n vrou wat baar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.843027220Z",
+  "model": "glm-5.3"
+}

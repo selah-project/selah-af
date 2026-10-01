@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Ek sal nie sterf nie, maar leef, en die werke van Jah vertel.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "sal sterf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sal leef"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "en vertel"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:41.298298856Z",
+  "model": "glm-5.3"
+}

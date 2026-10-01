@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ek sal ⟨את⟩ die nageslag van Dawid verneder ter wille van hierdie — maar nie al die dae nie.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "en ek sal verneder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nageslag van Dawid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "die dae nie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:30.356438150Z",
+  "model": "glm-5.3"
+}

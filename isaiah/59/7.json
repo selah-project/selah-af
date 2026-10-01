@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 59:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Hul voete hardloop na kwaad, en hulle haas om onskuldige bloed te stort; hul planne ⟨is⟩ planne van nietigheid, verwoesting en verbreking ⟨is⟩ in hul paaie.",
+  "tokens": [
+    {
+      "surface": "רגליהם",
+      "gloss": "hul voete"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na kwaad"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "hardloop"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "en hulle haas"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "om te stort"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onskuldige"
+    },
+    {
+      "surface": "מחשבותיהם",
+      "gloss": "hul planne"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planne van"
+    },
+    {
+      "surface": "און",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "שד",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "en verbreking"
+    },
+    {
+      "surface": "במסלותם",
+      "gloss": "in hul paaie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:29.430020725Z",
+  "model": "glm-5.3"
+}

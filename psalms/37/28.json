@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want Jahweh hou van reg, en Hy sal sy getroues nie verlaat nie; ⟨את⟩ word hulle vir ewig bewaar, maar die nageslag van die goddelose word uitgeroei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hou van"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "sal verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy getroues"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sy getroues"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "word bewaar"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "maar die nageslag"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "word uitgeroei"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:31.858032613Z",
+  "model": "glm-5.3"
+}

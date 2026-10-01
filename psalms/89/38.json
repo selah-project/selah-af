@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Soos die maan sal ⟨dit⟩ vir ewig vasstaan, en ⟨soos⟩ 'n getroue getuie in ⟨die⟩ wolkgewelf. Séla.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "soos die maan"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sal vasstaan"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en ⟨soos⟩ 'n getuie"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "in die wolkgewelf"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "getroue"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.798053832Z",
+  "model": "glm-5.3"
+}

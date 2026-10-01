@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Ek sal ⟨את⟩ die inwoners van hierdie stad tref, ⟨את⟩ die mens en ⟨את⟩ die vee — deur 'n groot pes sal hulle sterwe.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "en sal Ek tref"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die inwoners van hierdie stad"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die inwoners"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vee"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "deur pes"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sal hulle sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:19.695814596Z",
+  "model": "glm-5.3"
+}

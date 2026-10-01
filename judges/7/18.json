@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 7:18",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ek sal in die sjofar blaas, ek en al wat ⟨את⟩ by my is, en julle moet in die sjofarre blaas, ook julle, rondom die hele kamp, en julle moet sê: Vir Jahweh en vir Gideon!",
+  "tokens": [
+    {
+      "surface": "ותקעתי",
+      "gloss": "en ek sal blaas"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "in die sjofar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my",
+      "marks": "al wat by my is"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "en julle moet blaas"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "in die sjofarre"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kamp"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "en julle moet sê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ולגדעון",
+      "gloss": "en vir Gideon"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:00.698558147Z",
+  "model": "glm-5.3"
+}

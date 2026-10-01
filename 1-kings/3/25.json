@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 3:25",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die koning sê: Sny ⟨את⟩ die lewende kind in twee, en gee ⟨את⟩ die helfte aan die een en ⟨את⟩ die helfte aan die ander.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en die koning sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "גזרו",
+      "gloss": "sny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewende kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "החי",
+      "gloss": "die lewende"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "in twee"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die helfte"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "die helfte"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "aan die een"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die helfte"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "die helfte"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "aan die ander"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:03.723878952Z",
+  "model": "glm-5.3"
+}

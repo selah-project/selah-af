@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 22:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ die bresse van die stad van Dawid het julle gesien, want hulle het vermenigvuldig, en julle het ⟨את⟩ die water van die onderste poel bymekaargebring.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die bresse van die stad van Dawid"
+    },
+    {
+      "surface": "בקיעי",
+      "gloss": "bresse"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "het julle gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "het vermenigvuldig"
+    },
+    {
+      "surface": "ותקבצו",
+      "gloss": "en julle het bymekaargebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die water van die onderste poel"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die water"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "van die poel"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "die onderste"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:52.840715616Z",
+  "model": "glm-5.3"
+}

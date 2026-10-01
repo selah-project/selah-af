@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Hulle loof sy Naam in ⟨die⟩ maal, met handtrom en lier speel hulle vir Hom.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Hulle loof"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy Naam"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "in ⟨die⟩ maal"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "met handtrom"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en lier"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "speel hulle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.047966762Z",
+  "model": "glm-5.3"
+}

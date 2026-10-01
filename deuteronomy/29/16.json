@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 29:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "en julle het ⟨את⟩ hulle gruwels gesien en ⟨את⟩ hulle afgode — hout en klip, silwer en goud — wat by hulle was",
+  "tokens": [
+    {
+      "surface": "ותראו",
+      "gloss": "en julle het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gruwels"
+    },
+    {
+      "surface": "שקוציהם",
+      "gloss": "hulle gruwels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle afgode"
+    },
+    {
+      "surface": "גלליהם",
+      "gloss": "hulle afgode"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en klip"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "by hulle was"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:27.131953987Z",
+  "model": "glm-5.3"
+}

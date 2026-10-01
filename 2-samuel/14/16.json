@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Want die koning sal luister om sy diensmeisie uit die hand van die man te red — om my en ⟨את⟩ my seun saam uit die erfdeel van Elohim weg te vaag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sal luister"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "om te red"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy diensmeisie"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sy diensmeisie"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "van die man"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "om weg te vaag"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "uit die erfdeel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:37.186077952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Ahas het ⟨את⟩ die silwer en ⟨את⟩ die goud wat gevind is in die huis van Jahweh en in die skatkamers van die huis van die koning geneem, en dit as 'n omkoopgeskenk aan die koning van Assur gestuur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ahas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wat gevind is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "en in die skatkamers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "'n omkoopgeskenk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:01.746259473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Die een wat⟩ Jerusjalajim bou, ⟨is⟩ Jahweh; die verdrewenes van Jisraël vergader ⟨hy⟩.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "die verdrewenes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "vergader"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:34.293644605Z",
+  "model": "glm-5.3"
+}

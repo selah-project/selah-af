@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En dit is die geskiedenis van Terag: Terag het ⟨את⟩ Awram, ⟨את⟩ Najor en ⟨את⟩ Haran verwek, en Haran het ⟨את⟩ Lot verwek.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit is"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "die geskiedenis"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terag"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terag"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Najor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Najor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "en Haran"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:31.200278958Z",
+  "model": "glm-5.3"
+}

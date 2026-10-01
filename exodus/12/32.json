@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 12:32",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Neem ook julle kleinvee, ook julle beeste, soos julle gespreek het, en gaan; en seën ook ⟨את⟩ my.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "julle kleinvee"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "julle beeste"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "julle gespreek het"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "וברכתם",
+      "gloss": "en seën"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:42.913785860Z",
+  "model": "glm-5.3"
+}

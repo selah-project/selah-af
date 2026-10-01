@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Vervreem ⟨is⟩ die goddelose van die moederskoot; hulle dwaal van die baarmoeder, spreekers van leuens.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "vervreem"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "van die moederskoot"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "hulle dwaal"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "van die baarmoeder"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "spreekers van"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:12.820796549Z",
+  "model": "glm-5.3"
+}

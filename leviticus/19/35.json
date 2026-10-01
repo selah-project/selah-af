@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Julle moet geen onreg doen in ⟨die⟩ reg, in ⟨die⟩ maat, in ⟨die⟩ gewig en in ⟨die⟩ mengmaat nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "geen ... nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle doen"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in die reg"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "in die maat"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "in die gewig"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "en in die mengmaat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:05.214595154Z",
+  "model": "glm-5.3"
+}

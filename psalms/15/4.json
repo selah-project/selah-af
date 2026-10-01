@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "verag in sy oë ⟨is⟩ die verwerpte, maar die wat Jahweh vrees, eert hy; hy wat sweer om te ly en nie verander nie;",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "verag"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "die verwerpte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wat Jahweh vrees"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "die wat vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "eert hy"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hy wat sweer"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "om kwaad te ly"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "verander"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.340262447Z",
+  "model": "glm-5.3"
+}

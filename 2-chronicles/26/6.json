@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 26:6",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En hy het uitgetrek en geveg teen die Filistyne, en hy het ⟨את⟩ die muur van Gat afgebreek en ⟨את⟩ die muur van Jawne en ⟨את⟩ die muur van Asjdod; en hy het stede gebou in Asjdod en onder die Filistyne.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgetrek"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "en geveg"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "teen die Filistyne"
+    },
+    {
+      "surface": "ויפרץ",
+      "gloss": "en hy het afgebreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die muur van Gat"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die muur van"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die muur van Jawne"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die muur van"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "Jawne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die muur van Asjdod"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die muur van"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asjdod"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "stede"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "in Asjdod"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "en onder die Filistyne"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:52.702852219Z",
+  "model": "glm-5.3"
+}

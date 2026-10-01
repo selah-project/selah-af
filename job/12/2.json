@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Voorwaar, júlle ⟨is⟩ ⟨die⟩ volk, en saam met julle sal wysheid sterwe!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨die⟩ volk"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "en saam met julle"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sal sterwe"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:58.824756945Z",
+  "model": "glm-5.3"
+}

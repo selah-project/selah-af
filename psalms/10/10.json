@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy vertrap, hy buk neer, en deur sy magtige kragte val die ellendiges.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "hy vertrap"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "hy buk neer"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "en ⟨hulle⟩ val"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "deur sy magtige kragte"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "die ellendiges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.555461565Z",
+  "model": "glm-5.3"
+}

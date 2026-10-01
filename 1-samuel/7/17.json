@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 7:17",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En sy terugkeer was na Ramata, want daar was sy huis, en daar het hy ⟨את⟩ Jisraël geoordeel, en hy het daar 'n altaar vir Jahweh gebou.",
+  "tokens": [
+    {
+      "surface": "ותשבתו",
+      "gloss": "en sy terugkeer"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "na Ramata"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en daar"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "het hy geoordeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:30.085646348Z",
+  "model": "glm-5.3"
+}

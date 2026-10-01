@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Jahweh het ⟨את⟩ my heer grootliks geseën, en hy het groot geword; en Hy het hom kleinvee gegee, en beeste, en silwer en goud, en diensknegte en diensmeisies, en kamele en esels.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heer"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grootliks"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "en hy het groot geword"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en Hy het gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en beeste"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "en diensknegte"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "en diensmeisies"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "en kamele"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "en esels"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:50.257972301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 46:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Dié is die seuns van Lea wat sy vir Jaäkow gebaar het in Paddan-Aram, en ⟨את⟩ Dina sy dogter; al die siele van sy seuns en sy dogters ⟨is⟩ drie-en-dertig.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dié"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaar het"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "vir Jaäkow"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "in Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die siele"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ובנותיו",
+      "gloss": "en sy dogters"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:37.507570472Z",
+  "model": "glm-5.3"
+}

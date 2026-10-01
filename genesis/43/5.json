@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Maar as jy hom nie stuur nie, sal ons nie afsak nie, want die man het vir ons gesê: Julle sal my aangesig nie sien nie, behalwe julle broer ⟨את⟩ julle.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Maar as"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "jy nie"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "sal ons nie afsak nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "sal julle sien"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "julle broer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle (met julle)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:31.521007664Z",
+  "model": "glm-5.3"
+}

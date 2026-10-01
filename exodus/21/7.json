@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En as 'n man ⟨את⟩ sy dogter as diensmaagd verkoop, sal sy nie uitgaan soos die slawe uitgaan nie.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "verkoop"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dogter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "as diensmaagd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "sal sy uitgaan"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "soos die uitgaan"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "van die slawe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:20.160386251Z",
+  "model": "glm-5.3"
+}

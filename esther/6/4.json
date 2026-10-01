@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 6:4",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning het gesê: Wie is in die voorhof? En Haman het in die buitehof van die huis van die koning gekom om aan die koning te sê om ⟨את⟩ Mordegai te hang aan die hout wat hy vir hom gereed gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "is in die voorhof"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "na die hof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "die buite-"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "לתלות",
+      "gloss": "om te hang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordegai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "hy gereed gemaak het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:17.984890443Z",
+  "model": "glm-5.3"
+}

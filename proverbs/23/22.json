@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Luister na jou vader wat jou verwek het, en verag jou moeder nie wanneer sy oud geword het nie.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "na jou vader"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "jou verwek het"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en ... nie"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "verag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "oud geword het"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "jou moeder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:55.037387904Z",
+  "model": "glm-5.3"
+}

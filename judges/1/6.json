@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Adoni-Bezek het gevlug, en hulle het hom agtervolg en hom gegryp, en hulle het ⟨את⟩ die duime van sy hande en sy groottone afgekap.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "en hy het gevlug"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adoni"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "-Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "en hulle het agtervolg"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "en hulle het gegryp"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "en hulle het afgekap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die duime"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "die duime"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "en sy groottone"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:00.502977744Z",
+  "model": "glm-5.3"
+}

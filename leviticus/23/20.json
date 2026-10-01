@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En die priester sal hulle beweeg ⟨את⟩, by die brood van die eerstelinge, 'n bewewing voor Jahweh, by die twee lammers; heilig sal hulle aan Jahweh wees, vir die priester.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "en … sal beweeg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (die lammers en die brood)"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "van die eerstelinge"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "'n bewewing"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "lammers"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "vir die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:33.960423812Z",
+  "model": "glm-5.3"
+}

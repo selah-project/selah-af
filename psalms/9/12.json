@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Sing ⟨ל⟩ Jahweh wat op Tsijon troon, maak onder die volke sy dade bekend.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wat troon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "op Tsijon"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "maak bekend"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "sy dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:32.031722573Z",
+  "model": "glm-5.3"
+}

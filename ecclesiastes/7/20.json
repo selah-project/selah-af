@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Want daar is geen regverdige mens op aarde wat goed doen en nie sondig nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "regverdige"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sondig nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.955210940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Wat sal julle doen op die dag van moëd, en op die dag van die fees van Jahweh?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sal julle doen"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van moëd"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "en op die dag"
+    },
+    {
+      "surface": "חג",
+      "gloss": "fees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:57.859772627Z",
+  "model": "glm-5.3"
+}

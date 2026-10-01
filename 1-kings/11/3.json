@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En vir hom was daar vroue, vorstinne, sewehonderd, en byvroue driehonderd; en sy vroue het ⟨את⟩ sy hart laat afwyk.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vroue"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "vorstinne"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "en byvroue"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "en hulle het laat afwyk"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:26.647052874Z",
+  "model": "glm-5.3"
+}

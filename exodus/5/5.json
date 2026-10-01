@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Paro het gesê: Kyk, die volk van die land is nou talryk, en julle laat ⟨את⟩ hulle ophou met hulle swaar werk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "talryk"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "en julle laat ophou"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "met hulle swaar werk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:40.983380168Z",
+  "model": "glm-5.3"
+}

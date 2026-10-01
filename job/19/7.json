@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Kyk, ek skreeu ⟨oor⟩ geweld, maar ek word nie verhoor nie; ek roep om hulp, maar daar is geen reg nie.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "ek skreeu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "word ek verhoor"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "ek roep om hulp"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar daar is nie"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:30.654059799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die kind word groot, en sy bring hom na die dogter van Paro, en hy word ⟨vir haar⟩ 'n seun. En sy roep sy naam Mosje, en sy sê: Want uit die water het ek hom getrek.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "en hy word groot"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "en sy bring hom"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "na die dogter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hy word"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy roep"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "het ek hom getrek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:05.430422309Z",
+  "model": "glm-5.3"
+}

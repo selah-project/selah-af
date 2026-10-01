@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En dit het gebeur, toe hulle ⟨את⟩ die Tora hoor, dat hulle die hele gemengde menigte van Jisraël afgesonder het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "toe hulle hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "dat hulle afgesonder het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "gemengde menigte"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:27.842300867Z",
+  "model": "glm-5.3"
+}

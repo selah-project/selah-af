@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 29:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En dit is die ding wat jy aan hulle moet doen om hulle te heilig, om as priesters vir My te dien: neem een jong bul, 'n seun van die rondvee, en twee ramme, onberispelikes.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "om te heilig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (Aharon en sy seuns)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om as priester te dien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n bul"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van die rondvee"
+    },
+    {
+      "surface": "ואילם",
+      "gloss": "en ramme"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "onberispelikes"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:21.258408764Z",
+  "model": "glm-5.3"
+}

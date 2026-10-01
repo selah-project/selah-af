@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 8:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Moenie sê: sameswering, oor alles wat hierdie volk sê: sameswering; en ⟨את⟩ sy vrees moet julle nie vrees nie, en moenie sidder nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Moenie"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "sê"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sameswering"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oor alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "sameswering"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrees"
+    },
+    {
+      "surface": "מוראו",
+      "gloss": "sy vrees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "moet julle vrees"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תעריצו",
+      "gloss": "sidder"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:09.614636949Z",
+  "model": "glm-5.3"
+}

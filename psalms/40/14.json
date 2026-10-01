@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Laat dit U behaag, Jahweh, om my te red; Jahweh, haas U om my te help.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "laat dit behaag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "om my te red"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "om my te help"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haas U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:55.829362823Z",
+  "model": "glm-5.3"
+}

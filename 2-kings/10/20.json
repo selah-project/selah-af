@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Jehoe het gesê: Heilig 'n samekoms vir die Baäl. En hulle het dit afgekondig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Heilig"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "'n samekoms"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "vir die Baäl"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "afgekondig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:38.332733410Z",
+  "model": "glm-5.3"
+}

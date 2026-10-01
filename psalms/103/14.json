@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Want hý ken ons gestalte; hy onthou dat ons stof ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hý"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ons gestalte"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.496226690Z",
+  "model": "glm-5.3"
+}

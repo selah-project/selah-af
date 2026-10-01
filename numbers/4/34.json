@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 4:34",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Mosje en Aharon en die owerstes van die vergadering het ⟨את⟩ die seuns van die Kehatiete getel volgens hulle families en volgens hulle vaderhuise.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "het getel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "ונשיאי",
+      "gloss": "en die owerstes"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van die Kehatiete"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "van die Kehatiete"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hulle families"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "en volgens die huis"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:50.149833479Z",
+  "model": "glm-5.3"
+}

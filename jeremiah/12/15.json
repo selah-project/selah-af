@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 12:15",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En dit sal gebeur: nadat ek hulle ⟨את⟩ uitgetrek het, sal ek terugkom en hulle ontferm, en hulle laat terugkeer, elkeen na sy erfenis en elkeen na sy land.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "נתשי",
+      "gloss": "ek uitgetrek het"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die nasies)"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "sal ek terugkom"
+    },
+    {
+      "surface": "ורחמתים",
+      "gloss": "en hulle ontferm"
+    },
+    {
+      "surface": "והשבתים",
+      "gloss": "en hulle laat terugkeer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "na sy erfenis"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "לארצו",
+      "gloss": "na sy land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:35.934555831Z",
+  "model": "glm-5.3"
+}

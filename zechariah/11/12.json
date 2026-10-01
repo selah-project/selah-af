@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 11:12",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ek het vir hulle gesê: As dit goed is in julle oë, gee my loon; en as nie, laat staan. En hulle het my loon afgeweeg — dertig silwer.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dit goed is"
+    },
+    {
+      "surface": "בעיניכם",
+      "gloss": "in julle oë"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "my loon"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "laat staan"
+    },
+    {
+      "surface": "וישקלו",
+      "gloss": "en hulle het afgeweeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my loon"
+    },
+    {
+      "surface": "שכרי",
+      "gloss": "my loon"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.478405215Z",
+  "model": "glm-5.3"
+}

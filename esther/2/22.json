@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "esther 2:22",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die saak is aan Mordegai bekend gemaak, en hy het dit aan Ester die koningin vertel, en Ester het dit aan die koning gesê in die naam van Mordegai.",
+  "tokens": [
+    {
+      "surface": "ויודע",
+      "gloss": "En is bekend gemaak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordegai"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hy het vertel"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "aan Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "die koningin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "van Mordegai"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:28.307523865Z",
+  "model": "glm-5.3"
+}

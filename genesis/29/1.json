@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Toe lig Jaäkow sy voete op en gaan na die land van die seuns van die ooste.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "toe lig ... op"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na die land"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van die ooste"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:41.868437555Z",
+  "model": "glm-5.3"
+}

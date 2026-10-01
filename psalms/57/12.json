@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Word verhewé bo ⟨die⟩ hemele, Elohim, en bo die hele aarde U glans.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "word verhewé"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "U glans"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:24.152802795Z",
+  "model": "glm-5.3"
+}

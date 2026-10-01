@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 5:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Jahweh, in die môre hoor U my stem, in die môre stel ek dit vir U in orde, en wag ek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hoor U"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "אערך",
+      "gloss": "stel ek in orde"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "ואצפה",
+      "gloss": "en wag ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:26.160456672Z",
+  "model": "glm-5.3"
+}

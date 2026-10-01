@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "Elohim, my El, u ⟨is⟩ dit wat ek vroegoggend soek; dors het my siel na U, verlang my vlees na U, in ’n dorre en moeë land sonder water.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u ⟨is⟩ dit"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "wat ek vroegoggend soek"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "dors het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my vlees"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in ’n land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dorre"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "en moeë"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.045898574Z",
+  "model": "glm-5.3"
+}

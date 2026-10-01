@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En as daar vir hom geen broers ⟨is⟩, dan sal julle ⟨את⟩ sy erfdeel aan die broers van sy vader gee.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar nie is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "sal julle gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy erfdeel"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sy erfdeel"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "aan die broers"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:30.165399987Z",
+  "model": "glm-5.3"
+}

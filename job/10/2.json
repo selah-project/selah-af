@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Ek sê tot Eloah: veroordeel my nie; laat my weet waarom U met my twis.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ek sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "veroordeel my"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "laat my weet"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "U twis met my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:58.566963092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Jou kleed het nie van op jou verslyt nie, en jou voet het nie geswel nie, dié veertig jaar.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "jou kleed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "verslyt"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "van op jou"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "en jou voet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "geswel"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:31.480967273Z",
+  "model": "glm-5.3"
+}

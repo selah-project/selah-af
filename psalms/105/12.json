@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "toe hulle min van getal was, 'n handjievol mans, en bywoners daarin.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "toe hulle was"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "mans"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "min van getal"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "'n handjievol"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "en bywoners"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:04.923914407Z",
+  "model": "glm-5.3"
+}

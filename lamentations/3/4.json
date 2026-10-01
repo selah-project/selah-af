@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Hy het my vlees en my vel laat verwelk, hy het my gebeente gebreek.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "laat verwelk"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my vlees"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "en my vel"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gebreek"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "my gebeente"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:49.673655649Z",
+  "model": "glm-5.3"
+}

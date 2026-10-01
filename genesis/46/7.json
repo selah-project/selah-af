@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "sy seuns en die seuns van sy seuns ⟨met⟩ hom, sy dogters en die dogters van sy seuns, en al sy nageslag het hy ⟨met⟩ hom Mitsrajim toe gebring.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "saam met hom"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sy dogters"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en die dogters van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sy nageslag"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "het hy gebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "saam met hom"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajim toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:46.532045775Z",
+  "model": "glm-5.3"
+}

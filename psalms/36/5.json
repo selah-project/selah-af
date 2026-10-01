@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Onnut bedink hy op sy bed; hy stel hom op 'n weg wat nie goed is nie; kwaad verag hy nie.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "onnut"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bedink hy"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "sy bed"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "stel hom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "'n weg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "verag hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:46.124521340Z",
+  "model": "glm-5.3"
+}

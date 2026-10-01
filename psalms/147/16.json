@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Hy⟩ wat sneeu gee soos wol, ryp soos as verstrooi.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "wat gee"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeu"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "soos wol"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ryp"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "soos as"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "verstrooi"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:16.580081310Z",
+  "model": "glm-5.3"
+}

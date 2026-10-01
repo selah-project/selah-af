@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En Hy het die Misjkan van Sjilo verlaat, die tent wat Hy laat woon het onder ⟨die⟩ mens.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "het verlaat"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Misjkan"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "van Sjilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "laat woon het"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onder ⟨die⟩ mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:13.193811449Z",
+  "model": "glm-5.3"
+}

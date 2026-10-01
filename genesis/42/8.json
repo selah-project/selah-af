@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Josef het ⟨את⟩ sy broers herken, maar hulle het hom nie herken nie.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "herken"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "והם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "hom herken nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:56.122265682Z",
+  "model": "glm-5.3"
+}

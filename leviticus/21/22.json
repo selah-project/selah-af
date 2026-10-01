@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die brood van sy Elohim, van die heiligste dinge en van die heilige dinge, mag hy eet.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van sy Elohim"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "van die heiligste dinge"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "heilige dinge"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die heilige dinge"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag hy eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:23.962638290Z",
+  "model": "glm-5.3"
+}

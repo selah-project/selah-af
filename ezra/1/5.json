@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 1:5",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die hoofde van die vaders van Jehoeda en Binyamin, en die priesters en die Leviete het opgestaan — elkeen ⟨את⟩ wie se roeag Elohim gewek het om op te gaan om ⟨את⟩ die huis van Jahweh wat in Jerusjalajim ⟨is⟩ te bou.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die hoofde"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "van die vaders"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binyamin"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "en die priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "en die Leviete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "gewek het"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "roeag (sy roeag)"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "wie se roeag"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "om op te gaan"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:50.149748165Z",
+  "model": "glm-5.3"
+}

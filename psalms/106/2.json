@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Wie kan die magtige dade van Jahweh uitspreek, ⟨of⟩ al sy lof laat hoor?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "kan uitspreek"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "magtige dade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "laat hoor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:44.436385292Z",
+  "model": "glm-5.3"
+}

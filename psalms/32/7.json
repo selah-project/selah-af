@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "U ⟨is⟩ 'n skuilplek vir my; van benoudheid sal U my bewaar; met jubelgeroei van redding sal U my omring. Sela.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "'n skuilplek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "sal U my bewaar"
+    },
+    {
+      "surface": "רני",
+      "gloss": "jubelgeroei"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "redding"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "sal U my omring"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:59.671288182Z",
+  "model": "glm-5.3"
+}

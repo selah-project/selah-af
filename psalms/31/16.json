@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "In U hand ⟨is⟩ my tye; red my uit die hand van my vyande en uit die hand van my vervolgers.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "in U hand"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "my tye"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "van my vyande"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "en uit die hand van my vervolgers"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:37.079900897Z",
+  "model": "glm-5.3"
+}

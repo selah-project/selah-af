@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 14:42",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Sjaul het gesê: Gooi ⟨die lot⟩ tussen my en tussen Jonatan my seun. En Jonatan is uitgeloot.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "הפילו",
+      "gloss": "gooi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en ... is uitgeloot"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:48.534439678Z",
+  "model": "glm-5.3"
+}

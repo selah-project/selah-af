@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Vervloek sal jy wees in die stad, en vervloek sal jy wees in die veld.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "en vervloek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:58.568319707Z",
+  "model": "glm-5.3"
+}

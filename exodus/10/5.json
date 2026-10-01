@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 10:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en hulle sal ⟨את⟩ die oog van die land bedek, sodat niemand ⟨את⟩ die land kan sien nie; en hulle sal ⟨את⟩ die oorskiet van die ontsnapte eet wat vir julle oorgebly het van die hael, en hulle sal ⟨את⟩ al die bome eet wat vir julle uitspruit uit die veld.",
+  "tokens": [
+    {
+      "surface": "וכסה",
+      "gloss": "en hulle sal bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oog van die land"
+    },
+    {
+      "surface": "עין",
+      "gloss": "die oog"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "sal kan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en hulle sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oorskiet van die ontsnapte"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "die oorskiet"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "van die ontsnapte"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "wat oorgebly is"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "die hael"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en hulle sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die bome"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die bome"
+    },
+    {
+      "surface": "הצמח",
+      "gloss": "wat uitspruit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:53.615034531Z",
+  "model": "glm-5.3"
+}

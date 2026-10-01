@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Wie van julle sal hiernaar luister, sal oplet en hoor vir ⟨die⟩ tyd daarna?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "van julle"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "sal luister"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hiernaar"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "sal oplet"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "vir die tyd daarna"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:46.588505546Z",
+  "model": "glm-5.3"
+}

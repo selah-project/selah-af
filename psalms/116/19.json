@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 116:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "In die howe van die huis van Jahweh, binne-in jou, o Jerusjalajim. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "בחצרות",
+      "gloss": "in die howe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בתוככי",
+      "gloss": "binne-in jou"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jerusjalajim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:32.751350348Z",
+  "model": "glm-5.3"
+}

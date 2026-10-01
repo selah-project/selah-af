@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Uit die benoudheid het ek Jah geroep; Jah het my beantwoord in die wydheid — Jah.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "die benoudheid"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "het ek geroep"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "het my beantwoord"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in die wydheid"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:35.695581921Z",
+  "model": "glm-5.3"
+}

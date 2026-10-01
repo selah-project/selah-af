@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die Filistyn sê: Ek het ⟨את⟩ die krygsranges van Jisraël gehoön vandag, hierdie dag; gee vir my 'n man, en laat ons saam veg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "hoon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die krygsranges van Jisraël"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "krygsranges"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie dag"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "en laat ons veg"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:23.329767487Z",
+  "model": "glm-5.3"
+}

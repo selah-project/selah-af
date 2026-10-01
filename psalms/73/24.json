@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Met U raad lei U my, en daarna neem U my in heerlikheid op.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "met U raad"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "lei U my"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "in heerlikheid"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "neem U my op"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:11.431323427Z",
+  "model": "glm-5.3"
+}

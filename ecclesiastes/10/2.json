@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die hart van 'n wyse ⟨is⟩ by sy regterhand, en die hart van 'n dwaas by sy linkerhand.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "van 'n wyse"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "by sy regterhand"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en die hart"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "van 'n dwaas"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "by sy linkerhand"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:40.777530564Z",
+  "model": "glm-5.3"
+}

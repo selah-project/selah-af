@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 125,
+  "translation": "En wat hulle kronkelweë buig, hulle sal Jahweh ⟨את⟩ die workers van onreg laat wegwandeld word — sjalom op Jisraël!",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "en wat buig"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "hulle kronkelweë"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "sal hulle laat wegwandeld word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die workers van onreg"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die workers"
+    },
+    {
+      "surface": "האון",
+      "gloss": "van onreg"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:52.695282477Z",
+  "model": "glm-5.3"
+}

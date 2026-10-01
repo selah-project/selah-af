@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Laat u hand wees op die man van u regterhand, op die seun van die mens wat U vir Uself versterk het.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "laat wees"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "van u regterhand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "wat U versterk het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir Uself"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:42.792345352Z",
+  "model": "glm-5.3"
+}

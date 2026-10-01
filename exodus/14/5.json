@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En daar is berig aan die koning van Mitsrajim dat die volk gevlug het; en die hart van Paro en sy dienaars het hulle gekeer teen die volk, en hulle het gesê: Wat is dit wat ons gedoen het, dat ons ⟨את⟩ Jisraël laat gaan het om vir ons te dien?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en daar is berig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlug het"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "en het hom gekeer"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "ויעבדיו",
+      "gloss": "en sy dienaars"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "het ons gedoen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "ons laat gaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "om vir ons te dien"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:18.219499572Z",
+  "model": "glm-5.3"
+}

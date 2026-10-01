@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Jahweh ondersteun hom op ⟨die⟩ bed van siekte; sy hele ligbed het U in sy krankheid omgedraai.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "ondersteun hom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "bed"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "van siekte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ligbed"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "het U omgedraai"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "in sy krankheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:52.779984747Z",
+  "model": "glm-5.3"
+}

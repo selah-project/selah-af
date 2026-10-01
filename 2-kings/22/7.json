@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "maar die silwer wat in hulle hand gegee word, word nie ⟨את⟩ met hulle bereken nie, want in getrouheid hulle werk.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "word bereken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ met hulle",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "wat gegee word"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in getrouheid"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "werk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:49.728010368Z",
+  "model": "glm-5.3"
+}

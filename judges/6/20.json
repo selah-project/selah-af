@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 6:20",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die boodskapper van die Elohim sê vir hom: Neem ⟨את⟩ die vleis en ⟨את⟩ die ongesuurde koek en lê ⟨dit⟩ op hierdie rots neer, en ⟨את⟩ die sous, goi uit. En hy het so gedoen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "die boodskapper"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vleis"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "die vleis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ongesuurde koek"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "die ongesuurde koek"
+    },
+    {
+      "surface": "והנח",
+      "gloss": "en lê neer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "die rots"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die sous"
+    },
+    {
+      "surface": "המרק",
+      "gloss": "die sous"
+    },
+    {
+      "surface": "שפוך",
+      "gloss": "goi uit"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:12.937819724Z",
+  "model": "glm-5.3"
+}

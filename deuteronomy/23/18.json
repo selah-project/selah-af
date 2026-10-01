@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 23:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Daar mag geen kedesja uit ⟨die⟩ dogters van Jisraël wees nie, en daar mag geen kedeesj uit ⟨die⟩ seuns van Jisraël wees nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "mag daar wees"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "kedesja"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "uit ⟨die⟩ dogters"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mag daar wees"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "kedeesj"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "uit ⟨die⟩ seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:06.501393543Z",
+  "model": "glm-5.3"
+}

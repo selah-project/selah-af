@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Jahweh, Elohim van Tsewaot, wie ⟨is⟩ soos U, magtige Jah? En U se troue ⟨gesed⟩—trou rondom U.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "soos U"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "en U se trou"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "rondom U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.907634936Z",
+  "model": "glm-5.3"
+}

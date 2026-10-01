@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jehosjoea het vroeg in die môre opgestaan en ⟨את⟩ Jisraël volgens sy stamme nader laat kom; en die stam van Jehoeda is gegryp.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "het vroeg ... opgestaan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "en ... nader laat kom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "volgens sy stamme"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en ... is gegryp"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "die stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:01.864641011Z",
+  "model": "glm-5.3"
+}

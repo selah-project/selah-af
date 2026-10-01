@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 17:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En sy het gegaan en gedoen volgens die woord van Elia; en geëet is daar — hy en sy en haar huis — dae lank.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "en sy het gegaan"
+    },
+    {
+      "surface": "ותעשה",
+      "gloss": "en gedoen"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "van Elia"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en geëet"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "en sy"
+    },
+    {
+      "surface": "וביתה",
+      "gloss": "en haar huis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:07.116609011Z",
+  "model": "glm-5.3"
+}

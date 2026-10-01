@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Praat met die seuns van Jisraël en sê vir hulle: Ek ⟨is⟩ Jahweh jul Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Praat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:52.519417152Z",
+  "model": "glm-5.3"
+}

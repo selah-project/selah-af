@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Vir die koorleier, 'n maskil van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n maskil"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:54.939411510Z",
+  "model": "glm-5.3"
+}

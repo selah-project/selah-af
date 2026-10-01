@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En toe die koning ⟨את⟩ die woorde van die Tora hoor, het hy ⟨את⟩ sy klere geskeur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe ... hoor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van die Tora"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "van die Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "het hy geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:46.449172417Z",
+  "model": "glm-5.3"
+}

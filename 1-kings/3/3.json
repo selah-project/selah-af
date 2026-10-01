@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Sjelomo het Jahweh liefgehad, ⟨את⟩ om te wandel in die verordeninge van Dawid sy vader; net in die hoë plekke was hy aan die offer en aan die wierook.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "en hy het liefgehad"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandel"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "in die verordeninge"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "in die hoë plekke"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "was aan die offer"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "en aan die wierook"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:01.142344013Z",
+  "model": "glm-5.3"
+}

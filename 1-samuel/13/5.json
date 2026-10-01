@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 13:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die Filistyne het hulle versamel om teen Jisraël te veg: dertig duisend strydwaens en ses duisend ruiters, en ⟨die⟩ volk soos die sand wat aan die lip van die see is, in menigte; en hulle het opgetrek en kamp opgeslaan in Migmas, oos van Bet-Awen.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "En die Filistyne"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "het hulle versamel"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "om te veg"
+    },
+    {
+      "surface": "עם",
+      "gloss": "teen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "strydwaens"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ruiters"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en ⟨die⟩ volk"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "soos die sand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "die lip"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in menigte"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het opgetrek"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en kamp opgeslaan"
+    },
+    {
+      "surface": "במכמש",
+      "gloss": "in Migmas"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "oos van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "און",
+      "gloss": "Awen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:26.215573595Z",
+  "model": "glm-5.3"
+}

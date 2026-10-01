@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Ek roep na U, en U antwoord my nie; ek staan op, en U staar my aan.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ek roep"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "antwoord U my"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ek staan op"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "en U staar aan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:21.177367798Z",
+  "model": "glm-5.3"
+}

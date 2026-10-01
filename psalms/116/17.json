@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Aan jou sal ek 'n slagoffer van dankoffers offer, en in die naam van Jahweh sal ek aanroep.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "sal ek offer"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "'n slagoffer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "van dank"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "en in die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek aanroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:32.750684152Z",
+  "model": "glm-5.3"
+}

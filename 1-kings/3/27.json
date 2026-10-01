@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Toe antwoord die koning en sê: Gee haar ⟨את⟩ die lewende kind, dood hom nie — sy is sy moeder.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Toe antwoord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewende kind"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "החי",
+      "gloss": "die lewende"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "is sy moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:03.724429276Z",
+  "model": "glm-5.3"
+}

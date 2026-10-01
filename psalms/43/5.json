@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 43:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Wat buig jy jou neer, my siel, en wat rumoer jy binne my? Verwag Elohim, want nog sal ek Hom loof, die verlossing van my aangesig, en my Elohim.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "buig jy jou neer"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "rumoer jy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "binne my"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "verwag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "sal ek Hom loof"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "die verlossing"
+    },
+    {
+      "surface": "פני",
+      "gloss": "van my aangesig"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:24.424319757Z",
+  "model": "glm-5.3"
+}

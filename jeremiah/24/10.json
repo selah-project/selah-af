@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Ek sal onder hulle stuur ⟨את⟩ die swaard, ⟨את⟩ die hongersnood en ⟨את⟩ die pes, tot hulle omkom van die grond af wat Ek aan hulle en aan hulle vaders gegee het.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En Ek sal stuur"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die swaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hongersnood"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "die hongersnood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die pes"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die pes"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "hulle omkom"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ek gegee het"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "en aan hulle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:37.469297135Z",
+  "model": "glm-5.3"
+}

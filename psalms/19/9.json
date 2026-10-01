@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Die verordeninge van Jahweh ⟨is⟩ reg, verheug die hart; die gebod van Jahweh ⟨is⟩ suiwer, verlig die oë.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "verordeninge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "reg"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "verheug"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "gebod"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "verlig"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "die oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:30.372768367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die son kom in en hy word rein, en daarna mag hy eet van die heiliges, want sy brood is ⟨dit⟩.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en kom in"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en hy word rein"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hy eet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die heiliges"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "sy brood"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dit⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:12.294130477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Wanneer 'n man 'n veld of wingerd laat afwei en ⟨את⟩ sy vee losskeur en dit in die veld van 'n ander laat wei, van die beste van sy veld en van die beste van sy wingerd sal hy vergoed.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "laat afwei"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "'n veld"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "wingerd"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en hy loslaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vee"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "sy vee"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "en dit laat wei"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "van 'n ander"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "van die beste"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "van sy veld"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "en van die beste"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "van sy wingerd"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sal hy vergoed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:30.604898814Z",
+  "model": "glm-5.3"
+}

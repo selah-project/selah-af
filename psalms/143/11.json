@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Ter wille van u naam, Jahweh, maak my lewend; in u tsedek bring my siel uit die benoudheid.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "maak my lewend"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in u tsedek"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "bring uit"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "uit die benoudheid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:15.169978713Z",
+  "model": "glm-5.3"
+}

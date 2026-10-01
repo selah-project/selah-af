@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 119:53",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Gloed het my aangegryp oor die goddeloses, dié wat u Tora verlaat.",
+  "tokens": [
+    {
+      "surface": "זלעפה",
+      "gloss": "gloed"
+    },
+    {
+      "surface": "אחזתני",
+      "gloss": "het my aangegryp"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "oor die goddeloses"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "dié wat verlaat"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:59.878625180Z",
+  "model": "glm-5.3"
+}

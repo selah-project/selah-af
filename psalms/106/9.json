@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 106:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Hy het die see van Suf berispe en dit het droog geword, en hulle deur die dieptes gelei soos deur die wildernis.",
+  "tokens": [
+    {
+      "surface": "ויגער",
+      "gloss": "berispe"
+    },
+    {
+      "surface": "בים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Suf"
+    },
+    {
+      "surface": "ויחרב",
+      "gloss": "droog geword"
+    },
+    {
+      "surface": "ויוליכם",
+      "gloss": "gelei hulle"
+    },
+    {
+      "surface": "בתהמות",
+      "gloss": "deur die dieptes"
+    },
+    {
+      "surface": "כמדבר",
+      "gloss": "soos deur die wildernis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:15.169707011Z",
+  "model": "glm-5.3"
+}

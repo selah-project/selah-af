@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Die berge sal sjalom dra vir die volk, en die heuwels in tsedeka.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "sal dra"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vir die volk"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "en die heuwels"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "in tsedeka"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.534101957Z",
+  "model": "glm-5.3"
+}

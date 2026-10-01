@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Dawid het Jahweh gevrees op ⟨die⟩ dag daardie, en hy het gesê: Hoe sal die ark van Jahweh by my kom?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gevrees"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op ⟨die⟩ dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:04.117329258Z",
+  "model": "glm-5.3"
+}

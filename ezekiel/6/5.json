@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Ek sal ⟨את⟩ die lyke van die seuns van Jisraël voor hulle afgode lê, en Ek sal ⟨את⟩ julle bene rondom julle altare uitstrooi.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lyke van die seuns van Jisraël"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "die lyke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "hulle afgode"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "en Ek sal uitstrooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle bene"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "julle bene"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "julle altare"
+    }
+  ],
+  "timestamp": "2026-09-30T22:45:56.637281571Z",
+  "model": "glm-5.3"
+}

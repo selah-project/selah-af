@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 109:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Hulle vloek, maar u sal seën; hulle staan op en word beskaamd, maar u dienaar verbly hom.",
+  "tokens": [
+    {
+      "surface": "יקללו",
+      "gloss": "hulle vloek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar u"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "sal seën"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "hulle staan op"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en word beskaamd"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "maar u dienaar"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verbly hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:01.429370598Z",
+  "model": "glm-5.3"
+}

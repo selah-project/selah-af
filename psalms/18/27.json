@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Met ⟨die⟩ gesuiwerde toon U Uself suiver; en met ⟨die⟩ kromme gaan U self krom ⟨om⟩.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "gesuiwerde"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "toon U Uself suiver"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "kromme"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "gaan U self krom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:42.077012361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die vyand ⟨is⟩ vernietig, ⟨dit is⟩ puinhope tot vir ewig; en ⟨hulle⟩ stede het U ontwortel — vergaan ⟨is⟩ hulle gedenkteken, húlle.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "⟨is⟩ vernietig"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "puinhope"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "tot vir ewig"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "en stede"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "U het ontwortel"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hulle gedenkteken"
+    },
+    {
+      "surface": "המה",
+      "gloss": "húlle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:35.862134029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy land het vol silwer en goud geraak, en daar is geen end aan sy skatte nie; en sy land het vol perde geraak, en daar is geen end aan sy strydwaens nie.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "En … het vol geraak"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "end"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "aan sy skatte"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en … het vol geraak"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "perde"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "end"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "aan sy strydwaens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:21.665529959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "het Jahweh 'n man, 'n profeet, gestuur na die seuns van Jisraël, en hy het vir hulle gesê: So sê Jahweh, die Elohim van Jisraël: Ek het julle ⟨את⟩ uit Mitsrajim laat opgaan, en ek het julle ⟨את⟩ uit 'n slawehuis uitgelei.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "'n profeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "het laat opgaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "julle, uit Mitsrajim laat opgaan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "en ... uitgelei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "julle, uit 'n slawehuis uitgelei"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit 'n huis van"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slawe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:49.439722140Z",
+  "model": "glm-5.3"
+}

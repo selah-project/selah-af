@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En aan Dawid is meegedeel ⟨את⟩ wat Ritspa, dogter van Aja, die byvrou van Sjaul, gedoen het.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en daar is meegedeel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Ritspa gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "Ritspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "איה",
+      "gloss": "van Aja"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "die byvrou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaul"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:58.183974647Z",
+  "model": "glm-5.3"
+}

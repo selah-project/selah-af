@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Jy mag 'n Edomiet nie verag nie, want hy is jou broer; jy mag 'n Mitsri nie verag nie, want jy was 'n vreemdeling in sy land.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "jy mag verag"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "'n Edomiet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "jy mag verag"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "'n Mitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גר",
+      "gloss": "'n vreemdeling"
+    },
+    {
+      "surface": "היית",
+      "gloss": "was jy"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "in sy land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:02.238816387Z",
+  "model": "glm-5.3"
+}

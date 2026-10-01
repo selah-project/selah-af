@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 142,
+  "translation": "Slaan die oog na die regterkant en sien, want daar is vir my niemand wat ⟨my⟩ ken nie; my toevlug het van my vergaan; daar is niemand wat na my siel vra nie.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "Slaan die oog"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "na die regterkant"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "want daar is nie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "niemand wat ken"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "het vergaan"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "toevlug"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "niemand wat vra"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "na my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:39.627906109Z",
+  "model": "glm-5.3"
+}

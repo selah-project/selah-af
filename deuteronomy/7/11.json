@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En jy moet ⟨את⟩ die gebod en ⟨את⟩ die insettinge en ⟨את⟩ die regte bewaar wat ek jou vandag beveel om te doen.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "en jy moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebod"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "die gebod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die insettinge"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die regte"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die regte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "om hulle te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:38.963536952Z",
+  "model": "glm-5.3"
+}

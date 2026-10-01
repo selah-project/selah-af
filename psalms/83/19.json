@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "En laat hulle weet dat u — u naam ⟨is⟩ Jahweh — alleen ⟨die⟩ Allerhoogste oor die hele aarde ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en laat hulle weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Allerhoogste"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:25.594766969Z",
+  "model": "glm-5.3"
+}

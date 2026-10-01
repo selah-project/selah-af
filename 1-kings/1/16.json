@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe het Bat-Sewa gebuig en herself voor die koning neergebuig, en die koning het gesê: Wat is met u?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "het gebuig"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sewa"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "en het neergebuig"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vir die koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "is met u"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:45.105490681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 24:16",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die volk het geantwoord en gesê: Mag dit ver van ons wees om ⟨את⟩ Jahweh te verlaat om ander gode te dien.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en het geantwoord"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "mag dit ver van ons wees"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "om te verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te dien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:06.070607747Z",
+  "model": "glm-5.3"
+}

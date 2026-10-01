@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh, Elohim Tsewaot — Jahweh ⟨is⟩ sy gedenknaam.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "sy gedenknaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:03.103696524Z",
+  "model": "glm-5.3"
+}

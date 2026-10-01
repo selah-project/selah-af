@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 2:3",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die koning van Jerigo het na Ragab gestuur om te sê: Bring die manne uit wat na jou gekom het, wat in jou huis gekom het, want om ⟨את⟩ die hele land deur te soek het hulle gekom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "van Jerigo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Ragab"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הוציאי",
+      "gloss": "Bring uit"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wat gekom het"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "in jou huis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "om deur te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het hulle gekom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:22.897014500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Awraham het ⟨את⟩ die naam van sy seun geroep, die een wat vir hom gebore is, wat Sara vir hom gebaar het: Jitsgak.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hy het geroep"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naam van sy seun"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "van sy seun"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "die een wat gebore is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaar het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:23.404267689Z",
+  "model": "glm-5.3"
+}

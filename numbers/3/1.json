@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En dit is die afstammelinge van Aharon en van Mosje, op die dag toe Jahweh met Mosje gespreek het op die berg Sinai.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "afstammelinge"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "en van Mosje"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:01.391852108Z",
+  "model": "glm-5.3"
+}

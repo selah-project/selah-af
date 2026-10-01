@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag sy dae min wees, sy amp mag 'n ander neem.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sy dae"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "min"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "sy amp"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "mag neem"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.974394163Z",
+  "model": "glm-5.3"
+}

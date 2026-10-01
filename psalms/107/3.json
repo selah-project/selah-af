@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 107:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "en uit die lande het hy hulle versamel, uit die ooste en uit die weste, uit die noorde en uit die see.",
+  "tokens": [
+    {
+      "surface": "ומארצות",
+      "gloss": "en uit die lande"
+    },
+    {
+      "surface": "קבצם",
+      "gloss": "het hy hulle versamel"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uit die ooste"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en uit die weste"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "uit die noorde"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en uit die see"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:36.900226964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Jahweh ⟨is⟩ vir my — ek sal nie vrees nie; wat sal die mens aan my doen?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sal ek vrees"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:35.695912155Z",
+  "model": "glm-5.3"
+}

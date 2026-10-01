@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 11:2",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die volk het al die manne geseën wat hulle vrywillig aanmeld om in Jerusjalajim te woon.",
+  "tokens": [
+    {
+      "surface": "ויברכו",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "המתנדבים",
+      "gloss": "wat hulle vrywillig aanmeld"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:02.189764394Z",
+  "model": "glm-5.3"
+}

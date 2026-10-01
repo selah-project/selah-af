@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het vir my gesê: Jy het goed gesien, want ek is wakker oor my woord om dit te doen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "jy het goed gedoen"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "is wakker"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woord"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "om dit te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:03.354639098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Gebreek het Jahweh die staf van die goddeloses, die scepter van die heersers.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "gebreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "die scepter"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "heersers"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:47.690961477Z",
+  "model": "glm-5.3"
+}

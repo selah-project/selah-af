@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Beeldskoon ⟨is⟩ jou wange met kranse, jou nek met krale.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "beeldskoon"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "jou wange"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "met kranse"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "jou nek"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "met krale"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:21.155898217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Toe sê Jehonatan vir Dawid: Wat sê jou siel, en ek sal dit vir jou doen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "toe sê"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "en ek sal doen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:12.778800759Z",
+  "model": "glm-5.3"
+}

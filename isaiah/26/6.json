@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "⟨Dit⟩ sal die voet vertrap — die voete van die arme, die treë van die behoeftiges.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "sal vertrap"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "die voete van"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "die treë van"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "die behoeftiges"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:50.277473740Z",
+  "model": "glm-5.3"
+}

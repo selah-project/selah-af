@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "slegs ⟨את⟩ die goud en ⟨את⟩ die silwer, ⟨את⟩ die brons, ⟨את⟩ die yster, ⟨את⟩ die tin en ⟨את⟩ die lood,",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brons"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "die brons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die yster"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "die yster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tin"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "die tin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die lood"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "die lood"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:13.008770666Z",
+  "model": "glm-5.3"
+}

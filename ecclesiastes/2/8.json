@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 2:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ek het vir my ook silwer en goud versamel, en die besondere skat van konings en van die provinsies; ek het vir my sangers en sangeresse gemaak, en die genot van die seuns van die mens — 'n vrou en vroue.",
+  "tokens": [
+    {
+      "surface": "כנסתי",
+      "gloss": "Ek het versamel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "וסגלת",
+      "gloss": "en die besondere skat"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "van konings"
+    },
+    {
+      "surface": "והמדינות",
+      "gloss": "en van die provinsies"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek het gemaak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "sangers"
+    },
+    {
+      "surface": "ושרות",
+      "gloss": "en sangeresse"
+    },
+    {
+      "surface": "ותענוגת",
+      "gloss": "en die genot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "ושדות",
+      "gloss": "en vroue"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:30.566338073Z",
+  "model": "glm-5.3"
+}

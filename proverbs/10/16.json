@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die loon van die regverdige ⟨is⟩ vir die lewe; die inkomste van die goddelose — vir sonde.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "die loon van"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "vir die lewe"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "die inkomste van"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "vir sonde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:25.663695796Z",
+  "model": "glm-5.3"
+}

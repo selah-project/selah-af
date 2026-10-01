@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "U het ⟨dit⟩ gesien, Jahweh; swyg nie, Adonai, wees nie ver van my nie.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "U het gesien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "swyg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wees ver"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:12.643388199Z",
+  "model": "glm-5.3"
+}

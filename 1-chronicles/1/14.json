@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ ⟨die⟩ Jebusiet, en ⟨את⟩ ⟨die⟩ Emoriet, en ⟨את⟩ ⟨die⟩ Girgasjiet;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jebusiet"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Jebusiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Emoriet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Girgasjiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Girgasjiet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.372712773Z",
+  "model": "glm-5.3"
+}

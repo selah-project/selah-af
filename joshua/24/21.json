@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die volk sê aan Jehosjoea: Nee, want ⟨את⟩ Jahweh sal ons dien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "sal ons dien"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:40.010897583Z",
+  "model": "glm-5.3"
+}

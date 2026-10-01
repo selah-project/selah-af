@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Daar is nie soos U onder ⟨die⟩ elohim nie, Adonai, en daar is nie soos U werke nie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Daar is nie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "soos U"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "onder die elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "soos U werke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.387369760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En ⟨את⟩ die naam van Aharon moet jy skryf op die staf van Levi, want een staf ⟨is⟩ vir die hoof van die huis van hulle vaders.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "die naam van Aharon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "moet jy skryf"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "staf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "vir die hoof"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hulle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:50.620684396Z",
+  "model": "glm-5.3"
+}

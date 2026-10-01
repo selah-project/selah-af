@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 5:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Wee hulle wat huis aan huis nader bring, veld aan veld, tot daar geen plek oor is nie — en julle word alleen gelaat in die middel van die land!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "מגיעי",
+      "gloss": "wat nader bring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "aan huis"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "veld"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "aan veld"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "hulle bring nader"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "plek oor is"
+    },
+    {
+      "surface": "והושבתם",
+      "gloss": "en julle word gelaat"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:38.094608395Z",
+  "model": "glm-5.3"
+}

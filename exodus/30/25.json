@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy moet ⟨את⟩ dit maak tot olie van heilige salf, 'n mengsel van mirre-balsem, werk van 'n salfbereier; olie van heilige salf sal dit wees.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy moet maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit (die olie)"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "van salf"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "'n mengsel"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "van balsem-mengsel"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "van 'n salfbereier"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "van salf"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:44.047449491Z",
+  "model": "glm-5.3"
+}

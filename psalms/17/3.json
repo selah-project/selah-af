@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 17:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "U het my hart getoets, U het my in die nag besoek, U het my gesuiwer — U het niks gevind; my planne sal nie my mond verbystreeks nie.",
+  "tokens": [
+    {
+      "surface": "בחנת",
+      "gloss": "U het getoets"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "פקדת",
+      "gloss": "U het besoek"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "צרפתני",
+      "gloss": "U het my gesuiwer"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "U het niks gevind"
+    },
+    {
+      "surface": "זמתי",
+      "gloss": "my planne"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "sal verbystreeks"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.558590678Z",
+  "model": "glm-5.3"
+}

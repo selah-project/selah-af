@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 8:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Elohim het ⟨את⟩ Noag gedink, en ⟨את⟩ al die lewende wesens en ⟨את⟩ al die vee wat ⟨את⟩ by hom in die tef was; en Elohim het 'n roeag oor die aarde laat gaan, en die waters het gaan lê.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "het gedink"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Noag"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die lewende wesens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "die lewende wesens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die vee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    },
+    {
+      "surface": "בתבה",
+      "gloss": "in die tef"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "het laat gaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "'n roeag"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "וישכו",
+      "gloss": "het gaan lê"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:10.561788027Z",
+  "model": "glm-5.3"
+}

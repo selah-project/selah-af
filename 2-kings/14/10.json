@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 14:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Jy het ⟨את⟩ Edom sekerlik geslaan, en jou hart het jou laat trots word; wees ⟨tog⟩ swaar van eer en bly in jou huis; en waarom sou jy jou in die kwaad begewe en val, jy self en Jehoeda met jou?",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "jy het sekerlik geslaan"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ונשאך",
+      "gloss": "en jou hart het jou laat trots word"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jou hart"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "wees swaar van eer"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en bly"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jou huis"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "תתגרה",
+      "gloss": "sou jy jou begewe\/uitdaag"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in die kwaad"
+    },
+    {
+      "surface": "ונפלתה",
+      "gloss": "en val"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy self"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:10.660823122Z",
+  "model": "glm-5.3"
+}

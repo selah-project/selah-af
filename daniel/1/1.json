@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 1:1",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "In die derde jaar van die koninkryk van Jehojakim, koning van Jehoeda, het Newukadnesar, koning van Babel, na Jerusjalajim gekom en dit beleër.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "in die jaar"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "derde"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "van die koninkryk"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "נבוכדנאצר",
+      "gloss": "Newukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "en het beleër"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:17.519425307Z",
+  "model": "glm-5.3"
+}

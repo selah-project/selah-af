@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Adonai, hoe lank sal U toekyk? Bring my siel terug uit hulle verwoestinge, uit die jong leeus my enigste.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sal U toekyk"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "uit hulle verwoestinge"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "uit die jong leeus"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "my enigste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:39.054797453Z",
+  "model": "glm-5.3"
+}

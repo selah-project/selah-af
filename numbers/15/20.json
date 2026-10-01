@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "die eerste van julle deeg, as 'n koek, sal julle as hefoffer ophef; soos die hefoffer van die dorsvloer, so sal julle ⟨את⟩ dit ophef.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "van julle deeg"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "'n koek"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "sal julle ophef"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "as hefoffer"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "soos die hefoffer"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "van die dorsvloer"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "sal julle ophef"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:36.706467539Z",
+  "model": "glm-5.3"
+}

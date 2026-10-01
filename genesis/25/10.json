@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "die veld wat Awraham gekoop het van ⟨את⟩ die seuns van Get; daar is Awraham begrawe, en Sara sy vrou.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "gekoop het"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "die seuns van Get"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Get"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "is begrawe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "en Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:15.960216822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "En Hy sal ⟨את⟩ Jisraël loskoop uit al sy ongeregtighede.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "en Hy"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "sal loskoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "sy ongeregtighede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:12.583903398Z",
+  "model": "glm-5.3"
+}

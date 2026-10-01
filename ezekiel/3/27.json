@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 3:27",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En wanneer Ek ⟨את⟩ jou spreek, sal Ek ⟨את⟩ jou mond oopmaak, en jy sal vir hulle sê: So sê Adonai Jahweh: Wie luister, laat hom luister, en wie ophou, laat hom ophou, want 'n huis van wederspan is hulle.",
+  "tokens": [
+    {
+      "surface": "ובדברי",
+      "gloss": "En wanneer Ek spreek"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "sal Ek oopmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou mond"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "wie luister"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "laat hom luister"
+    },
+    {
+      "surface": "והחדל",
+      "gloss": "en wie ophou"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "laat hom ophou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "van wederspan"
+    },
+    {
+      "surface": "המה",
+      "gloss": "is hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:19.838177459Z",
+  "model": "glm-5.3"
+}

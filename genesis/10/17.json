@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ die Chiwwiet, en ⟨את⟩ die Ar kittiet, en ⟨את⟩ die Siniet,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Chiwwiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Ar kittiet"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "die Ar kittiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Siniet"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "die Siniet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:35.258226984Z",
+  "model": "glm-5.3"
+}

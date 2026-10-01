@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Ek behoort aan my geliefde, en na my is sy verlange.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "aan my geliefde"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "en na my"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "sy verlange"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:41.909363933Z",
+  "model": "glm-5.3"
+}

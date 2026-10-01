@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En dit het gebeur, toe die koninkryk van Regavam vasgemaak was en hy self sterk geword het, het hy ⟨את⟩ die Tora van Jahweh verlaat, en die hele Jisraël ⟨was⟩ met hom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "to vasgemaak was"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "van Regavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "en hy self sterk geword het"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "het hy verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora van Jahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:52.480563026Z",
+  "model": "glm-5.3"
+}

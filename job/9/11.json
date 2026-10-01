@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Kyk, hy gaan by my verby en ek sien hom nie; en hy trek verby en ek begryp hom nie",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "hy gaan verby"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ... nie"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ek sien"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "en hy trek verby"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en ... nie"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "ek begryp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:20.331347010Z",
+  "model": "glm-5.3"
+}

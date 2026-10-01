@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 14:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het ⟨את⟩ die wiel van hulle waens laat wegdraai, en hulle het hulle swaar laat ry; en Mitsrajim het gesê: Laat ons vlug voor die aangesig van Jisraël, want Jahweh veg vir hulle teen Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "het laat wegdraai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wiel"
+    },
+    {
+      "surface": "אפן",
+      "gloss": "die wiel"
+    },
+    {
+      "surface": "מרכבתיו",
+      "gloss": "van hulle waens"
+    },
+    {
+      "surface": "וינהגהו",
+      "gloss": "hulle laat ry"
+    },
+    {
+      "surface": "בכבדת",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אנוסה",
+      "gloss": "laat ons vlug"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "veg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "teen Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:34.132919025Z",
+  "model": "glm-5.3"
+}

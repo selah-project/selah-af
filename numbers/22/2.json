@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Balak, seun van Tsippor, het gesien ⟨את⟩ alles wat Jisraël aan die Emories gedoen het.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsippor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "aan die Emories"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:25.520666954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Wie is hy, die Koning van die heerlikheid? Jahweh, sterk en magtig, Jahweh, magtig in die stryd.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is hy"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die Koning"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "van die heerlikheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "en magtig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "magtig"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "in die stryd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.881899517Z",
+  "model": "glm-5.3"
+}

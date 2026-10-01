@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Kyk, Hy keer die waters terug en hulle droog op; en Hy stuur hulle uit, en hulle keer ⟨die⟩ aarde om.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "במים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en hulle droog op"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "en Hy stuur hulle uit"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "en hulle keer om"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:58.102829150Z",
+  "model": "glm-5.3"
+}

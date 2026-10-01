@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Lei my in u waarheid en leer my, want U is die Elohim van my verlossing; op ⟨את⟩U wag ek die hele dag.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "lei my"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in u waarheid"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "en leer my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "van my verlossing"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "U — die Een op wie ek wag"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "wag ek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:35.352474461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Rykdom en oorvloed ⟨is⟩ in sy huis, en sy tsedek staan vir ewig.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Rykdom"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "en oorvloed"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in sy huis"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "en sy tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.444702099Z",
+  "model": "glm-5.3"
+}

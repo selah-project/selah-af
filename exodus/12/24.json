@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En julle sal ⟨את⟩ hierdie woord onderhou as 'n insetting vir julle en vir julle seuns tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle sal onderhou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "as 'n insetting"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ו לבניך",
+      "gloss": "en vir julle seuns"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:56.716620324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en Jahweh sal ⟨את⟩ die mens ver weg wegdryf, en groot sal die verlate wees binne-in die land.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "en ver weg wegdryf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "en groot wees"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "die verlate"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:23.034447572Z",
+  "model": "glm-5.3"
+}

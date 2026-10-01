@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Diepte roep tot diepte by die geluid van u watervalle; al u branders en u golwe het oor my gegaan.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "diepte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "diepte"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "by die geluid"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "van u watervalle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "u branders"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "en u golwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "het gegaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.096156478Z",
+  "model": "glm-5.3"
+}

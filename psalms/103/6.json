@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Jahweh doen tsedek ⟨en⟩ regspleging vir almal wat verdruk word",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "en regspleging"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir almal"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "wat verdruk word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:21.975119349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Want die inwoonster van Marot smag ⟨na⟩ die goeie; want kwaad het van Jahweh ⟨את⟩ af neergedaal, tot by die poort van Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "smag"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "na die goeie"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "die inwoonster van"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "Marot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "het neergedaal"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩ af",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "tot by die poort"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:25.521409361Z",
+  "model": "glm-5.3"
+}

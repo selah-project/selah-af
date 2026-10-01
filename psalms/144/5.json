@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Jahweh, neig ⟨את⟩ u hemel en daal af; raak ⟨את⟩ die berge aan, en hulle sal rook.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "u hemel"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "en daal af"
+    },
+    {
+      "surface": "גע",
+      "gloss": "raak aan"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "⟨את⟩ die berge",
+      "marks": "die berge"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "en hulle sal rook"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.225190378Z",
+  "model": "glm-5.3"
+}

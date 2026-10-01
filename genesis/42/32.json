@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 42:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Twaalf ⟨is⟩ ons, broers, seuns van ons vader; die een ⟨is⟩ nie meer nie, en die jongste is vandag ⟨את⟩ by ons vader in die land Kenaan.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "van ons vader"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is nie meer nie"
+    },
+    {
+      "surface": "והקטן",
+      "gloss": "en die jongste"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ by",
+      "marks": "ons vader"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ons vader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:22.753984141Z",
+  "model": "glm-5.3"
+}

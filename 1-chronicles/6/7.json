@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Die seuns van Kejat: Aminadab sy seun, Korag sy seun, Assir sy seun;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Die seuns van"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kejat"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Assir"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:23.372909681Z",
+  "model": "glm-5.3"
+}

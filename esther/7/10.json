@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 7:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En hulle het ⟨את⟩ Haman gehang op die boom wat hy vir Mordegai toegerig het, en die grimmigheid van die koning het gaan lê.",
+  "tokens": [
+    {
+      "surface": "ויתלו",
+      "gloss": "en hulle het gehang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "toegerig het"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "vir Mordegai"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "en die grimmigheid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "het gaan lê"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:28.051181051Z",
+  "model": "glm-5.3"
+}

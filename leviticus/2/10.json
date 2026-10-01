@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die oorblyfsel van die minga ⟨is⟩ vir Aharon en vir sy seuns, heilig van heilighede, van die vuuroffers van Jahweh.",
+  "tokens": [
+    {
+      "surface": "והנותרת",
+      "gloss": "en die oorblyfsel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "vir Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "en vir sy seuns"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heilighede"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "van die vuuroffers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:30.662112934Z",
+  "model": "glm-5.3"
+}

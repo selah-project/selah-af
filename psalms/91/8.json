@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Slegs met jou oë sal jy aanskou en die vergelding van die goddelose sien.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "met jou oë"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "sal jy aanskou"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "en die vergelding"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:39.668514051Z",
+  "model": "glm-5.3"
+}

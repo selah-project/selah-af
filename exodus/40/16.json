@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En Mosje het gedoen volgens alles wat Jahweh ⟨את⟩ hom beveel het — so het hy gedoen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:09.005716176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "U weë, Jahweh, laat my ken; U paaie, leer my.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "U weë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "laat my ken"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "U paaie"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.945406747Z",
+  "model": "glm-5.3"
+}

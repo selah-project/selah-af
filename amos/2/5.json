@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 2:5",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Ek sal vuur stuur in Jehoeda, en dit sal die sitadle van Jerusjalajim verteer.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en Ek sal stuur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en dit sal verteer"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "sitadle"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:12.145623591Z",
+  "model": "glm-5.3"
+}

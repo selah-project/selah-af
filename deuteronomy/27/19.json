@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek ⟨is hy⟩ wat die reg van die vreemdeling, die wees en die weduwee buig; en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "buig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "גר",
+      "gloss": "van die vreemdeling"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "die wees"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en die weduwee"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:49.316876993Z",
+  "model": "glm-5.3"
+}

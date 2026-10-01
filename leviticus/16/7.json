@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hy sal ⟨את⟩ die twee bokke neem en ⟨את⟩ hulle laat staan voor Jahweh, by die ingang van die tent van samekoms.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "En hy sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee bokke"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "die bokke"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "en laat staan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:11.859102477Z",
+  "model": "glm-5.3"
+}

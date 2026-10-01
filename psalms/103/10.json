@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 103:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Nie volgens ons sondes het ⟨hy⟩ aan ons gedoen nie, en nie volgens ons ongeregtighede het ⟨hy⟩ ons vergeld nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כחטאינו",
+      "gloss": "volgens ons sondes"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "כעונתינו",
+      "gloss": "volgens ons ongeregtighede"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "het vergeld"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "aan ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:19.430440973Z",
+  "model": "glm-5.3"
+}

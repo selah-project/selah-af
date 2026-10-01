@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 25:38",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Hy het sy leêr verlaat soos ⟨die⟩ jongleeu, want hulle land het 'n woesteny geword vanweë die brandende ⟨neus⟩ van die verdrukkende swaard, en vanweë die brandende toorn van sy neus.",
+  "tokens": [
+    {
+      "surface": "עזב",
+      "gloss": "hy het verlaat"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "soos die jongleeu"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "sy leêr"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "'n woesteny"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brandende"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "die verdrukkende swaard"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "en vanweë"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brandende"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "toorn van sy neus"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:36.770041154Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Gestut vir altyd, vir ewig, gemaak in waarheid en opregtheid.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "gestut"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir altyd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gemaak"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en opregtheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.336172677Z",
+  "model": "glm-5.3"
+}

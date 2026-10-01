@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Vierkantig moet dit wees, dubbeld gevou; 'n spanwydte sy lengte en 'n spanwydte sy breedte",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "Vierkantig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "moet dit wees"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "dubbeld gevou"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "'n spanwydte"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "en 'n spanwydte"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:05.738019103Z",
+  "model": "glm-5.3"
+}

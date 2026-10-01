@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 13:23",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Awija het met sy vaders gerus, en hulle het ⟨את⟩ hom begrawe in die stad van Dawid; en Asa sy seun het in sy plek geregeer; in sy dae was die land tien jaar stil.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "het gerus"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Awija"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "het geregeer"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "in sy dae"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "was stil"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:52.322918209Z",
+  "model": "glm-5.3"
+}

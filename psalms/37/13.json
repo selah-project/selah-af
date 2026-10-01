@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Adonai lag hom uit, want Hy het gesien dat sy dag kom.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "lag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom uit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "sy dag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.183525219Z",
+  "model": "glm-5.3"
+}

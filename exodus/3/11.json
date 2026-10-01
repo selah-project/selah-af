@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Maar Mosje sê aan ⟨die⟩ Elohim: Wie is ek, dat ek na Paro gaan en dat ek ⟨את⟩ die kinders van Jisraël uit Mitsrajim uitlei?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨die⟩ Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ek gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ek uitlei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:44.049299114Z",
+  "model": "glm-5.3"
+}

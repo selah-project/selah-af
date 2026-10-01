@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Dawid het vir Agimeleg die priester gesê: Die koning het my 'n saak beveel, en hy het vir my gesê: Laat niemand enigiets weet van ⟨את⟩ die saak waarvoor ek jou stuur en wat ek jou beveel het nie; en ⟨את⟩ die jongmanne het ek laat weet by 'n sekere plek, so-en-so.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "vir Agimeleg"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "het my beveel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n saak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat … nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "enigiets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die saak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "jou stuur"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "jou beveel het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die jongmanne"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "die jongmanne"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "het ek laat weet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "sekere"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "so-en-so"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:50.356033228Z",
+  "model": "glm-5.3"
+}

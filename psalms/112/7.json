@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Van 'n slegte berig sal hy nie vrees nie; sy hart ⟨is⟩ vasgemaak, vertrouend in Jahweh.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "Van 'n berig"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sal hy vrees"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vasgemaak"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrouend"
+    },
+    {
+      "surface": "ביהווה",
+      "gloss": "in Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:08.143932853Z",
+  "model": "glm-5.3"
+}

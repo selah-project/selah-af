@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En julle moet ⟨את⟩ die wag van die heiligdom en ⟨את⟩ die wag van die altaar hou, sodat daar nie weer toorn op die seuns van Jisraël kom nie.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle moet hou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wag van die heiligdom"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "die wag van"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "die heiligdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wag van die altaar"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "die wag van"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal daar wees"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:37.139538145Z",
+  "model": "glm-5.3"
+}

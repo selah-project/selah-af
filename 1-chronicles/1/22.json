@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ Ewal en ⟨את⟩ Awímaël en ⟨את⟩ Sewa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ewal"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ewal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Awímaël"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Awímaël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sewa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sewa"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:22.614052857Z",
+  "model": "glm-5.3"
+}

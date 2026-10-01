@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy sal kom in die koninkryk van die koning van die suide, maar hy sal terugkeer na sy eie grond.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en hy sal kom"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "in die koninkryk"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "van die suide"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "maar hy sal terugkeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sy eie grond"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:42.425046775Z",
+  "model": "glm-5.3"
+}

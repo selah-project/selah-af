@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Jy sit, teen jou broer spreek jy; teen ⟨die⟩ seun van jou moeder gee jy laster.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "jy sit"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "teen jou broer"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "spreek jy"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "teen ⟨die⟩ seun"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van jou moeder"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee jy"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "laster"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.895896823Z",
+  "model": "glm-5.3"
+}

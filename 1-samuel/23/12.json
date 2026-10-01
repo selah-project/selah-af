@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid het gesê: Sal die here van Keïla my en ⟨את⟩ my manne in die hand van Sjaoel uitlewer? En Jahweh het gesê: Hulle sal uitlewer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "sal uitlewer"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "die here van"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keïla"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my manne"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "my manne"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "hulle sal uitlewer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:42.956056974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 48:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Die eerste dinge vanvore het ek verkondig, en uit my mond het hulle uitgegaan en ek het hulle laat hoor; skielik het ek gedoen en hulle het gekom.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "Die eerste dinge"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "vanvore"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "het ek verkondig"
+    },
+    {
+      "surface": "ומפי",
+      "gloss": "en uit my mond"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "het hulle uitgegaan"
+    },
+    {
+      "surface": "ואשמיעם",
+      "gloss": "en ek het hulle laat hoor"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "skielik"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "en hulle het gekom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:59.476076612Z",
+  "model": "glm-5.3"
+}

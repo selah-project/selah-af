@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Ek het gegrawe en water gedrink, en met die bool van my voet sal ek al die riviere van Matsor uitdroog.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "het gegrawe"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "en gedrink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "en sal ek uitdroog"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "met die bool"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "van my voet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "van Matsor"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:57.823384029Z",
+  "model": "glm-5.3"
+}

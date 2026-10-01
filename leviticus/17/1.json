@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Jahweh het met Mosje gespreek, om te sê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:28.824044803Z",
+  "model": "glm-5.3"
+}

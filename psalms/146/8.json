@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Jahweh maak die blindes se oë oop, Jahweh rig die gekromdes op, Jahweh het die regverdiges lief.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "maak oop"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "die blindes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "rig op"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "die gekromdes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "het lief"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:37.777467828Z",
+  "model": "glm-5.3"
+}

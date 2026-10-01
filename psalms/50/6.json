@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En die hemel ⟨het⟩ sy tsedek verkondig, want Elohim ⟨is⟩ Regter, hy ⟨self⟩. Sela.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "En ... verkondig"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sy tsedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Regter"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy ⟨self⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:36.063969647Z",
+  "model": "glm-5.3"
+}

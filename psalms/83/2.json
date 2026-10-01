@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Elohim, moenie stil wees vir U nie, moenie swyg nie, en moenie rus hou nie, El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "stil wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "swyg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "rus hou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:40.479140749Z",
+  "model": "glm-5.3"
+}

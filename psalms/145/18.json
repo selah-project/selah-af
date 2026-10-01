@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Naby ⟨is⟩ Jahweh aan almal wat Hom aanroep, aan almal wat Hom in waarheid aanroep.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Naby"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan almal"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "wat Hom aanroep"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan almal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "Hom aanroep"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.217214430Z",
+  "model": "glm-5.3"
+}

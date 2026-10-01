@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 11:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "dat Hadad gevlug het, hy en Edoomse manne, diensknegte van sy vader, ⟨את⟩ saam met hom, om in Mitsrajim te kom; en Hadad was 'n klein seun.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "het gevlug"
+    },
+    {
+      "surface": "אדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "en manne"
+    },
+    {
+      "surface": "אדמיים",
+      "gloss": "Edoomse"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "diensknegte van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ saam met hom",
+      "marks": "saam met hom"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om te kom"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "והדד",
+      "gloss": "en Hadad"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.680979454Z",
+  "model": "glm-5.3"
+}

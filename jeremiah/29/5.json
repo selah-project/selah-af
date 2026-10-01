@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Bou huise en woon ⟨daarin⟩, en plant tuine en eet ⟨את⟩ die vrugte daarvan.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Bou"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en woon"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "en plant"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "tuine"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrugte daarvan"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "die vrugte daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:36:42.466892910Z",
+  "model": "glm-5.3"
+}

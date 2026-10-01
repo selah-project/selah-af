@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En sy broers het gesien dat hulle vader hom liefgehad het bo al sy broers, en hulle het hom gehaat, en hulle kon nie met hom in vrede spreek nie.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "En hulle het gesien"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "dat hulle vader hom liefgehad het"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefgehad het"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hulle vader"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "en hulle het gehaat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom gehaat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:41.740225591Z",
+  "model": "glm-5.3"
+}

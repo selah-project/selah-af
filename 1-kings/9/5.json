@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "dan sal Ek ⟨את⟩ die troon van jou koninkryk oor Jisraël oprig vir ewig, soos Ek aangaande Dawid jou vader gespreek het, om te sê: daar sal vir jou nie 'n man afgesny word van die troon van Jisraël nie.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "dan sal Ek oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die troon van jou koninkryk"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "die troon"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "van jou koninkryk"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ek gespreek het"
+    },
+    {
+      "surface": "על",
+      "gloss": "aangaande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביק",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "afgesny sal word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "die troon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:34.997974666Z",
+  "model": "glm-5.3"
+}

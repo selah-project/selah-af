@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het ⟨את⟩ die stam van Jehoeda uitgekies, ⟨את⟩ die berg Tsijon wat hy liefgehad het.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "En hy het uitgekies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stam van Jehoeda"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "die stam"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berg Tsijon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "hy liefgehad het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:24.213079947Z",
+  "model": "glm-5.3"
+}

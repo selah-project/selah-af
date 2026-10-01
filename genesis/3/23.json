@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jahweh Elohim het hom uit die tuin van Eden gestuur, om ⟨את⟩ die aarde te bewerk waaruit hy geneem is.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "en het hom gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "uit die tuin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te bewerk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waaruit"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "hy geneem is"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:06.433593117Z",
+  "model": "glm-5.3"
+}

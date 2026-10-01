@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Die oormoediges sal nie ⟨staan⟩ voor U oë nie; U haat almal wat onheil bewerk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "sal ⟨staan⟩"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "Die oormoediges"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "U oë"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "U haat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "wat bewerk"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:19.916376461Z",
+  "model": "glm-5.3"
+}

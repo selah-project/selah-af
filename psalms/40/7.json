@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Slagoffer en minga het U nie behaag nie; ore het U vir my gemaak; brandoffer en sondoffer het U nie geëis nie.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "slagoffer"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "en minga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "het U behaag"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ore"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "het U gemaak\/gegrawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "en sondoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "het U geëis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.740741536Z",
+  "model": "glm-5.3"
+}

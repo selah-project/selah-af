@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En dit sal wees: uit die spruit sal jy drink, en ⟨את⟩ die kraaie het ek beveel om jou daar te onderhou.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "uit die spruit"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "sal jy drink"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kraaie"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die kraaie"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "het ek beveel"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "om jou te onderhou"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:36.173109678Z",
+  "model": "glm-5.3"
+}

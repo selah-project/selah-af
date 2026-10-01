@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 14:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en ⟨את⟩ Jisraël prysgee weens die sondes van Jarobeam wat hy gedoen het en waarmee hy ⟨את⟩ Jisraël laat sondig het.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en prysgee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בגלל",
+      "gloss": "weens"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "die sondes"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hy gesondig het"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hy laat sondig het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:46.058286051Z",
+  "model": "glm-5.3"
+}

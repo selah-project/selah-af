@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "My seun, as jy my woorde aanvaar en my gebooie ⟨את⟩ by jou wegsteek,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "jy aanvaar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en my gebooie"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "jy wegsteek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou",
+      "marks": "by jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:25.229591393Z",
+  "model": "glm-5.3"
+}

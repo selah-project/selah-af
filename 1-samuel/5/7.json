@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 5:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die manne van Asjdod het gesien dat dit so was, en hulle het gesê: Die ark van die Elohim van Jisraël mag nie by ons bly nie, want sy hand is hard op ons en op Dagon onse god.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "van Asjdod"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "mag bly"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "by ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "is hard"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "op ons"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse god"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:57.027524384Z",
+  "model": "glm-5.3"
+}

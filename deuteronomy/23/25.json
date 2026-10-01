@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "As jy in die wingerd van jou naaste kom, dan mag jy druiwe eet na behoefte van jou siel, tot versadiging, maar in jou vat mag jy nie gee nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "jy kom"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "in die wingerd"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "dan mag jy eet"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "druiwe"
+    },
+    {
+      "surface": "כנפשך",
+      "gloss": "na behoefte van jou siel"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "tot jou versadiging"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar in"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "jou vat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mag jy gee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:31.260395664Z",
+  "model": "glm-5.3"
+}

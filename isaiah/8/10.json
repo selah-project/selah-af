@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Beraadslaag 'n raad, en dit sal verbreek word; spreek 'n woord, en dit sal nie bestaan nie; want met ons ⟨is⟩ El.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "Beraadslaag"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "'n raad"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "en dit sal verbreek word"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sal bestaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:09.614272907Z",
+  "model": "glm-5.3"
+}

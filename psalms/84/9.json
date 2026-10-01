@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Jahweh, Elohim Tsewaot, hoor tog my gebed; luister, Elohim van Jaäkow. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor tog"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.121059888Z",
+  "model": "glm-5.3"
+}

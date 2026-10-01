@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "U koninkryk ⟨is⟩ 'n koninkryk van alle ewighede, en u heerskappy ⟨is⟩ in geslag en geslag.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "U koninkryk"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "'n koninkryk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "ewighede"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "en u heerskappy"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.223635781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En heel Jisraël en Jehoeda het ⟨את⟩ Dawid liefgehad, want hy het uitgegaan en ingekom voor hulle.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefgehad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "uitgegaan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en ingekom"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:26.548710606Z",
+  "model": "glm-5.3"
+}

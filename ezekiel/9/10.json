@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 9:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ook Ék — my oog sal nie spaar nie en Ék sal nie ontferm nie; hulle weg op hulle hoof sal Ék sit.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "sal spaar"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אחמל",
+      "gloss": "sal ontferm"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hulle weg"
+    },
+    {
+      "surface": "בראשם",
+      "gloss": "op hulle hoof"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "sal Ek sit"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:02.895899731Z",
+  "model": "glm-5.3"
+}

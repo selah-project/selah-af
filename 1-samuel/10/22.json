@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle het weer aan Jahweh gevra: Het die man al hier gekom? En Jahweh het gesê: Kyk, hy het hom weggesteek by die bagasie.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "het gevra"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "gekom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "al"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hier"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "het weggesteek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "die bagasie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:30.446344463Z",
+  "model": "glm-5.3"
+}

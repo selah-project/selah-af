@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Keer terug, Jahweh, red my siel; help my om gered te word ter wille van u gesed.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "help my om gered te word"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:29.388851290Z",
+  "model": "glm-5.3"
+}

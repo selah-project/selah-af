@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 9:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Wees my genadig, Jahweh; sien my ellende aan, ⟨die⟩ wat ek ly van my haters, ⟨u⟩ wat my ophef uit die poorte van die dood.",
+  "tokens": [
+    {
+      "surface": "חננני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien aan"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "my ellende"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "van my haters"
+    },
+    {
+      "surface": "מרוממי",
+      "gloss": "wat my ophef"
+    },
+    {
+      "surface": "משערי",
+      "gloss": "uit die poorte"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:43.948653391Z",
+  "model": "glm-5.3"
+}

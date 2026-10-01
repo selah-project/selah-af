@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "'n Blye hart maak die genesing goed, maar 'n geknoude roeag droog die gebeente uit.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "'n hart"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "blye"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "maak goed"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "die genesing"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "maar 'n roeag"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "geknoude"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "droog uit"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "die gebeente"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:30.784484886Z",
+  "model": "glm-5.3"
+}

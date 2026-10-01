@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 20:21",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Edom het geweier om Jisraël deur sy grens te laat trek, en Jisraël het van hom af weggedraai.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "het geweier"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "te laat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "deur te trek"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "deur sy grens"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "het weggedraai"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hom af"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:52.422025483Z",
+  "model": "glm-5.3"
+}

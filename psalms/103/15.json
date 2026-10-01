@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Die sterflike — sy dae ⟨is⟩ soos gras; soos 'n blom van die veld, so laat hy bloei;",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "die sterflike"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "soos gras"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sy dae"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "soos 'n blom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "laat hy bloei"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.496465148Z",
+  "model": "glm-5.3"
+}

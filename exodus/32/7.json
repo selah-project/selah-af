@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Jahweh het met Mosje gespreek: gaan, daal af, want jou volk wat jy uit die land Mitsrajim opgebring het, het verdorwe gehandel.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "רד",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "het verdorwe gehandel"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "jy het opgebring"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:01.312749351Z",
+  "model": "glm-5.3"
+}

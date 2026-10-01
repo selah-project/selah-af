@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 19:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mosje het gekom en die oudstes van die volk byeengeroep, en hy het ⟨את⟩ al hierdie woorde wat Jahweh hom beveel het, voor hulle gestel.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en byeengeroep"
+    },
+    {
+      "surface": "לזקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en gestel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hierdie woorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hom beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:49.441499604Z",
+  "model": "glm-5.3"
+}

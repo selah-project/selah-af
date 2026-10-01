@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het vir hulle gesê: Gaan ⟨nog⟩ drie dae en kom terug na my. En ⟨die⟩ volk het weggegaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "en kom terug"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het weggegaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.382778825Z",
+  "model": "glm-5.3"
+}

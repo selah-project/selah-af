@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Hol, met planke, sal jy ⟨את⟩ dit maak; soos aan jou gewys is op die berg, so moet hulle dit maak.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "hol"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "met planke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die altaar)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "aan jou gewys is"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "moet hulle maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:31.793799441Z",
+  "model": "glm-5.3"
+}

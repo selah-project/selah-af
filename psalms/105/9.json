@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "wat Hy met ⟨את⟩ Awraham gesny het, en sy eed aan Jitsgak —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gesny het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "en sy eed"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "aan Jitsgak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:04.923058292Z",
+  "model": "glm-5.3"
+}

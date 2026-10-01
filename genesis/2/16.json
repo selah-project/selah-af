@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim het die mens bevel gege om te sê: Van elke boom van die tuin mag jy zekerlik eet.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "het bevel gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van elke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "boom"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van die tuin"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "mag jy eet"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sekerlik eet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.302202387Z",
+  "model": "glm-5.3"
+}

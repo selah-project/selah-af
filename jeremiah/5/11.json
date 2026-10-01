@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Want met groot ontrou het die huis van Jisraël en die huis van Jehoeda teen My gehandel, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "met ontrou"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "het ... ontrou gehandel"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen My"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:29:44.693464802Z",
+  "model": "glm-5.3"
+}

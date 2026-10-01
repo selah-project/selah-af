@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "en ⟨את⟩ Basmat, dogter van Jishmael, suster van Newajot.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Jishmael"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "suster"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Newajot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:09.719956041Z",
+  "model": "glm-5.3"
+}

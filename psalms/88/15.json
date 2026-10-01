@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Waarom, Jahweh, verwerp u my siel, hou u u aangesig vir my weg?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "verwerp u"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "hou u weg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:29.311799091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Laat hulle beskaamd staan en verneder word, die wat my siel soek; laat hulle agtertoe wyk en verleë wees, die wat my kwaad beplan.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "laat hulle beskaamd staan"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "en vernou word"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die wat soek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "laat hulle wyk"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agtertoe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "en verleë wees"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "die wat beplan"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "my kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:44.661543878Z",
+  "model": "glm-5.3"
+}

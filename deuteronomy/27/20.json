@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek ⟨is hy⟩ wat by die vrou van sy vader lê, want hy het die vleuel van sy vader ontbloot; en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ontbloot"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die vleuel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:49.317043299Z",
+  "model": "glm-5.3"
+}

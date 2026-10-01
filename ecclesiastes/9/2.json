@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 9:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die hele is soos die hele: een lot vir die regverdige en vir die goddelose, vir die goeie en vir die reine en vir die onreine, vir die wat offer en vir die wat nie offer nie; soos die goeie, so die sondige; die een wat sweer, soos die wat vir 'n eed vrees.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "lot"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vir die regverdige"
+    },
+    {
+      "surface": "ולרשע",
+      "gloss": "en vir die goddelose"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "vir die goeie"
+    },
+    {
+      "surface": "ולטהור",
+      "gloss": "en vir die reine"
+    },
+    {
+      "surface": "ולטמא",
+      "gloss": "en vir die onreine"
+    },
+    {
+      "surface": "ולזבח",
+      "gloss": "en vir die wat offer"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "en vir die wat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offer"
+    },
+    {
+      "surface": "כטוב",
+      "gloss": "soos die goeie"
+    },
+    {
+      "surface": "כחטא",
+      "gloss": "so die sondige"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "die een wat sweer"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "שבועה",
+      "gloss": "'n eed"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:22.820373710Z",
+  "model": "glm-5.3"
+}

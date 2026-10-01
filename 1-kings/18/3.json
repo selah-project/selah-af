@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Agab het geroep na Obadja, wat oor die huis ⟨was⟩; en Obadja het Jahweh ⟨את⟩ baie gevrees.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadja"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "en Obadja"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "gevrees het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:20.957434903Z",
+  "model": "glm-5.3"
+}

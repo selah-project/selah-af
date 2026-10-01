@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En die sagmoediges sal ⟨die⟩ land beërwe, en hulle sal hulle verheug oor die oorvloed van sjalom.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "en die sagmoediges"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "sal beërwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "en hulle sal hulle verheug"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die oorvloed"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:30.984474830Z",
+  "model": "glm-5.3"
+}

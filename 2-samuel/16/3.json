@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 16:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die koning het gesê: En waar is jou heer se seun? En Tsiba sê aan die koning: Kyk, hy sit in Jerusjalajim, want hy het gesê: Vandag sal die huis van Jisraël ⟨את⟩ die koninkryk van my vader aan my teruggee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "En waar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van jou heer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "hy sit"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hy het gesê"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Vandag"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "sal hulle teruggee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koninkryk van my vader"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van my vader"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:12.918248603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 1:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy moet ⟨את⟩ dit slag aan die sy van die altaar, noordwaarts, voor die aangesig van Jahweh; en die seuns van Aharon, die priesters, moet ⟨את⟩ sy bloed teen die altaar rondom spat.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hy moet slag"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "die sy"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "noordwaarts"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "en hulle moet spat"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:44.967584396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 40:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "n Stem sê: Roep! En hy sê: Wat sal ek roep? Alle vlees ⟨is⟩ gras, en al sy gesed ⟨is⟩ soos die bloei van die veld.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "n stem"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Roep!"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek roep"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "soos die bloei"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.209417887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En jy sal aan Paro sê: So sê Jahweh: My seun, my eersgeborene, ⟨is⟩ Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "my eersgeborene"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:22.251149469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Hy sal My aanroep en Ek sal hom antwoord; Ek ⟨is⟩ met hom in benoudheid, Ek sal hom red en hom eer.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Hy sal My aanroep"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "en Ek sal hom antwoord"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "in benoudheid"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "Ek sal hom red"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "en hom eer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:37.149135640Z",
+  "model": "glm-5.3"
+}

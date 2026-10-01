@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 13:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Omrede, ja omrede hulle my volk ⟨את⟩ laat dwaal het deur te sê: sjalom! en daar ⟨is⟩ geen sjalom nie — en hy bou 'n muur, en kyk, hulle pleister dit met ongebakke klei.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "omrede"
+    },
+    {
+      "surface": "וביען",
+      "gloss": "ja omrede"
+    },
+    {
+      "surface": "הטעו",
+      "gloss": "hulle laat dwaal het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "חיץ",
+      "gloss": "'n muur"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "טחים",
+      "gloss": "hulle pleister"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "met ongebakke klei"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ongebakke klei"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:38.963231884Z",
+  "model": "glm-5.3"
+}

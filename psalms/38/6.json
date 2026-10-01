@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "My wonde stink en verrot weens my dwaasheid.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "stink"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "verrot"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "my wonde"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "weens"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "my dwaasheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:29.959732382Z",
+  "model": "glm-5.3"
+}

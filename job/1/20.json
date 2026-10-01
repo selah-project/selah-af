@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe het Ijob opgestaan en ⟨את⟩ sy bo-kleed geskeur en ⟨את⟩ sy hoof geskeer, en hy het op die aarde neergeval en hom neergebuig.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Toe het opgestaan"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bo-kleed"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "sy bo-kleed"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "en geskeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hoof"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en neergeval"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en hom neergebuig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:43.249679661Z",
+  "model": "glm-5.3"
+}

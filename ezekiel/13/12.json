@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En kyk, die muur het geval — sal daar nie vir julle gesê word: Waar ⟨is⟩ die pleisterlaag wat julle gepleister het nie?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sal daar nie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "gesê word"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "die pleisterlaag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "julle gepleister het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:38.963912752Z",
+  "model": "glm-5.3"
+}

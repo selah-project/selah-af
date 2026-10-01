@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 12:13",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En na hom het Awbdon seun van Hillel die Piratoniet Jisraël ⟨את⟩ gerig.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "het gerig"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Awbdon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "Hillel"
+    },
+    {
+      "surface": "הפרעתוני",
+      "gloss": "die Piratoniet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:40.200583393Z",
+  "model": "glm-5.3"
+}

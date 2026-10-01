@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy sal ⟨את⟩ die omer voor Jahweh swaai, tot jul welbehae; die dag ná die Sjabbat sal die priester dit swaai.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "en hy sal swaai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die omer"
+    },
+    {
+      "surface": "העמר",
+      "gloss": "die omer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "tot jul welbehae"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "die dag ná"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "die Sjabbat"
+    },
+    {
+      "surface": "יניפנו",
+      "gloss": "sal die priester dit swaai"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:37.062201662Z",
+  "model": "glm-5.3"
+}

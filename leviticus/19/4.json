@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Moenie jou wend na die afgode nie, en gode van gietwerk moet julle vir julleself nie maak nie: ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "julle wend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "die afgode"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en gode"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "van gietwerk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle maak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julleself"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "joue Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:37.962521749Z",
+  "model": "glm-5.3"
+}

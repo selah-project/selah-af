@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 2:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy sal agtervolg ⟨את⟩ haar minnaars en hulle nie inhaal nie, en sy sal hulle soek en nie vind nie; dan sal sy sê: Ek wil gaan en terugkeer na my man, die eerste, want goed was dit vir my toe meer as nou.",
+  "tokens": [
+    {
+      "surface": "ורדפה",
+      "gloss": "en sy sal agtervolg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar minnaars"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "haar minnaars"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "inhaal"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die minnaars)"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "en sy sal hulle soek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vind"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "dan sal sy sê"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ek wil gaan"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "en terugkeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "my man"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אז",
+      "gloss": "toe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "meer as nou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:24.537668469Z",
+  "model": "glm-5.3"
+}

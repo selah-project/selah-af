@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle sal jou na jou welstand vra en jou twee brode gee, en jy sal dit uit hulle hand neem.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "en hulle sal vra"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na jou welstand"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brode"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy sal neem"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hulle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:40.502647314Z",
+  "model": "glm-5.3"
+}

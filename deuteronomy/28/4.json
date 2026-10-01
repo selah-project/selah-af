@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Geseënd ⟨is⟩ die vrug van jou skoot, en die vrug van jou grond, en die vrug van jou vee: die kleintjies van jou beeste en die lammers van jou kleinvee.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "die vrug"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "van jou skoot"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "en die vrug"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "van jou grond"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "en die vrug"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "van jou vee"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "die kleintjies"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "van jou beeste"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "en die lammers"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "van jou kleinvee"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:20.980914117Z",
+  "model": "glm-5.3"
+}

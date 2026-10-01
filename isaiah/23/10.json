@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Trek deur jou land soos ⟨die⟩ Nyl, dogter van Tarsjis — daar is geen gordel meer.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "trek deur"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "jou land"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "soos die Nyl"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "van Tarsjis"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "gordel"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:39.936397569Z",
+  "model": "glm-5.3"
+}

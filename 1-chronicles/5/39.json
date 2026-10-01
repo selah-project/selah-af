@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "en Sjallom het ⟨את⟩ Chilkija verwek, en Chilkija het ⟨את⟩ Azarja verwek.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "en Sjallom"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chilkija"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "en Chilkija"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:29.162925590Z",
+  "model": "glm-5.3"
+}

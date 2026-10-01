@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek sal vuur stuur in die huis van Gasael, en dit sal die vestinge van Ben-Hadad verteer.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En ek sal ... stuur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "van Gasael"
+    },
+    {
+      "surface": "ו אכלה",
+      "gloss": "en dit sal ... verteer"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "die vestinge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "van Ben-Hadad"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Ben-Hadad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:33.593427194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 7:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Want die hoof van Aram is Damaskes, en die hoof van Damaskes is Retson; en binne vyf-en-sestig jaar sal Efrajim vergruis word as volk —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskes"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "en die hoof"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "van Damaskes"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "is Retson"
+    },
+    {
+      "surface": "ובעוד",
+      "gloss": "en binne"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sestig"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "sal vergruis word"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "as volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:03.291448037Z",
+  "model": "glm-5.3"
+}

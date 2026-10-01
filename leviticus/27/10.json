@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 27:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Hy mag dit nie vervang nie en dit nie verruil nie, 'n goeie vir 'n slegte of 'n slegte vir 'n goeie; en as hy werklik 'n dier vir 'n dier verruil, dan sal dit wees: ⟨ die dier ⟩ en sy ruiling sal heilig wees.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחליפנו",
+      "gloss": "hy mag dit vervang"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "verruil"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die dier)"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "'n goeie"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "vir 'n slegte"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "'n slegte"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "vir 'n goeie"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "המר",
+      "gloss": "werklik verruil"
+    },
+    {
+      "surface": "ימיר",
+      "gloss": "hy verruil"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "'n dier"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "vir 'n dier"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan sal dit wees"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ותמורתו",
+      "gloss": "en sy ruiling"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:08.176047477Z",
+  "model": "glm-5.3"
+}

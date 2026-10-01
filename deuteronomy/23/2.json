@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "'n Verwonde en vergruisde, en een wie se stortpyp afgekap is, sal nie in die vergadering van Jahweh kom nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "'n verwonde"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "vergruisde"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "en afgekap"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "stortpyp"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in die vergadering"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:18.339037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Nou staan op en steek vir julle oor ⟨את⟩ die strandloop van Zered. En ons het ⟨את⟩ die strandloop van Zered oorgesteek.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "en steek oor"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die strandloop van Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "die strandloop"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "van Zered"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "en ons het oorgesteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die strandloop van Zered"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "die strandloop"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "van Zered"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:19.654619407Z",
+  "model": "glm-5.3"
+}

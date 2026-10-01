@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Die stem van Jahweh breek seders, ja, Jahweh het ⟨את⟩ die seders van die Libanon gebreek.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "breek"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seders"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "ja, ... gebreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seders van die Libanon"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "die seders"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "van die Libanon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:38.228234359Z",
+  "model": "glm-5.3"
+}

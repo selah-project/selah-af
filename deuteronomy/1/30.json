@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Jahweh, julle Elohim, wat voor julle uit gaan — ⟨hy⟩ ⟨is⟩ dit wat vir julle sal stry, volgens alles wat hy ⟨את⟩ julle in Mitsrajim gedoen het, voor julle oë.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "wat uit gaan"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hy⟩ ⟨is⟩ dit"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "sal stry"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "voor julle oë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:45.335240332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 14:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy wat gereinig word sal ⟨את⟩ sy klere was en ⟨את⟩ al sy hare afskeer en homself in water was, en hy sal rein wees; en daarna sal hy die kamp binnekom en buite sy tent woon sewe dae.",
+  "tokens": [
+    {
+      "surface": "וכבס",
+      "gloss": "en was"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "hy wat gereinig word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "וגלח",
+      "gloss": "en afskeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy hare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שערו",
+      "gloss": "sy hare"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en was homself"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en hy sal rein wees"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sal hy binnekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en woon"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "sy tent"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:13.411997527Z",
+  "model": "glm-5.3"
+}

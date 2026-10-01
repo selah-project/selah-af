@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "maar van die vrugte van die boom wat binne-in die tuin is, het Elohim gesê: Moet daarvan nie eet nie en daaraan nie raak nie, sodat julle nie sterf nie.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "maar van die vrugte"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "van die boom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "die tuin"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "moet julle eet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "moet julle raak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daaraan"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "julle sterf"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:51.353055805Z",
+  "model": "glm-5.3"
+}

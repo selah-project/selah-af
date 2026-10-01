@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en hy sal ⟨את⟩ die een voël slag oor 'n erdevat, op lewende water;",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hy sal slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een voël"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "die voël"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die een"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "'n vat"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "van erdewerk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:30.633979787Z",
+  "model": "glm-5.3"
+}

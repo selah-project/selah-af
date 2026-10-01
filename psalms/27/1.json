@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Van Dawid. Jahweh ⟨is⟩ my lig en my heil — vir wie sal ek vrees? Jahweh ⟨is⟩ die vesting van my lewe — vir wie sal ek sidder?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "my lig"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "en my heil"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "vir wie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sal ek vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "die vesting"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "van my lewe"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "vir wie"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "sal ek sidder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:00.805965793Z",
+  "model": "glm-5.3"
+}

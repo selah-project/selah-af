@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die koning het teruggekeer en by die Jardan gekom, en Jehoeda het by die Gilgal gekom om die koning tegemoet te gaan, om ⟨את⟩ die koning oor ⟨את⟩ die Jardan te laat trek.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en hy het teruggekeer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en gekom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jardan"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "by die Gilgal"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegomoeet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om oor te laat trek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jardan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jardan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:16.071717721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En koning Dawid het gestuur en laat hom haal uit die huis van Magir, seun van Ammiel, uit Lo Debar.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "en laat hom haal"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis van"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Magir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiel"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "uit"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo Debar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:47.975905742Z",
+  "model": "glm-5.3"
+}

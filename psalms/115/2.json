@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Waarom sou die nasies sê: Waar is tog hulle Elohim?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sou sê"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Waar is"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:17.360103879Z",
+  "model": "glm-5.3"
+}

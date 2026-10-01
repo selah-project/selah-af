@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Hatak gaan uit na Mordegai, na die plein van die stad wat voor die poort van die koning ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "En gaan uit"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Hatak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "die plein"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "die poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:06.141811749Z",
+  "model": "glm-5.3"
+}

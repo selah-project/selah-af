@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 147:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Hy stuur sy woord en smelt hulle; Hy laat sy roeag waai — die waters vloei.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hy stuur"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "וימסם",
+      "gloss": "en smelt hulle"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "laat waai"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sy roeag"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "vloei"
+    },
+    {
+      "surface": "מים",
+      "gloss": "die waters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.510837592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En 'n vrou wat nader kom na enige dier om ⟨את⟩ dit te bestyg — dan sal jy ⟨את⟩ die vrou doodmaak en ⟨את⟩ die dier; dood moet hulle gemaak word, hulle bloed is op hulle.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "en 'n vrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "nader kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dier"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "om dit te bestyg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "en jy sal doodmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die dier"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die dier"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "moet hulle gemaak word"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "hulle bloed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "is op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:51.246178235Z",
+  "model": "glm-5.3"
+}

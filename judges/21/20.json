@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 21:20",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hulle het ⟨את⟩ die seuns van Benjamin beveel ⟨en gesê⟩: gaan, en lê in wagting in die wingerde.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hulle het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Benjamin"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "van Benjamin"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨en gesê⟩"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "וארבתם",
+      "gloss": "en lê in wagting"
+    },
+    {
+      "surface": "בכרמים",
+      "gloss": "in die wingerde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:42.617332728Z",
+  "model": "glm-5.3"
+}

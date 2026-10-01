@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "hy wat nie laster met sy tong nie, nie kwaad doen aan sy naaste nie, en geen smaad optel teen sy verwant nie;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "laster"
+    },
+    {
+      "surface": "על",
+      "gloss": "met"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "sy tong"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "aan sy naaste"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "en smaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "optel"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sy verwant"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.339985434Z",
+  "model": "glm-5.3"
+}

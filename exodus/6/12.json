@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 6:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Mosje het voor Jahweh gepraat en gesê: Kyk, die kinders van Jisraël het nie na my geluister nie, en hoe sal Paro my luister, terwyl ek onbesnede lippe het?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "ישמעני",
+      "gloss": "sal my luister"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "terwyl ek"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "onbesnede"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "lippe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:44.713137055Z",
+  "model": "glm-5.3"
+}

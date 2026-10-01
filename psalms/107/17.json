@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Dwasse, deur die weg van hulle oortreding, en deur hulle ongeregtighede word hulle gekwel.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Dwasse"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "deur die weg van"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "hulle oortreding"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "en deur hulle ongeregtighede"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "word hulle gekwel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.162278885Z",
+  "model": "glm-5.3"
+}

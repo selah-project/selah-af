@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En sy vader en sy moeder het nie geweet dat dit van Jahweh ⟨kom⟩ nie, dat hy 'n aanleiding teen die Filistyne soek; en in daardie tyd het die Filistyne oor Jisraël geheers.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "en sy vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en sy moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit ⟨kom⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "'n aanleiding"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "teen die Filistyne"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "en in die tyd"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "het geheers"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "oor Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:37:31.438085778Z",
+  "model": "glm-5.3"
+}

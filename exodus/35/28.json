@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En ⟨את⟩ die reukwerk en ⟨את⟩ die olie — vir die lamp, en vir die salfolie, en vir die reukwerk van die speserye.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die reukwerk"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "die speserye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "vir die lamp"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "en vir die olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salwing"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "en vir die reukwerk"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "van die speserye"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:41.952179989Z",
+  "model": "glm-5.3"
+}

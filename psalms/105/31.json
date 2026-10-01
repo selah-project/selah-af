@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het gespreek, en ⟨die⟩ swerms het gekom, luise in hulle hele gebied.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "swerms"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "luise"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in hulle hele"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "gebied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.533293268Z",
+  "model": "glm-5.3"
+}

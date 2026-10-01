@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 40:16",
+  "book": "job",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Kyk tog: sy krag is in sy heupe, en sy mag in die spiere van sy buik.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "sy krag"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "in sy heupe"
+    },
+    {
+      "surface": "ואנו",
+      "gloss": "en sy mag"
+    },
+    {
+      "surface": "בשרירי",
+      "gloss": "in die spiere van"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "sy buik"
+    }
+  ],
+  "timestamp": "2026-10-01T00:22:55.755885897Z",
+  "model": "glm-5.3"
+}

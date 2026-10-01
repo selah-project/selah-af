@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 37:13",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En julle sal weet dat ek Jahweh ⟨is⟩, wanneer ek ⟨את⟩ julle grafte oopmaak en julle uit julle grafte laat opkom, my volk.",
+  "tokens": [
+    {
+      "surface": "וידעתם",
+      "gloss": "en julle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בפתחי",
+      "gloss": "wanneer ek oopmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle grafte"
+    },
+    {
+      "surface": "קברותיכם",
+      "gloss": "julle grafte"
+    },
+    {
+      "surface": "ובהעלותי",
+      "gloss": "en laat opkom"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "מקברותיכם",
+      "gloss": "uit julle grafte"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:41.072533915Z",
+  "model": "glm-5.3"
+}

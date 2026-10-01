@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het 'n getuienis in Jaäkow opgerig en 'n Tora in Jisraël geplaas, wat hy ⟨את⟩ ons vaders gebied het om hulle aan hulle seuns bekend te maak.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hy het opgerig"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "'n getuienis"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Jaäkow"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "en 'n Tora"
+    },
+    {
+      "surface": "שם",
+      "gloss": "geplaas"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebied het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons vaders"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ons vaders"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "om hulle bekend te maak"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hulle seuns"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.948466616Z",
+  "model": "glm-5.3"
+}

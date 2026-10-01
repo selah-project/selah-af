@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit het gebeur, omdat die vroedvroue ⟨את⟩ Elohim gevrees het, dat ⟨Hy⟩ vir hulle huise gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "gevrees het"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "die vroedvroue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "dat ⟨Hy⟩ gemaak het"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:43.211089142Z",
+  "model": "glm-5.3"
+}

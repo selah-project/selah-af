@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Jisraël het die goeie verwerp; 'n vyand sal hom agtervolg.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "verwerp het"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "'n vyand"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "sal agtervolg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:26.397579462Z",
+  "model": "glm-5.3"
+}

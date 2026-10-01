@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Baie dae lank het Jehosjoea met al ⟨את⟩ hierdie konings oorlog gemaak.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hierdie konings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hierdie konings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:09.601473285Z",
+  "model": "glm-5.3"
+}

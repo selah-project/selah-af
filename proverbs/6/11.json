@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en jou armoede sal kom soos 'n wandelaar, en jou gebrek soos 'n gewapende man",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en sal kom"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "soos 'n wandelaar"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "jou armoede"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "en jou gebrek"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "soos 'n man"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "gewapende man"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:46.010810697Z",
+  "model": "glm-5.3"
+}

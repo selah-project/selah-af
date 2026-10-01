@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Hy werp sy ys uit soos stukkies; voor sy koue — wie sal staan?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "werp uit"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "sy ys"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "soos stukkies"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "sy koue"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sal staan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.510453714Z",
+  "model": "glm-5.3"
+}

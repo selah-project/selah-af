@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 107:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hy het hulle uitgebring uit duisternis en doodskaduwee, en hulle boeie het Hy geskeur.",
+  "tokens": [
+    {
+      "surface": "יוציאם",
+      "gloss": "Hy het hulle uitgebring"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "uit duisternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "en doodskaduwee"
+    },
+    {
+      "surface": "ומוסרותיהם",
+      "gloss": "en hulle boeie"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "het Hy geskeur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:34.710206701Z",
+  "model": "glm-5.3"
+}

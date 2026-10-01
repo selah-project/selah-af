@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 20:9",
+  "book": "job",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Die oog wat hom ⟨gesien⟩ het, sal hom nie weer sien nie, en sy plek sal hom nie meer aanskou nie.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Die oog"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "wat hom ⟨gesien⟩ het"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "weer (sal byvoeg)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "תשורנה",
+      "gloss": "sal aanskou"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sy plek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:22.778330273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Chanoch het gelewe vyf en sestig jaar, en hy het ⟨את⟩ Metusjelag verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en sestig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Metusjelag"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Metusjelag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:42.308863570Z",
+  "model": "glm-5.3"
+}

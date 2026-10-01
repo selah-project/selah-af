@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Te lank het my siel gewoon by ⟨hulle wat⟩ vrede haat.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Te lank"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "לה",
+      "gloss": "by"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by ⟨hulle wat⟩"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:47.747944140Z",
+  "model": "glm-5.3"
+}

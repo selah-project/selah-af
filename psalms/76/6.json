@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Buit gemaak is die stoithartiges; hulle slaap het hulle geslaap, en al die manne van krag het hulle hande nie gevind nie.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "Buit gemaak"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "die stoithartiges"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hartiges"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "geslaap"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "hulle slaap"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "gevind"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "krag"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:39.512147794Z",
+  "model": "glm-5.3"
+}

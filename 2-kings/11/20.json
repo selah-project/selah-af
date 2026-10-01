@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 11:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die hele volk van die land was bly, en die stad was rustig; en ⟨את⟩ Atlía het hulle met die swaard gedood in die huis van die koning.",
+  "tokens": [
+    {
+      "surface": "וישמח",
+      "gloss": "En … was bly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "en die stad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "was rustig"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Atlía"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atlía"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "het hulle gedood"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:49.129770527Z",
+  "model": "glm-5.3"
+}

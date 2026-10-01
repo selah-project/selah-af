@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Laat u aangesig skyn oor u dienaar, en leer my ⟨את⟩ u insettinge.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "האר",
+      "gloss": "laat skyn"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "oor u dienaar"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "en leer my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u insettinge"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:36.162460602Z",
+  "model": "glm-5.3"
+}

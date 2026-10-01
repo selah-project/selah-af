@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en julle sal hulle op die deurstyle van jou huis en op jou poorte skryf.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "en julle sal skryf"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "deurstyle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jou huis"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "en op jou poorte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:09.258340623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Soos hulle is hulle makers — almal wat op hulle vertrou.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "soos hulle"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "is"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hulle makers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:22.307108170Z",
+  "model": "glm-5.3"
+}

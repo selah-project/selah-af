@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Ook duisternis verduister nie teen U nie, en die nag skyn soos die dag; soos die duisternis, so ⟨is⟩ die lig.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "verduister"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "teen U"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en die nag"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos die dag"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "skyn"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "soos die duisternis"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "so ... die lig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.316874361Z",
+  "model": "glm-5.3"
+}

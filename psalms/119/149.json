@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Hoor my stem volgens u gesed, o Jahweh; volgens u reg wek my tot lewe.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens u gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "volgens u reg"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "wek my tot lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:18.884582218Z",
+  "model": "glm-5.3"
+}

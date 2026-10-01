@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die goddelose, volgens die hoogte van sy neus-gelaat, soek nie; daar ⟨is⟩ geen Elohim in al sy planne nie.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Die goddelose"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "volgens die hoogte"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "van sy neus-gelaat"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "sy planne"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:38.659462041Z",
+  "model": "glm-5.3"
+}

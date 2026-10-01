@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het 'n vasgestelde tyd bepaal deur te sê: môre sal Jahweh hierdie woord in die land doen.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "het bepaal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "'n vasgestelde tyd"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hierdie woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:45.482832667Z",
+  "model": "glm-5.3"
+}

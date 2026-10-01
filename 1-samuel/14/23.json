@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Jahweh het op daardie dag ⟨את⟩ Jisraël gered, en die slag het verbygegaan ⟨את⟩ Bet-Awen.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "en … het gered"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "en die slag"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "het verbygegaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Awen"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Awen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:55.252190268Z",
+  "model": "glm-5.3"
+}

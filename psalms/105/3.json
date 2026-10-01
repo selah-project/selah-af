@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Roem in sy heilige Naam; die hart van die wat Jahweh soek, moet bly wees.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Roem"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in ... Naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "moet bly wees"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die wat ... soek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.226312794Z",
+  "model": "glm-5.3"
+}

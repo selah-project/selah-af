@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Jisraël het ⟨את⟩ Josef liefgehad bo al sy seuns, want hy was vir hom 'n seun van sy ouderdom; en hy het vir hom 'n rok van pasim gemaak.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "En Jisraël"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "het liefgehad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo al"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "van sy ouderdom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "'n rok"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "van pasim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:41.740061660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Ek sal Jahweh loof volgens sy tsedek, en ek sal die naam van Jahweh Elyon psalm.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "sal ek loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "volgens sy tsedek"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "en sal ek psalm"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:58.744427842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Al die nasies wat U gemaak het, sal kom en hul buig voor U neer, Adonai, en U naam eer.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "U gemaak het"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hul buig neer"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "en eer"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "U naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.431339167Z",
+  "model": "glm-5.3"
+}

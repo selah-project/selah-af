@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Vir die koorleier, 'n psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:54.857349752Z",
+  "model": "glm-5.3"
+}

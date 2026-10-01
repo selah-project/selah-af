@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Vir die koordirekteur, oor «Al-tasjet» (verwoes nie), van Dawid, 'n migtam, toe hy weggevlug het vir die aangesig van Sjaoel, in die grot.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koordirekteur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "verwoes nie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "'n migtam"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "toe hy weggevlug het"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vir die aangesig van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in die grot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.937824878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 100,
+  "translation": "Dien ⟨את⟩ Jahweh met blydskap, kom voor sy aangesig met jubelgesang.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "met jubelgesang"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:42.988737330Z",
+  "model": "glm-5.3"
+}

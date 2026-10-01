@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 18:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jetro, die priester van Midjan, die skoonpa van Mosje, het ⟨את⟩ alles gehoor wat Elohim vir Mosje en vir Jisraël, sy volk, gedoen het, omdat Jahweh ⟨את⟩ Jisraël uit Mitsrajim laat uittrek het.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "die skoonpa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "vir Mosje"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "en vir Jisraël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "laat uittrek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:26.521993581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Verlossing het Hy na sy volk gestuur; sy verbond het Hy vir ewig gegee; heilig en ontzagwekkend ⟨is⟩ sy Naam.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "Verlossing"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "het Hy gestuur"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "na sy volk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het Hy gegee"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "en ontzagwekkend"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:45.310087519Z",
+  "model": "glm-5.3"
+}

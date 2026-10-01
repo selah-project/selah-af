@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Vir die voorsitter. Van Dawid. 'n Dwaas het gesê in sy hart: daar is geen Elohim nie. Hulle het bederf, hulle het gruwelik gehandel — daar is nie 'n doer van goed nie.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die voorsitter"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "hulle het bederf"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "hulle het gruwelik gehandel"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "dade"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "'n doer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:47.327790685Z",
+  "model": "glm-5.3"
+}

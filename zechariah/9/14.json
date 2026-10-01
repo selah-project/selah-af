@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 9:14",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh sal oor hulle verskyn, en sy pyl sal uitslaan soos die bliksem; en Adonai Jahweh sal op die sjofar blaas en gaan met stormwinde van die suide.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal verskyn"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en sal uitslaan"
+    },
+    {
+      "surface": "כברק",
+      "gloss": "soos die bliksem"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "sy pyl"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "en Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "op die sjofar"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "sal blaas"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "en sal gaan"
+    },
+    {
+      "surface": "בסערות",
+      "gloss": "met stormwinde"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "van die suide"
+    }
+  ],
+  "timestamp": "2026-09-30T23:09:44.441355147Z",
+  "model": "glm-5.3"
+}

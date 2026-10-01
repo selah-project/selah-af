@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 13:7",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En nou, verdeel ⟨את⟩ hierdie land as erfdeel aan die nege stamme en aan die halwe stam van Menasje.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "verdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "as erfdeel"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "aan die nege"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en aan die halwe"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "stam"
+    },
+    {
+      "surface": "המנשה",
+      "gloss": "van Menasje"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:55.720264101Z",
+  "model": "glm-5.3"
+}

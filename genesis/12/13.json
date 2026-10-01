@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 12:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Sê asseblief: ⟨את⟩ ⟨is⟩ my suster, sodat dit goed met my gaan ter wille van jou, en my siel sal lewe deur jou toedoen.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Sê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "asseblief"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my suster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jy"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dit goed gaan"
+    },
+    {
+      "surface": "לי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "בעבורך",
+      "gloss": "ter wille van jou"
+    },
+    {
+      "surface": "וחיתה",
+      "gloss": "en sal lewe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "בגללך",
+      "gloss": "deur jou toedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:43.786644311Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 14:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "As vasgestel is sy dae, die getal van sy maande is by ⟨את⟩ jou — 'n grens het U bepaal, en hy sal nie daaroor oorgaan nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "vasgestel"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sy dae"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die getal"
+    },
+    {
+      "surface": "חדשיו",
+      "gloss": "van sy maande"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou",
+      "marks": "by jou"
+    },
+    {
+      "surface": "חקו",
+      "gloss": "'n grens"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het U bepaal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sal oorgaan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:31.540735299Z",
+  "model": "glm-5.3"
+}

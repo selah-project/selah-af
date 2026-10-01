@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Jahweh jou Elohim sal jou bring in ⟨die⟩ land wat jou vaders besit het, en jy sal dit in besit neem; en hy sal jou goed doen en jou vermenigvuldig bo jou vaders.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "en sal jou bring"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "besit het"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jou vaders"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "en jy sal dit in besit neem"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "en hy sal jou goed doen"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "en jou vermenigvuldig"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "bo jou vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:20.116264301Z",
+  "model": "glm-5.3"
+}

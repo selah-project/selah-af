@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En sy sê: Het ek 'n seun van ⟨את⟩ my heer gevra? Het ek nie gesê: Moet my nie mislei nie?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En sy sê"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "Het ek gevra"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Het ek nie"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "Moet my nie mislei"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:32.136962618Z",
+  "model": "glm-5.3"
+}

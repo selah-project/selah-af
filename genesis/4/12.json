@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Wanneer jy ⟨את⟩ die aarde bewerk, sal dit nie meer daaraan toevoeg om sy krag aan jou te gee nie; 'n swerwer en 'n rondloper sal jy in die land ⟨wees⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wanneer"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "jy bewerk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "sal meer toevoeg"
+    },
+    {
+      "surface": "תת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "sy krag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "נע",
+      "gloss": "'n swerwer"
+    },
+    {
+      "surface": "וונד",
+      "gloss": "en 'n rondloper"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal jy wees"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:23.009244866Z",
+  "model": "glm-5.3"
+}

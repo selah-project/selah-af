@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Want groot ⟨is⟩ Jahweh en hoogs te prys, ontsettend ⟨is⟩ hy bo al die gode.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "en te prys"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hoogs"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ontsettend"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "die gode"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:53.293947930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 3:22",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "die feesklere en die mantels en die doeke en die buidels",
+  "tokens": [
+    {
+      "surface": "המחלצות",
+      "gloss": "die feesklere"
+    },
+    {
+      "surface": "והמעטפות",
+      "gloss": "en die mantels"
+    },
+    {
+      "surface": "והמטפחות",
+      "gloss": "en die doeke"
+    },
+    {
+      "surface": "והחריטים",
+      "gloss": "en die buidels"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:51.022288630Z",
+  "model": "glm-5.3"
+}

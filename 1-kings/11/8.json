@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En so het hy gedoen vir al sy vreemde vroue, wat reukwerk laat opgaan en offer aan hulle gode.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "en so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "wat reukwerk laat opgaan"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "en offer"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "aan hulle gode"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:10.151325640Z",
+  "model": "glm-5.3"
+}

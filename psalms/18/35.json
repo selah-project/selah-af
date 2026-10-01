@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "wat my hande leer vir die oorlog, en 'n boog van koper word deur my arms neergebuig.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "wat leer"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hande"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir die oorlog"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "en word neergebuig"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "'n boog"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "deur my arms"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:34.754526322Z",
+  "model": "glm-5.3"
+}

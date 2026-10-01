@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Sê tot die wysheid: ⟨את⟩ jy ⟨is⟩ my suster, en noem die insig jou bloedverwant.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "tot die wysheid"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my suster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ jy",
+      "marks": "verstand (insig)"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "en die insig"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "tot die verstand"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "noem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.960289463Z",
+  "model": "glm-5.3"
+}

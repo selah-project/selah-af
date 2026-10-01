@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 123,
+  "translation": "Wees ons genadig, Jahweh, wees ons genadig, want versadig ⟨is⟩ ons met veragting.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "Wees ons genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "wees ons genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "versadig"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "⟨is⟩ ons"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "met veragting"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:37.643529614Z",
+  "model": "glm-5.3"
+}

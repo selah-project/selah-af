@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Maar my broers wat met my opgetrek het, het ⟨את⟩ die hart van die volk laat smelt, en ek het volkome Jahweh my Elohim nagevolg.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "maar my broers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "opgetrek het"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "laat smelt het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "het volkome"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nagevolg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:12.974526120Z",
+  "model": "glm-5.3"
+}

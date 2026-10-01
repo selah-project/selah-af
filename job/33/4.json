@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Die roeag van El het my gemaak, en die asem van Sjaddai maak my lewend.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "het my gemaak"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "en die asem"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van Sjaddai"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "maak my lewend"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:50.673451681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 146,
+  "ref": "psalms 119:146",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het tot U geroep — red my, en ek sal u getuienisse bewaar.",
+  "tokens": [
+    {
+      "surface": "קראתיך",
+      "gloss": "ek het tot U geroep"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ek sal bewaar"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:14.719778344Z",
+  "model": "glm-5.3"
+}

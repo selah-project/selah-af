@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En ons het tot Jahweh, die Elohim van ons vaders, geroep, en Jahweh het ⟨את⟩ ons stem gehoor en ⟨את⟩ ons ellende gesien en ⟨את⟩ ons moeite en ⟨את⟩ ons onderdrukking.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "en ons het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "van ons vaders"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en gehoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons stem"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "ons stem"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons ellende"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ons ellende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ons moeite"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ons moeite"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ons onderdrukking"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ons onderdrukking"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:11.228736789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En ek was soos 'n man wat nie hoor nie, en in sy mond ⟨is⟩ geen teregwysings nie.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "en ek was"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "soos 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en ⟨is⟩ geen"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in sy mond"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "teregwysings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:35.250882100Z",
+  "model": "glm-5.3"
+}

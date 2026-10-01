@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En die maer en die slegte koeie het ⟨את⟩ die eerste sewe vet koeie opgevreet.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "en hulle het opgevreet"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "die koeie"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "die maer"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "en die slegte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die eerste sewe vet koeie"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "die koeie"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "die vet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:54.437955231Z",
+  "model": "glm-5.3"
+}

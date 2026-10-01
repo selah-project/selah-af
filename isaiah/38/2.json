@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Toe draai Chiskia sy gesig na die muur toe en hy bid tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "toe draai"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chiskia"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy gesig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en hy bid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:01.817075335Z",
+  "model": "glm-5.3"
+}

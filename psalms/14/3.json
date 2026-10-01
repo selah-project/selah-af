@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die hele ⟨het⟩ afgedwaal, tesame het hulle verdorwe geword; daar is nie 'n doer van goed nie, daar is selfs nie een nie.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "סר",
+      "gloss": "afgedwaal"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "het verdorwe geword"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "'n doer"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:47.328617255Z",
+  "model": "glm-5.3"
+}

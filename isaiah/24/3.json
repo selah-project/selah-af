@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Heeltemal leeg geplunder ⟨word⟩ die aarde, en heeltemal verwoes geplunder, want Jahweh het ⟨את⟩ hierdie woord gespreek.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Heeltemal leeg"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "geplunder ⟨word⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "en heeltemal verwoes"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "geplunder"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hierdie woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:28.055841590Z",
+  "model": "glm-5.3"
+}

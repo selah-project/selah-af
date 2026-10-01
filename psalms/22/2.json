@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "My El, my El, waarom het U my verlaat? ⟨Ver⟩ van my redding ⟨is⟩ die woorde van my gebrul.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "het U my verlaat"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ver"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "van my redding"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "van my gebrul"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:03.358590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Gelukkig die mens aan wie Jahweh geen ongeregtigheid toereken nie, en in wie se roeag daar geen bedrog is nie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "toereken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongeregtigheid"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "in sy roeag"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:53.938583579Z",
+  "model": "glm-5.3"
+}

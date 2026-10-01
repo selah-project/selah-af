@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Ek het sak as my klere gedra, en ek het vir hulle 'n spreekwoord geword.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ek het gedra"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "as my klere"
+    },
+    {
+      "surface": "שק",
+      "gloss": "sak"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "en ek het geword"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "'n spreekwoord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:27.992267420Z",
+  "model": "glm-5.3"
+}

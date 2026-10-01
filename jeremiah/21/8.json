@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En tot hierdie volk sal jy sê: So het Jahweh gesê: Kyk, Ek stel voor julle ⟨את⟩ die weg van die lewe en ⟨את⟩ die weg van die dood.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sal jy sê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, Ek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stel"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die weg van die lewe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg van"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die weg van die dood"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg van"
+    },
+    {
+      "surface": "המות",
+      "gloss": "die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:19.696358704Z",
+  "model": "glm-5.3"
+}

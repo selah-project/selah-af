@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hy het drie duisend spreuke gespreek, en sy liedere was vyf en duisend.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "En hy het gespreek"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "משל",
+      "gloss": "spreuke"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en … was"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "sy liedere"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "en duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:14.489647579Z",
+  "model": "glm-5.3"
+}

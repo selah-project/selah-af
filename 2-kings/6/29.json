@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 6:29",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ons het ⟨את⟩ my seun gekook en hom geëet, en ek het vir haar gesê: op die volgende dag, gee ⟨את⟩ jou seun en ons sal hom eet; en sy het ⟨את⟩ haar seun weggesteek.",
+  "tokens": [
+    {
+      "surface": "ונבשל",
+      "gloss": "en ons het gekook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "ונאכלהו",
+      "gloss": "en ons het hom geëet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "האחר",
+      "gloss": "die volgende"
+    },
+    {
+      "surface": "תני",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "en ons sal hom eet"
+    },
+    {
+      "surface": "ותחבא",
+      "gloss": "en sy het weggesteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar seun"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:23.201787483Z",
+  "model": "glm-5.3"
+}

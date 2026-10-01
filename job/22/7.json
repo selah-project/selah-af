@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Aan die vermoeide gee jy geen water te drink nie, en aan die hongerige hou jy brood terug.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "die vermoeide"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "gee jy te drink"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "en aan die hongerige"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "hou jy terug"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:40.316877242Z",
+  "model": "glm-5.3"
+}

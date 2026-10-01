@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Toe roep hulle na Jahweh in hulle benoudheid, en uit hulle noodtoestande bring Hy hulle uit.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "toe roep hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in benoudheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "en uit hulle noodtoestande"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "bring Hy hulle uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:40.601883989Z",
+  "model": "glm-5.3"
+}

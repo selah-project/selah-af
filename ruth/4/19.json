@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Chetsron het ⟨את⟩ Ram verwek, en Ram het ⟨את⟩ Aminadab verwek.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "en Chetsron"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ram"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Ram"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "en Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:40.095657092Z",
+  "model": "glm-5.3"
+}

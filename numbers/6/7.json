@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 6:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Vir sy vader en vir sy moeder, vir sy broer en vir sy suster mag hy hom nie by hulle dood onrein maak nie, want die afsondering van sy Elohim is op sy hoof.",
+  "tokens": [
+    {
+      "surface": "לאביו",
+      "gloss": "Vir sy vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en vir sy moeder"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "vir sy broer"
+    },
+    {
+      "surface": "ולאחתו",
+      "gloss": "en vir sy suster"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mag hy onrein word"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "by hulle dood"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "die afsondering"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van sy Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:39.126975742Z",
+  "model": "glm-5.3"
+}

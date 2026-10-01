@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Die woord wat tot Jirmejahu gekom het, ⟨מאת⟩ Jahweh, om te sê:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "van Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:40.576109428Z",
+  "model": "glm-5.3"
+}

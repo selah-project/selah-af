@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 16:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hulle het ⟨את⟩ die ark van Elohim ingebring en dit in die middel van die tent geplaas wat Dawid daarvoor opgeslaan het, en hulle het brandoffers en vrede-offers voor Elohim gebring.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "en hulle het ingebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "en hulle het geplaas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "dit (die ark)"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel van"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "opgeslaan het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "daarvoor"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "ושלמים",
+      "gloss": "en vrede-offers"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:21.192623932Z",
+  "model": "glm-5.3"
+}

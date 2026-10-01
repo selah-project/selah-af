@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek sê aan die engel wat in my spreek: Wat is hierdie? En hy sê vir my: Hierdie ⟨is⟩ die horings wat Jehoeda verstrooi het, ⟨את⟩ Jisraël en ⟨את⟩ Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die engel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wat spreek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "die horings"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "verstrooi het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:22.099559459Z",
+  "model": "glm-5.3"
+}

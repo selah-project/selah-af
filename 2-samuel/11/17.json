@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 11:17",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die manne van die stad het uitgegaan en ⟨את⟩ Joab beveg, en daar het van die volk geval, van die dienaars van Dawid; en ook Urija die Hittiet het gesterwe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "beveg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "van die dienaars"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hittiet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:40.634209629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Nou staan Ek op, sê Jahweh; nou word Ek verhewe; nou lig Ek Myself op.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "staan Ek op"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "word Ek verhewe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "lig Ek Myself op"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:44.399180858Z",
+  "model": "glm-5.3"
+}

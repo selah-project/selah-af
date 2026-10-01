@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "en magtige konings doodgemaak het, want tot in ewigheid ⟨is⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "en doodgemaak het"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:04.256498371Z",
+  "model": "glm-5.3"
+}

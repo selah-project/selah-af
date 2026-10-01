@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "U teëstanders brul in die middel van U vergaderplek; hulle het hulle tekens as tekens opgerig.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "brul"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "U teëstanders"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "van U vergaderplek"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hulle het opgerig"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "hulle tekens"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "as tekens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.554818084Z",
+  "model": "glm-5.3"
+}

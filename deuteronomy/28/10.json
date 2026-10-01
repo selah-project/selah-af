@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En al die volke van ⟨die⟩ aarde sal sien dat die naam van Jahweh oor jou uitgeroep is, en hulle sal vir jou vrees.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "en hulle sal sien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "uitgeroep is"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oor jou"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle sal vrees"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:00.141910835Z",
+  "model": "glm-5.3"
+}

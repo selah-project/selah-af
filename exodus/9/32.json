@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Maar die koring en die spelt was nie geslaan nie, want hulle ⟨is⟩ laat.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "maar die koring"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "en die spelt"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "was geslaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "hulle is laat"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:09.177917736Z",
+  "model": "glm-5.3"
+}

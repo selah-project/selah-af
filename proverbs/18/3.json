@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Met die koms van ⟨die⟩ goddelose kom ook veragting, en met oneer, smaad.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "met die koms van"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "veragting"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "oneer"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:45.370394382Z",
+  "model": "glm-5.3"
+}

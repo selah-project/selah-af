@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Hierdie dag gebied Jahweh jou Elohim jou om ⟨את⟩ hierdie verordeninge en ⟨את⟩ die regte te doen; en jy sal ⟨את⟩ hulle bewaar en doen met jou hele hart en met jou hele wese.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "gebied jou"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie verordeninge"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die verordeninge"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die regte"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die regte"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "en jy sal bewaar"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hierdie verordeninge en die regte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met jou hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met jou hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "wese"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:53.467647395Z",
+  "model": "glm-5.3"
+}

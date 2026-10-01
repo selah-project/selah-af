@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 9:4",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "want Mordegai was groot in die huis van die koning, en die gerug van hom het deur al die provinsies gegaan, want die man Mordegai het gestap en groot geword.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "en die gerug van hom"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deur al"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "die provinsies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "het gestap"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "en groot geword"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:15.444663368Z",
+  "model": "glm-5.3"
+}

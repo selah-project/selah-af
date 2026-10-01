@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En teenoor die edeles van ⟨die⟩ seuns van Jisraël het hy nie sy hand uitgestrek nie; en hulle het ⟨את⟩ die Elohim aanskou, en hulle het geëet en gedrink.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en teenoor"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "die edeles"
+    },
+    {
+      "surface": "בני",
+      "gloss": "⟨die⟩ seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "het … uitgestrek"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "en hulle het aanskou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en hulle het geëet"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "en gedrink"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:16.725238881Z",
+  "model": "glm-5.3"
+}

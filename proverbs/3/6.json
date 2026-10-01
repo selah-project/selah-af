@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "In al jou weë ken Hom, en Hy ⟨sal⟩ jou paaie reguit maak.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "In al"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jou weë"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "ken Hom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hy"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "sal reguit maak"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "jou paaie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:37.064639789Z",
+  "model": "glm-5.3"
+}

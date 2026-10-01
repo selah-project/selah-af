@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "want dit is julle oë wat gesien het ⟨את⟩ die hele groot werk van Jahweh wat hy gedoen het —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "julle oë"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele groot werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.193565782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "As ek wandel in die midde van benoudheid, laat U my lewe gee; teen die woede van my vyande sal U U hand uitstrek, en U regterhand sal my red.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ek wandel"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die midde"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "laat U my lewe gee"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "אף",
+      "gloss": "die woede"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "van my vyande"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "sal U uitstrek"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "U hand"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "en sal my red"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "U regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.090669600Z",
+  "model": "glm-5.3"
+}

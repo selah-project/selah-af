@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Op U het ons vaders vertrou; hulle het vertrou, en U het hulle gered.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "het vertrou"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ons vaders"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "het vertrou"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "en U het hulle gered"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.953599178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 39:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "In daardie tyd het Merodak-Baladan, seun van Baladan, koning van Babel, geskrifte en 'n geskenk na Hiskia gestuur, want hy het gehoor dat hy siek was en dat hy sterker geword het.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in daardie tyd"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "מרדך",
+      "gloss": "Merodak"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "-Baladan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "בלאדן",
+      "gloss": "Baladan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "geskrifte"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "en 'n geskenk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "want hy het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "hy siek was"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "en sterker geword het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:29.903676697Z",
+  "model": "glm-5.3"
+}

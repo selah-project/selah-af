@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 29:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En jy sal ⟨את⟩ die bul laat naderkom voor die tent van samekoms, en Aharon en sy seuns sal ⟨את⟩ hulle hande laat rus op die kop van die bul.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "en jy sal laat naderkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "en sal laat rus"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van die bul"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:24.686231125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 21:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Jahweh het onder die volk ⟨את⟩ die brandende slange gestuur, en hulle het ⟨את⟩ die volk gebyt, en 'n groot deel van die volk van Jisraël het gesterwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandende slange"
+    },
+    {
+      "surface": "הנחשים",
+      "gloss": "die slange"
+    },
+    {
+      "surface": "השרפים",
+      "gloss": "die brandende"
+    },
+    {
+      "surface": "וינשכו",
+      "gloss": "en hulle het gebyt"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en het gesterwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "'n deel van die volk"
+    },
+    {
+      "surface": "רב",
+      "gloss": "'n groot"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:11.029093816Z",
+  "model": "glm-5.3"
+}

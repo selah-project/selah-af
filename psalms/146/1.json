@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Loof Jah! Loof, o my siel, ⟨את⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:23.596324018Z",
+  "model": "glm-5.3"
+}

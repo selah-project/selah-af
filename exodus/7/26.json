@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh het vir Mosje gesê: Gaan na Paro en sê vir hom: So sê Jahweh: Stuur my volk ⟨את⟩ weg, dat hulle My kan dien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Stuur ... weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "dat hulle My kan dien"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:40.986058616Z",
+  "model": "glm-5.3"
+}

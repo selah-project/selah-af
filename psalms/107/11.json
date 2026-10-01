@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "want hulle het die woorde van El verbitter, en die raad van die Hoogste verag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "het verbitter"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "en die raad"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "van die Hoogste"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "verag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:06.074709541Z",
+  "model": "glm-5.3"
+}

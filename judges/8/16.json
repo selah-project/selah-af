@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ die oudstes van die stad geneem en ⟨את⟩ dorings van die wildernis en ⟨את⟩ die distels, en hy het daarmee ⟨את⟩ die manne van Sukkot onderrig.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oudstes van die stad"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "dorings van die wildernis"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "dorings"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "van die wildernis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die distels"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "die distels"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en hy het onderrig"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die manne van Sukkot"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "van Sukkot"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:11.654567785Z",
+  "model": "glm-5.3"
+}

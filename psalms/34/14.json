@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Bewaar jou tong van kwaad, en jou lippe van om met bedrog te spreek.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "jou tong"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "en jou lippe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "om te spreek"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:22.665600450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "van hulle mag julle ⟨את⟩ hierdie eet: ⟨את⟩ die arbeh na sy soort, en ⟨את⟩ die solʼam na sy soort, en ⟨את⟩ die gargal na sy soort, en ⟨את⟩ die gagav na sy soort.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die arbeh"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "die arbeh"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "na sy soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die solʼam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "die solʼam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "na sy soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die gargal"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "die gargal"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "na sy soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die gagav"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "die gagav"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "na sy soort"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:16.175301198Z",
+  "model": "glm-5.3"
+}

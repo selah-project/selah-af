@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 27:40",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En deur jou swaard sal jy lewe, en ⟨את⟩ jou broer sal jy dien; en dit sal gebeur, wanneer jy losbreek, dat jy sy juk van jou nek af sal afgooi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "en deur"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "jou swaard"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "sal jy lewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou broer"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "sal jy dien"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תריד",
+      "gloss": "jy losbreek"
+    },
+    {
+      "surface": "ופרקת",
+      "gloss": "sal jy afgooi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sy juk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "jou nek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:57.682194432Z",
+  "model": "glm-5.3"
+}

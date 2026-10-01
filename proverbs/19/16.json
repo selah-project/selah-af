@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 19:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Hy wat die gebod bewaar, bewaar sy siel; hy wat sy weë verag, sal sterf.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "die gebod"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "verag"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sal sterf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:01.738334255Z",
+  "model": "glm-5.3"
+}

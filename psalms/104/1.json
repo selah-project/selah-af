@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 104:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Loof, my siel, ⟨את⟩ Jahweh. Jahweh, my Elohim, U het ⟨is⟩ baie groot; U het prag en heerlikheid aangetrek.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "גדלת",
+      "gloss": "U het groot ⟨is⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "prag"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en heerlikheid"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "U het aangetrek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.077053652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Want ek het jou laat opkom uit die land van Mitsrajim, en uit die huis van slawe het ek jou losgekoop, en ek het voor jou uit gestuur ⟨את⟩ Mosje, Aharon en Mirjam.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "het ek jou laat opkom"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "en uit die huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slawe"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "het ek jou losgekoop"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "en ek het gestuur"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje, Aharon en Mirjam"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "en Mirjam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:18.369723444Z",
+  "model": "glm-5.3"
+}

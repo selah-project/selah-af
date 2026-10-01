@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En dit het gebeur in die derde jaar, en Jehosjoea, koning van Jehoeda, het afgegaan na die koning van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in die jaar"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "derde"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en hy het afgegaan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:27.202528012Z",
+  "model": "glm-5.3"
+}

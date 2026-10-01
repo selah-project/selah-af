@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Sjaul het die hele volk ⟨את⟩ tot die oorlog byeengeroep om na Keägila af te gaan, om Dawid en sy manne te beleër.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en byeengeroep"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "tot die oorlog"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "om af te gaan"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "na Keägila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "om te beleër"
+    },
+    {
+      "surface": "אל",
+      "gloss": "("
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en ("
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "sy manne"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:47.113409601Z",
+  "model": "glm-5.3"
+}

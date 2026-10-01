@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 16:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "en Hy het ⟨את⟩ jou en ⟨את⟩ al jou broers, die seuns van Levi, met ⟨את⟩ jou naby gebring — en soek julle ook die priesterskap?",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en Hy het naby gebring"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al jou broers, die seuns van Levi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "ובקשתם",
+      "gloss": "en julle soek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "die priesterskap"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:47.878099781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Berge is bedek deur sy skaduwee, en sy takke ⟨was⟩ seders van El.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "is bedek"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "deur sy skaduwee"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "en sy takke"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "seders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:21.442747323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Die weg van leuen — wend dit van my af weg, en met jou Tora onthalp my.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "wend weg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en met jou Tora"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "onthalp my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.579597175Z",
+  "model": "glm-5.3"
+}

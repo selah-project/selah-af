@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 36:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Jahweh, in die hemele ⟨is⟩ u gesed; u trou tot by die wolke.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהשמים",
+      "gloss": "in die hemele"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "u trou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "die wolke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:46.124834744Z",
+  "model": "glm-5.3"
+}

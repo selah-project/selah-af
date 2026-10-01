@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hy het 'n swermpootse insekte onder hulle gestuur, en dit het hulle opgevreet, en paddas, en dit het hulle verwoes.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hy het gestuur"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "'n swermpootse insekte"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "en dit het hulle opgevreet"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "en paddas"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "en dit het hulle verwoes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:33.498055402Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Paro sal sê oor die kinders van Jisraël: hulle ⟨is⟩ verward in die land, die woestyn het hulle toegesluit.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "En sal sê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oor die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "verward"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "het toegesluit"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:03.960858605Z",
+  "model": "glm-5.3"
+}

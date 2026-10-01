@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 19:32",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Barsillai die Gileadiet het van Rogelim af neergedaal en met ⟨את⟩ die koning die Jordaan oorgegaan om hom oor die ⟨את⟩ Jordaan te laat gaan.",
+  "tokens": [
+    {
+      "surface": "וברזלי",
+      "gloss": "en Barsillai"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "die Gileadiet"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "het neergedaal"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "van Rogelim af"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en het oorgegaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "om hom te laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jordaan"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "oor die Jordaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:49.990626817Z",
+  "model": "glm-5.3"
+}

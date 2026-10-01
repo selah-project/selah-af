@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 22:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Jehosjafat sê aan die koning van Jisraël: Soek tog vandag ⟨את⟩ die woord van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:24.595549138Z",
+  "model": "glm-5.3"
+}

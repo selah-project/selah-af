@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Elohim, in heiligheid ⟨is⟩ u weg; wie ⟨is⟩ 'n groot El soos Elohim?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in heiligheid"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "u weg"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "soos Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:36.011430481Z",
+  "model": "glm-5.3"
+}

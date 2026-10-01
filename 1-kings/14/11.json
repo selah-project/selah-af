@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 14:11",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die een wat van Jerobeam in die stad sterf, sal die honde eet, en die een wat op die veld sterf, sal die voëls van die hemel eet, want Jahweh het gespreek.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "die een wat sterf"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "van Jerobeam"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die honde"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en die een wat sterf"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op die veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:12.656083633Z",
+  "model": "glm-5.3"
+}

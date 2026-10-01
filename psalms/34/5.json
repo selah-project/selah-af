@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Ek het ⟨את⟩ Jahweh gesoek, en hy het my geantwoord, en uit al my skrikke het hy my gered.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ek het gesoek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en hy het my geantwoord"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en uit al"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "my skrikke"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "het hy my gered"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:15.873450181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 41:44",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En Paro het vir Joséf gesê: Ek ⟨is⟩ Paro, en sonder jou sal geen man sy hand ⟨את⟩ of sy voet ⟨את⟩ oplig in die hele land Mitsrajim nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ובלעדיך",
+      "gloss": "en sonder jou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "sal oplig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enige man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy voet"
+    },
+    {
+      "surface": "רגלו",
+      "gloss": "sy voet"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:33.765581486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Agab het aan Isebel vertel ⟨את⟩ alles wat Elia gedoen het, en ⟨את⟩ alles dat hy ⟨את⟩ al die profete met die swaard gedood het.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "het vertel"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "aan Isebel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat Elia gedoen het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles dat hy gedood het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gedood het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die profete"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die profete"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:40.792097969Z",
+  "model": "glm-5.3"
+}

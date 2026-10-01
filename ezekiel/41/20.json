@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Van ⟨die⟩ aarde af tot bo ⟨bo⟩ die deuropening — die keroewiem en die palmbome ⟨is⟩ gemaak, en ⟨op⟩ die muur van die tempel.",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "van die aarde af"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "die deuropening"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "die keroewiem"
+    },
+    {
+      "surface": "והתמרים",
+      "gloss": "en die palmbome"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "gemaak"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "en die muur"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "van die tempel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:56:52.070215294Z",
+  "model": "glm-5.3"
+}

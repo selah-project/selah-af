@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 1:11",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Daar is geen gedagtenis aan die eerstes nie; en ook aan die laastes wat sal wees — daar sal vir hulle geen gedagtenis wees by die wat daarna sal wees nie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "gedagtenis"
+    },
+    {
+      "surface": "לראשנים",
+      "gloss": "aan die eerstes"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "לאחרנים",
+      "gloss": "aan die laastes"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "wat sal wees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "gedagtenis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "שיהיו",
+      "gloss": "die wat sal wees"
+    },
+    {
+      "surface": "לאחרנה",
+      "gloss": "daarna"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:05.774581793Z",
+  "model": "glm-5.3"
+}

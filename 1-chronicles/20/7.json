@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hy het ⟨את⟩ Jisraël gesmaad, en Jegonatan, seun van Sjimea, die broer van Dawid, het hom geslaan.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "en hy het gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "en het hom geslaan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jegonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Sjimea"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die broer van"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:26.180891431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Ek ken elke voël van die berge, en die gewemel van die veld ⟨is⟩ by my.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ek ken"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voël"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van die berge"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "en die gewemel"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨is⟩ by my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.392840212Z",
+  "model": "glm-5.3"
+}

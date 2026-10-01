@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en vergader ⟨את⟩ die hele gemeente by die ingang van die tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hele gemeente"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "gemeente"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:39.922209057Z",
+  "model": "glm-5.3"
+}

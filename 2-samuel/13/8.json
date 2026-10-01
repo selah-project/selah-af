@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Tamar gaan na die huis van Amnon haar broer, en hy lê; en sy neem ⟨את⟩ die deeg en knie ⟨dit⟩ en maak lebibbot voor sy oë, en sy kook ⟨את⟩ die lebibbot.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "en sy gaan"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na die huis"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "van Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "haar broer"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "lê"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en sy neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die deeg"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "die deeg"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "en knie"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "en maak"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "voor sy oë"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "en sy kook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lebibbot"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "die lebibbot"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:49.444863677Z",
+  "model": "glm-5.3"
+}

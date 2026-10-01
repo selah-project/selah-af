@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Jahweh, U het my siel opgebring uit Sjeol, U het my lewend gehou van die wat na die put afdaal.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "U het opgebring"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "U het my lewend gehou"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "van die wat afdaal"
+    },
+    {
+      "surface": "בור",
+      "gloss": "na die put"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:42.433556113Z",
+  "model": "glm-5.3"
+}

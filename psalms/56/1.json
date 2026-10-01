@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Vir die koorleier, oor 'n stom duif van ver af, van Dawid, 'n migtam, toe die Filistyne ⟨את⟩ hom in Gat aangegryp het.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "'n duif"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "stom"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "van ver af"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "'n migtam"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "toe ... aangegryp het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "in Gat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.392592496Z",
+  "model": "glm-5.3"
+}

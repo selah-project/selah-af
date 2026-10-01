@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Hulle het in hulle hart gesê: Laat ons hulle altesaam vernietig; hulle het al die vergaderplekke van El in die land verbrand.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "hulle het gesê"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hulle hart"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "laat ons hulle vernietig"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "altesaam"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "hulle het verbrand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "die vergaderplekke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:32.843270343Z",
+  "model": "glm-5.3"
+}

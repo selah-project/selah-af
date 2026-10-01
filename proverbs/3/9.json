@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Eer ⟨את⟩ Jahweh uit jou have, en uit die eerstelinge van al jou inkomste;",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Eer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "uit jou have"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "en uit die eerstelinge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "jou inkomste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:12.147525948Z",
+  "model": "glm-5.3"
+}

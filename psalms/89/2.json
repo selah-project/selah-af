@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Die gesed van Jahweh sal ek vir ewig besing; van geslag tot geslag sal ek u trou met my mond bekend maak.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "die gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "sal ek besing"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "sal ek bekend maak"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "u trou"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "met my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:42.244548623Z",
+  "model": "glm-5.3"
+}

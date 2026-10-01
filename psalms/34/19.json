@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Naby ⟨is⟩ Jahweh aan die gebrokenes van hart, en ⟨את⟩ die vergruisdes van roeag red Hy.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "naby"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "aan die gebrokenes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vergruisdes"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "die vergruisdes"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van roeag"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "red"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:30.891514226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 13:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En as dit baie in die vel uitsprei, dan sal die priester hom onrein verklaar: ⟨dit is⟩ 'n plaag.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "uitsprei"
+    },
+    {
+      "surface": "תפשה",
+      "gloss": "baie uitsprei"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "in die vel"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "sal onrein verklaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "'n plaag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:06.087720900Z",
+  "model": "glm-5.3"
+}

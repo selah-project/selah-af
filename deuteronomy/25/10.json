@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "en sy naam sal in Jisraël genoem word: die huis van die een wie se sandaal afgetrek is.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "en genoem sal word"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "van die een wie se sandaal afgetrek is"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "die sandaal"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:53.413079098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 18:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Sara het dit ontken deur te sê: Ek het nie gelag nie — want sy was bang. En ⟨hy⟩ sê: Nie so nie, want jy het tog gelag.",
+  "tokens": [
+    {
+      "surface": "ותכחש",
+      "gloss": "en sy het ontken"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "צחקתי",
+      "gloss": "het ek gelag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sy was bang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tog"
+    },
+    {
+      "surface": "צחקת",
+      "gloss": "het jy gelag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:59.217281675Z",
+  "model": "glm-5.3"
+}

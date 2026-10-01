@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "Moenie julle hoorn na die hoogte ophef nie, praat nie met 'n nek van vermetelheid nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Moenie"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ophef"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na die hoogte"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "julle hoorn"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "praat"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "met 'n nek"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "van vermetelheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.468895281Z",
+  "model": "glm-5.3"
+}

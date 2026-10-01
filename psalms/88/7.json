@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "U het my gesit in die laagste kuil, in duisternisse, in die dieptes.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "U het my gesit"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "in die kuil"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "laagste"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in duisternisse"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "in die dieptes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:49.069923960Z",
+  "model": "glm-5.3"
+}

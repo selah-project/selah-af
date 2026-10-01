@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Toe het die aarde gebewe en gesidder, en die fondamente van die berge het gebewe en gewankel, en hulle is geskud, want hy was toornig.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "en het gesidder"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "gebewe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "en die fondamente"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van die berge"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "het gebewe"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "en is geskud"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "hy was toornig"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:38.215633239Z",
+  "model": "glm-5.3"
+}

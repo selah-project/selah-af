@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Ek weet dat U alles vermag, en dat geen voorneme van U gestuit kan word.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "U vermag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "gestuit kan word"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "voorneme"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:06.168754052Z",
+  "model": "glm-5.3"
+}

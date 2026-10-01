@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die voordeel van die aarde is in alles: ⟨'n⟩ koning ⟨word⟩ deur die saailand gedien.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "en die voordeel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit ⟨is⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "deur die saailand"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "word gedien"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:01.264272169Z",
+  "model": "glm-5.3"
+}

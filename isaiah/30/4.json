@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Want sy vorste was in Tsoän, en sy gesante het in Ganes aangekom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "in Tsoän"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sy vorste"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "en sy gesante"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "in Ganes"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "het aangekom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:38.805065613Z",
+  "model": "glm-5.3"
+}

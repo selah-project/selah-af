@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Jehoagas het die aangesig van Jahweh versoen ⟨את⟩, en Jahweh het na hom geluister, want Hy het ⟨את⟩ die verdrukking van Jisraël gesien, want verdruk het hulle die koning van Aram ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "En het versoen"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoagas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van Jahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en het geluister"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die verdrukking van Jisraël"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "die verdrukking"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "het verdruk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "die koning van Aram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:44.095159677Z",
+  "model": "glm-5.3"
+}

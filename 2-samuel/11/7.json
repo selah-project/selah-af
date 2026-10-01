@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 11:7",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Uría het by hom gekom, en Dawid het gevra na die welstand van Jegaw en na die welstand van die volk en na die welstand van die oorlog.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "en hy het gevra"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na die welstand"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "van Jegaw"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "en na die welstand"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "en na die welstand"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "van die oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:35.106146464Z",
+  "model": "glm-5.3"
+}

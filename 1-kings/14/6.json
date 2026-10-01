@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 14:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En dit was so, toe Agia ⟨את⟩ die klank van haar voete hoor kom by die ingang, dat hy gesê het: Kom in, vrou van Jerobeam; waarom gee jy jou as 'n ander voor? Want ek is met 'n harde saak na jou gestuur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit was"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe hy hoor"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Agia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank van haar voete"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "van haar voete"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "het hy gesê"
+    },
+    {
+      "surface": "באי",
+      "gloss": "Kom in"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vrou van"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "את",
+      "gloss": "jy"
+    },
+    {
+      "surface": "מתנכרה",
+      "gloss": "jou as 'n ander voorgee"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "want ek"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "gestuur is"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "met 'n harde saak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:25.784414059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En sy het swanger geword en 'n seun gebaar, en hy het ⟨את⟩ sy naam Er genoem.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "swanger geword"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Er"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:29.004246381Z",
+  "model": "glm-5.3"
+}

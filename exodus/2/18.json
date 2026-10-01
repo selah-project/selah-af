@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 2:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hulle het by Re'uël hulle vader gekom, en hy het gesê: Hoekom het julle vandag so gou gekom?",
+  "tokens": [
+    {
+      "surface": "ותבאנה",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Re'uël"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "hulle vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "מהרתן",
+      "gloss": "het julle gou gekom"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.617913962Z",
+  "model": "glm-5.3"
+}

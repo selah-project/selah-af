@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Is ek die see, of 'n seemonster, dat U 'n wag oor my stel?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "'n seemonster"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "U stel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "'n wag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:24.023410267Z",
+  "model": "glm-5.3"
+}

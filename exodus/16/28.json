@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Jahweh het vir Mosje gesê: Hoe lank weier julle om my gebooie en my Tora's te onderhou?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "weier julle"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te onderhou"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "en my Tora's"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:30.778995032Z",
+  "model": "glm-5.3"
+}

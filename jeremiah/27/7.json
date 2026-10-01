@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 27:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En alle nasies sal hom dien, en sy seun en die seun van sy seun, totdat die tyd van sy land kom, ook hy; en baie nasies en groot konings sal hulle van hom bedien.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "En sal dien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die seun van sy seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "van sy seun"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עת",
+      "gloss": "die tyd"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "van sy land"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en sal dien"
+    },
+    {
+      "surface": "בו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "en konings"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:35:48.345529643Z",
+  "model": "glm-5.3"
+}

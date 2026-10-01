@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ die portiek van die suile het hy gemaak: vyftig el sy lengte en dertig el sy breedte; en 'n portiek was voor hulle, en suile en 'n swel balk voor hulle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die portiek van die suile"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "portiek"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "van die suile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "en 'n portiek"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "en suile"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "en 'n swel balk"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:13.036413581Z",
+  "model": "glm-5.3"
+}

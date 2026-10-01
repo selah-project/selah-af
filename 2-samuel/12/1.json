@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het ⟨את⟩ Natan na Dawid gestuur, en hy het by hom gekom en vir hom gesê: Twee mande was in een stad, een ryk en een arm.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Natan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in 'n stad"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ryk"
+    },
+    {
+      "surface": "ויחד",
+      "gloss": "en een"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "arm"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:43.043856113Z",
+  "model": "glm-5.3"
+}

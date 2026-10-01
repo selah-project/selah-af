@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "en ⟨את⟩ die salfolie en ⟨את⟩ die wierook van die speserye vir die heiligdom; volgens alles wat ek jou beveel het, moet hulle maak.”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die salfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "die salf-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wierook"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wierook"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "van die speserye"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "vir die heiligdom"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "ek jou beveel het"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "moet hulle maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:20.552552688Z",
+  "model": "glm-5.3"
+}

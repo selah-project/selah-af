@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy bou met ⟨את⟩ die stene 'n altaar in die naam van Jahweh, en hy maak 'n sloot so groot soos die ruimte van twee sea saad, rondom die altaar.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "en hy bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stene"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die stene"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hy maak"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "'n sloot"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "so groot soos die ruimte van"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "twee sea"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saad"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:05.735733589Z",
+  "model": "glm-5.3"
+}

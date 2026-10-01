@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 133,
+  "translation": "Soos die goeie olie op die hoof, wat afkom op die baard, op Aharon se baard, wat afkom op die rand van sy klelere",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Soos die olie"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wat afkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "die baard"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "baard"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "wat afkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "van sy kledere"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:18.618441132Z",
+  "model": "glm-5.3"
+}

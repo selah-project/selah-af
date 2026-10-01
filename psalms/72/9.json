@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 72:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Voor hom sal die bewoners van die droë lande die knie buig, en sy vyande sal die stof lek.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "sal die knie buig"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "die bewoners van die droë lande"
+    },
+    {
+      "surface": "ואיביו",
+      "gloss": "en sy vyande"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "sal lek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.293282625Z",
+  "model": "glm-5.3"
+}

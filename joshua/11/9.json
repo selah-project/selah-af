@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 11:9",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jehosjoea het aan hulle gedoen soos Jahweh aan hom gesê het: ⟨את⟩ hulle perde het hy lamgeslaan en ⟨את⟩ hulle strydwaens met vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle perde"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hulle perde"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "lamgeslaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle strydwaens"
+    },
+    {
+      "surface": "מרכבתיהם",
+      "gloss": "hulle strydwaens"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:48.315440049Z",
+  "model": "glm-5.3"
+}

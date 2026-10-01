@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Byna sou Ek hulle vyande onderwerp, en teen hulle verdrukkers my hand omkeer.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Byna"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "sou Ek onderwerp"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en teen"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "hulle verdrukkers"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sou Ek omkeer"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.401468246Z",
+  "model": "glm-5.3"
+}

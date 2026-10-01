@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 23:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy antwoord en sê: Moet ek nie dophou om te spreek ⟨את⟩ dit wat Jahweh in my mond lê nie?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hy antwoord"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "moet ek nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat Jahweh in my mond lê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dit wat"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in my mond"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "om te spreek"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "dophou"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:57.684054716Z",
+  "model": "glm-5.3"
+}

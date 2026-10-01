@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En ⟨את⟩ die vet van die sondeoffer sal hy op die altaar as welgeur laat opgaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondeoffer"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "sal hy as welgeur laat opgaan"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:37.340873182Z",
+  "model": "glm-5.3"
+}

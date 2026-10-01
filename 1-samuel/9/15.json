@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het die oor van Sjemuël ontbloot ⟨את⟩, een dag voordat Sjaul kom, en gesê:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "het ontbloot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oor van Sjemuël"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "die oor"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "van Sjemuël"
+    },
+    {
+      "surface": "יום",
+      "gloss": "een dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê (en gesê)"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:08.110057952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 21:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Toe skryf sy briewe in die naam van Agab en seël hulle met sy seël, en stuur die briewe na die oudstes en na die edeles wat in sy stad was, die wat met ⟨את⟩ Nawot woon.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "toe skryf sy"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "briewe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "ותחתם",
+      "gloss": "en seël sy"
+    },
+    {
+      "surface": "בחתמו",
+      "gloss": "met sy seël"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "en stuur"
+    },
+    {
+      "surface": "הספרים",
+      "gloss": "die briewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "החרים",
+      "gloss": "die edeles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעירו",
+      "gloss": "in sy stad"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "die wat sit\/woon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met",
+      "marks": "Nawot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nawot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:40.453311274Z",
+  "model": "glm-5.3"
+}

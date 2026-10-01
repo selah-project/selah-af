@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Van U dreiging af vlug hulle; voor die klank van U donder jaag hulle weg —",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "U dreiging"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "vlug hulle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "voor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "U donder"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "jaag hulle weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.173973257Z",
+  "model": "glm-5.3"
+}

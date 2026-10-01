@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Die berge ⟨het⟩ gespring soos ramme, die heuwels soos lammers van die kleinvee.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "het gespring"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "soos ramme"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "die heuwels"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "soos die seuns van"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kleinvee"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.143685935Z",
+  "model": "glm-5.3"
+}

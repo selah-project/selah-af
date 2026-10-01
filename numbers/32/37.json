@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 32:37",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En die seuns van Reüben het ⟨את⟩ Chesjbon en ⟨את⟩ Elale en ⟨את⟩ Kirjatájim gebou.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reüben"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chesjbon"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Chesjbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Elale"
+    },
+    {
+      "surface": "אלעלא",
+      "gloss": "Elale"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kirjatájim"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Kirjatájim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:28.132686581Z",
+  "model": "glm-5.3"
+}

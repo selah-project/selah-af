@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "nadat hy ⟨את⟩ Sigon, die koning van die Emoriete, wat in Chesjbon gewoon het, geslaan het, en ⟨את⟩ Og, die koning van Basjan, wat in Asjtrot in Edreï gewoon het.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "geslaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sigon, die koning van die Emoriete"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Sigon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriete"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gewoon het"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "in Chesjbon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Og, die koning van Basjan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "die Basjan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "gewoon het"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "in Asjtrot"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "in Edreï"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:59.534091801Z",
+  "model": "glm-5.3"
+}

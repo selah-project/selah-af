@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 104:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Stuur U u roeag uit, word hulle geskep, en U vernuwe die aanskyn van die aarde.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "stuur U uit"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "u roeag"
+    },
+    {
+      "surface": "יבראון",
+      "gloss": "word hulle geskep"
+    },
+    {
+      "surface": "ותחדש",
+      "gloss": "en U vernuwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aanskyn"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.350371002Z",
+  "model": "glm-5.3"
+}

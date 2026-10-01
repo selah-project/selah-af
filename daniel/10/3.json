@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Begeerlike brood het ek nie geëet nie, en vlees en wyn het nie in my mond gekom nie, en salf het ek my nie gesalf nie, tot die voltooiing van drie weke van dae.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "begeerlike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "het ek geëet"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wyn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "en salf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "het ek my gesalf"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "die voltooiing"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שבועים",
+      "gloss": "weke"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:34:47.928688265Z",
+  "model": "glm-5.3"
+}

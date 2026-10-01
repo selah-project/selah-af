@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Dawid was dertig jaar oud toe hy koning geword het, en veertig jaar het hy geregeer.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "seun (oud)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "in sy konink word"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het geregeer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:42.646105385Z",
+  "model": "glm-5.3"
+}

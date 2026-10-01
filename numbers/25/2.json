@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 25:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hulle het die volk geroep na die slagoffers van hulle gode, en die volk het geëet en hulle gebuig voor hulle gode.",
+  "tokens": [
+    {
+      "surface": "ותקראן",
+      "gloss": "en hulle het geroep"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לזבחי",
+      "gloss": "na die slagoffers"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "van hulle gode"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "en het geëet"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hulle het gebuig"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "voor hulle gode"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:29.161107325Z",
+  "model": "glm-5.3"
+}

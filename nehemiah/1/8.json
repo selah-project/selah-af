@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Gedenk tog ⟨את⟩ die woord wat U ⟨את⟩ Mosje, u dienaar, gebied het om te sê: Julle — as julle ontrou handel, sal ek ⟨את⟩ julle verstrooi onder die volke.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Gedenk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "U gebied het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "as julle ontrou handel"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "sal verstrooi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    }
+  ],
+  "timestamp": "2026-10-01T00:40:04.907087517Z",
+  "model": "glm-5.3"
+}

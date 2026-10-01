@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 22:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As dit verskeur word — verskeur word dit — sal hy dit as getuie bring; die verskeurde sal hy nie vergoed nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "verskeur word"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "verskeur word"
+    },
+    {
+      "surface": "יבאהו",
+      "gloss": "sal hy dit bring"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as getuie"
+    },
+    {
+      "surface": "הטרפה",
+      "gloss": "die verskeurde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sal vergoed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:59.472896677Z",
+  "model": "glm-5.3"
+}

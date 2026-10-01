@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 4:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Mosje het ⟨את⟩ sy vrou en ⟨את⟩ sy seuns geneem en hulle op die esel laat ry, en hy het teruggekeer na die land Mitsrajim; en Mosje het ⟨את⟩ die staf van Elohim in sy hand geneem.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrou"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "וירכבם",
+      "gloss": "laat ry"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החמר",
+      "gloss": "die esel"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "teruggekeer"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die staf van Elohim"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:47.847763413Z",
+  "model": "glm-5.3"
+}

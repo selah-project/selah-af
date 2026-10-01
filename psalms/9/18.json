@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die goddeloses keer terug na Sjeol, al die nasies wat Elohim vergeet.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "na Sjeol"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al die"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "wat vergeet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:45.759547259Z",
+  "model": "glm-5.3"
+}

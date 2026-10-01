@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die bok sal op hom ⟨את⟩ al hulle ongeregtighede dra, na 'n afgesnyde land toe, en hy sal die bok ⟨את⟩ in die woestyn laat gaan.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "en sal dra"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "die bok"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hulle ongeregtighede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "hulle ongeregtighede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "afgesnyde"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "die bok"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:21.094904795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En julle sal ⟨את⟩ my soek en my vind, want julle sal my soek met julle hele hart.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "en julle sal soek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my (die gesoekte objek)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "en julle sal vind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "sal julle my deursoek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met die hele"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "julle hart"
+    }
+  ],
+  "timestamp": "2026-09-30T22:37:17.550452221Z",
+  "model": "glm-5.3"
+}

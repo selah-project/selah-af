@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Ja, hierop open U u oog, en ⟨את⟩ my bring U in gerig met U.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierop"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "open U"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "u oog"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "bring U"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in gerig"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met U"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:49.644179844Z",
+  "model": "glm-5.3"
+}

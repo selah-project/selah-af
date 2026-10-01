@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Hy sal ⟨את⟩ die wêreld oordeel in tsedek, Hy sal die nasies regsprek in opregtheid.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "en Hy"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sal oordeel"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in tsedek"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sal regsprek"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in opregtheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:32.031060144Z",
+  "model": "glm-5.3"
+}

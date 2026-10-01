@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 126,
+  "translation": "Die wat saai met trane, sal met gejubel maai.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "die wat saai"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "met trane"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "met gejubel"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "sal maai"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:08.578563587Z",
+  "model": "glm-5.3"
+}

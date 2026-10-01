@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy sê vir my: Wie is jy? En ek sê vir hom: 'n Amalekiet is ek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is jy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en ek sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "'n Amalekiet"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "is ek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:42.038249400Z",
+  "model": "glm-5.3"
+}

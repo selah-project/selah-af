@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Ja, Jahweh sal ⟨את⟩ die goeie gee, en ons land sal sy opbrengs gee.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goeie"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "en ons land"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sy opbrengs"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:03.574919163Z",
+  "model": "glm-5.3"
+}

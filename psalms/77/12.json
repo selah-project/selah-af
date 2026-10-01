@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Ek herinner die dade van Jah,ja, ek herinner u wonders uit ⟨die⟩ voortyd.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ek herinner"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "die dade"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ek herinner"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "uit voortyd"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "u wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:30.204591352Z",
+  "model": "glm-5.3"
+}

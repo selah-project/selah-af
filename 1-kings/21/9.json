@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 21:9",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En sy het in die briewe geskryf en gesê: Roep ⟨‘n⟩ vastyd uit, en laat ⟨את⟩ Navot bo in ⟨die⟩ volk sit.",
+  "tokens": [
+    {
+      "surface": "ותכתב",
+      "gloss": "en sy het geskryf"
+    },
+    {
+      "surface": "בספרים",
+      "gloss": "in die briewe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "roep uit"
+    },
+    {
+      "surface": "צום",
+      "gloss": "vastyd"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "en laat sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Navot"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Navot"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "bo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:51.912858930Z",
+  "model": "glm-5.3"
+}

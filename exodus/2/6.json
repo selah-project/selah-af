@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 2:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy het ⟨dit⟩ oopgemaak en hom gesien — ⟨את⟩ die kind — en kyk, 'n seun wat huil; en sy het hom ontferm en gesê: Van die kinders van die Hebreeus ⟨is⟩ hierdie een.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "en sy het oopgemaak"
+    },
+    {
+      "surface": "ותראהו",
+      "gloss": "en sy het hom gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wat huil"
+    },
+    {
+      "surface": "ותחמל",
+      "gloss": "en sy het ontferm"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "מילדי",
+      "gloss": "van die kinders"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van die Hebreeus"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.903832138Z",
+  "model": "glm-5.3"
+}

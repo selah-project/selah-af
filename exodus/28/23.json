@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En jy sal aan die borsplaat twee ringe van goud maak, en jy sal ⟨את⟩ die twee ringe op die twee kante van die borsplaat sit.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "die borsplaat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ringe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee ringe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "die ringe"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "kante"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "van die borsplaat"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:04.872232640Z",
+  "model": "glm-5.3"
+}

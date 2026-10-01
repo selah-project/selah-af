@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 14:5",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Soos Jahweh ⟨את⟩ Mosje gebied het, so het die seuns van Jisraël gedoen, en hulle het ⟨את⟩ die land verdeel.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebid het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויחלקו",
+      "gloss": "en hulle het verdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:12.973799152Z",
+  "model": "glm-5.3"
+}

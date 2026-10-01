@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Jy mag ⟨את⟩ die Pasga nie slag in een van jou poorte nie, wat Jahweh jou Elohim jou gee.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "jy mag"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pasga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "die Pasga"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "in een"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "van jou poorte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:24.561242618Z",
+  "model": "glm-5.3"
+}

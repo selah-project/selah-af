@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 1:32",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die seuns van Ketura, byvrou van Awraham: sy het ⟨את⟩ Simran gebaar, en Joksan, en Medan, en Midian, en Jisbak, en Sjuag. En die seuns van Joksan: Seba en Dedan.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "byvrou"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sy het gebaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Simran"
+    },
+    {
+      "surface": "ויקשן",
+      "gloss": "en Joksan"
+    },
+    {
+      "surface": "ומדן",
+      "gloss": "en Medan"
+    },
+    {
+      "surface": "ומדין",
+      "gloss": "en Midian"
+    },
+    {
+      "surface": "וישבק",
+      "gloss": "en Jisbak"
+    },
+    {
+      "surface": "ושוח",
+      "gloss": "en Sjuag"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Joksan"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "en Dedan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:59.077359242Z",
+  "model": "glm-5.3"
+}

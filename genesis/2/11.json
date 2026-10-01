@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die naam van die ⟨die⟩ een ⟨is⟩ Pisjon; dit ⟨is⟩ dié wat rondom gaan ⟨את⟩ die hele land Hawila, waar daar die goud is.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Die naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van die een"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Pisjon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "rondom gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele land Hawila"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Hawila"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud is"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:31.105688134Z",
+  "model": "glm-5.3"
+}

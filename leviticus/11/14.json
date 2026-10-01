@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ die daäa en ⟨את⟩ die ajja na sy soort —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die daäa"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "die daäa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ajja"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "die ajja"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "na sy soort"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:14.015604711Z",
+  "model": "glm-5.3"
+}

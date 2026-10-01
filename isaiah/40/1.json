@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Troos, troos my volk, sê julle Elohim.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Troos"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "troos"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:31.020359134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 30:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Dit is nie in die hemele nie — om te sê: Wie sal vir ons opklim na die hemele en dit vir ons neem en dit vir ons laat hoor ⟨את⟩, sodat ons dit kan doen nie?",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Dit ⟨is⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sal opklim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "na die hemele"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "en dit neem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "וישמענו",
+      "gloss": "en dit laat hoor"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die gebod wat ons moet doen)"
+    },
+    {
+      "surface": "ונעשנה",
+      "gloss": "sodat ons dit kan doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:16.835398246Z",
+  "model": "glm-5.3"
+}

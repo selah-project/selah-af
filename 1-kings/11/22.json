@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Maar Paro sê vir hom: Wat ontbreek dit jou by my, dat jy nou soek om na jou land te gaan? En hy sê: Niks nie — maar stuur my weg, stuur my tog weg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maar sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Maar"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ontbreek dit"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "nou"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "jou land"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Niks nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "my tog weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:24.547721128Z",
+  "model": "glm-5.3"
+}

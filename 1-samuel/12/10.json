@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 12:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle het tot Jahweh geroep en gesê: Ons het gesondig, want ons het Jahweh verlaat en die Baälim gedien en ⟨את⟩ die Asjtoret; en nou, red ons uit die hand van ons vyande, en ons sal u dien.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "en hulle het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ons het gesondig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ons het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "en gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baälim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baälim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Asjtoret"
+    },
+    {
+      "surface": "העשתרות",
+      "gloss": "die Asjtoret"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "red ons"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ons vyande"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "en ons sal u dien"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:42.392952255Z",
+  "model": "glm-5.3"
+}

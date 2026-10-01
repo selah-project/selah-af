@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het gesê: ⟨את⟩ U stem het ek in die tuin gehoor, en ek was bang, want ek ⟨is⟩ naak, en ek het my weggesteek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "U stem"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "U stem"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "het ek gehoor"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in die tuin"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "en ek was bang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naak"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "en ek het my weggesteek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:14.664387716Z",
+  "model": "glm-5.3"
+}

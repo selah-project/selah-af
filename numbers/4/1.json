@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Jahweh het met Mosje en met Aharon gepraat en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en ... gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê, en gesê:"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:56.732615029Z",
+  "model": "glm-5.3"
+}

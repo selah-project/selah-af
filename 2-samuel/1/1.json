@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit het gebeur na die dood van Sjaul, toe Dawid teruggekeer het van die slaan van ⟨את⟩ Amalek, en Dawid het in Siklag gebly twee dae.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "שב",
+      "gloss": "teruggekeer het"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "van die slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het gebly"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "in Siklag"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:36.178942117Z",
+  "model": "glm-5.3"
+}

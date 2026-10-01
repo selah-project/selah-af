@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Is u dae soos die dae van 'n sterflike, u jare soos die dae van 'n man?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "soos die dae van"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n sterflike"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "u dae"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "u jare"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "soos die dae van"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "'n man"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:13.313568310Z",
+  "model": "glm-5.3"
+}

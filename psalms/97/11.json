@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Lig ⟨is⟩ gesaai vir die regverdige, en vir die opregtes van hart, blydskap.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "Lig"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "gesaai"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vir die regverdige"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "en vir die opregtes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "blydskap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:18.240876054Z",
+  "model": "glm-5.3"
+}

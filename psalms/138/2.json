@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Ek buig my neer na ⟨die⟩ paleis van u heiligheid, en ek loof ⟨את⟩ u naam oor u gesed en oor u trou; want U het u woord groot gemaak bo u hele naam.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "Ek buig my neer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨die⟩ paleis"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "van u heiligheid"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "en ek loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u naam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "u trou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "U het groot gemaak"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "u hele"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "naam"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:40.272503775Z",
+  "model": "glm-5.3"
+}

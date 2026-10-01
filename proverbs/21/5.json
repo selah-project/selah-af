@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 21:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die planne van die ywerige ⟨lei⟩ net tot oorvloed, maar elkeen wat haas — net tot gebrek.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "planne"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "van die ywerige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "למותר",
+      "gloss": "tot oorvloed"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maar elkeen"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "wat haas"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "tot gebrek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:39.214940449Z",
+  "model": "glm-5.3"
+}

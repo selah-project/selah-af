@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "en jy neem van sy dogters vir jou seuns, en sy dogters hoereer agter hul gode aan, en hulle maak ⟨את⟩ jou seuns hoereer agter hul gode aan.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy neem"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "van sy dogters"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "vir jou seuns"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "en hulle hoereer"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sy dogters"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter ... aan"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "hul gode"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "en hulle maak hoereer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seuns"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jou seuns"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter ... aan"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "hul gode"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:02.051011964Z",
+  "model": "glm-5.3"
+}

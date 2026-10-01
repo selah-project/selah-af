@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy moet draagstokke van sittimhout maak en hulle met goud oortrek ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy moet maak"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "draagstokke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittimbome"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "en jy moet oortrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle — die draagstokke"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:15.925025825Z",
+  "model": "glm-5.3"
+}

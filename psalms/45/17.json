@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 45:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "In plaas van jou vaders sal jou seuns wees; jy sal hulle as vorste aanstel in die hele aarde.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jou vaders"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jou seuns"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "sal jy hulle aanstel"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "as vorste"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:21.501844508Z",
+  "model": "glm-5.3"
+}

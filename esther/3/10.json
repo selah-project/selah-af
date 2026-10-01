@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Toe haal die koning ⟨את⟩ sy ring van sy hand af af en gee dit aan Haman, seun van Medata, die Agagiet, die vyand van die Jehoediem.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "Toe haal hy af"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy ring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "sy ring"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "en gee dit"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "aan Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "die Agagiet"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "van die Jehoediem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:51.331388664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Maar hulle en ons vaders het aanmatigend gehandel en ⟨את⟩ hulle nek verhard, en hulle het nie geluister na jou gebooie nie.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "maar hulle"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "en ons vaders"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "het aanmatigend gehandel"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "en verhard"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle nek"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "hulle nek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het hulle geluister"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jou gebooie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:41:47.435483285Z",
+  "model": "glm-5.3"
+}

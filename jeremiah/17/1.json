@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Die sonde van Jehoeda is geskrywe met 'n ysterpen, met 'n punt van sjamir, ingegraveer op ⟨die⟩ tablet van hulle hart en op die horings van jul altare.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Die sonde"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "is geskrywe"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "met 'n pen"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van yster"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "met 'n punt"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "van sjamir"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "ingegraveer"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "⟨die⟩ tablet"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "van hulle hart"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "en op die horings"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "van jul altare"
+    }
+  ],
+  "timestamp": "2026-09-30T22:33:14.096362558Z",
+  "model": "glm-5.3"
+}

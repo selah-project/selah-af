@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 10:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hy het in Sjomeron gekom en ⟨את⟩ al die oorblywendes van Agab in Sjomeron geslaan, totdat hy hulle verdelg het, volgens die woord van Jahweh wat Hy tot Eljahu gespreek het.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "in Sjomeron"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die oorblywendes van Agab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "die oorblywendes"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomeron"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "hy verdelg het"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eljahu"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:38.332052333Z",
+  "model": "glm-5.3"
+}

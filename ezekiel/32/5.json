@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 32:5",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Ek sal ⟨את⟩ jou vlees op die berge lê, en Ek sal die valleie met jou hoop ⟨vul⟩.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vlees"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jou vlees"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "en Ek sal vul"
+    },
+    {
+      "surface": "הגאיות",
+      "gloss": "die valleie"
+    },
+    {
+      "surface": "רמותך",
+      "gloss": "jou hoop"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:42.906572280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Jahweh, hoe het ⟨my⟩ verdrukkers vermenigvuldig! Baie ⟨is⟩ hulle wat teen my opstaan.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "het vermenigvuldig"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my verdrukkers"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "wat opstaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.934394807Z",
+  "model": "glm-5.3"
+}

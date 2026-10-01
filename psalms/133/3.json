@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 133,
+  "translation": "Soos die dou van Hermon wat afkom op die berge van Tsijon, want daar het Jahweh ⟨את⟩ die seën beveel — lewe tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Soos die dou"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "van Hermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "wat afkom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seën"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:18.619831219Z",
+  "model": "glm-5.3"
+}

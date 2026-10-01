@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 2:21",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy het gesê: volgens julle woorde, so ⟨is⟩ dit. En sy het hulle weggestuur, en hulle het gegaan; en sy het ⟨את⟩ die tou van die skarlaken in die venster gebind.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "volgens julle woorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "en sy het hulle weggestuur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "en sy het gebind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tou van die skarlaken"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "die tou"
+    },
+    {
+      "surface": "השני",
+      "gloss": "van die skarlaken"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "in die venster"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:01.126345194Z",
+  "model": "glm-5.3"
+}

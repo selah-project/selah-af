@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Uit Tsijon, volmaaktheid van skoonheid, het Elohim geskyn.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsijon"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "volmaaktheid"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "van skoonheid"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "het geskyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:08.190713962Z",
+  "model": "glm-5.3"
+}

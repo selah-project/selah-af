@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 43:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Wanneer jy deur die waters gaan, ⟨is⟩ ek met ⟨את⟩ jou, en deur die riviere — hulle sal jou nie oorstroom nie; wanneer jy in vuur loop, sal jy nie skroei nie, en die vlam sal nie in jou brand nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "jy gaan deur"
+    },
+    {
+      "surface": "במים",
+      "gloss": "deur die waters"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "met ⟨את⟩ jou",
+      "marks": "jy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ובנהרות",
+      "gloss": "en deur die riviere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישטפוך",
+      "gloss": "hulle sal jou oorstroom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "jy loop"
+    },
+    {
+      "surface": "במו",
+      "gloss": "in"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכוה",
+      "gloss": "sal jy skroei"
+    },
+    {
+      "surface": "ולהבה",
+      "gloss": "en die vlam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:32.443147498Z",
+  "model": "glm-5.3"
+}

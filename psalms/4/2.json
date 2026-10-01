@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Toe ek geroep het, antwoord my, Elohim van my tsedek; in ⟨die⟩ nood het U vir my ruim gemaak; wees my genadig en hoor my gebed.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "toe ek geroep het"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "my tsedek"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in nood"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "het U ruim gemaak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:46.295742548Z",
+  "model": "glm-5.3"
+}

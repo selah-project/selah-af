@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die inwoners van Gibeon het gehoor ⟨את⟩ wat Jehosjoea aan Jerigo en aan Ai gedoen het.",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "en die inwoners van"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jehosjoea aan Jerigo en aan Ai gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "aan Jerigo"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "en aan Ai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:23.549203709Z",
+  "model": "glm-5.3"
+}

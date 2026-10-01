@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Want sy boodskappers sal hy oor jou beveel, om jou te bewaar op al jou weë.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sy boodskappers"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "sal hy beveel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oor jou"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "om jou te bewaar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op al"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "jou weë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:27.352686457Z",
+  "model": "glm-5.3"
+}

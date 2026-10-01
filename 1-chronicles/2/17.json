@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Awigajil het ⟨את⟩ Amasa gebaar, en die vader van Amasa ⟨was⟩ Jeter die Jismeëliet.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "En Awigajil"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasa"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "en die vader van"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "die Jismeëliet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:11.368816431Z",
+  "model": "glm-5.3"
+}

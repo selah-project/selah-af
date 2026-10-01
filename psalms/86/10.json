@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Want U ⟨is⟩ groot en doen wonders; U alleen ⟨is⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.431688193Z",
+  "model": "glm-5.3"
+}

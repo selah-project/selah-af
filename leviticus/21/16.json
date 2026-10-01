@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Jahweh het met Mosje gesê en gespreek:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gespreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:58.889844634Z",
+  "model": "glm-5.3"
+}

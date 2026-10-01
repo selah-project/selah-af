@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En laat ons ken, laat ons nay jaag om ⟨את⟩ Jahweh te ken; soos die dageraad is sy uittog seker, en hy sal kom soos die reën vir ons, soos die nareën sal hy die aarde deurdrup.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "En laat ons ken"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "laat ons nay jaag"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "soos die dageraad"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "is seker"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "sy uittog"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "en hy sal kom"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "soos die reën"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "soos die nareën"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "sal hy deurdrup"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:06.998272679Z",
+  "model": "glm-5.3"
+}

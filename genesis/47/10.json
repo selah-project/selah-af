@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En Jaäkow het ⟨את⟩ Paro geseën en uit die teenwoordigheid van Paro uitgegaan.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en het geseën"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en uitgegaan"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "uit die teenwoordigheid van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:47.599089428Z",
+  "model": "glm-5.3"
+}

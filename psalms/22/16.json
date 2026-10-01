@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Droog soos 'n potskerf ⟨is⟩ my krag, en my tong kleef vas aan my kake; en in die stof van die dood lê U my neer.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "droog"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "soos 'n potskerf"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "en my tong"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "kleef vas"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": "aan my kake"
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "en in die stof"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "lê U my neer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:53.316296604Z",
+  "model": "glm-5.3"
+}

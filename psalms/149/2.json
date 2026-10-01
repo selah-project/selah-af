@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Jisraël verbly hom in sy Maker, die seuns van Tsijon juig in hulle koning.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "verbly hom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "in sy Maker"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsijon"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "in hulle koning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.047756524Z",
+  "model": "glm-5.3"
+}

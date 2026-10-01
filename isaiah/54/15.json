@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 54:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Kyk, ⟨hulle⟩ ⟨sal⟩ sekerlik bymekaar kom, maar nie deur ⟨את⟩ ⟨My⟩ nie; wie ook al saam met jou bymekaar kom, ⟨dié⟩ ⟨sal⟩ teen jou val.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "גור",
+      "gloss": "bymekaar kom"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "⟨sal⟩ sekerlik ... kom"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "מאותי",
+      "gloss": "⟨את⟩",
+      "marks": "My"
+    },
+    {
+      "surface": "מי",
+      "gloss": "deur wie ook al"
+    },
+    {
+      "surface": "גר",
+      "gloss": "bymekaar kom"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ saam met jou"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "⟨sal⟩ val"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:16.996038268Z",
+  "model": "glm-5.3"
+}

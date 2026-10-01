@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal ⟨את⟩ die wasbak tussen die tent van ontmoeting en die altaar plaas, en jy sal daar water plaas.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wasbak"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "die wasbak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:04.542380185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 23:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Balak doen soos Bilam gesê het, en hy laat 'n bul en 'n ram op ⟨die⟩ altaar opgaan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy doen"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hy laat opgaan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n bul"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en 'n ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op ⟨die⟩ altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:47.861006059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 21:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Menasjé het met sy vaders gaan slaap, en hulle het hom begrawe in die tuin van sy huis, in die tuin van Ussa; en Amon sy seun het in sy plek geheers.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "het gaan slaap"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasjé"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hulle het hom begrawe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in die tuin"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van sy huis"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in die tuin"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "van Ussa"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en het geheers"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:42.882588951Z",
+  "model": "glm-5.3"
+}

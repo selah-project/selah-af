@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Laat ons ⟨את⟩ hulle bande stukkend skeur, en hulle toue van ons afwerp —",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "laat ons stukkend skeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle bande"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "hulle bande"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "en laat ons afwerp"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "hulle toue"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:40.906688086Z",
+  "model": "glm-5.3"
+}

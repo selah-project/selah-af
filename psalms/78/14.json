@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het hulle bedags met ⟨die⟩ wolk gelei, en die hele nag met 'n lig van vuur.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "en hy het hulle gelei"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "met ⟨die⟩ wolk"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "באור",
+      "gloss": "met 'n lig"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:54.463212821Z",
+  "model": "glm-5.3"
+}

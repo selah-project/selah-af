@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Kyk, ⟨את⟩ sy bloed is nie binne-in die heiligheid ingebring nie — dan moes julle ⟨את⟩ dit in die heiligheid eet, soos ek beveel het.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "is ingebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "die heiligheid"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "eet"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "moes julle eet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit (in die heiligheid)"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligheid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ek beveel het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:18.448794989Z",
+  "model": "glm-5.3"
+}

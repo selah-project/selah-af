@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die koning en al die volk offer 'n slagoffer voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "offer"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "'n slagoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:54.818683832Z",
+  "model": "glm-5.3"
+}

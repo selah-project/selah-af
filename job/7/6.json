@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "My dae ⟨is⟩ vinniger as ⟨die⟩ weefspoel, en hulle kom tot 'n einde sonder hoop.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "is vinniger"
+    },
+    {
+      "surface": "מני",
+      "gloss": "as"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "weefspoel"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "en kom tot 'n einde"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "in die niet"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "van hoop"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:39.410822441Z",
+  "model": "glm-5.3"
+}

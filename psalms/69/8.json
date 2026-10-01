@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Want om u ontwil het ek smaad gedra; skande het my gesig bedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "om u ontwil"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "het ek gedra"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "het bedek"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "skande"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my gesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:34.651259071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die tong van die suigling kleef aan sy verhemelte van dors; die kindertjies vra brood, maar ⟨daar is⟩ niemand wat dit vir hulle uiteindeel nie.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "kleef"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "die tong"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "van die suigling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "sy verhemelte"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "van dors"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "kindertjies"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "vra"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "uiteindeel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niemand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:29.857515354Z",
+  "model": "glm-5.3"
+}

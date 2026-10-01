@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Wat gewees het, ⟨is⟩ lankal al so, en wat nog kom, ⟨is⟩ lankal al gewees; en Elohim soek ⟨את⟩ wat verjaag is.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "gewees het"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lankal al"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "so"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "nog kom"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lankal al"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gewees"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "en Elohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat verjaag is"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "wat verjaag is"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:49.354641181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en ons ⟨את⟩ het hy daar vandaan uitgebring om ons ⟨את⟩ in te bring, om aan ons ⟨את⟩ die land te gee wat hy aan ons vaders gesweer het.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ en ons",
+      "marks": "ons (voorwerp van die uitbring)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "het hy uitgebring"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om te"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "in te bring"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons",
+      "marks": "ons (voorwerp van die inbring)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hy gesweer het"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "aan ons vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:34.647712622Z",
+  "model": "glm-5.3"
+}

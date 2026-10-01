@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 2:4",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die vrou het ⟨את⟩ die twee manne geneem en hulle weggesteek, en sy het gesê: So het die manne na my gekom, en ek het nie geweet van waar hulle ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee manne"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "ותצפנו",
+      "gloss": "het hulle weggesteek"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "So"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "het ek geweet"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:22.897456283Z",
+  "model": "glm-5.3"
+}

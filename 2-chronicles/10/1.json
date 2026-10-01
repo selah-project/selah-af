@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Rehabeam het na Sjekem gegaan, want na Sjekem het hele Jisraël gekom om ⟨את⟩ hom tot koning te maak.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rehabeam"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "na Sjekem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjekem"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "om tot koning te maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:10.420594095Z",
+  "model": "glm-5.3"
+}

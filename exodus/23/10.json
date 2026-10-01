@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En ses jaar sal jy ⟨את⟩ jou land saai en ⟨את⟩ sy opbrengs insamel.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sal jy saai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou land"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "jou land"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en insamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy opbrengs"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sy opbrengs"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:57.499494774Z",
+  "model": "glm-5.3"
+}

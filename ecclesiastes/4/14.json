@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Want uit die huis van die gevangenes het hy uitgegaan om te regeer, want selfs in sy koninkryk is hy arm gebore.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "van die gevangenes"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "het hy uitgegaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "om te regeer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "in sy koninkryk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "is hy gebore"
+    },
+    {
+      "surface": "רש",
+      "gloss": "arm"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:51.760116680Z",
+  "model": "glm-5.3"
+}

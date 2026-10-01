@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het hulle so gedoen, en hulle gered uit die hand van die seuns van Jisraël, en hulle nie gedood nie.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En hy het gedoen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en gered"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "gedood nie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:47.780382404Z",
+  "model": "glm-5.3"
+}

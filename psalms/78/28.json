@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 78:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En ⟨Hy⟩ het ⟨dit⟩ laat val binne-in hulle kamp, rondom hulle Misjkanne.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "en laat val"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "hulle kamp"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למשכנתיו",
+      "gloss": "hulle Misjkanne"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.918107258Z",
+  "model": "glm-5.3"
+}

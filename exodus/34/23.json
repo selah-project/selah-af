@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 34:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Drie keer in die jaar sal al jou mannetjies verskyn ⟨את⟩ voor die aangesig van Adonai Jahweh, Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Drie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in die jaar"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal verskyn"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "jou mannetjies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van Adonai Jahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "voor die aangesig"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "van Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:01.334459948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Vir die dirigent, op snaarinstrumente; 'n psalm van Asaf, 'n lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die dirigent"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "op snaarinstrumente"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:38.147286203Z",
+  "model": "glm-5.3"
+}

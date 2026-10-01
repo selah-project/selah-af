@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 128,
+  "translation": "Kyk, want so word die man geseën wat Jahweh vrees.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "word geseën"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:23.580898131Z",
+  "model": "glm-5.3"
+}

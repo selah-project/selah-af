@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die waters het van die aarde af teruggekeer, heen en weer gaande, en die waters het afgeneem aan die einde van honderd en vyftig dae.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "heen"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en weer"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "het afgeneem"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "aan die einde van"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:10.562444448Z",
+  "model": "glm-5.3"
+}

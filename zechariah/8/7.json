@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "So sê Jahweh Tsewaot: Kyk, ek red ⟨את⟩ my volk uit die land van die sonopgang en uit die land van die ondergang van die son.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ek red"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "van die sonopgang"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "en uit die land"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "van die ondergang"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "van die son"
+    }
+  ],
+  "timestamp": "2026-09-30T23:09:13.404209928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En dit sal gebeur: as jy geen behae in haar het nie, moet jy haar laat gaan vir haar siel; maar as verkoopmag moet jy haar nie vir geld verkoop nie, jy mag haar nie as slavin behandel nie, omdat jy haar verneder het.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "jy behae het"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "en jy moet haar laat gaan"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "vir haar siel"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "as verkoopmag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "jy haar verkoop"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "vir geld"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "jy mag haar behandel as slavin"
+    },
+    {
+      "surface": "בה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "jy verneder het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:05.695875389Z",
+  "model": "glm-5.3"
+}

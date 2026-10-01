@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "My vel is swart ⟨geword⟩ op my, en my gebeente gloei van die hitte.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "my vel"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "is swart"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "en my gebeente"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gloei"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "die hitte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:08.243249500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "My pad en my lêplek — U het ⟨dit⟩ uitgesif; met al my wees is U vertroud.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "my pad"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "en my lêplek"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "U het uitgesif"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en met al"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my wees"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "is U vertroud"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:24.291972891Z",
+  "model": "glm-5.3"
+}

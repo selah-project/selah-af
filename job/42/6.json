@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Daarom verag ⟨ek dit⟩ en lyk berou op stof en as.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daar"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "verag"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "en lyk berou"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:22.454583121Z",
+  "model": "glm-5.3"
+}

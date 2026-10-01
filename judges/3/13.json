@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 3:13",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het by hom bymekaargemaak ⟨את⟩ die seuns van Ammon en ⟨את⟩ Amalek, en hy het gegaan en Jisraël geslaan, en hulle het ⟨את⟩ die stad van die palmbome in besit geneem.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "en hy het bymekaargemaak"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Ammon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "en Amalek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "en hulle het in besit geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad van die palmbome"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "van die palmbome"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:47.839023650Z",
+  "model": "glm-5.3"
+}

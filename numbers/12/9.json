@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die neus van Jahweh het teen hulle gebrand, en Hy het weggegaan.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "het gebrand"
+    },
+    {
+      "surface": "אף",
+      "gloss": "die neus (toorn)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en het weggegaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:54.586418403Z",
+  "model": "glm-5.3"
+}

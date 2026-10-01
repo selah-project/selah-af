@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 4:2",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Vloek en leuen en moord en diefstal en egbreek — hulle breek deur, en bloed aan bloed raak.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Vloek"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "en leuen"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "en moord"
+    },
+    {
+      "surface": "וגנב",
+      "gloss": "en diefstal"
+    },
+    {
+      "surface": "ונאף",
+      "gloss": "en egbreek"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "hulle breek deur"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "en bloed"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "aan bloed"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "raak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:41.109680730Z",
+  "model": "glm-5.3"
+}

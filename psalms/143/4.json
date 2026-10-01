@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "En my roeag raak oorweldig oor my, binne-in my raak my hart verstom.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "raak oorweldig"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "binne-in my"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "raak verstom"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.554334586Z",
+  "model": "glm-5.3"
+}

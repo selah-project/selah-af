@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Jy mag geen sjaatnez aantrek nie, wol en vlas saam.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "jy mag aantrek"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "sjaatnez"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "wol"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "en vlas"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:52.709683978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Die haters van Jahweh sou hulle ⟨vir⟩ Hom onderdanig toon, en hulle tyd sou ⟨wees⟩ tot vir ewig.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Die haters"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "sou hulle onderdanig toon"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en sou wees"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "hulle tyd"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.401908562Z",
+  "model": "glm-5.3"
+}

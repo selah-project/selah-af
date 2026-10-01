@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Want hy sal die behoeftige red wat roep, en die ellendige — en daar is geen helper vir hom nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "sal red"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "die behoeftige"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "wat roep"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "en die ellendige"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.294034248Z",
+  "model": "glm-5.3"
+}

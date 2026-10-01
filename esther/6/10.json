@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning sê vir Haman: haas jou, neem ⟨את⟩ die kleed en ⟨את⟩ die perd, soos jy gespreek het, en doen so aan Mordegai, die Jood wat in die poort van die koning sit; laat geen woord val van alles wat jy gespreek het nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "vir Haman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haas jou"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleed"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "die kleed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die perd"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "die perd"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jy gespreek het"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordegai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "die Jood"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wat sit"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "laat val"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jy gespreek het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.265812838Z",
+  "model": "glm-5.3"
+}

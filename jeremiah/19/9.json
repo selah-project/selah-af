@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 19:9",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Ek sal hulle laat eet ⟨את⟩ die vlees van hulle seuns en ⟨את⟩ die vlees van hulle dogters, en elkeen sal die vlees van sy naaste eet, in die beleëring en in die benoudheid waarmee hulle vyande en die soekers van hulle lewe hulle sal benou.",
+  "tokens": [
+    {
+      "surface": "והאכלתים",
+      "gloss": "en Ek sal hulle laat eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees van hulle seuns"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "van hulle seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vlees van hulle dogters"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "בנתיהם",
+      "gloss": "van hulle dogters"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van sy naaste"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "in die beleëring"
+    },
+    {
+      "surface": "ובמצוק",
+      "gloss": "en in die benoudheid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "יציקו",
+      "gloss": "hulle sal benou"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "en die soekers van"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:33:36.592003428Z",
+  "model": "glm-5.3"
+}

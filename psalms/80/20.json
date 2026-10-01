@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Jahweh Elohim Tsewaot, bring ons terug; laat u aangesig skyn, en ons gered word.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bring ons terug"
+    },
+    {
+      "surface": "האר",
+      "gloss": "laat skyn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en ons gered word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:42.792875840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 118:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Dit is goed om by Jahweh skuiling te soek, eerder as om op vorste te vertrou.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Dit is goed"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "om skuiling te soek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "eerder as om te vertrou"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "op vorste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:42.623239286Z",
+  "model": "glm-5.3"
+}

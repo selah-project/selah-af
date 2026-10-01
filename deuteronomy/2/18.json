@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Jy steek vandag ⟨את⟩ die grens van Moab oor, ⟨את⟩ Ar,",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Jy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "steek oor"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die grens van Moab"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die grens"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:33.482142382Z",
+  "model": "glm-5.3"
+}

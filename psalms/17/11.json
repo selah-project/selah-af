@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Ons treë nou — hulle het my omring; hulle oë rig hulle om ons neer te buig na die aarde.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "ons treë"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "hulle het my omring"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "hulle oë"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "rig hulle"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "om neer te buig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "na die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.720924740Z",
+  "model": "glm-5.3"
+}

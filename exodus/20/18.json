@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En die hele volk het ⟨את⟩ die stemme gesien en ⟨את⟩ die vlamme en ⟨את⟩ die klank van die sjofar en ⟨את⟩ die berg wat rook; en die volk het dit gesien en gebewe en ver weg gaan staan.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stemme"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "die stemme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vlamme"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "die vlamme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die klank van die sjofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "van die sjofar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "wat roook"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "en gebewe"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en gaan staan"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ver weg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:13.902053479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Die kinders van u dienaars sal bly woon, en hulle nageslag sal voor ⟨u⟩ vasstaan.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "u dienaars"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "sal bly woon"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "en hulle nageslag"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sal vasstaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:06.441312596Z",
+  "model": "glm-5.3"
+}

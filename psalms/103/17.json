@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "En die gesed van Jahweh ⟨is⟩ van ewigheid tot ewigheid oor dié wat Hom vrees, en sy tsedek oor kinders van kinders,",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "en die gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewigheid"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dié wat Hom vrees"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "en sy tsedek"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "oor kinders van"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.910073835Z",
+  "model": "glm-5.3"
+}

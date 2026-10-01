@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Hulle innerlike ⟨dink⟩: hulle huise ⟨is⟩ vir ewig, hulle wonings vir geslag en geslag; hulle het hulle name oor gronde geroep.",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "hulle innerlike"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "hulle huise"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "hulle wonings"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "hulle het geroep"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "met hulle name"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "gronde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:45.192112608Z",
+  "model": "glm-5.3"
+}

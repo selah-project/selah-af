@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "en ⟨את⟩ die hele Naftali, en ⟨את⟩ die land van Efraim en Manasse, en ⟨את⟩ die hele land van Jehoeda tot by die agterste see.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hele Naftali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Naftali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die land van Efraim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efraim"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "en Manasse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hele land van Jehoeda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "die agterste"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:56.060949125Z",
+  "model": "glm-5.3"
+}

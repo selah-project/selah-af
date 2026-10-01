@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ die kandelaars en hulle lampe om hulle te laat brand volgens die voorskrif voor die Debir — goud, gesuiwer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kandelaars"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "die kandelaars"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "en hulle lampe"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "om hulle te laat brand"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens die voorskrif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "die Debir"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "gesuiwer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:54:58.264514792Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Soos hulle sal hulle makers word, almal wat op hulle vertrou.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "soos hulle"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal word"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "hulle makers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:18.878447187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Jahweh Elohim, moenie die aangesig van u gesalfde wegkeer nie; dink aan die gesed van Dawid, u dienaar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wegkeer"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "van u gesalfde"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "dink aan"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "aan die gesed"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:54:52.466484502Z",
+  "model": "glm-5.3"
+}

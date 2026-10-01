@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Gizkijahoe en ⟨die⟩ owerstes het gekom en ⟨את⟩ die hope gesien, en hulle het ⟨את⟩ Jahweh geseën en ⟨את⟩ sy volk Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en het gekom"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "en ⟨die⟩ owerstes"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hope"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "die hope"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "en hulle het geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk Jisraël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T01:02:21.159246378Z",
+  "model": "glm-5.3"
+}

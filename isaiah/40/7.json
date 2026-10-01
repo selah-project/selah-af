@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 40:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Verdor ⟨is⟩ die gras, verwelk die bloei, want die roeag van Jahweh het daarop gewaai — voorwaar, gras ⟨is⟩ die volk.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "verdor ⟨is⟩"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "die gras"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "verwelk"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "die bloei"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "נשבה",
+      "gloss": "het gewaai"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.210405942Z",
+  "model": "glm-5.3"
+}

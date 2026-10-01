@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Ter wille van die huis van Jahweh onse Elohim sal ek ⟨את⟩ die goeie vir jou soek.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse Elohim"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "sal ek soek"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.153608204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Die hemel — hemel behoort aan Jahweh, maar die aarde het Hy gegee aan die mensekinders.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "maar die aarde"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het Hy gegee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:10.517291696Z",
+  "model": "glm-5.3"
+}

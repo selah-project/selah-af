@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "Vir die koordirekteur, op snarspel. Van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koordirekteur"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "snarspel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.595157209Z",
+  "model": "glm-5.3"
+}

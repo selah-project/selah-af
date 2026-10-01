@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 101:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "Soggens sal ek al die goddeloses van die land uitroei, om van die stad van Jahweh af te sny al die werkers van onheil.",
+  "tokens": [
+    {
+      "surface": "לבקרים",
+      "gloss": "soggens"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "sal ek uitroei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "om af te sny"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die werkers"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onheil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:49.312560127Z",
+  "model": "glm-5.3"
+}

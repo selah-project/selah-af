@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit het gebeur in die dae van Agasjwerosj — hy ⟨is⟩ Agasjwerosj wat regeer het van Hodu tot ⟨by⟩ Kus, sewe en twintig en 'n honderd provinsies —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in die dae van"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Agasjwerosj"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Agasjwerosj"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wat regeer het"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "van Hodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en 'n honderd"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "provinsies"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.115206372Z",
+  "model": "glm-5.3"
+}

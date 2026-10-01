@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 30:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "dat ek nie versadig word en ontken en sê, Wie is Jahweh? nie; en dat ek nie verarm en steel en die naam van my Elohim gryp nie.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "dat nie ... nie"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "versadig word"
+    },
+    {
+      "surface": "וכחשתי",
+      "gloss": "en ontken"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ופן",
+      "gloss": "en dat nie"
+    },
+    {
+      "surface": "אורש",
+      "gloss": "verarm"
+    },
+    {
+      "surface": "וגנבתי",
+      "gloss": "en steel"
+    },
+    {
+      "surface": "ותפשתי",
+      "gloss": "en gryp"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van my Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:11.614689176Z",
+  "model": "glm-5.3"
+}

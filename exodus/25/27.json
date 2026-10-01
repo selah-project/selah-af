@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Teenoor die rand moet die ringe wees, as huise vir die dra stange, om ⟨את⟩ die tafel te dra.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "moet wees"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "die ringe"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "as huise"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "vir die stange"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:11.385387365Z",
+  "model": "glm-5.3"
+}

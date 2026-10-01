@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En dit het gebeur in die môre, en Dawid het 'n geskrif geskryf aan Joab, en hy het dit gestuur met die hand van Urija.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "geskryf"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "'n geskrif"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "gestuur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "met die hand"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:51.515560806Z",
+  "model": "glm-5.3"
+}

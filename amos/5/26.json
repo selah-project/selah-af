@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En julle het ⟨את⟩ Sikkut, julle koning, gedra, en ⟨את⟩ Kijoen, julle beelde, die ster van julle gode, wat julle vir julleself gemaak het.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "en julle het gedra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sikkut, julle koning"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sikkut"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "julle koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kijoen, julle beelde"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "Kijoen"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "julle beelde"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "die ster"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "van julle gode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "julle gemaak het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julleself"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:53.832133259Z",
+  "model": "glm-5.3"
+}

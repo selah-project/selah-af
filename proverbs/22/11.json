@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Wie reinheid van hart liefhet — gunsgenote van lippe ⟨is⟩ sy lippe — die koning ⟨is⟩ sy vriend.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "reinheid"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "חן",
+      "gloss": "gunsgenote"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "van sy lippe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy vriend"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:21.878455734Z",
+  "model": "glm-5.3"
+}

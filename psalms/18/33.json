@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die El wat my met krag omgord, en aan my weg volmaaktheid gee.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Die El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "wat my omgord"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "met krag"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaaktheid"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "aan my weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:34.752818143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Noag het uitgegaan, en sy seuns, en sy vrou, en die vroue van sy seuns ⟨את⟩ met hom.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgegaan"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noag"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en sy vrou"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "en die vroue"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "van sy seuns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "Noag en sy huisgesin"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:54.059662057Z",
+  "model": "glm-5.3"
+}

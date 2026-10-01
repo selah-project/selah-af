@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 12:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die goeie bring guns voort van Jahweh; maar 'n man van listige planne veroordeel hy.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "bring voort"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "guns"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar 'n man"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "van listige planne"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "veroordeel hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:42.016518874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Motsa het ⟨את⟩ Binea verwek, en Refaja sy seun, Elasa sy seun, Atsel sy seun.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "En Motsa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Binea"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Binea"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "en Refaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Atsel"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:46:53.925005789Z",
+  "model": "glm-5.3"
+}

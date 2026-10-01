@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En daardie rykdom vergaan deur 'n slegte besigheid, en hy verwek 'n seun, en daar ⟨is⟩ niks in sy hand nie.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "en vergaan"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "die rykdom"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "deur 'n besigheid"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "en hy verwek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niks"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:33.415126107Z",
+  "model": "glm-5.3"
+}

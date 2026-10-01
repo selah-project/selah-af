@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Josef het gesterf, en al sy broers, en daardie hele geslag.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "het gesterf"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:50.524466883Z",
+  "model": "glm-5.3"
+}

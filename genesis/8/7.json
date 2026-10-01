@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ die raaf gestuur; hy het uitgegaan, uitgaan en terugkeer, tot die waters opgedroog het van die aarde af.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die raaf"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die raaf"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgegaan"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "uitgaan"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en terugkeer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "opgedroog het"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:45.509748657Z",
+  "model": "glm-5.3"
+}

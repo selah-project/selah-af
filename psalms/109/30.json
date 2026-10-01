@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Ek sal Jahweh baie grootliks met my mond loof, en te midde van baie sal ek Hom prys.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ek sal loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie grootliks"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "met my mond"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "en te midde van"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "sal ek Hom prys"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.030542911Z",
+  "model": "glm-5.3"
+}

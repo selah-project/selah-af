@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En jou oog mag nie spaar nie: siel vir siel, oog vir oog, tand vir tand, hand vir hand, voet vir voet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mag spaar"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "jou oog"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "vir siel"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "vir oog"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "vir tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "vir hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "vir voet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:07.633245771Z",
+  "model": "glm-5.3"
+}

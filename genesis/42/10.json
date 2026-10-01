@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En hulle het vir hom gesê: Nee, my heer, maar u dienaars het gekom om kos te koop.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "maar u dienaars"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te koop"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kos"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:21.649922827Z",
+  "model": "glm-5.3"
+}

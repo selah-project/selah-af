@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 34:32",
+  "book": "job",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Behalwe wat ek nie sien nie — leer ⟨dit⟩ ⟨U⟩ my; as ek onreg gedoen het, sal ek nie weer ⟨doen⟩ nie.",
+  "tokens": [
+    {
+      "surface": "בלעדי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ek sien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨U⟩"
+    },
+    {
+      "surface": "הרני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "weer sal doen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:21:45.404865184Z",
+  "model": "glm-5.3"
+}

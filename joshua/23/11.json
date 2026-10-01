@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En waak julle baie oor julle siele, om Jahweh julle Elohim lief te hê ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "en waak julle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "oor julle siele"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "om lief te hê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh julle Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:26.118787394Z",
+  "model": "glm-5.3"
+}

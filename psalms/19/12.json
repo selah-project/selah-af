@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Ook jou dienaar word daardeur gewaarsku; in die onderhouding daarvan ⟨is⟩ groot loon.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienaar"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "word gewaarsku"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daardeur"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "in die onderhouding daarvan"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "loon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:30.375258344Z",
+  "model": "glm-5.3"
+}

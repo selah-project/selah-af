@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "⟨את⟩ die gordyne van die voorhof, ⟨את⟩ sy pilare en ⟨את⟩ sy voetstukke, en ⟨את⟩ die voorhangsel van die poort van die voorhof,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gordyne van die voorhof"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "die gordyne"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy pilare"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "sy pilare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy voetstukke"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "sy voetstukke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voorhangsel van die poort van die voorhof"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "die voorhangsel"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van die poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:51.426104192Z",
+  "model": "glm-5.3"
+}

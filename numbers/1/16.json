@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 1:16",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Dit ⟨is⟩ die geroepe van die vergadering, owerstes van die stamme van hulle vaders; hulle ⟨is⟩ hoofde van duisende in Jisraël.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "קריאי",
+      "gloss": "geroepe"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "owerstes"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "van die stamme"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofde"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "van duisende"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:58.063283070Z",
+  "model": "glm-5.3"
+}

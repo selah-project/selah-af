@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Onthou dit: die vyand het Jahweh gesmaad, en 'n dwase volk het u Naam gelaster.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Onthou"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "het gesmaad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en 'n volk"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dwase"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "het gelaster"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:45.388150964Z",
+  "model": "glm-5.3"
+}

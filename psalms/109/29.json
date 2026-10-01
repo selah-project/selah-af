@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Laat my aanklaers met skaamte bekleed word, en laat hulle hulle eie smaad toehul soos 'n mantel.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "laat ... bekleed word"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "my aanklaers"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "met smaad"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "en laat hulle toehul"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "soos 'n mantel"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hulle skaamte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.030251721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Vandag trek julle uit, in die maand van die Awief.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "trek uit"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "van die Awief"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:32.603713220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die weg van 'n dwas ⟨is⟩ reg in sy eie oë, maar hy wat na raad luister, ⟨is⟩ wys.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "van 'n dwas"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reg"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "maar hy luister"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "na raad"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wys"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:25.213962556Z",
+  "model": "glm-5.3"
+}

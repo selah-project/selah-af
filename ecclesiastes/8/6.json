@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Want vir elke begeerte is daar ⟨'n⟩ tyd en reg, want die kwaad van die mens is groot oor hom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir elke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "begeerte"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is daar"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:43.651373057Z",
+  "model": "glm-5.3"
+}

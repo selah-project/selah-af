@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Vervloek 'n dowe nie, en voor 'n blinde moet jy geen struikelblok neersit nie; en jou Elohim moet jy vrees: ek is Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "'n dowe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "עור",
+      "gloss": "'n blinde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "neersit"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "struikelblok"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "en jy moet vrees"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:01.814341456Z",
+  "model": "glm-5.3"
+}

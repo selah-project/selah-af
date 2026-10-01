@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Onthou sy wonders wat hy gedoen het, sy tekens en die regspraak van sy mond.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Onthou"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "sy wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "sy tekens"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "en die regspraak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van sy mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.820738701Z",
+  "model": "glm-5.3"
+}

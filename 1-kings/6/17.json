@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En veertig ama was die huis, dit is die heikal, voor dit.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "die heikal"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor dit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:30.601765641Z",
+  "model": "glm-5.3"
+}

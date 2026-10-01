@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 12:14",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het met hulle gespreek volgens die raad van die jong manne, deur te sê: My vader het julle juk swaar gemaak, en ék sal by julle juk byvoeg; my vader het julle met sweepslae tugtig, en ék sal julle met skerpioene tugtig.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "volgens die raad"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "van die jong manne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "het swaar gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou juk"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jou juk"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ék"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "sal byvoeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "jou juk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "het tugtig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "met sweepslae"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "met sweepslae"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ék"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sal tugtig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "met skerpioene"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "met skerpioene"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.967401309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En sy het gesê tot Elia: wat ⟨het ek⟩ met jou te doen, man van ⟨את⟩ die Elohim? Het jy na my gekom om ⟨את⟩ my ongeregtigheid te herinner en om ⟨את⟩ my seun te laat sterf?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en vir jou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "het jy gekom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "om te herinner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my ongeregtigheid"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "my ongeregtigheid"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "en om te laat sterf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:14.843510996Z",
+  "model": "glm-5.3"
+}

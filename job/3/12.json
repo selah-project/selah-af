@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Waarom het knieë my voorgekom? En waarom ⟨was daar⟩ borswywe, dat ek sou suig?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "het my voorgekom"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "knieë"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "borswywe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ek sou suig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:14.393048077Z",
+  "model": "glm-5.3"
+}

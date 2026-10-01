@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hulle het aan Dawid vertel en gesê: Kyk, die Filistyne veg teen Keägila, en hulle plunder ⟨את⟩ die dorsvloere.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "En hulle het vertel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "veg"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "teen Keägila"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "plunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dorsvloere"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "die dorsvloere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:19.513397735Z",
+  "model": "glm-5.3"
+}

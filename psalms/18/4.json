@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die Geloofde roep ek aan — Jahweh — en van my vyande word ek gered.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Die Geloofde"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "word ek gered"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:53.474258384Z",
+  "model": "glm-5.3"
+}

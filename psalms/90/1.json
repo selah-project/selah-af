@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "'n Gebed van Mosje, die man van ⟨את⟩ Elohim. Adonai, 'n woning was U vir ons, van geslag tot geslag.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "'n Gebed"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van ⟨את⟩ Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "'n woning"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "היית",
+      "gloss": "was"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:29.175120211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Want Ijob het gesê: Ek is in die reg, en El het my reg weggedraai.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ek is in die reg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "het weggedraai"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:21:20.436208156Z",
+  "model": "glm-5.3"
+}

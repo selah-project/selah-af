@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Wanneer daar 'n geskil tussen manne is en hulle na die reg toe gaan en hulle geoordeel word, moet hulle ⟨die⟩ regverdige in die gelid stel en ⟨die⟩ goddelose skuldig verklaar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "'n geskil"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "en hulle gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "en hulle geoordeel word"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "moet hulle in die gelid stel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die regverdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "en skuldig verklaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goddelose"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "die goddelose"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:55.427717032Z",
+  "model": "glm-5.3"
+}

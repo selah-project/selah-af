@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 20:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Moenie die huis van jou naaste begeer nie; moenie die vrou van jou naaste begeer nie, en sy dienskneg en sy diensmaagd en sy os en sy donkie nie, en alles wat aan jou naaste behoort nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "moenie ... nie"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "moenie ... nie"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en sy dienskneg"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "en sy diensmaagd"
+    },
+    {
+      "surface": "ושורו",
+      "gloss": "en sy os"
+    },
+    {
+      "surface": "וחמרו",
+      "gloss": "en sy donkie"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "aan jou naaste behoort"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:13.901772065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Jahweh het vir Mosje gesê: Klim op na My toe ⟨op⟩ ⟨die⟩ berg, en wees daar, en Ek sal jou ⟨את⟩ die tafels van klip gee, en die Tora en die gebod wat Ek geskryf het om hulle te leer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "klim op"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My toe"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "⟨op⟩ ⟨die⟩ berg"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en wees"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en Ek sal gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafels van klip"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "die tafels"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "van klip"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "en die Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "en die gebod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "Ek geskryf het"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "om hulle te leer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:16.725662641Z",
+  "model": "glm-5.3"
+}

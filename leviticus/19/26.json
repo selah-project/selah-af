@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Julle mag nie eet op ⟨die⟩ bloed nie; julle mag nie voorspel nie, en nie waarsêery beoefen nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "sal julle voorspel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "waarsêery beoefen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:00.299520123Z",
+  "model": "glm-5.3"
+}

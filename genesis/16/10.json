@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die engel van Jahweh het vir haar gesê: Vermeerderend sal Ek ⟨את⟩ jou nageslag vermeerder, en dit sal nie getel kan word vanweë die menigte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "die engel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "vermeerderend"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sal Ek vermeerder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou nageslag"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sal getel word"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "vanweë die menigte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:51.959854132Z",
+  "model": "glm-5.3"
+}

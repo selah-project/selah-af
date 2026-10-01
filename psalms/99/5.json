@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 99:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Verhef Jahweh ons Elohim, en buig jul neer by ⟨die⟩ voetstoel van sy voete — heilig is Hy.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Verhef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "en buig jul neer"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "by die voetstoel"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "van sy voete"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is Hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:44.667979990Z",
+  "model": "glm-5.3"
+}

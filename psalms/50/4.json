@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Hy roep na die hemele van bo, en na die aarde, om sy volk te oordeel.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Hy roep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van bo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "om te oordeel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:08.192102871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 29:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Is hierdie nie Dawid nie, vir wie hulle in die danse beantwoord het deur te sê: Sjaoel het geslaan in sy duisende, en Dawid in sy tienduisende?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Is ... nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vir wie"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "hulle beantwoord het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "במחלות",
+      "gloss": "in die danse"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "באלפיו",
+      "gloss": "in sy duisende"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "ברבבתו",
+      "gloss": "in sy tienduisende"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:52.266005524Z",
+  "model": "glm-5.3"
+}

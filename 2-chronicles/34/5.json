@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 34:5",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En die bene van die priesters het hy verbrand op hulle altare, en hy het ⟨את⟩ Jehoeda en ⟨את⟩ Jerusjalajim gereinig.",
+  "tokens": [
+    {
+      "surface": "ועצמות",
+      "gloss": "en die bene"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "van die priesters"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "het hy verbrand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבחותים",
+      "gloss": "hulle altare"
+    },
+    {
+      "surface": "ויטהר",
+      "gloss": "en hy het gereinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:29.348529112Z",
+  "model": "glm-5.3"
+}

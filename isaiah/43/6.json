@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 43:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Ek sê aan die noorde: Gee; en aan die suide: Weerhou nie; bring my seuns uit die verte, en my dogters van die uiterste ⟨van die⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ek sê"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "aan die noorde"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Gee"
+    },
+    {
+      "surface": "ולתימן",
+      "gloss": "en aan die suide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכלאי",
+      "gloss": "weerhou"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "bring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seuns"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "uit die verte"
+    },
+    {
+      "surface": "ובנותי",
+      "gloss": "en my dogters"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van die uiterste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:48.904285444Z",
+  "model": "glm-5.3"
+}

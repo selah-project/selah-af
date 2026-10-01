@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Vir die koorleier — moenie vernietig nie — van Dawid, 'n migtam.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "vernietig nie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "'n migtam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:12.820194468Z",
+  "model": "glm-5.3"
+}

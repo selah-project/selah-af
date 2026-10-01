@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En as dit gesteel word — gesteel word dit van hom — sal hy aan sy eienaar vergoed.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "gesteel word"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "weggesteel"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sal vergoed"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "aan sy eienaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:59.472380718Z",
+  "model": "glm-5.3"
+}

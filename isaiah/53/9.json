@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 53:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "En ⟨את⟩ die goddeloses is sy graf gegee, en ⟨את⟩ die ryke in sy dood — al het hy geen geweld gedoen nie, en was daar geen bedrog in sy mond nie.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "is gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goddeloses"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "sy graf"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "die ryke"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "die ryke"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "in sy dood"
+    },
+    {
+      "surface": "על",
+      "gloss": "al"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in sy mond"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:32.074238042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Aan die koordirekteur, oor 'Almoet laben'; 'n mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die koordirekteur"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "oor 'Almoet"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:57.806563651Z",
+  "model": "glm-5.3"
+}

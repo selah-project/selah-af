@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Laat my tog oorgaan en ⟨את⟩ die goeie land sien wat anderkant die Jarden lê, hierdie goeie berg en die Lewanon.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "laat my oorgaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goeie land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "anderkant"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hierdie berg"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "en die Lewanon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:16.546683670Z",
+  "model": "glm-5.3"
+}

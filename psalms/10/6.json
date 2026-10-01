@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy het in sy hart gesê: Ek sal glad nie wankel nie; van geslag tot geslag ⟨is die een⟩ wat nie in kwaad ⟨verkeer⟩ nie.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Hy het gesê"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ek sal wankel"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "in kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.011384379Z",
+  "model": "glm-5.3"
+}

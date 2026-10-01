@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Maskiel van Asaf. Waarom, o Elohim, het U ons vir ewig verwerp? Waarom rook U toor teen die kleinvee van U weiding?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Maskiel"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "het U verwerp"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "rook"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "U toor"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "teen die kleinvee"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "van U weiding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.550926138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Voor die oë van hulle vadere het hy wonders gedoen, in die land Mitsrajim, in die veld van Tsoän.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "voor die oë van"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hulle vadere"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "in die veld van"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Tsoän"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:52.670888650Z",
+  "model": "glm-5.3"
+}

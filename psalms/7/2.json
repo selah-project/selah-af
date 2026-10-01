@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Jahweh, my Elohim, in U het ek my toevlug geneem; red my uit die hand van al my vervolgers, en ruk my weg.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "het ek my toevlug geneem"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit die hand van al"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "my vervolgers"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en ruk my weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:51.164687579Z",
+  "model": "glm-5.3"
+}

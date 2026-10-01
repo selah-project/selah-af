@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Want nou sal hulle sê: daar is geen koning vir ons nie, want ons het ⟨את⟩ Jahweh nie gevrees nie; en die koning — wat sal hy vir ons doen?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sal hulle sê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "het gevrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal hy doen"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:15.059930672Z",
+  "model": "glm-5.3"
+}

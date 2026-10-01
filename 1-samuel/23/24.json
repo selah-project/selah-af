@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hulle het opgestaan en na Sif gegaan, voor Sjaul uit; maar Dawid en sy manne was in die woestyn van Maön, in die Araba, aan die regterkant van die Jesjimon.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "en hulle het opgestaan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en gegaan"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "na Sif"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor ... uit"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "maar Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "van Maön"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in die Araba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "die regterkant"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "van die Jesjimon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:16.904500348Z",
+  "model": "glm-5.3"
+}

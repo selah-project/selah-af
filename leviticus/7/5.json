@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die priester sal ⟨את⟩ hulle as rook laat opgaan op die altaar, 'n vuuroffering vir Jahweh; ⟨dit⟩ ⟨is⟩ 'n skuldoffer.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "sal as rook laat opgaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vuuroffering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "'n skuldoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dit⟩ ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:05.414523012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Mosje het ⟨את⟩ die staf geneem van voor Jahweh, soos Hy hom beveel het.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die staf"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hom beveel het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:01.202864381Z",
+  "model": "glm-5.3"
+}

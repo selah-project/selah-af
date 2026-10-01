@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Elohim, U het ons verwerp, U het ons laat gebreek, U was toornig — keer U weer na ons toe!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "U het ons verwerp"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "U het ons laat gebreek"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "U was toornig"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "keer U weer"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "na ons toe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.364997072Z",
+  "model": "glm-5.3"
+}

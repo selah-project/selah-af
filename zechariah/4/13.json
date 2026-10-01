@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het vir my gesê om te sê: Weet jy nie wat hierdie is nie? En ek het gesê: Nee, my heer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Weet jy nie"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet jy"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Nee"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:12.781953727Z",
+  "model": "glm-5.3"
+}

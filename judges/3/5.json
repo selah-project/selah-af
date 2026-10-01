@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 3:5",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die seuns van Jisraël het gewoon te midde van die Kanaäniet, die Hietiet en die Emoriet en die Perizziet en die Hiwiet en die Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "te midde van"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hietiet"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en die Emoriet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en die Perizziet"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "en die Hiwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en die Jebusiet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:20.101144732Z",
+  "model": "glm-5.3"
+}

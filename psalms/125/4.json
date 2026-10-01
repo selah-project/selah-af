@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 125,
+  "translation": "Doen goed, o Jahweh, aan die goedes en aan die opregtes in hulle harte.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Doen goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "aan die goedes"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "en aan die opregtes"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "in hulle harte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:42.543172211Z",
+  "model": "glm-5.3"
+}

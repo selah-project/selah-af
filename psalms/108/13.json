@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Gee ons hulp teen ⟨die⟩ teëstander, want nietig ⟨is⟩ die redding van die mens.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hulp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "teen die teëstander"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "want nietig"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "die redding"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:42.188809969Z",
+  "model": "glm-5.3"
+}

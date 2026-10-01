@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 5:8",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Toe kom al die wyse manne van die koning in, maar hulle kon die geskrif nie lees nie en die uitleg nie aan die koning bekendmaak nie.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "toe"
+    },
+    {
+      "surface": "עללין",
+      "gloss": "kom in"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חכימי",
+      "gloss": "die wyse manne"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "כהלין",
+      "gloss": "kon hulle"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "die geskrif"
+    },
+    {
+      "surface": "למקרא",
+      "gloss": "lees"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "en die uitleg"
+    },
+    {
+      "surface": "להודעה",
+      "gloss": "bekendmaak"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "aan die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:56.427819513Z",
+  "model": "glm-5.3"
+}

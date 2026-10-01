@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En daar is aan hom sewe seuns en drie dogters gebore.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "en daar is gebore"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:45.925522595Z",
+  "model": "glm-5.3"
+}

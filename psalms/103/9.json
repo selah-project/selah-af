@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Nie vir ewig sal ⟨hy⟩ twis nie, en nie vir altyd sal ⟨hy⟩ ⟨die toorn⟩ bewaar nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "sal twis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir altyd"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "sal bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:19.430120445Z",
+  "model": "glm-5.3"
+}

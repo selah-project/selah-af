@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Sê aan Elohim: hoe ontsettend ⟨ is ⟩ u dade! Deur die menigte van u krag sal u vyande vir u voorgee aan u onderdanig ⟨ te wees ⟩.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ontsettend"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "u dade"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deur die menigte"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van u krag"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "sal voorgee (lieg)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "u vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.752496775Z",
+  "model": "glm-5.3"
+}

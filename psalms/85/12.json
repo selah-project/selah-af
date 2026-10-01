@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "emet spruit uit die aarde op, en tsedek kyk uit die hemel neer.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "emet"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die aarde"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "spruit op"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uit die hemel"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "kyk neer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.010283658Z",
+  "model": "glm-5.3"
+}

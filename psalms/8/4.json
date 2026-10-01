@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Want ek aanskou u hemels, die werke van u vingers, die maan en die sterre wat U vasgestel het —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ek aanskou"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "u hemels"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "van u vingers"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "die maan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en die sterre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "U vasgestel het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:58.679047462Z",
+  "model": "glm-5.3"
+}

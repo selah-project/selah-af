@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "en sterf op die berg waarheen jy klim, en word versamel tot jou volk, soos Aharon jou broer op berg Hor gesterf het en tot sy volk versamel is.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "en sterf"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "klim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "en word versamel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gesterf het"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Hor (daardie berg)"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "en versamel is"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:15.548098900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Jahweh verlos die siel van sy dienaars, en nie een van dié wat by Hom skuiling soek, sal skuldig gewys word nie.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "verlos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "van sy dienaars"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "sal skuldig gewys word"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enigeen"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "van dié wat skuiling soek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:11.284043310Z",
+  "model": "glm-5.3"
+}

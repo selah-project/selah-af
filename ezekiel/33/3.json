@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "en hy sien ⟨את⟩ die swaard kom oor die land, en hy blaas die sjofar en waarsku ⟨את⟩ die volk —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en hy sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die swaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "en hy blaas"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "die sjofar"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "en waarsku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:54:07.678046938Z",
+  "model": "glm-5.3"
+}

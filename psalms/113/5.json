@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "Wie is soos Jahweh, ons Elohim, hy wat hoog verhef om te sit?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "soos Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "hy wat hoog verhef"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te sit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:00.691983844Z",
+  "model": "glm-5.3"
+}

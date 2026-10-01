@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En ek ⟨is⟩ 'n wurm en nie 'n man nie, 'n smaad van die mensdom, en verag deur ⟨die⟩ volk.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "'n wurm"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "'n smaad"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mensdom"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "en verag"
+    },
+    {
+      "surface": "עם",
+      "gloss": "deur ⟨die⟩ volk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.954055830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Breek dit in stukke ⟨את⟩ en giet olie daaroor — 'n minga ⟨is⟩ dit.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "breek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit — die stukke"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "in stukke"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "en giet"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "'n minga"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:32.548885361Z",
+  "model": "glm-5.3"
+}

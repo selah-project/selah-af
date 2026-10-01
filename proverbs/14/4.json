@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Waar geen osse is nie, is die krip skoon, maar baie opbrengs ⟨kom⟩ deur die krag van die os.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "waar geen is nie"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "osse"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "die krip"
+    },
+    {
+      "surface": "בר",
+      "gloss": "skoon"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "maar baie"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "opbrengs"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "deur die krag"
+    },
+    {
+      "surface": "שור",
+      "gloss": "van die os"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:56.745450741Z",
+  "model": "glm-5.3"
+}

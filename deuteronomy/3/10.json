@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "al die stede van die laagte, en die hele Gilead, en die hele Basjan, tot by Salka en Edreï, stede van die koninkryk van Og in Basjan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "van die laagte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Gilead"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Basjan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Salka"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "en Edreï"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "stede"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "van die koninkryk"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "van Og"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "in Basjan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:42.926521515Z",
+  "model": "glm-5.3"
+}

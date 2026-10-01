@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 14:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Alleen, die hoogtes het nie weggedwyn nie; nog steedsslag die volk slagoffers en reukoffers op die hoogtes.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die hoogtes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "het weggedwyn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog steeds"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "slagoffers"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "en reukoffers"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op die hoogtes"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:24.941256955Z",
+  "model": "glm-5.3"
+}

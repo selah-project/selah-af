@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 4:10",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hulle sal eet en nie versadig word nie; hulle hoereer en sal nie toeneem nie, want ⟨את⟩ Jahweh het hulle verlaat om te bewaar.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "En hulle sal eet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sal versadig word"
+    },
+    {
+      "surface": "הזנו",
+      "gloss": "hulle hoereer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "sal toeneem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "het hulle verlaat"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:08.265023031Z",
+  "model": "glm-5.3"
+}

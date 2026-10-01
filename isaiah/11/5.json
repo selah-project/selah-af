@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 11:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En tsedek sal die band van sy heupe wees, en getrouheid die band van sy lendene.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en sal wees"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "band"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "van sy heupe"
+    },
+    {
+      "surface": "והאמונה",
+      "gloss": "en getrouheid"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "band"
+    },
+    {
+      "surface": "חלציו",
+      "gloss": "van sy lendene"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:38.158772603Z",
+  "model": "glm-5.3"
+}

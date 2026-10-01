@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 33:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Mag die hele aarde Jahweh vrees; mag van hom verskrik al die bewoners van die wêreld.",
+  "tokens": [
+    {
+      "surface": "ייראו",
+      "gloss": "mag vrees"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "mag verskrik"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die bewoners van"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:23.610694447Z",
+  "model": "glm-5.3"
+}

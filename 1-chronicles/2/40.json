@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en Elasa het ⟨את⟩ Sismai verwek, en Sismai het ⟨את⟩ Sjallum verwek.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "en Elasa"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sismai"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Sismai"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "en Sismai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjallum"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjallum"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:08.086334976Z",
+  "model": "glm-5.3"
+}

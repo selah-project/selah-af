@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 33:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Kyk, my skrik sal jou nie verskrik nie, en my druk sal nie swaar wees op jou nie.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "my skrik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבעתך",
+      "gloss": "sal jou verskrik"
+    },
+    {
+      "surface": "ואכפי",
+      "gloss": "en my druk"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op jou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "sal swaar wees"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:51.259846854Z",
+  "model": "glm-5.3"
+}

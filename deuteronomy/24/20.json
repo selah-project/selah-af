@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Wanneer jy jou olywe uitslaan, mag jy die takke nie agterna deursoek nie — vir die vreemdeling, vir die weeskind en vir die weduwee sal dit wees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "jy uitslaan"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "jou olywe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "deursoek"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "agterna"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "vir die vreemdeling"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "vir die weeskind"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "en vir die weduwee"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:27.014455188Z",
+  "model": "glm-5.3"
+}

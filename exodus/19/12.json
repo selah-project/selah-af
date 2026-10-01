@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En jy moet vir ⟨את⟩ die volk 'n grens rondom afblyk, deur te sê: Pas op vir julleself om op die berg op te gaan of aan sy rand te raak; elkeen wat aan die berg raak, sal sekerlik gedood word.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "en jy moet afbaken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "pas op"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julleself"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "om op te gaan"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "of te raak"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "aan sy rand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wat raak"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "aan die berg"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sal gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:39.236599201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "En Jisraël het ⟨את⟩ die seuns van Josef gesien, en hy het gesê: Wie is hulle?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Josef"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Josef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "is hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:16.882147348Z",
+  "model": "glm-5.3"
+}

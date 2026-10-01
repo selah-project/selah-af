@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ Bet-Goron die boonste gebou en ⟨את⟩ Bet-Goron die onderste, stede van versterking, mure, deure en grendels.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bet-Goron die boonste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Goron"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "die boonste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bet-Goron die onderste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Goron"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "die onderste"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "stede"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "van versterking"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "mure"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "deure"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "en grendels"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:07.165466708Z",
+  "model": "glm-5.3"
+}

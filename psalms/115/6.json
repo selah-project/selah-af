@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "ore het hulle, maar hulle hoor nie; ʼn neus het hulle, maar hulle ruik nie.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ore"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "אף",
+      "gloss": "'n neus"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "ruik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:18.878146079Z",
+  "model": "glm-5.3"
+}

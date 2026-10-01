@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 6:14",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Maak vir jou 'n ark van goferhout; kamers sal jy die ark maak, en jy sal dit ⟨את⟩ van binne en van buite met pik bestryk.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "'n ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "גפר",
+      "gloss": "gofer"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "kamers"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "וכפרת",
+      "gloss": "en jy sal bestryk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (van binne en van buite)"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van binne"
+    },
+    {
+      "surface": "ומחוץ",
+      "gloss": "en van buite"
+    },
+    {
+      "surface": "בכפר",
+      "gloss": "met pik"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:51.055200662Z",
+  "model": "glm-5.3"
+}

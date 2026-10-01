@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die Wysheid ⟨het⟩ haar huis gebou, sy ⟨het⟩ haar pilare uitgekap — sewe.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "die Wysheid"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "gebou"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "haar huis"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "uitgekap"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "haar pilare"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:21.628067721Z",
+  "model": "glm-5.3"
+}

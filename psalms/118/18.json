@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 118:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Jah het my streng tugtig, en aan die dood oorgee het Hy my nie.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "het streng getugtig"
+    },
+    {
+      "surface": "יסרני",
+      "gloss": "my getugtig"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולמות",
+      "gloss": "en aan die dood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נתנני",
+      "gloss": "het my gegee"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:41.298865591Z",
+  "model": "glm-5.3"
+}

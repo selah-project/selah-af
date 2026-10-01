@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 3:9",
+  "book": "job",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Laat die sterre van sy skemer donker word; laat dit wag vir lig, maar ⟨daar is⟩ geen; en laat dit nie sien die ooglede van die dagbreek nie.",
+  "tokens": [
+    {
+      "surface": "יחשכו",
+      "gloss": "laat donker word"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "die sterre"
+    },
+    {
+      "surface": "נשפו",
+      "gloss": "van sy skemer"
+    },
+    {
+      "surface": "יקו",
+      "gloss": "laat wag"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "vir lig"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar ⟨daar is⟩ geen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "בעפעפי",
+      "gloss": "die ooglede"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "van die dagbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:14.392330331Z",
+  "model": "glm-5.3"
+}

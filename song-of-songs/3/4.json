@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Knap het ek van hulle verbygegaan, totdat ek ⟨את⟩ hom gevind het wat my siel liefhet; ek het hom vasgehou en hom nie laat gaan nie, totdat ek hom gebring het in die huis van my moeder en in die kamer van haar wat my verwek het.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "knap"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "het ek verbygegaan"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ek gevind het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hom wat my siel liefhet"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wat liefhet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ek het hom vasgehou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "hom laat gaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ek hom gebring het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van my moeder"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "die kamer"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "van haar wat my verwek het"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:59.993861733Z",
+  "model": "glm-5.3"
+}

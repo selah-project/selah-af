@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Ek het my verbuk, ek is buitengewoon neergebuig; die hele dag loop ek in donker rou.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ek het my verbuk"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ek is neergebuig"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "buitengewoon"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "in donker rou"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "loop ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:29.961089160Z",
+  "model": "glm-5.3"
+}

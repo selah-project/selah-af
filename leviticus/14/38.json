@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en die priester sal uit die huis uitgaan, na die ingang van die huis, en hy sal ⟨את⟩ die huis toemaak vir sewe dae.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hy sal uitgaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang van"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en hy sal toemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:37.921510722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "want aan die wat die werk doen, word dit gegee, en hulle het daarmee ⟨את⟩ die huis van Jahweh herstel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "aan die wat doen"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "word dit gegee"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "en hulle het herstel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:08.900576556Z",
+  "model": "glm-5.3"
+}

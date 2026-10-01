@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jahweh het gedoen volgens die woord van Mosje, en die paddas het gesterwe uit die huise, uit die howe en uit die velde.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en het gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "en het gesterwe"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die paddas"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die huise"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "die howe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "die velde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:05.483586456Z",
+  "model": "glm-5.3"
+}

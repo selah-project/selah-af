@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "van wyn en sterke drank sal ⟨hy⟩ ⟨hom⟩ onthou; asyn van wyn en asyn van sterke drank sal hy nie drink nie, en enige druifsap sal hy nie drink nie; en druiwe, vars of gedroog, sal hy nie eet nie.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "van wyn"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en sterke drank"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "sal ⟨hy⟩ ⟨hom⟩ onthou"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "asyn"
+    },
+    {
+      "surface": "יין",
+      "gloss": "van wyn"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "en asyn"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "van sterke drank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "sal hy drink"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en enige"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "druifsap"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "van druiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "sal hy drink"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "en druiwe"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "vars"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "of gedroog"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sal hy eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:14.328044798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En ⟨את⟩ die volk het hy oorgebring ⟨את⟩ [hulle] na die stede, van die een uiterste van die grens van Mitsrajim tot by sy uiterste.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "het hy oorgebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ [hulle]",
+      "marks": "na die stede"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "na die stede"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van die een uiterste"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grens"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "sy uiterste"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:32.248525443Z",
+  "model": "glm-5.3"
+}

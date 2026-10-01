@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "brandmerk vir brandmerk, wond vir wond, kneusplek vir kneusplek.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "brandmerk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "brandmerk"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wond"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wond"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "kneusplek"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "kneusplek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:04.704015062Z",
+  "model": "glm-5.3"
+}

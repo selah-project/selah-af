@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Mosje en Aharon het ⟨את⟩ daardie manne geneem wat by name aangewys is.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daardie manne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "daardie manne"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "aangewys is"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "by name"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:21.148288853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "In Uw tsedek, red my en bevry my; neig Uw oor na my en help my.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "in Uw tsedek"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "en bevry my"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Uw oor"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "en help my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:40.028743550Z",
+  "model": "glm-5.3"
+}

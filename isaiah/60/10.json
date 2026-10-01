@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 60:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "En seuns van vreemdelinge sal jou mure bou, en hulle konings sal jou dien; want in my toorn het ek ⟨jou⟩ geslaan, en in my welbehae het ek oor jou ontferm.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "en sal bou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van vreemdelinge"
+    },
+    {
+      "surface": "חמתיך",
+      "gloss": "jou mure"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "en hulle konings"
+    },
+    {
+      "surface": "ישרתונך",
+      "gloss": "sal jou dien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בקצפי",
+      "gloss": "in my toorn"
+    },
+    {
+      "surface": "הכיתיך",
+      "gloss": "het ek jou geslaan"
+    },
+    {
+      "surface": "וברצוני",
+      "gloss": "en in my welbehae"
+    },
+    {
+      "surface": "רחמתיך",
+      "gloss": "het ek oor jou ontferm"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:48.799111246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "U maak ⟨את⟩ u hand oop, en versadig aan alles lewende ⟨sy⟩ verlange.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "U maak oop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "en versadig"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan alles"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "verlange"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.224438737Z",
+  "model": "glm-5.3"
+}

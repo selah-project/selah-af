@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Mitsrajim was bly by hulle uitgang, want hulle vrees het op hulle geval.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "was bly"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "by hulle uitgang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "hulle vrees"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:01.699626313Z",
+  "model": "glm-5.3"
+}

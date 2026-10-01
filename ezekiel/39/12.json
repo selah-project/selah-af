@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En die huis van Jisraël sal hulle begrawe om ⟨את⟩ die land te reinig — sewe maande lank.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "en hulle sal begrawe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "te reinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "maande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:35.711290916Z",
+  "model": "glm-5.3"
+}

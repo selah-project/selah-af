@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die woord van die koning het geseë oor Joab en oor die owerstes van die leër, en Joab en die owerstes van die leër het uitgegaan voor die koning om ⟨את⟩ die volk te tel, ⟨את⟩ Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "het geseë"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hulle het uitgegaan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en die owerstes"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "om te tel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:48.416619157Z",
+  "model": "glm-5.3"
+}

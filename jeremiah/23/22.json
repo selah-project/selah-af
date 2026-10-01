@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 23:22",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Maar as hulle in my sod gestaan het, sou hulle my woorde aan ⟨את⟩ my volk laat hoor en hulle laat terugkeer van hulle slegte weg en van die boosheid van hulle dade.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maar as"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "hulle gestaan het"
+    },
+    {
+      "surface": "בסודי",
+      "gloss": "in my sod"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "sou hulle laat hoor"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "וישבום",
+      "gloss": "en hulle laat terugkeer"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "van hulle weg"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "en van die boosheid"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "van hulle dade"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:44.710118518Z",
+  "model": "glm-5.3"
+}

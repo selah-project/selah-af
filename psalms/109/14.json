@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag die ongeregtigheid van sy vaders voor Jahweh in gedagtenis bly, en mag die sonde van sy moeder nie uitgewis word nie.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "mag in gedagtenis bly"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongeregtigheid"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "van sy vaders"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "en die sonde"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van sy moeder"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "uitgewis word nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.853891393Z",
+  "model": "glm-5.3"
+}

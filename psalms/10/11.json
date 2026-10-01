@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy het in sy hart gesê: El het vergeet; hy het sy aangesig versteek, hy sal nooit sien nie.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hy het gesê"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "het vergeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "hy het versteek"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie ... nie"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.555646659Z",
+  "model": "glm-5.3"
+}

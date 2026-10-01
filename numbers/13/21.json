@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 13:21",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hulle het opgetrek en ⟨את⟩ die land verken, van die woestyn Tsin af tot Ragob, by die ingang van Gamat.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het opgetrek"
+    },
+    {
+      "surface": "ויתרו",
+      "gloss": "en verken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "van die woestyn"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Tsin"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Ragob"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Gamat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:13.858862539Z",
+  "model": "glm-5.3"
+}

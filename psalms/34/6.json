@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Hulle het na hom gekyk en ⟨is⟩ verlig, en hulle gesigte word nie beskaam nie.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "hulle het gekyk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "en verlig"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "en hulle gesigte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "word beskaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:15.873881207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Agab het gestuur onder die hele seuns van Jisraël, en ⟨את⟩ die profete versamel na die berg Karmel toe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En … het gestuur"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder die hele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "en … versamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die profete"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die profete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Karmel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:48.843856224Z",
+  "model": "glm-5.3"
+}

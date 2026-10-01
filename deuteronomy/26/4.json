@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En die priester moet die mandjie uit jou hand neem en dit neersit voor die altaar van Jahweh, jou Elohim.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en moet neem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "die mandjie"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jou hand"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "en dit neersit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:35.840374515Z",
+  "model": "glm-5.3"
+}

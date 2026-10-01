@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Hoe lank sal jy lê, lui mens? Hoe lank sal jy opstaan uit jou slaap?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "lui mens"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "sal jy lê"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sal jy opstaan"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "uit jou slaap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:46.010426749Z",
+  "model": "glm-5.3"
+}

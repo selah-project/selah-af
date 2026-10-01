@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 30:14",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En hulle het opgestaan en ⟨את⟩ die altare wat in Jerusjalajem was, verwyder, en ⟨את⟩ al die reukaltare het hulle verwyder en hulle in die beek Kidron weggegooi.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "en hulle het opgestaan"
+    },
+    {
+      "surface": "ויסירו",
+      "gloss": "en verwyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altare"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "die altare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al die reukaltare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המקטרות",
+      "gloss": "die reukaltare"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "het hulle verwyder"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "en hulle weggegooi"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "in die beek"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:01.819826464Z",
+  "model": "glm-5.3"
+}

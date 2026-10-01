@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Want ⟨Hy⟩ het sy oor na my geneig, en in my dae sal ek roep.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "het geneig"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sy oor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "en in my dae"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek roep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:51.356541006Z",
+  "model": "glm-5.3"
+}

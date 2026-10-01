@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek ⟨is hy⟩ wat 'n blinde op die pad laat dwaal; en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "laat dwaal"
+    },
+    {
+      "surface": "עור",
+      "gloss": "'n blinde"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:49.316709220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 2:9",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die vroue van my volk dryf julle uit uit die huis van haar wellus; van haar kindjies neem julle my prag vir ewig weg.",
+  "tokens": [
+    {
+      "surface": "נשי",
+      "gloss": "die vroue van"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "תגרשון",
+      "gloss": "dryf julle uit"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis van"
+    },
+    {
+      "surface": "תענגיה",
+      "gloss": "haar wellus"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "עלליה",
+      "gloss": "haar kindjies"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "neem julle"
+    },
+    {
+      "surface": "הדרי",
+      "gloss": "my prag"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:26.659787112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "So moet julle nie doen vir Jahweh jul Elohim nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "moet julle doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:27.515362692Z",
+  "model": "glm-5.3"
+}

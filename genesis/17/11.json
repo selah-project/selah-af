@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En julle moet ⟨את⟩ die vlees van jul voorhuid besny, en dit sal as 'n teken van ⟨die⟩ verbond wees tussen My en julle.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "En julle moet besny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees van jul voorhuid"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "van jul voorhuid"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "as 'n teken"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen My"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "en tussen julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:56.728716951Z",
+  "model": "glm-5.3"
+}

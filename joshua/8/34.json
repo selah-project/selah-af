@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 8:34",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En daarna het hy ⟨את⟩ al die woorde van die Tora gelees, die seën en die vloek, volgens alles wat geskrywe is in die boek van die Tora.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "קרא",
+      "gloss": "het gelees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde van die Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde van"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "והקללה",
+      "gloss": "en die vloek"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "הכתוב",
+      "gloss": "wat geskrywe is"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die boek van"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:06.156489799Z",
+  "model": "glm-5.3"
+}

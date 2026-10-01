@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy sal ⟨את⟩ die versoeningsdeksel bo-op die ark plaas, en in die ark sal jy ⟨את⟩ die getuienis plaas wat ek aan jou sal gee.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die versoeningsdeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoeningsdeksel"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "van bo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sal jy plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die getuienis"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ek sal gee"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:26.309222006Z",
+  "model": "glm-5.3"
+}

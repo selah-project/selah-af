@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "waar julle vaders my getoets het, my op die proef gestel het, al het hulle my werk gesien.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "my getoets het"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "julle vaders"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "my op die proef gestel het"
+    },
+    {
+      "surface": "גם",
+      "gloss": "al"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "my werk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:26.490031488Z",
+  "model": "glm-5.3"
+}

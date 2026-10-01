@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die woorde van die mond van ⟨die⟩ man ⟨is⟩ diep water, 'n spruit wat opspring, 'n fontein van wysheid.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "diep"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde van"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "'n spruit"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "wat opspring"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "'n fontein van"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:45.370646252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 11:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "dat ek die reën van jul land in sy tyd sal gee, die vroeë reën en die laat reën, en jy sal jou graan insamel en jou mos en jou olie.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "die reën"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "van jul land"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "in sy tyd"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "die vroeë reën"
+    },
+    {
+      "surface": "ומלקוש",
+      "gloss": "en die laat reën"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en jy sal insamel"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "jou graan"
+    },
+    {
+      "surface": "ותירשך",
+      "gloss": "en jou mos"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "en jou olie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:52.956610080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "U sal opstaan, u sal Tsijon ontferm, want ⟨dit is⟩ die tyd om haar genadig te wees, want die bestemde tyd het gekom.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sal opstaan"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "sal ontferm"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "om haar genadig te wees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "die bestemde tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:27.437662431Z",
+  "model": "glm-5.3"
+}

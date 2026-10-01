@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 16:24",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Vertel onder die nasies ⟨את⟩ sy heerlikheid, onder alle volke sy wonders.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy heerlikheid"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy heerlikheid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "sy wonders"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:34.901264649Z",
+  "model": "glm-5.3"
+}

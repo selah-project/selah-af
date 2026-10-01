@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Awsjalom, wat ons tot gesalfde oor ons gemaak het, het in die slag gesterwe; en nou, waarom bly julle stil om ⟨את⟩ die koning terug te bring?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "En Awsjalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "ons gesalf het"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gesterwe het"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in die slag"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "stil bly"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "om terug te bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:45.892837126Z",
+  "model": "glm-5.3"
+}

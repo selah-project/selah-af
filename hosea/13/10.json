@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Waar ⟨is⟩ jou koning nou, dat hy jou red in al jou stede? En jou rigters, van wie jy gesê het: Gee my 'n koning en vorste?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "waar"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "jou koning"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "dat hy jou red"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "jou stede"
+    },
+    {
+      "surface": "ו שפטיך",
+      "gloss": "en jou rigters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "jy gesê het"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "en vorste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:04.726380243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die seuns van Jehoeda het teen Jerusjalajim geveg en dit ingeneem en dit met die mond van die swaard geslaan, en ⟨את⟩ die stad het hulle in die vuur gestuur.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "en hulle het geveg"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "teen Jerusjalajim"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "en hulle het ingeneem"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit (Jerusjalajim)"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die mond van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "het hulle gestuur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:00.503370005Z",
+  "model": "glm-5.3"
+}

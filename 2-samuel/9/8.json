@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het hom neergebuig en gesê: Wat is u dienaar, dat u uwend na 'n dooie hond soos ek?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "En hy het hom neergebuig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "is u dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "u uwend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "'n hond"
+    },
+    {
+      "surface": "המת",
+      "gloss": "die dooie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "soos ek is"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:47.976726014Z",
+  "model": "glm-5.3"
+}

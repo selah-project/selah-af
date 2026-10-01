@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek het in daardie tyd aan ⟨את⟩ julle gesê en gesproke: Ek kan nie alleen djulle dra ⟨אתכ׶ם⟩ nie.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in die tyd"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ek"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "dra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:14.199306064Z",
+  "model": "glm-5.3"
+}

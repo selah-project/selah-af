@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Paro het Mosje en Aharon geroep en gesê: Gaan, offer aan jul Elohim in die land.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en vir Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "offer"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "aan jul Elohim"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:05.891421224Z",
+  "model": "glm-5.3"
+}

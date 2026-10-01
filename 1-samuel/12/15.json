@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Maar as julle nie na die stem van Jahweh luister nie en ⟨את⟩ die mond van Jahweh weerstaan, dan sal die hand van Jahweh teen julle en teen julle vaders wees.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maar as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "julle luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "en weerstaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mond van Jahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "dan sal wees"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teen julle"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "en teen julle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:44.692560397Z",
+  "model": "glm-5.3"
+}

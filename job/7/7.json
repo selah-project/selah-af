@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Onthou dat my lewe roeag ⟨is⟩; my oog sal nie terugkeer om goed te sien nie.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:39.410956057Z",
+  "model": "glm-5.3"
+}

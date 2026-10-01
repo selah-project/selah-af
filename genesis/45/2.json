@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En hy het ⟨את⟩ sy stem in geween laat hoor; en Mitsrajim het dit gehoor, en die huis van Paro het dit gehoor.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het laat hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy stem"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sy stem"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "in geween"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "en hulle het gehoor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het gehoor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:26.770849525Z",
+  "model": "glm-5.3"
+}

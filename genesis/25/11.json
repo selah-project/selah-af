@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 25:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En dit het gebeur na die dood van Awraham, dat Elohim geseën het ⟨את⟩ Jitsgak, sy seun; en Jitsgak het gewoon by Ber-Lagai-Roi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood van"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het gewoon"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Lagai"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Roi"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:15.960839997Z",
+  "model": "glm-5.3"
+}

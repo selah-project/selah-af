@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "En hulle het bose teen my gelê in die plek van goeie, en haat in die plek van my liefde.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en hulle het gelê"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "bose"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "en haat"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "my liefde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.973774486Z",
+  "model": "glm-5.3"
+}

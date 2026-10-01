@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "⟨את⟩ my regte moet julle doen, en ⟨את⟩ my insettinge moet julle hou om daarin te wandel; Ek ⟨is⟩ Jahweh jul Elohim.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my regte"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my regte"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle doen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my insettinge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle hou"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandel"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:52.519844056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "As hy vir hom 'n ander ⟨vrou⟩ neem, moet hy haar voedsel, haar bedekking en haar omgang nie verminder nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "haar voedsel"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "haar bedekking"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "en haar omgang"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "moet hy verminder"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:51.611792480Z",
+  "model": "glm-5.3"
+}

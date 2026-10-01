@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 11:22",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hulle het ⟨את⟩ die hele grens van die Emoriet in besit geneem, van ⟨die⟩ Arnon af tot by ⟨die⟩ Jabbok, en van ⟨die⟩ woestyn af tot by ⟨die⟩ Jordaan.",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "en hulle het in besit geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele grens van die Emoriet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "grens"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van die Emoriet"
+    },
+    {
+      "surface": "מארנון",
+      "gloss": "van die Arnon af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "היבק",
+      "gloss": "die Jabbok"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van af"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:50.938604242Z",
+  "model": "glm-5.3"
+}

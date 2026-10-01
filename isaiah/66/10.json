@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 66:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Verheug jul ⟨את⟩ Jerusjalajim en juig oor haar, almal wat haar liefhet; juig ⟨את⟩ haar met blydskap, almal wat oor haar treur!",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Verheug jul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "בה",
+      "gloss": "oor haar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "wat haar liefhet"
+    },
+    {
+      "surface": "שישו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "met haar"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "המתאבלים",
+      "gloss": "wat treur"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "oor haar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:01.006208543Z",
+  "model": "glm-5.3"
+}

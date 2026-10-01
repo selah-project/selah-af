@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Ek ⟨is⟩ verslae en seer verbrysel, tot die uiterste; ek het gebrul van die gesteun van my hart.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "verslae"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "en seer verbrysel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "die uiterste"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ek het gebrul"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "van die gesteun"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van my hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:28.800439999Z",
+  "model": "glm-5.3"
+}

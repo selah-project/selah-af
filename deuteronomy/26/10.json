@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 26:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En nou, kyk, ek het ⟨את⟩ die eerstelinge van die vrug van die grond gebring wat U aan my gegee het, Jahweh; en jy sal dit neersit voor die aangesig van Jahweh jou Elohim, en jy sal jou buig voor die aangesig van Jahweh jou Elohim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "הבאתי",
+      "gloss": "ek het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die eerstelinge"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die eerstelinge"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "van die vrug"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "U het gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והנחתו",
+      "gloss": "en jy sal dit neersit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "והשתחוית",
+      "gloss": "en jy sal jou buig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:11.780945731Z",
+  "model": "glm-5.3"
+}

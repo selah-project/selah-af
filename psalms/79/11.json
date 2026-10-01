@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Laat die geskreeu van die gevangene voor u aangesig kom; volgens die grootte van u arm, ontbind ⟨die⟩ seuns van die doodsgeweld.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Laat kom"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u aangesig"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "die geskreeu"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "van die gevangene"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "volgens die grootte"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "van u arm"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "ontbind"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "die doodsgeweld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:48.476100221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die geswoeg van die dwase vermoei hulle, omdat hy nie weet om na ⟨die⟩ stad te gaan nie.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "die geswoeg"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "van die dwase"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "vermoei hulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:19.331919359Z",
+  "model": "glm-5.3"
+}

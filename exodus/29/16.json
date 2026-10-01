@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En jy sal ⟨את⟩ die ram slag, en ⟨את⟩ sy bloed neem, en dit teen die altaar rondom spat.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "en jy sal slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "en jy sal spat"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:28.375904587Z",
+  "model": "glm-5.3"
+}

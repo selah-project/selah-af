@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En Elohim het weer aan Jaäkow verskyn toe hy uit Paddan-Aram kom, en ⟨את⟩ hom geseën.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het verskyn"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "toe hy kom"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "uit Paddan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Aram"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en het geseën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:16.225553263Z",
+  "model": "glm-5.3"
+}

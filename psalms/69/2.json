@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Red my, Elohim, want waters het gekom tot by my siel.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:52.709781233Z",
+  "model": "glm-5.3"
+}

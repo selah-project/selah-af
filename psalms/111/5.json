@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 111:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Sy prooi het Hy gegee aan die wat Hom vrees; Hy onthou vir ewig sy verbond.",
+  "tokens": [
+    {
+      "surface": "טרף",
+      "gloss": "prooi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "aan die wat Hom vrees"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.335573604Z",
+  "model": "glm-5.3"
+}

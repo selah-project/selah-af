@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En Josef het in die oggend by hulle gekom, en hy het ⟨את⟩ hulle gesien, en kyk, hulle was neerslagtig.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "by hulle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die oggend"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "neerslagtig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:37.283071018Z",
+  "model": "glm-5.3"
+}

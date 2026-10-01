@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Voeg niks by sy woorde nie, dat hy jou nie tersyde stel nie en jy as leuenaar bevind word nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "voeg by"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "sy woorde"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat ... nie"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "tersyde stel"
+    },
+    {
+      "surface": "בך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "en jy as leuenaar bevind word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:57.180040969Z",
+  "model": "glm-5.3"
+}

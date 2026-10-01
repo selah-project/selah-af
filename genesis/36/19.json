@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Dit is die seuns van Esav, en dit is hul vorste — hy ⟨is⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "hul vorste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:13.429078891Z",
+  "model": "glm-5.3"
+}

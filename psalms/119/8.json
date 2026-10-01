@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "⟨את⟩ Jou insettinge sal ek bewaar; verlaat my nie heeltemal nie.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou insettinge"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "jou insettinge"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "sal ek bewaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "verlaat my nie"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "(verlaat my)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "heeltemal"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(heeltemal)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.177245916Z",
+  "model": "glm-5.3"
+}

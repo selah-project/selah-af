@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Want u pyle het in my ingedring, en u hand het swaar op my neergedaal.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "u pyle"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "het ingedring"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "en het neergedaal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "swaar op my"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:42.597807532Z",
+  "model": "glm-5.3"
+}

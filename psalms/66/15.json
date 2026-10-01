@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Vetgemaakte brandoffers sal ek aan u laat opgaan, met reukwerk van ramme; ek sal beeste met boggies maak. Sela.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "vetgemaakte"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "sal ek laat opgaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "reukwerk"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "van ramme"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal ek maak"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "beeste"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "boggies"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:34.271855679Z",
+  "model": "glm-5.3"
+}

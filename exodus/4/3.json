@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het gesê: Gooi dit op die aarde. En hy het dit op die aarde gegooi, en dit het 'n slang geword, en Mosje het voor dit weggevlug.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "gooi dit"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "en hy het dit gegooi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het geword"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "'n slang"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "en het weggevlug"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:24.982441373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "My krag, tot U sal ek psalmsing, want Elohim is my hoë skuilrots, ⟨die⟩ Elohim van my gesed.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "sal ek psalmsing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my hoë skuilrots"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "⟨die⟩ Elohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "van my gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:12.856668306Z",
+  "model": "glm-5.3"
+}

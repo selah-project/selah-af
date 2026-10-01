@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 41:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Hoe gelukkig is hy wat insig het oor ⟨die⟩ arme; op ⟨die⟩ dag van kwaad red Jahweh hom.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "insig het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דל",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ימלטהו",
+      "gloss": "red hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:52.779272098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Jy mag nie 'n slaaf uitlewer aan sy heer wat ontsnap het na jou toe, van sy heer af",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "mag jy uitlewer"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n slaaf"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sy heer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "ontsnap het"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou toe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sy heer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:00.930711972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En die Filistyne het bymekaargeskaar, en hulle het gekom en laers opgeslaan in Sjoenem; en Sjaul het ⟨את⟩ die hele Jisraël bymekaargeskaar, en hulle het laers opgeslaan in Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "het bymekaargeskaar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "het laers opgeslaan"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "in Sjoenem"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "en hy het bymekaargeskaar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en hulle het laers opgeslaan"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "in Gilboa"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:05.880270199Z",
+  "model": "glm-5.3"
+}

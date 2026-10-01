@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Elohim het ⟨את⟩ die aarde gesien, en kyk — ⟨dit⟩ was verdorwe, want alle vlees het ⟨את⟩ sy weg op die aarde verdorwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "was verdorwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "het verdorwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy weg"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sy weg"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:20.993590305Z",
+  "model": "glm-5.3"
+}

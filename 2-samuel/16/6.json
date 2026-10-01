@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hy het met klippe gegooi na Dawid en na ⟨את⟩ al die dienaars van die koning, Dawid; en ⟨die⟩ hele ⟨את⟩ die volk en al die helde was aan sy regterhand en aan sy linkerhand.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "en hy het gegooi"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met klippe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die dienaars van die koning Dawid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "die helde"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "aan sy regterhand"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "en aan sy linkerhand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:22.875296226Z",
+  "model": "glm-5.3"
+}

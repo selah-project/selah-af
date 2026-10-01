@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 36:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Die woorde van sy mond is nietigheid en bedrog; hy het opgehou om insig te hê, om goed te doen.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van sy mond"
+    },
+    {
+      "surface": "און",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "en bedrog"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "hy het opgehou"
+    },
+    {
+      "surface": "להשכיל",
+      "gloss": "om insig te hê"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "om goed te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.521420855Z",
+  "model": "glm-5.3"
+}

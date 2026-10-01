@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Hoe gelukkig is hy wat U kies en nader laat kom — hy sal in u howe woon; ons word versadig met die goeie van u huis, ⟨die⟩ heiligheid van u tempel.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "U kies"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "en nader laat kom"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "hy sal woon"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "in u howe"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "ons word versadig"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "met die goeie"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van u huis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "van u tempel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.451154494Z",
+  "model": "glm-5.3"
+}

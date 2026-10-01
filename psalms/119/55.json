@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "In die nag het ek u Naam gedink, o Jahweh, en u Tora bewaar.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "het ek gedink"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en bewaar"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:59.879033224Z",
+  "model": "glm-5.3"
+}

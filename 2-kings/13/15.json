@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Elisa het vir hom gesê: Neem 'n boog en pyle. En hy het vir hom 'n boog en pyle geneem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "'n boog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pyle"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "'n boog"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pyle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:26.416237483Z",
+  "model": "glm-5.3"
+}

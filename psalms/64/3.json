@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 64:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "⟨U⟩ steek my weg van die geheime raad van kwaaddoeners, van die opskudding van doeners van onreg.",
+  "tokens": [
+    {
+      "surface": "תסתירני",
+      "gloss": "⟨U⟩ steek my weg"
+    },
+    {
+      "surface": "מסוד",
+      "gloss": "van die geheime raad"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "מרגשת",
+      "gloss": "van die opskudding"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "van doeners"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onreg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:00.722575467Z",
+  "model": "glm-5.3"
+}

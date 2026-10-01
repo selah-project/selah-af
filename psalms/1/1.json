@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoe gelukkig ⟨is⟩ die man wat nie gewandel het in die raad van die goddelose nie, en op die weg van sondaars nie gestaan het nie, en in die sitting van spotters nie gesit het nie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hoe gelukkig"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gewandel het"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "in die raad"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "en op die weg"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "van sondaars"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "gestaan het"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "en in die sitting"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "van spotters"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "gesit het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:52.154889737Z",
+  "model": "glm-5.3"
+}

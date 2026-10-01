@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "wat my lippe geuiter het en my mond gespreek het in my nood.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "geuiter het"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lippe"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en gespreek het"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in my nood"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:34.271690351Z",
+  "model": "glm-5.3"
+}

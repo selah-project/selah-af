@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Klein ⟨is⟩ ek en verag, ⟨maar⟩ u pikudim het ek nie vergeet nie.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "klein"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "en verag"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "u pikudim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "het ek vergeet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:18.678945542Z",
+  "model": "glm-5.3"
+}

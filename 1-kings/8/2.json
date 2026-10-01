@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 8:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En daar het byeengekom by koning Sjelomo al die manne van Jisraël in die maand ⟨van⟩ Etanim, by die fees — dit is die sewende maand.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "en daar het byeengekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "האתנים",
+      "gloss": "van Etanim"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "by die fees"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "die maand"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:50.267911425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Soos oor 'n vriend, soos oor 'n broer vir my, het ek rondgegaan; soos 'n rouklaer oor 'n moeder, in donker rou het ek my neergebuig.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "soos oor 'n vriend"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "soos oor 'n broer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "het ek rondgegaan"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "soos 'n rouklaer"
+    },
+    {
+      "surface": "אם",
+      "gloss": "oor 'n moeder"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "in donker rou"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "het ek my neergebuig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:36.489847045Z",
+  "model": "glm-5.3"
+}

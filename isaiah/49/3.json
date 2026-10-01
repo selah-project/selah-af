@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "En hy het vir my gesê: Jy is my dienaar, Jisraël, in wie ek my sal verheerlik.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy is"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wie"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ek my sal verheerlik"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:55.385716510Z",
+  "model": "glm-5.3"
+}

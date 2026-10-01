@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En ons het in daardie tyd ⟨את⟩ die land geneem uit die hand van die twee konings van die Emori, wat oorkant die Jarden ⟨was⟩, van die spruit Arnon tot by die berg Germon.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "En ons het geneem"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie tyd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand van"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konings van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "oorkant"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "van die spruit"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Arnon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Germon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:28.062180276Z",
+  "model": "glm-5.3"
+}

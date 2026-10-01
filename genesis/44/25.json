@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En ons vader het gesê: Gaan terug, koop vir ons 'n bietjie kos.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ons vader het gesê"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ons vader"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "gaan terug"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "koop"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n bietjie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kos"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:56.224056966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 128,
+  "translation": "Mag Jahweh jou seën uit Tsijon, ⟨en⟩ mag jy ⟨die⟩ goed van Jerusjalajim sien, al die dae van jou lewe.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "mag hy jou seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsijon"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en mag jy sien"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "die goed van"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae van"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jou lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:55.529320409Z",
+  "model": "glm-5.3"
+}

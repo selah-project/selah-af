@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die wat jou sien, sal stip na jou kyk, na jou sal hulle nadink: is hierdie die man wat die aarde laat bewe het, wat koninkryke geskud het?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "Die wat jou sien"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "sal stip kyk"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "sal hulle nadink"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "is hierdie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "wat laat bewe het"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "wat geskud het"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkryke"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:34.945788577Z",
+  "model": "glm-5.3"
+}

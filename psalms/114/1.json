@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "By die uittrek van Jisraël uit Mitsrajim, ⟨die⟩ huis van Jaäkow uit ⟨'n⟩ stam van vreemde taal,",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "by die uittrek van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "uit ⟨'n⟩ stam"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "van vreemde taal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.143019047Z",
+  "model": "glm-5.3"
+}

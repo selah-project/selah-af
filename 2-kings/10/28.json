@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "So het Jehoe ⟨את⟩ die Baäl uit Jisraël uitgewis.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "So het uitgewis"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baäl"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "die Baäl"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uit Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:17.910150702Z",
+  "model": "glm-5.3"
+}

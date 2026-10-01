@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Ek ⟨is⟩ vrede, maar wanneer ek spreek, is hulle vir oorlog.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "maar wanneer"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ek spreek"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:47.754700046Z",
+  "model": "glm-5.3"
+}

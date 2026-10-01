@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Want Hy sal jou red uit die strik van die voëlvanger, uit die dodelike plaag —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "sal jou red"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "uit die strik"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "van die voëlvanger"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "uit die plaag"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "dodelike"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:00.243355960Z",
+  "model": "glm-5.3"
+}

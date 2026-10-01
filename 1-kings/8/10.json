@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En dit het gebeur, toe die priesters uit die heiligdom uitgaan, dat die wolk die huis van Jahweh gevul het ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "toe … uitgaan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "die heiligdom"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "dat die wolk"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevul het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:06.802448639Z",
+  "model": "glm-5.3"
+}

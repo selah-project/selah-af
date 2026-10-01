@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Waarom het jy gesê: Sy ⟨is⟩ my suster, sodat ek haar vir my as vrou geneem het? En nou, kyk, ⟨daar is⟩ jou vrou — neem ⟨haar⟩ en gaan.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "het jy gesê"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my suster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ sy"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "sodat ek geneem het"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "vir my (as vrou)"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jou vrou"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:47.608983763Z",
+  "model": "glm-5.3"
+}

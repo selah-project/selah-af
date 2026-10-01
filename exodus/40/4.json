@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 40:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy moet ⟨את⟩ die tafel inbring en ⟨את⟩ sy toerusting uitsit, en ⟨את⟩ die kandelaar inbring en ⟨את⟩ sy lampe laat opgaan.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en jy moet inbring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "וערכת",
+      "gloss": "en uitsit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy toerusting"
+    },
+    {
+      "surface": "ערכו",
+      "gloss": "sy toerusting"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "en jy moet inbring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die kandelaar"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "en laat opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lampe"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sy lampe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:18.302950720Z",
+  "model": "glm-5.3"
+}

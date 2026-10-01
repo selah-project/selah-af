@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En hulle moet ⟨את⟩ my wagdiens bewaar, en geen sonde daaroor dra nie, en daarin sterf nie, want hulle ontheilig dit — ek ⟨is⟩ Jahweh, die een wat hulle heilig.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en hulle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my wagdiens"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "my wagdiens"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "dra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sonde"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en sterf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "hulle ontheilig dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wat hulle heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:21.154244626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En die dun are het ⟨את⟩ die sewe goeie are verslind, en ek het aan die towenaars gesê, en daar was niemand wat dit aan my kon verklaar nie.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "en hulle het verslind"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "die are"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "die dunne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sewe goeie are"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "die sewe"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "are"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "die towenaars"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar was nie"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "iemand wat verklaar"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:00.256861010Z",
+  "model": "glm-5.3"
+}

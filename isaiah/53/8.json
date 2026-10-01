@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Uit beklemming en uit geregte is hy weggevoer, en ⟨את⟩ sy geslag — wie sal daaroor nadink? Want hy is afgesny uit die land van die lewendes; vir die oortreding van my volk, die plaag op hom.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "uit beklemming"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "en uit geregte"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "is hy weggevoer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy geslag"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "sy geslag"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "sal nadink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "is afgesny"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "van die lewendes"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "vir die oortreding"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van my volk"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "die plaag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "op hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:09.408814924Z",
+  "model": "glm-5.3"
+}

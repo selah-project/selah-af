@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die Filistyne het ⟨את⟩ die ark van Elohim gebring, in die huis van Dagon, en hulle het dit naby Dagon gestel.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "die ark"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "van Dagon"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "en hulle het gestel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "die ark"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "naby"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "Dagon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:57.441998503Z",
+  "model": "glm-5.3"
+}

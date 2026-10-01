@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Jaäkow het Ragel gesoen en ⟨את⟩ sy stem verhef en gehuil.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "En het gesoen"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Ragel"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en verhef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy stem"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sy stem"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "en gehuil"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:26.661156824Z",
+  "model": "glm-5.3"
+}

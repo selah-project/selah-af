@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 11:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Spreek tog in die ore van die volk, en laat elke man van ⟨את⟩ sy naaste vra en elke vrou van ⟨את⟩ haar naaste, voorwerpe van silwer en voorwerpe van goud.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die ore van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "en laat hulle vra"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ van"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "en elke vrou"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ van"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "haar naaste"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "voorwerpe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van silwer"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "en voorwerpe"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:50.204189885Z",
+  "model": "glm-5.3"
+}

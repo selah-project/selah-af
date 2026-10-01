@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "wat gesê het: Met ons tong sal ons oorheers; ons lippe ⟨את⟩ is met ons — wie is heer oor ons?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "met ons tong"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "sal ons oorheers"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "ons lippe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "is met ons"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "heer"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "oor ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.637997693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die huis wat die koning Sjelomo vir Jahweh gebou het: sestig el ⟨was⟩ sy lengte, en twintig sy breedte, en dertig el sy hoogte.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "gebou het"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "sestig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "sy hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:38.918650693Z",
+  "model": "glm-5.3"
+}

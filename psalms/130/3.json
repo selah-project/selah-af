@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "As U vergrypings in ag neem, Jah, Adonai, wie sal staanhou?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "vergrypings"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "in ag neem"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sal staanhou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:28.281989049Z",
+  "model": "glm-5.3"
+}

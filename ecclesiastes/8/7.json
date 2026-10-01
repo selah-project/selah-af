@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Want hy weet nie wat sal wees nie; want wanneer dit sal wees, wie sal dit aan hom bekend maak?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "hy weet nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "dit sal wees"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "sal bekend maak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:43.651555495Z",
+  "model": "glm-5.3"
+}

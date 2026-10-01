@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jahweh het aan Mosje gesê: So moet jy aan die seuns van Jisraël sê: Julle het self gesien dat ek uit die hemel met julle gespreek het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "moet jy sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle self"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "het ek gespreek"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:38.911359175Z",
+  "model": "glm-5.3"
+}

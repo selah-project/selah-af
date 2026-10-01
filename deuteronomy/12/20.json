@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 12:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Wanneer Jahweh jou Elohim ⟨את⟩ jou gebied verruim soos hy met jou gespreek het, en jy sê: Ek wil vleis eet, omdat jou siel verlang om vleis te eet — na alles wat jou siel begeer mag jy vleis eet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "verruim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gebied"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "jou gebied"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hy gespreek het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sê"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ek wil eet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vleis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vleis"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "na alles"
+    },
+    {
+      "surface": "אות",
+      "gloss": "wat ... begeer"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mag jy eet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vleis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:21.530279802Z",
+  "model": "glm-5.3"
+}

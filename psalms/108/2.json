@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Vas bered is my hart, Elohim; ek sal sing, ja, ek sal psalmsing, ook my heerlikheid.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "vas berei"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ek sal sing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja, ek sal psalmsing"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my heerlikheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:51.527172132Z",
+  "model": "glm-5.3"
+}

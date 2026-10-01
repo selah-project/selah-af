@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "My hulp ⟨kom⟩ van by Jahweh, maker van hemel en aarde.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "my hulp"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van by"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "maker van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.940348435Z",
+  "model": "glm-5.3"
+}

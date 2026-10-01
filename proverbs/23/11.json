@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "want hulle Losser ⟨is⟩ sterk; hy sal ⟨את⟩ hulle saak teen jou voer ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "hulle Losser"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "sal voer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle saak"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "hulle saak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ teen jou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:59.936683786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 26:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En die hele volk van Jehoeda het ⟨את⟩ Azijahoe geneem — hy was 'n seun van sestien jaar — en hulle het ⟨את⟩ hom as koning aangestel in die plek van sy vader Amatsjahoe.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle het geneem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azijahoe"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Azijahoe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun van"
+    },
+    {
+      "surface": "שש",
+      "gloss": "sestien"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(sestien)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en hulle het as koning aangestel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (as koning in die plek van sy vader)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Amatsjahoe"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:25.313482558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester giet van die olie op die palm van die priester, die linkerhand.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "giet"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כף",
+      "gloss": "die palm"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "van die priester"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "die linker"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:15.541450965Z",
+  "model": "glm-5.3"
+}

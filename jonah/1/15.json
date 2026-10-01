@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle het ⟨את⟩ Jona opgelig en hom in die see gewerp, en die see het opgehou om te woed",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het opgelig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "en hom gewerp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en het gestaan (opgehou)"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "van sy woede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:09.942557315Z",
+  "model": "glm-5.3"
+}

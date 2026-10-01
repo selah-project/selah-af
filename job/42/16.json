@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Ijow het hierna honderd en veertig jaar gelewe, en hy het ⟨את⟩ sy seuns gesien en ⟨את⟩ die seuns van sy seuns, vier geslagte.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en hy het gelewe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijow"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "hierna"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "←"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die seuns van sy seuns"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "geslagte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:28.457259293Z",
+  "model": "glm-5.3"
+}

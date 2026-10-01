@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Gereed ⟨staan⟩ my hart, o Elohim; gereed ⟨staan⟩ my hart; ek wil sing, ja ek wil psalms speel.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ek wil sing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja ek wil psalms speel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.705876269Z",
+  "model": "glm-5.3"
+}

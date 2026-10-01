@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En sy het aan Awraham gesê: Jaag hierdie slavin uit en ⟨את⟩ haar seun, want die seun van hierdie slavin sal nie erf saam met my seun, met Jitsgak nie.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "jaag uit"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "hierdie slavin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar seun"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar seun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "sal erf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "van hierdie slavin"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:08.057145865Z",
+  "model": "glm-5.3"
+}

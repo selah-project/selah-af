@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Elia sê tot die hele volk: Kom naby my. En die hele volk kom naby hom; en hy herstel ⟨את⟩ die altaar van Jahweh, die een wat afgebreek was.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "tot die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom naby"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "en hulle kom naby"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "en hy herstel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar van Jahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "die een wat afgebreek was"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:05.734734289Z",
+  "model": "glm-5.3"
+}

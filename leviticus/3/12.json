@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En as sy gawe 'n bok ⟨is⟩, dan moet hy dit voor Jahweh aanbied,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "עז",
+      "gloss": "'n bok"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sy gawe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "dan moet hy dit aanbied"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:24.711591363Z",
+  "model": "glm-5.3"
+}

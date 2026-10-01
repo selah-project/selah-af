@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 128,
+  "translation": "Die vrug van jou hande sal jy eet — gelukkig ⟨is⟩ jy, en dit ⟨is⟩ goed met jou.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "die vrug (van arbeid)"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "jou hande"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "sal jy eet"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "gelukkig ⟨is⟩ jy"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "en dit ⟨is⟩ goed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:23.578947246Z",
+  "model": "glm-5.3"
+}

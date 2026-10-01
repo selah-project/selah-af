@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Aharon het ⟨את⟩ al die woorde gespreek wat Jahweh tot Mosje gespreek het, en hy het die tekens gedoen voor die oë van die volk.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en hy het gespreek"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "die tekens"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor die oë van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:16.020193380Z",
+  "model": "glm-5.3"
+}

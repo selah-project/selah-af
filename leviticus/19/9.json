@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 19:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En wanneer julle ⟨את⟩ die oes van jul land insamel, mag jy die rand van jou veld nie heeltemal afmaai nie, en die are van jou oes mag jy nie byeenraap nie.",
+  "tokens": [
+    {
+      "surface": "ובקצרכם",
+      "gloss": "en wanneer julle insamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oes"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "die oes"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "van jul land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכלה",
+      "gloss": "heeltemal mag afmaai"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "van jou veld"
+    },
+    {
+      "surface": "לקצר",
+      "gloss": "afmaai"
+    },
+    {
+      "surface": "ולקט",
+      "gloss": "en die are"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "van jou oes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "mag byeenraap"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:06.559374926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "'n Krom hart sal van my af wegdraai; kwaad sal ek nie ken nie.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "'n hart"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "krom"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "sal wegdraai"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sal ek ken"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.599043946Z",
+  "model": "glm-5.3"
+}

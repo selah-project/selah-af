@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "My ook ⟨hET⟩... my oog kwel my siel bo al die dogters van my stad.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "kwel"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo al"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "van my stad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:49.644637016Z",
+  "model": "glm-5.3"
+}

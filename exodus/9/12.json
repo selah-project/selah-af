@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het ⟨את⟩ die hart van Paro verhard, en hy het nie na hulle geluister nie, soos Jahweh tot Mosje gespreek het.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en hy het verhard"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hart van Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hy het geluister"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na hulle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:04.664622449Z",
+  "model": "glm-5.3"
+}

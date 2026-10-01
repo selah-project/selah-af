@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hy het ⟨את⟩ Jisraël gerig vier-en-twintig ⟨jaar⟩ lank; en hy het gesterwe en is in Sjamir begrawe.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "het gerig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "vier-en-twintig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "vier-en-twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨jaar⟩"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "is begrawe"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "in Sjamir"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:32.162763913Z",
+  "model": "glm-5.3"
+}

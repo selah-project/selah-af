@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 12:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "⟨As⟩ 'n fakkel van veragting ⟨is hy⟩ by die gedagtes van die sorgelose, gereed vir ⟨die wat gly⟩ met die voet.",
+  "tokens": [
+    {
+      "surface": "לפיד",
+      "gloss": "'n fakkel"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "veragting"
+    },
+    {
+      "surface": "לעשתות",
+      "gloss": "by die gedagtes van"
+    },
+    {
+      "surface": "שאנן",
+      "gloss": "die sorgelose"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "למועדי",
+      "gloss": "vir ⟨die wat gly⟩"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "met die voet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:42.294603770Z",
+  "model": "glm-5.3"
+}

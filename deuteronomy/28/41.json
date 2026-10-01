@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Seuns en dogters sal jy verwek, maar hulle sal nie vir jou ⟨wees⟩ nie, want hulle sal in gevangenskap weggaan.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dogters"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "sal jy verwek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sal hulle weggaan"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "in gevangenskap"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:13.878371167Z",
+  "model": "glm-5.3"
+}

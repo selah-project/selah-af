@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want Jahweh keer terug ⟨את⟩ die trots van Jaäkow soos die trots van Jisraël; want die plunderaars het hulle leeggeplunder, en hulle wingerdrankke het hulle bederwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die trots"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "die trots"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "soos die trots"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "het leeggeplunder"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "die plunderaars"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "en hulle wingerdrankke"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "het bederwe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:45.555691666Z",
+  "model": "glm-5.3"
+}

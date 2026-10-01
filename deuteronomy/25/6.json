@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En dit sal wees: die eersgeborene wat sy baar, sal in die naam van sy dode broer opstaan, en sy naam sal uit Jisraël nie uitgewis word nie.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En dit sal wees"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "sy baar"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sal opstaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam van"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "המת",
+      "gloss": "die dode"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "uitgewis word"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uit Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:24.378569817Z",
+  "model": "glm-5.3"
+}

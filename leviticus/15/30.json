@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die priester sal ⟨את⟩ die een as sondoffer maak en ⟨את⟩ die ander as brandoffer, en die priester sal vir haar versoening bewerk voor die aangesig van Jahweh weens haar vloei van onreinheid.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en hy sal maak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "sondoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ander"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die ander"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en hy sal versoening bewerk"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "oor haar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "weens die vloei"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "van haar onreinheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:59.076977832Z",
+  "model": "glm-5.3"
+}

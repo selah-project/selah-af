@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 23:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Van 'n leuenagtige saak moet jy ver wegbly, en ⟨die⟩ onskuldige en regverdige mag jy nie doodmaak nie, want Ek sal die goddelose nie vryspreek nie.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "van 'n saak"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leuenagtige"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "moet jy ver wegbly"
+    },
+    {
+      "surface": "ונקי",
+      "gloss": "en ⟨die⟩ onskuldige"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "regverdige"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "mag jy doodmaak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "Ek sal vryspreek"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:50.856150026Z",
+  "model": "glm-5.3"
+}

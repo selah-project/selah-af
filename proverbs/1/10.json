@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "My seun, as sondaars jou verlei, wees nie gewillig nie.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "My seun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "jou verlei"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sondaars"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "wees gewillig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:38.228832053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Om ons dae so te tel, laat ⟨u⟩ ons weet, en ons bring 'n hart van wysheid in.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "om te tel"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ons dae"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "laat weet"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "en ons bring in"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "'n hart"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "van wysheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:28.518633108Z",
+  "model": "glm-5.3"
+}

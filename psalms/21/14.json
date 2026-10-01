@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Verhoog U, Jahweh, in U krag; ons sal sing en psalms sing van U mag.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Verhoog U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "in U krag"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "ons sal sing"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "en psalms sing"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "van U mag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:14.833243559Z",
+  "model": "glm-5.3"
+}

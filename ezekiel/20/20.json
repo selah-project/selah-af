@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 20:20",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En ⟨את⟩ my Sjabbats moet julle heilig verklaar, en hulle sal wees tot 'n teken tussen my en tussen julle, om te weet dat ek Jahweh julle Elohim ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my Sjabbats"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "my Sjabbats"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "moet julle heilig verklaar"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "tot 'n teken"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "en tussen julle"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jure Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:50:27.876030298Z",
+  "model": "glm-5.3"
+}

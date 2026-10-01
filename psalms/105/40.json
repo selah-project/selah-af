@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hulle het gevra, en hy het kwartels gebring, en met brood van die hemel het hy hulle versadig.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Hulle het gevra"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "kwartels"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en met brood"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "het hy hulle versadig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:01.699957318Z",
+  "model": "glm-5.3"
+}

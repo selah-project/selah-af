@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Dawid het aan Jehonatan gesê: Wie sal dit aan my bekendmaak, of wat as jou vader jou hard antwoord?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "sal bekendmaak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "jou antwoord"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:38.765315755Z",
+  "model": "glm-5.3"
+}

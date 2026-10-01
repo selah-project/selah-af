@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 31:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Mosje het met die volk gespreek en gesê: Rust ⟨את⟩ uit julle manne vir die leërskare uit, en hulle moet oor Midjan wees om die wraak van Jahweh teen Midjan te gee.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "החלצו",
+      "gloss": "Rust uit"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ uit julle",
+      "marks": "manne"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "vir die leërskare"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle moet wees"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "die wraak van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במדין",
+      "gloss": "teen Midjan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:34.851328122Z",
+  "model": "glm-5.3"
+}

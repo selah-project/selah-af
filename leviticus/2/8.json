@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En jy sal bring ⟨את⟩ die minga wat uit hierdie gemaak word, aan Jahweh, en die priester sal dit naby bring, en hy sal dit nader bring na die altaar.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en jy sal bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die minga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "gemaak word"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "uit hierdie"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "en hy sal dit naby bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "en hy sal dit nader bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:32.549192758Z",
+  "model": "glm-5.3"
+}

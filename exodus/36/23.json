@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En hy het ⟨את⟩ die planke vir die Misjkan gemaak: twintig planke vir die suidelike kant, suidwaarts.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die planke"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die planke"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "vir die Misjkan"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "planke"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "vir die kant"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "die suide"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "suidwaarts"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:06.765665696Z",
+  "model": "glm-5.3"
+}

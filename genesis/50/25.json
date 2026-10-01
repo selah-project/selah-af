@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En Josef het die seuns van Jisraël laat sweer ⟨את⟩, en gesê: Besoek sal Elohim julle besoek, en julle sal ⟨את⟩ my gebeente van hierdie plek opdra.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "het laat swear"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "besoek"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sal besoeke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "והעלתם",
+      "gloss": "en julle sal opdra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my gebeente"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "my gebeente"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "van hierdie plek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:39.860917080Z",
+  "model": "glm-5.3"
+}

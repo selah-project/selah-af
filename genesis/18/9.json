@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hulle sê tot hom: Waar is Sara, jou vrou? En hy sê: Kyk, in die tent.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hom"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jou vrou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:00.801763528Z",
+  "model": "glm-5.3"
+}

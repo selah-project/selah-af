@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 8:34",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "dan hoor jy in ⟨die⟩ hemel en vergewe die sonde van jou volk Jisraël, en bring hulle terug na die grond wat jy aan hulle vaders gegee het.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hoor jy"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in ⟨die⟩ hemel"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "en vergewe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "die sonde van"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "en bring hulle terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "jy gegee het"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "aan hulle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:45.499828364Z",
+  "model": "glm-5.3"
+}

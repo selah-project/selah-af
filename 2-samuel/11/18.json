@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Toe het Joab gestuur en aan Dawid die hele ⟨את⟩ van die woorde van die oorlog bekend gemaak.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "gestuur"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "bekend gemaak"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde van die oorlog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "van die oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:40.634475675Z",
+  "model": "glm-5.3"
+}

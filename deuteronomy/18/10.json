@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 18:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Daar mag niemand by jou gevind word wat sy seun of dogter deur die vuur laat deurgaan nie, geen waarsegger, wolkdienaar, voëltekenleser of towenaar nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "mag gevind word"
+    },
+    {
+      "surface": "בך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "מעביר",
+      "gloss": "wat laat deurgaan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "of dogter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deur die vuur"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "waarsegger"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "waarsegginge"
+    },
+    {
+      "surface": "מעונן",
+      "gloss": "wolkdienaar"
+    },
+    {
+      "surface": "ומנחש",
+      "gloss": "voëltekenleser"
+    },
+    {
+      "surface": "ומכשף",
+      "gloss": "of towenaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:18.322034316Z",
+  "model": "glm-5.3"
+}

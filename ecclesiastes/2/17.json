@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek het ⟨את⟩ die lewe gehaat, want sleg ⟨is⟩ vir my die werk wat gedoen word onder die son, want die geheel ⟨is⟩ nietheid en najaag van roeag.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "en ek het gehaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewe"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sleg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "wat gedoen word"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die geheel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nietheid"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en najaag"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:35.859648579Z",
+  "model": "glm-5.3"
+}

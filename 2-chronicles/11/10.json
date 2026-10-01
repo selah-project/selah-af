@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ Tsora en ⟨את⟩ Ajjalon en ⟨את⟩ Hebron, wat in Jehoeda en in Binjamin ⟨lê⟩, versterkte stede.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Tsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Ajjalon"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Ajjalon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Hebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "en in Binjamin"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "stede"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "versterkte (vestingmure)"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:14.607593540Z",
+  "model": "glm-5.3"
+}

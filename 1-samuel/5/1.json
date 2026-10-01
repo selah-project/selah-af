@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die Filistyne het ⟨את⟩ die ark van Elohim geneem en dit van Ewen-ha-Ezer na Asjdod gebring.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "En die Filistyne"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "en hulle het dit gebring"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "van Ewen"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezer"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "na Asjdod"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:57.441696973Z",
+  "model": "glm-5.3"
+}

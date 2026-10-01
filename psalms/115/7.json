@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Hul hande, maar hulle tas nie; hul voete, maar hulle loop nie; hulle fluister nie met hul keel nie.",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "hul hande"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "tas"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hul voete"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "loop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "fluister"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "met hul keel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:18.878307773Z",
+  "model": "glm-5.3"
+}

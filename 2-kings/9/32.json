@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 9:32",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het sy gesig na die venster opgelig en gesê: Wie is ⟨את⟩ by my — wie? En twee, drie hofdienaste het na hom uitgekyk.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "en hy het opgelig"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy gesig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "die venster"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "וישקיפו",
+      "gloss": "en hulle het uitgekyk"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "סריסים",
+      "gloss": "hofdienaste"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:28.804144631Z",
+  "model": "glm-5.3"
+}

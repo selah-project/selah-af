@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Jahweh het met Mosje gespreek ná die dood van die twee seuns van Aharon, toe hulle naderkom voor Jahweh en gesterf het.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "toe hulle naderkom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "en gesterf het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:40.300444Z",
+  "model": "glm-5.3"
+}

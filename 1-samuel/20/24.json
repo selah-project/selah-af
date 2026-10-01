@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Dawid het hom verskuil in die veld; en toe die nuwemaan daar was, het die koning by die maaltyd gesit om te eet.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "het hom verskuil"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "die nuwemaan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "om te eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:21.791759956Z",
+  "model": "glm-5.3"
+}

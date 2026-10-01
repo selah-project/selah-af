@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "dan moet jy ⟨את⟩ haar hand afkap — jou oog mag nie spaar nie.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "dan moet jy afkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar hand"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "haar hand"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "mag spaar"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "jou oog"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:53.413430289Z",
+  "model": "glm-5.3"
+}

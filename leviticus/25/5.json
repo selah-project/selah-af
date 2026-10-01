@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "⟨את⟩ die selfgesaaië van jou oes sal jy nie maai nie, en ⟨את⟩ die druiwe van jou ongesnoeide wingerd sal jy nie lees nie; 'n jaar van Sjabbat-rus sal dit vir die land wees.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die selfgesaaië"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "die selfgesaaië"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "van jou oes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "sal jy maai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die druiwe"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "die druiwe"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "van jou ongesnoeide wingerd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "sal jy lees"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "'n jaar"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "van Sjabbat-rus"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "vir die land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:22.438840485Z",
+  "model": "glm-5.3"
+}

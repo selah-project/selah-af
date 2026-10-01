@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ek sal ⟨את⟩ Jerusjalajim tot puinhope maak, 'n woonplek van jakkalse, en ⟨את⟩ die stede van Jehoeda sal ek gee as verwoesting, sonder 'n bewoner.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "tot puinhope"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "'n woonplek"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "van jakkalse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die stede van Jehoeda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sal ek gee"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "as verwoesting"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "'n bewoner"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:25.329604940Z",
+  "model": "glm-5.3"
+}

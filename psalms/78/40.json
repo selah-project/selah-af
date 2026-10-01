@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hoe dikwels het hulle hom geterg in die woestyn, hom bedroef in die droë wildernis!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hoe dikwels"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "het hulle hom geterg"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "hom bedroef"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "in die droë wildernis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:16.027968123Z",
+  "model": "glm-5.3"
+}

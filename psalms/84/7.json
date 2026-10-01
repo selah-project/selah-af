@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Die wat deur die Bakka-vallei trek, maak daarvan 'n fontein; ook seëninge bedek dit soos die vroeë reën.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "die wat deur trek"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "deur die vallei"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "Bakka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "'n fontein"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "maak dit"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "seëninge"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "vroeë reën"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:53.669967653Z",
+  "model": "glm-5.3"
+}

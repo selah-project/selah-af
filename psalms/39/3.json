@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Ek was stom ⟨van⟩ stilswye, ek het geswyg, selfs van ⟨die⟩ goeie; en my pyn is opgeroer.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ek was stom"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stilswye"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ek het geswyg"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "selfs van die goeie"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "en my pyn"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "is opgeroer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:54.114992825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Laat my mond vol wees van U lof, die hele dag van U prag.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "laat vol wees"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "van U lof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "van U prag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.520390781Z",
+  "model": "glm-5.3"
+}

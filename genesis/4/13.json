@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Kajin sê vir Jahweh: groot is my skuld, te groot om te dra.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "my skuld"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "om te dra"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:34.335879168Z",
+  "model": "glm-5.3"
+}

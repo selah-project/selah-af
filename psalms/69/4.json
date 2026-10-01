@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Ek is vermoei met my roep, my keel is verseng, my oë vergaan terwyl ek wag op my Elohim.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "ek is vermoei"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "met my roep"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "is verseng"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "my keel"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "terwyl ek wag"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "op my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:52.710440379Z",
+  "model": "glm-5.3"
+}

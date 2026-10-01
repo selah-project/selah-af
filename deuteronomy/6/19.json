@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "om ⟨את⟩ al jou vyande voor jou uit te dryf, soos Jahweh gespreek het.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "om uit te dryf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al jou vyande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:03.445698980Z",
+  "model": "glm-5.3"
+}

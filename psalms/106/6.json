@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Ons het gesondig saam met ons vaders, ons het krom gehandel, ons het goddeloos gehandel.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Ons het gesondig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ons vaders"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "ons het krom gehandel"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "ons het goddeloos gehandel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:21.144638471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Want ⟨die⟩ koning van die hele aarde ⟨is⟩ Elohim — speel, 'n maskil!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n maskil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.137187223Z",
+  "model": "glm-5.3"
+}

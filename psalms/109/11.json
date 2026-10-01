@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag 'n skuldeiser 'n strik span oor alles wat hy het, en mag vreemdelinge sy arbeid plunder.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "span 'n strik"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "'n skuldeiser"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "oor alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy het"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "en mag plunder"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemdelinge"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "sy arbeid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.589979017Z",
+  "model": "glm-5.3"
+}

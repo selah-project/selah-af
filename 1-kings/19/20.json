@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 19:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy het ⟨את⟩ die beeste laat staan en agter Elia aangehardloop, en gesê: Laat my tog my vader en my mother soen, dan sal ek agter jou aan gaan. En hy het vir hom gesê: Gaan, keer terug, want wat het ek aan jou gedoen?",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en hy het laat staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die beeste"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die beeste"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "en gehardloop"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אשקה",
+      "gloss": "laat my soen"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ולאמי",
+      "gloss": "en my moeder"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dan sal ek gaan"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "agter jou aan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:21.878969489Z",
+  "model": "glm-5.3"
+}

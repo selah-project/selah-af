@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "en Hy sal uithaal soos lig jou tsedek, en jou reg soos die middag.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "en Hy sal uithaal"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "soos lig"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jou tsedek"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "en jou reg"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "soos die middag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.368378555Z",
+  "model": "glm-5.3"
+}

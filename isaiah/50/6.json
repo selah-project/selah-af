@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "My rug het ek gegee aan die wat slaan, en my kennebakke aan die wat ⟨uit⟩pluk; my gesig het ek nie weggesteek van smaad en spoeg nie.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "my rug"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "aan die wat slaan"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "en my kennebakke"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "aan die wat uitpluk"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my gesig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "het ek weggesteek"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "van smaad"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "en spoeg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:51.715055965Z",
+  "model": "glm-5.3"
+}

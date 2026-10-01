@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Want soos hierdie Pasga is daar nie gedoen van die dae van die rigters af wat ⟨את⟩ Jisraël geoordeel het nie, en nie gedurende al die dae van die konings van Jisraël en van die konings van Jehoeda nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "is gedoen"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "soos hierdie Pasga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "van die dae af"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "van die rigters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "geoordeel het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van die konings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "en van die konings"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:21.072859700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Hiskia het ⟨את⟩ al die silwer gegee wat gevind is in die huis van Jahweh en in die skatkamers van die huis van die koning.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en het gegee"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die silwer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wat gevind is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "en in die skatkamers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:25.008955906Z",
+  "model": "glm-5.3"
+}

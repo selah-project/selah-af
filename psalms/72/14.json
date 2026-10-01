@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Uit ⟨die midde⟩ van bedrog en geweld los hy hulle siel uit, en dierbaar is hulle bloed in sy oë.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "uit"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "en van geweld"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "los hy uit"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle siel"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "en dierbaar"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hulle bloed"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:03.921679983Z",
+  "model": "glm-5.3"
+}

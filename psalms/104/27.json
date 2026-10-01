@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 104:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Almal verwag na U, om hul kos te gee in sy tyd.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Almal"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "ישברון",
+      "gloss": "verwag"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hul kos"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "in sy tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:52.542580014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 149:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Want Jahweh het welbehae in sy volk, Hy tooi die ootmoediges met oorwinning.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "רוצה",
+      "gloss": "het welbehae"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "in sy volk"
+    },
+    {
+      "surface": "יפאר",
+      "gloss": "tooi"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die ootmoediges"
+    },
+    {
+      "surface": "בישועה",
+      "gloss": "met oorwinning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.048192925Z",
+  "model": "glm-5.3"
+}

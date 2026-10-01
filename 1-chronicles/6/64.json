@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ Kedemot en ⟨את⟩ sy weivelde, en ⟨את⟩ Mefaät en ⟨את⟩ sy weivelde.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kedemot"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Kedemot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Mefaät"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "Mefaät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:46:15.728662971Z",
+  "model": "glm-5.3"
+}

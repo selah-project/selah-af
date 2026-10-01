@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toets tog ⟨את⟩ jou dienaars tien dae lank; en laat hulle ons van die saadgoed gee om te eet, en water om te drink.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "toets"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dienaars"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jou dienaars"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "en laat hulle gee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "die saadgoed"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en water"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "om te drink"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:27.531488024Z",
+  "model": "glm-5.3"
+}

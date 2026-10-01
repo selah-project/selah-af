@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 132,
+  "ref": "psalms 119:132",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Wend U na my en wees my genadig, soos ⟨U gewoonte is⟩ teenoor die wat u Naam liefhet.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wend U"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees my genadig"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "soos die regsgebruik"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "teenoor die wat liefhet"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.448447297Z",
+  "model": "glm-5.3"
+}

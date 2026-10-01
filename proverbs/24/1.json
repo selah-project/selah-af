@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Wees nie jaloers op mans van kwaad nie, en verlang nie om ⟨את⟩ hulle te wees nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "wees jaloers"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "op mans"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te wees"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:01.123717132Z",
+  "model": "glm-5.3"
+}

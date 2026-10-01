@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Baie smarte ⟨is daar⟩ vir die goddelose, maar vir hom wat op Jahweh vertrou — gesed omring hom.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "smarte"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "vir die goddelose"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "maar vir hom wat vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "omring hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:23.912282204Z",
+  "model": "glm-5.3"
+}

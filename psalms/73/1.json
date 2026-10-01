@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "’n mizmor van Asaf. Voorwaar, goed ⟨is⟩ Elohim vir Jisraël, vir die wat rein van hart ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "’n mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "vir die wat rein is"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:10.966076321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En jy — jy moet ⟨את⟩ die kinders van Jisraël beveel, en hulle sal na jou bring olyfolie, suiwer, gestampte, vir die lig, om die lamp gedurig te laat opgaan.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jy"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "moet beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle sal bring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olyf-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestampte"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "vir die lig"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "om te laat opgaan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "die lamp"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:25.631113802Z",
+  "model": "glm-5.3"
+}

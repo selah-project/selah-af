@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Jy mag nie 'n os muilband aandoen terwyl hy dors nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "mag jy muilband aandoen"
+    },
+    {
+      "surface": "שור",
+      "gloss": "'n os"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "terwyl hy dors"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:55.429056769Z",
+  "model": "glm-5.3"
+}

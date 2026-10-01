@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 8:4",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Ek het ⟨את⟩ die ram gesien, stotend weswaarts en noordwaarts en suidwaarts, en geen diere kon voor hom stand hou nie, en daar was niemand wat uit sy hand kon red nie; en hy het gedoen soos hy wou, en het hom grootgemaak.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "מנגח",
+      "gloss": "stotend"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "weswaarts"
+    },
+    {
+      "surface": "וצפונה",
+      "gloss": "en noordwaarts"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "en suidwaarts"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "diere"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "kon stand hou"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar was niemand"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wat red"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uit sy hand"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "כרצנו",
+      "gloss": "soos hy wou"
+    },
+    {
+      "surface": "והגדיל",
+      "gloss": "en het hom grootgemaak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:35:13.083538212Z",
+  "model": "glm-5.3"
+}

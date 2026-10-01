@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ⟨את⟩ al hierdie konings en ⟨את⟩ hulle land het Jehosjoea op een slag gevange geneem, want Jahweh, die Elohim van Jisraël, het vir Jisraël geveg.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al hierdie konings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "hierdie konings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "het gevange geneem"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "slag"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "het geveg"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:16.684450542Z",
+  "model": "glm-5.3"
+}

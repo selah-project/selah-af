@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 11:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die volk sê vir Sjemoeël: wie is hy wat gesê het, sal Sjaoel oor ons regeer? Gee die manne, dat ons hulle doodmaak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "is hy wat gesê het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "sal regeer"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ונמיתם",
+      "gloss": "dat ons hulle doodmaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:20.985347278Z",
+  "model": "glm-5.3"
+}

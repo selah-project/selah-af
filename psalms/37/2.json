@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want soos gras word hulle gou afgesny, en soos groen kruid verwelk hulle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "soos gras"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "gou"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "word hulle afgesny"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "en soos groen"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "kruid"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "verwelk hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.779459911Z",
+  "model": "glm-5.3"
+}

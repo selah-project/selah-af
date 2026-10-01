@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "totdat ek kom en ek jul wegneem na 'n land soos jul land, 'n land van graan en most, 'n land van brood en wingerde;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ek kom"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "en ek wegneem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jul",
+      "marks": "אתכם as objekmerker by die wegname"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "soos jul land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "van graan"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "en most"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "van brood"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "en wingerde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:41.481660453Z",
+  "model": "glm-5.3"
+}

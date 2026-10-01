@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Jou praatjies laat mense swyg, en jy spot en daar ⟨is⟩ niemand wat jou beskaam maak nie.",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "jou praatjies"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "mense"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "laat swyg"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "en jy spot"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "wat beskaam maak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:42.823483527Z",
+  "model": "glm-5.3"
+}

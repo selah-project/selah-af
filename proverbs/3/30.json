@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Twis nie sonder rede met 'n mens, as hy jou geen kwaad vergeld het nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "twis"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "'n mens"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sonder rede"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "hy jou vergeld"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:39.976136289Z",
+  "model": "glm-5.3"
+}

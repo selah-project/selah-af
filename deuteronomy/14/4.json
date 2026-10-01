@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Dit is die vee wat julle mag eet: os, kleinvee van die skape en kleinvee van die bokke.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "julle mag eet"
+    },
+    {
+      "surface": "שור",
+      "gloss": "os"
+    },
+    {
+      "surface": "שה",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "van die skape"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "en kleinvee"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "van die bokke"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:50.607849787Z",
+  "model": "glm-5.3"
+}

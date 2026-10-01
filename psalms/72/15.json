@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "En hy sal lewe, en ⟨hulle⟩ sal aan hom gee van die goud van Sjewa; en ⟨hulle⟩ sal gedurig vir hom bid, die hele dag sal ⟨hulle⟩ hom seën.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en hy sal lewe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "van die goud"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "van Sjewa"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en bid"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "sal hom seën"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:03.921899023Z",
+  "model": "glm-5.3"
+}

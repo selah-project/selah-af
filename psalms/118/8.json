@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Dit ⟨is⟩ goed om by Jahweh skuiling te soek, meer as om op die mens te vertrou.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "om skuiling te soek"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "meer as om te vertrou"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "op die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:35.696392769Z",
+  "model": "glm-5.3"
+}

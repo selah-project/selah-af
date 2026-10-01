@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 6:10",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Is daar nog, in die huis van die goddelose, skatte van onreg, en 'n verkorte efa, ⟨die⟩ vervloekte?",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "האש",
+      "gloss": "Is daar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "skatte"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van onreg"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "en 'n efa"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "verkorte"
+    },
+    {
+      "surface": "זעומה",
+      "gloss": "vervloekte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:41.362470451Z",
+  "model": "glm-5.3"
+}

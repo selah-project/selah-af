@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ Oval en ⟨את⟩ Awimaël en ⟨את⟩ Sjewa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Oval"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Oval"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Awimaël"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Awimaël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjewa"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjewa"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.208923830Z",
+  "model": "glm-5.3"
+}

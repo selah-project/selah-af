@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 17:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Van die aangesig van slegtes — hulle het my verwoes, my vyande; met ⟨die⟩ siel omring hulle my, teen my.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "van die aangesig van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "slegtes"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "שדוני",
+      "gloss": "het my verwoes"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "met die siel"
+    },
+    {
+      "surface": "יקיפו",
+      "gloss": "omring hulle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.720492386Z",
+  "model": "glm-5.3"
+}

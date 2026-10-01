@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Elohim het met Mosje gepraat en vir hom gesê: Ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gepraat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:19.583893107Z",
+  "model": "glm-5.3"
+}

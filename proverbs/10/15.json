@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die rykdom van die ryke ⟨is⟩ sy vestingstad; die ondergang van die armes ⟨is⟩ hulle armoede.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "die rykdom"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "van die ryke"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "vestingstad"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "sy mag"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "die ondergang"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "van die armes"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "hulle armoede"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:25.663533470Z",
+  "model": "glm-5.3"
+}

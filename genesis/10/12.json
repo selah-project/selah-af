@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ Resen, tussen Nineve en tussen Kalag — dit is die groot stad.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Resen"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Resen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "die groot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:50.161941097Z",
+  "model": "glm-5.3"
+}

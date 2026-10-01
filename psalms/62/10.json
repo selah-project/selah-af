@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Seker, damp ⟨is⟩ die seuns van Adam, leuen die seuns van man; op weegskale om te styg — hulle ⟨is⟩ tesame ligter as damp.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "seker"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "damp"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "op weegskale"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "om te styg"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "as damp"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tesame"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.953866512Z",
+  "model": "glm-5.3"
+}

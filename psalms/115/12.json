@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Jahweh het ons gedink ⟨in goedheid⟩; hy sal seën, hy sal seën ⟨את⟩ die huis van Jisraël, hy sal seën ⟨את⟩ die huis van Aharon.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "het ons gedink"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hy sal seën"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hy sal seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "hy sal seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Aharon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:34.664181262Z",
+  "model": "glm-5.3"
+}

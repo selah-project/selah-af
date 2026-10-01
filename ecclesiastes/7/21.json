@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Ook aan al die woorde wat ⟨hulle⟩ spreek — gee nie jou hart daaraan nie, so dat jy nie ⟨את⟩ jou dienskneg wat jou vloek, sal hoor nie.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ook"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "⟨hulle⟩ spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jy hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "so dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "jy sal hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dienskneg wat jou vloek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienskneg"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "wat jou vloek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:55.076533500Z",
+  "model": "glm-5.3"
+}

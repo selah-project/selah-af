@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 35:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Ontwaak en word wakker tot my reg, my Elohim en my Adonai, tot my regspleging.",
+  "tokens": [
+    {
+      "surface": "העירה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "והקיצה",
+      "gloss": "en word wakker"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "tot my reg"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "en my Adonai"
+    },
+    {
+      "surface": "לריבי",
+      "gloss": "tot my regspleging"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:12.643650614Z",
+  "model": "glm-5.3"
+}

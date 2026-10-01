@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "‘n Bewaarder van die eenvoudiges ⟨is⟩ Jahweh; ek was verneder, en ⟨hy⟩ het my verlos.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "‘n Bewaarder"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "van die eenvoudiges"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ek was verneder"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en vir my"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "het hy verlos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:48.271369797Z",
+  "model": "glm-5.3"
+}

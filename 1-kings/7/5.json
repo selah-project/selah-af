@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 7:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En al die deuropeninge en die deurposte ⟨was⟩ vierkantig, ⟨met⟩ venstergleuwe, en venster oorkant venster, drie keer.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "הפתחים",
+      "gloss": "die deuropeninge"
+    },
+    {
+      "surface": "והמזוזות",
+      "gloss": "en die deurposte"
+    },
+    {
+      "surface": "רבעים",
+      "gloss": "vierkantig"
+    },
+    {
+      "surface": "שקף",
+      "gloss": "venstergleuwe"
+    },
+    {
+      "surface": "ומול",
+      "gloss": "en oorkant"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "venster"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "venster"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:13.036095918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En sy het aan haar mevrou gesê: Was my heer tog maar by die profeet wat in Somron is, dan sou hy ⟨את⟩ hom van sy melaatsheid verlos.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En sy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "haar mevrou"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "was ... tog maar"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "by"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Somron"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "sou hy verlos"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "van sy melaatsheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:15.959696732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Adonai Jahweh het vir my 'n oor geopen, en ek het nie gerebelleer nie, agtertoe het ek nie teruggetrek nie.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "het geopen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "'n oor"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "het gerebelleer"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agtertoe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "het teruggetrek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:51.714837833Z",
+  "model": "glm-5.3"
+}

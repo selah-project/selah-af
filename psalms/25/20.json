@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Bewaar my siel en red my; laat my nie beskaam staan nie, want ek het my tot in U verskuil.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Bewaar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en red my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "beskaam staan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ek het my verskuil"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:22.696567214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En die son het vir hom opgekom toe hy oor Penuël ⟨את⟩ getrek het, en hy het op sy heup gehinkel.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "En ... het opgekom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "hy getrek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oor Penuël"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Penuël"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "het gehinkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "sy heup"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:03.276129444Z",
+  "model": "glm-5.3"
+}

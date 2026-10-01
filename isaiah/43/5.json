@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Vrees nie, want ek is ⟨את⟩ met jou; uit die ooste bring ek jou nageslag, en uit die weste versamel ek jou.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou",
+      "marks": "met jou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "uit die ooste"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "bring ek"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en uit die weste"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "versamel ek jou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:48.903981610Z",
+  "model": "glm-5.3"
+}

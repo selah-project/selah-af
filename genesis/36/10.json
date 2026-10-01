@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Dit is die name van die seuns van Esaw: Elifas, seun van Ada, die vrou van Esaw; Rehuël, seun basmat, die vrou van Esaw.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die name"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esaw"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "van Ada"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esaw"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Rehuël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "van Basmat"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esaw"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:57.572696950Z",
+  "model": "glm-5.3"
+}

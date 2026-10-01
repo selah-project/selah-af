@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek weet, o Jahweh, dat jou oordele tsedek is, en dat u in trou my gekwel het.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ek weet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jou oordele"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "en in trou"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "my gekwel het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.229918919Z",
+  "model": "glm-5.3"
+}

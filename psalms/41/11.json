@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Maar U, Jahweh, wees my genadig en rig my op, dan vergeld ek hulle.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "en rig my op"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "dan vergeld ek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:36.869399707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elohim het ⟨את⟩ hul gekreun gehoor, en Elohim het ⟨את⟩ sy verbond onthou, ⟨את⟩ Awraham, ⟨את⟩ Jitsgak en ⟨את⟩ Jaäkow.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul gekreun"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "hul gekreun"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "het onthou"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy verbond"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:42.355532336Z",
+  "model": "glm-5.3"
+}

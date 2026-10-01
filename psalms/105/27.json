@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hulle het die woorde van sy tekens onder hulle geplaas, en wonders in die land van Gam.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "geplaas het"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde van"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "sy tekens"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "en wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land van"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Gam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.380307355Z",
+  "model": "glm-5.3"
+}

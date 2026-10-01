@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 74:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Moenie die stem van u vyande vergeet nie, ⟨die⟩ geraas van u teenstanders gaan gedurig op.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Moenie ... nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "van u vyande"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "geraas"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "van u teenstanders"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "gaan op"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:22.930929540Z",
+  "model": "glm-5.3"
+}

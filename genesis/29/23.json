@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En dit het gebeur in die aand toe hy Lea, sy dogter, geneem en ⟨את⟩ haar by hom ingebring het, en hy het by haar ingekom.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "toe hy geneem het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea, sy dogter"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het ingebring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het ingekom"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "by haar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:20.704977844Z",
+  "model": "glm-5.3"
+}

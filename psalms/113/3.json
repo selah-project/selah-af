@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "Van die opkoms van die son tot by sy ondergang — geloof word die naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "Van die opkoms"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "van die son"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "sy ondergang"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "geloof word"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.528326569Z",
+  "model": "glm-5.3"
+}

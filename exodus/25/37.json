@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy moet ⟨את⟩ sy lampe maak, sewe, en ⟨את⟩ sy lampe laat opgaan, en hulle moet lig gee oorkant ⟨פניה⟩ sy voorpunt",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy moet maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lampe"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sy lampe"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "en laat opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lampe"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "sy lampe"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "en lig gee"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "oorkant"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "sy voorpunt"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:10.927646426Z",
+  "model": "glm-5.3"
+}

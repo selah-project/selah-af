@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 14:22",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Jehoeda het gedoen wat sleg is in die oë van Jahweh, en hulle het ⟨את⟩ Hom jaloers gemaak met hulle sondes wat hulle gesondig het, bo alles wat hulle vaders gedoen het.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "En … het gedoen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wat sleg is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ויקנאו",
+      "gloss": "en hulle het jaloers gemaak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Hom"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hulle vaders"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "met hulle sondes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "hulle gesondig het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:44.698298875Z",
+  "model": "glm-5.3"
+}

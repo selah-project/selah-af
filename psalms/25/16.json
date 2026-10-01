@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Wend U tot my en wees my genadig, want ek is alleen en arm, ek.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wend U"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot my"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees my genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "en arm"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.899135973Z",
+  "model": "glm-5.3"
+}

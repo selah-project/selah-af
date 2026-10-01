@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 10:17",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ⟨dit⟩ is aan Jehosjoea vertel, gesê: Die vyf konings is gevind, weggekruip in die grot by Makkeda.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en ⟨dit⟩ is vertel"
+    },
+    {
+      "surface": "ליהושע",
+      "gloss": "aan Jehosjoea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "is gevind"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "die vyf"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "נחבאים",
+      "gloss": "weggekruip"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in die grot"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "by Makkeda"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:11.298325804Z",
+  "model": "glm-5.3"
+}

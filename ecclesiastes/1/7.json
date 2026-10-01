@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Al die strome gaan na die see, en die see word nie vol nie; na die plek waarheen die strome gaan, daarvandaan keer hulle terug om weer te gaan.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "die strome"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "והים",
+      "gloss": "en die see"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "word nie"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "waarheen die strome"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daarvandaan"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om weer te gaan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:44.123812031Z",
+  "model": "glm-5.3"
+}

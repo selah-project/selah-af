@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "En nasies sal na jou lig gaan, en konings na die glans van jou ogloed.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "sal gaan"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "na jou lig"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "en konings"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "na die glans"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "van jou ogloed"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:28.888504831Z",
+  "model": "glm-5.3"
+}

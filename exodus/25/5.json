@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "en velle van ramme, rooi geverf, en velle van tegashims, en akasiahout van sjittim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "en velle"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "van ramme"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "rooi geverf"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "en velle"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "van tegashims"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "en hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "van sjittim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:37.512001126Z",
+  "model": "glm-5.3"
+}

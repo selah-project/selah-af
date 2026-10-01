@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy het gegaan en ⟨את⟩ Gomer, dogter van Diblajim, geneem; en sy het swanger geword en vir hom 'n seun gebaar.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "En hy het gegaan"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gomer"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter van"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Diblajim"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en sy het swanger geword"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en gebaar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:41.161364200Z",
+  "model": "glm-5.3"
+}

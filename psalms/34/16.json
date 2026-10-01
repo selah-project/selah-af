@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Die oë van Jahweh ⟨is⟩ op ⟨die⟩ tsadiekiem, en sy ore op hulle hulpgeroep.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "tsadiekiem"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "en sy ore"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "hulle hulpgeroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:22.666130240Z",
+  "model": "glm-5.3"
+}

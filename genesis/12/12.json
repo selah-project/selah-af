@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En dit sal gebeur dat die Mitsrietters ⟨את⟩ jou sien en sal sê: dit is sy vrou; en hulle sal ⟨את⟩ my doodmaak, maar ⟨את⟩ jou sal hulle laat lewe.",
+  "tokens": [
+    {
+      "surface": "ו היה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hulle sien"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "die Mitsrietters"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "en hulle sal sê"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "en hulle sal doodmaak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "laat lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:01.265089044Z",
+  "model": "glm-5.3"
+}

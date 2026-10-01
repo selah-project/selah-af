@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "So sê Jahweh: as julle my verbond met die dag kan verbreek, ⟨את⟩ my verbond met die nag, sodat dag en nag nie in hulle bestemde tyd kan wees nie —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תפרו",
+      "gloss": "julle verbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond met die dag"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "היום",
+      "gloss": "met die dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond met die nag"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "met die nag"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kan wees"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "in hulle tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T22:38:43.467275100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Ellendig is ek en sterwend van die jeug af; u skrikwekkendhede het ek gedra — ek is radeloos.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "ellendig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "en sterwend"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "van die jeug af"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "het ek gedra"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "u skrikwekkendhede"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "is ek radeloos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:29.311996828Z",
+  "model": "glm-5.3"
+}

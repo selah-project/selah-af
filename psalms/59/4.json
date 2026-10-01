@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Want kyk, hulle lê weg vir my siel; magtiges vergader ⟨hulleself⟩ teen my — nie my oortreding ⟨is dit⟩ nie en nie my sonde ⟨is dit⟩ nie, Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "hulle lê weg"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "vir my siel"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "hulle vergader"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "magtiges"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortreding"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sonde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.444810859Z",
+  "model": "glm-5.3"
+}

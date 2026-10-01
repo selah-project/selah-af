@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Op dié dag sal Ek teenoor Eli uitvoer ⟨את⟩ alles wat Ek oor sy huis gespreek het — beginnende en voltooiende.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "sal Ek uitvoer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat Ek oor sy huis gespreek het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Ek gespreek het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "החל",
+      "gloss": "beginnende"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "en voltooiende"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:52.943420145Z",
+  "model": "glm-5.3"
+}

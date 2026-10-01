@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En die koning van Mitsrajim het hom in Jerusjalajim afgesit en ⟨את⟩ die land beboet met honderd talente silver en een talent goud.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "hom afgeset"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "beboet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "talente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "en een talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    }
+  ],
+  "timestamp": "2026-10-01T01:04:16.150796836Z",
+  "model": "glm-5.3"
+}

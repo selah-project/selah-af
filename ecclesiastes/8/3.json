@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Moenie haastig wees om uit sy teenwoordigheid te gaan nie; staan nie in 'n slegte saag nie, want alles wat hy behaag, doen hy.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "haastig wees"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uit sy teenwoordigheid"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "in 'n saag"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "hy behaag"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "doen hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:23.685748778Z",
+  "model": "glm-5.3"
+}

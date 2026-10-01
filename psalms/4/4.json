@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En weet dat Jahweh ⟨die⟩ vrome vir Hom afgesonder het; Jahweh sal hoor wanneer ek tot Hom roep.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "en weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "afgesonder het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "⟨die⟩ vrome"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יישמע",
+      "gloss": "sal hoor"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "wanneer ek roep"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:46.296022425Z",
+  "model": "glm-5.3"
+}

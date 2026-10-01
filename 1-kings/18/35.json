@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die water het rondom die altaar gestroom, en ook ⟨את⟩ die sloot het hy met water gevul.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "gestroom"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sloot"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "die sloot"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevul"
+    },
+    {
+      "surface": "מים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:55.760912455Z",
+  "model": "glm-5.3"
+}

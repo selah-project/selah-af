@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Joab het in die sjofar geblaas, en die volk het teruggekeer van die agtervolging van Jisraël af, want Joab het ⟨את⟩ die volk terughou.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "en hy het geblaas"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "in die sjofar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en het teruggekeer"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "van die agtervolging"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "het terughou"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:49.384233060Z",
+  "model": "glm-5.3"
+}

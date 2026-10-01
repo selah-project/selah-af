@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "In my hart het ek u woord weggebêre, sodat ek nie teen U sou sondig nie.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "in my hart"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "het ek weggebêre"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "ek sou sondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:05.726956148Z",
+  "model": "glm-5.3"
+}

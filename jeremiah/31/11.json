@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Want Jahweh het ⟨את⟩ Jaäkow losgekoop, en hom verlos uit die hand van een sterker as hy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "het losgekoop"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "en hom verlos"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "van een sterker"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as hy"
+    }
+  ],
+  "timestamp": "2026-09-30T22:36:07.252076934Z",
+  "model": "glm-5.3"
+}

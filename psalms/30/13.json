@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Sodat my majesteit U kan bespeel en nie stil word nie. Jahweh, my Elohim, tot in ewigheid sal ek U loof.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "U kan bespeel"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "majesteit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "stil word"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sal ek U loof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:11.960448835Z",
+  "model": "glm-5.3"
+}

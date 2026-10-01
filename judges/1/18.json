@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jehoeda het ⟨את⟩ Aza en ⟨את⟩ sy gebied ingeneem, en ⟨את⟩ Asjkelon en ⟨את⟩ sy gebied, en ⟨את⟩ Ekron en ⟨את⟩ sy gebied.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "en hy het ingeneem"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Aza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sy gebied"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Asjkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Asjkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sy gebied"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Ekron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebied"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "sy gebied"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:28.550971588Z",
+  "model": "glm-5.3"
+}

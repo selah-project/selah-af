@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 64:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Hulle soek onregte uit; ⟨sê hulle⟩: 'n soektog het ons voltooi — soektog op soektog; en die binneste van 'n man, en die hart, is diep.",
+  "tokens": [
+    {
+      "surface": "יחפשו",
+      "gloss": "hulle soek uit"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "onregte"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "het ons voltooi"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "'n listige plan"
+    },
+    {
+      "surface": "מחפש",
+      "gloss": "soektog op soektog"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "en die binneste"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en die hart"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "is diep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:04.448846463Z",
+  "model": "glm-5.3"
+}

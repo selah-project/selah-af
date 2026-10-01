@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het gesê: Dit is bloed! Die konings is sekerlik vernietig — hulle het mekaar geslaan, elkeen ⟨את⟩ sy naaste; en nou — na die buit, Moab!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "sekerlik vernietig"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "is vernietig"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "hulle het geslaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "na die buit"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:09.682585116Z",
+  "model": "glm-5.3"
+}

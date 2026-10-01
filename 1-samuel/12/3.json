@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hier is ek; getuig teen my voor Jahweh en voor sy gesalfde: ⟨את⟩ 'n os — van wie het ek geneem? en 'n donkie — van wie het ek geneem? en ⟨את⟩ wie het ek onderdruk? ⟨את⟩ wie het ek gekneus? en uit die hand van wie het ek 'n omkoopgeskenk geneem om my oë daarmee toe te maak? — en ek sal dit aan julle teruggee.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "hier is ek"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "getuig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sy gesalfde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n os"
+    },
+    {
+      "surface": "שור",
+      "gloss": "'n os"
+    },
+    {
+      "surface": "מי",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "het ek geneem"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "en 'n donkie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "het ek geneem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wie (die een wat ek onderdruk het)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "het ek onderdruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie (die een wat ek gekneus het)"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "het ek gekneus"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "מי",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "het ek geneem"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "'n omkoopgeskenk"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "en toe te maak"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "en ek sal teruggee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:00.255248663Z",
+  "model": "glm-5.3"
+}

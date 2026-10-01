@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "en die losser van die bloed hom ⟨את⟩ buite die grens van die stad van sy toevlug vind, en die losser van die bloed doodmaak ⟨את⟩ die doodslaanter — geen bloed ⟨skuld⟩ vir hom nie;",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "en vind"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "die losser"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "die grens"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "van sy toevlug"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "en doodmaak"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "die losser"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die doodslaanter"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "die doodslaanter"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:04.011049445Z",
+  "model": "glm-5.3"
+}

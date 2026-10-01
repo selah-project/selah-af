@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 15:6",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En nasie is verbrykel deur nasie, en stad deur stad, want Elohim het hulle in elke benoudheid in verwarring gebring.",
+  "tokens": [
+    {
+      "surface": "וכתתו",
+      "gloss": "en is verbrykel"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "deur nasie"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "en stad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "deur stad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הממם",
+      "gloss": "het in verwarring gebring"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in elke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benoudheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:58:05.850777346Z",
+  "model": "glm-5.3"
+}

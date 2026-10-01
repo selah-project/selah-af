@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 47:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En Josef het tot die volk gesê: Kyk, ek het julle ⟨את⟩ vandag gekoop, en ⟨את⟩ julle grond vir Paro; hier is saad vir julle, en julle moet die ⟨את⟩ grond saai.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ek het gekoop"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "vandag"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "julle grond"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "julle grond"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "vir Paro"
+    },
+    {
+      "surface": "הא",
+      "gloss": "hier is"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saad"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "en julle moet saai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die grond"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die grond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:32.249393012Z",
+  "model": "glm-5.3"
+}

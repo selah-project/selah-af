@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het gesê: Ek sal U liefhê, Jahweh, my sterkte.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "ek sal U liefhê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "my sterkte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:53.473890775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Vuur gaan voor Hom uit en verskroei sy vyande rondom.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor Hom"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "en verskroei"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "sy vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.383345707Z",
+  "model": "glm-5.3"
+}

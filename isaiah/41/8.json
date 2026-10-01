@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Maar jy, Jisraël, my dienaar, Jaäkow wat ek verkies het, nageslag van Awraham my geliefde —",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar jy"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ek verkies het"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "my geliefde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:55.855002154Z",
+  "model": "glm-5.3"
+}

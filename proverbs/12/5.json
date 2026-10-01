@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die planne van die regverdiges ⟨is⟩ reg en oordeel; die streke van die goddeloses ⟨is⟩ bedrog.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "planne"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg en oordeel"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "streke"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:08.935005783Z",
+  "model": "glm-5.3"
+}

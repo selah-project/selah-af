@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 17:5",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "want ek het nie in 'n huis gewoon nie, van die dag af dat ek ⟨את⟩ Jisraël laat opgaan het, tot op hierdie dag toe, en ek was van tent tot tent en van Misjkan tot Misjkan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "het ek gewoon"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in 'n huis"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "af dat"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ek laat opgaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "en ek was"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "van tent"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "וממשכן",
+      "gloss": "en van Misjkan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:27.625574691Z",
+  "model": "glm-5.3"
+}

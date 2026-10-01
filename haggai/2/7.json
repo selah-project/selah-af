@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 2:7",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en Ek sal skud ⟨את⟩ al die nasies, en hulle sal kom — die begeerlike van al die nasies — en Ek sal ⟨את⟩ hierdie huis vul met heerlikheid, sê Jahweh Tsewaot.",
+  "tokens": [
+    {
+      "surface": "והרעשתי",
+      "gloss": "en Ek sal skud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die nasies"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en hulle sal kom"
+    },
+    {
+      "surface": "חמדת",
+      "gloss": "die begeerlike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "en Ek sal vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "met heerlikheid"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:31.019107412Z",
+  "model": "glm-5.3"
+}

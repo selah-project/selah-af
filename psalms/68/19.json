@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 68:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "U het opgevaar na ⟨die⟩ hoogte, U het gevangeskap gevange geneem, U het geskenke geneem onder ⟨die⟩ mense — ja, ook die wederstrewiges — om te woon, Jah, ⟨die⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "עלית",
+      "gloss": "U het opgevaar"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "na ⟨die⟩ hoogte"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "U het gevangeskap"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "gevange geneem"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "U het geneem"
+    },
+    {
+      "surface": "מתנות",
+      "gloss": "geskenke"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onder ⟨die⟩ mense"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ja, ook"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "die wederstrewiges"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:44.406895995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Ek sal julle barmhartigheid bewys, en ⟨הי⟩ sal julle ⟨את⟩ ontferm en julle ⟨את laat terugkeer na julle eie grond.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "en Ek sal gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "barmhartigheid"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "en ontferm"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle (ontferm)"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en laat terugkeer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle (terugkeer)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "julle eie grond"
+    }
+  ],
+  "timestamp": "2026-09-30T22:42:21.945786179Z",
+  "model": "glm-5.3"
+}

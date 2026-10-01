@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Elohim het in sy heiligheid gespreek: ek sal jubel, ek sal Sjegem verdeel en die vallei van Sukkot afmeet.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "in sy heiligheid"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ek sal jubel"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ek sal verdeel"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjegem"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "en die vallei"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "van Sukkot"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "afmeet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:44.201718254Z",
+  "model": "glm-5.3"
+}

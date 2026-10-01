@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het ⟨את⟩ Moab geslaan, en die Moabiete het diensknegte vir Dawid geword, draers van minga.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle het geword"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "die Moabiete"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "diensknegte"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "draers van"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "minga"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:36.795975836Z",
+  "model": "glm-5.3"
+}

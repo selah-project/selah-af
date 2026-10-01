@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Ek het 'n goddelose geweldaenaar gesien, wat hom uitstrek soos 'n inheemse boom, groen.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "'n goddelose"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "geweldaenaar"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "wat hom uitstrek"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "soos 'n inheemse"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "groen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.368782657Z",
+  "model": "glm-5.3"
+}

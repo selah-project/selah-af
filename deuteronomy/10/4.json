@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 10:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Hy het op die tablette geskryf, volgens die eerste skrif, ⟨את⟩ die tien woorde wat Jahweh met julle op die berg gespreek het, uit die middel van die vuur, op die dag van die vergadering; en Jahweh het hulle aan my gegee.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "En Hy het geskryf"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "die tablette"
+    },
+    {
+      "surface": "כמכתב",
+      "gloss": "volgens die skrif"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tien woorde"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "die tien"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit die middel"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "en Hy het hulle gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:02.076687842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 55:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Want nie ⟨is⟩ my gedagtes julle gedagtes nie, en nie ⟨is⟩ julle weë my weë nie, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מחשבותי",
+      "gloss": "my gedagtes"
+    },
+    {
+      "surface": "מחשבותיכם",
+      "gloss": "julle gedagtes"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "julle weë"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:31.125539318Z",
+  "model": "glm-5.3"
+}

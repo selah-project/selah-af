@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 107:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Laat hulle Jahweh loof vir sy gesed, en sy wonders vir die kinders van die mens.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "laat hulle loof"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en sy wonders"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die kinders"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:13.735182340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die priester maak ⟨את⟩ hulle: die een as sondoffer en die ander as brandoffer, en die priester versoen hom voor Jahweh weens sy vloed.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "En maak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (die twee voëls)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "as sondoffer"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "en die ander"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "as brandoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en versoen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "weens sy vloed"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:21.279725539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "wat nie luister na die stem van fluisteraars nie, 'n betoweraar van betoweringe, hoe vernuftig ook al.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "van fluisteraars"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "'n betoweraar"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "van betoweringe"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "hoe vernuftig ook al"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.896528896Z",
+  "model": "glm-5.3"
+}

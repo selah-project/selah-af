@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die ark van Jahweh het ⟨את⟩ die stad omkring, een keer rondom, en hulle het na die laer gekom en in die laer oornag.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en het omkring"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "keer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "na die laer"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "en het oornag"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in die laer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:49.318419206Z",
+  "model": "glm-5.3"
+}

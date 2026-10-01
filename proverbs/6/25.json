@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Begeer nie haar skoonheid in jou hart nie, en laat sy jou nie neem met haar ooglede nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "haar skoonheid"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in jou hart"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "laat sy jou neem"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "met haar ooglede"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:56.428210101Z",
+  "model": "glm-5.3"
+}

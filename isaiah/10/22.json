@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 10:22",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Want al is jou volk, Jisraël, soos die sand van die see, net 'n oorblyfsel sal daarin terugkeer; 'n voleinde, beslote, stort oor met tsedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "is"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "soos die sand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "'n oorblyfsel"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כליון",
+      "gloss": "'n voleinde"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "beslote"
+    },
+    {
+      "surface": "שוטף",
+      "gloss": "stort oor"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "met tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:53.978432631Z",
+  "model": "glm-5.3"
+}

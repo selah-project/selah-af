@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 81:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Toe het Ek hulle laat gaan in die hardkoppigheid van hulle hart, ⟨sodat⟩ hulle wandel in hulle eie raadsplanne.",
+  "tokens": [
+    {
+      "surface": "ואשלחהו",
+      "gloss": "Toe het Ek hulle laat gaan"
+    },
+    {
+      "surface": "בשרירות",
+      "gloss": "in die hardkoppigheid"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "van hulle hart"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hulle wandel"
+    },
+    {
+      "surface": "במועצותיהם",
+      "gloss": "in hulle eie raadsplanne"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.400583983Z",
+  "model": "glm-5.3"
+}

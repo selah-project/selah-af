@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En dit het gebeur, toe Ragel ⟨את⟩ Jossef gebaar het, dat Jaäkow vir Lavan gesê het: Stuur my weg, dat ek kan gaan na my plek en na my land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaar het"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ragel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jossef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jossef"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "dat … gesê het"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "stuur my weg"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dat ek kan gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "my plek"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "en na my land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:18.165688636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 15:23",
+  "book": "job",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Hy swerf rond vir brood — waar ⟨is⟩ dit? Hy weet dat 'n dag van duisternis gereed in sy hand ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "נדד",
+      "gloss": "swerf rond"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "vir brood"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hy weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "'n dag"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "van duisternis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:16.863776853Z",
+  "model": "glm-5.3"
+}

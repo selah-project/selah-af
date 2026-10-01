@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Hy sal my aanroep: my Vader ⟨is⟩ u, my El en die rots van my redding.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "sal my aanroep"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my Vader"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "en die rots"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "van my redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.676118511Z",
+  "model": "glm-5.3"
+}

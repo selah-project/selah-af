@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 1:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoor, o hemele, en luister, o aarde, want Jahweh het gespreek: seuns het ek grootgemaak en verhoog, maar hulle het teen my in opstand gekom.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "o hemele"
+    },
+    {
+      "surface": "והאזיני",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "o aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "het ek grootgemaak"
+    },
+    {
+      "surface": "ורוממתי",
+      "gloss": "en verhoog"
+    },
+    {
+      "surface": "והם",
+      "gloss": "maar hulle"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "het in opstand gekom"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:46.482125321Z",
+  "model": "glm-5.3"
+}

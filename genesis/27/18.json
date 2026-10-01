@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En hy het by sy vader gekom en gesê: My vader! En hy het gesê: Hier is ek; wie is jy, my seun?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier is ek"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is jy"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:03.818641785Z",
+  "model": "glm-5.3"
+}

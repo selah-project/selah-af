@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Manne van kwaad verstaan ⟨die⟩ reg nie, maar die wat Jahweh soek, verstaan alles.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "manne"
+    },
+    {
+      "surface": "רע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "maar die wat soek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:13.373790519Z",
+  "model": "glm-5.3"
+}

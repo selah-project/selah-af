@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En jy sal dra-stokke maak vir die altaar, dra-stokke van sittim-hout, en jy sal ⟨את⟩ hulle oortrek met koper.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "dra-stokke"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "vir die altaar"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "dra-stokke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "en jy sal oortrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (die dra-stokke)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "met koper"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:31.793243389Z",
+  "model": "glm-5.3"
+}

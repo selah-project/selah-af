@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Met sy vere sal Hy jou toebedek, en onder sy vlerke sal jy toevlug soek; groot skild en rondskild is sy trou.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "Met sy vere"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "sal Hy jou toebedek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "sy vlerke"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "sal jy toevlug soek"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "groot skild"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "en rondskild"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "sy trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:00.243570321Z",
+  "model": "glm-5.3"
+}

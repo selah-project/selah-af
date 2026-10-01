@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 30:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En ⟨את⟩ die brandofferaltaar en ⟨את⟩ al sy gerei, en ⟨את⟩ die wasbekken en ⟨את⟩ sy voetstuk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die brandofferaltaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die wasbekken"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "die wasbekken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy voetstuk"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sy voetstuk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:44.048274174Z",
+  "model": "glm-5.3"
+}

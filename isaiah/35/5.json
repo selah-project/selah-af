@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Dan word die oë van blindes geopend, en die ore van dowes word ontsluit.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "word geopend"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "die oë van"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blindes"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "en die ore van"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "dowes"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "word ontsluit"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:49.153256233Z",
+  "model": "glm-5.3"
+}

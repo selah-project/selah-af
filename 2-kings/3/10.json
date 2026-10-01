@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Toe sê die koning van Jisraël: Ag, want Jahweh het hierdie drie konings geroep om hulle ⟨את⟩ in die hand van Moab te gee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "geroep het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "vir die drie"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die drie konings)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand van"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:55.587670289Z",
+  "model": "glm-5.3"
+}

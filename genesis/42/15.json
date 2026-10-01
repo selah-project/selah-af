@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 42:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Hierdeur sal julle getoets word: so seker as Paro leef, julle sal nie hiervandaan uitgaan nie, tensy julle jongste broer hierheen kom.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "hierdeur"
+    },
+    {
+      "surface": "תבחנו",
+      "gloss": "sal julle getoets word"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as seker as"
+    },
+    {
+      "surface": "תצאו",
+      "gloss": "julle sal uitgaan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiervandaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tensy (behalwe dat)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "julle broer"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "die jongste"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hierheen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:49.529971702Z",
+  "model": "glm-5.3"
+}

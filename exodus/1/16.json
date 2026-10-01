@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en hy het gesê: wanneer julle ⟨את⟩ die Hebreeuse vroue help geboorte gee en julle hulle sien op die geboortestene — as dit 'n seun is, moet julle ⟨את⟩ hom doodmaak, en as dit 'n dogter is, dan sal sy lewe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "wanneer julle help geboorte gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Hebreeuse vroue"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "die Hebreeuse vroue"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "en julle sien"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die geboortestene"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "moet julle doodmaak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'n dogter"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "dan sal sy lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.611842143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die oudstes van die vergadering moet hulle hande op die kop van die bul lê voor Jahweh, en ⟨hulle⟩ slag die bul voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "En moet lê"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van die bul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en ⟨hulle⟩ slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:29.455558861Z",
+  "model": "glm-5.3"
+}

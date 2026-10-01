@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hulle het dit elke môre, môre vir môre, vergader, elkeen volgens sy eetportie; en toe die son warm geword het, het dit gesmelt.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "en hulle het vergader"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "môre vir môre"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "sy eetportie"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "en dit het warm geword"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "en dit het gesmelt"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:55.924803851Z",
+  "model": "glm-5.3"
+}

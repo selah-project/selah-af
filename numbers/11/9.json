@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En toe die dou in die nag op die kamp neerdaal, daal die man daarmee neer.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "en toe ... neerdaal"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "die dou"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daal neer"
+    },
+    {
+      "surface": "המן",
+      "gloss": "die man"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarmee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:36.828960493Z",
+  "model": "glm-5.3"
+}

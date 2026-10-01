@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Die seuns van Kehat: Amram, Jitsgar, Gevron en Ussiël, vier.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Die seuns van"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Amram"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Jitsgar"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "GeVron"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "en Ussiël"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:52.049420755Z",
+  "model": "glm-5.3"
+}

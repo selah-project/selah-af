@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En my tong sal ⟨⟨את⟩⟩ jou tsedek ondersoekend uitspreek, die hele dag jou lof.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "en my tong"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "sal ondersoekend uitspreek"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "jou tsedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "jou lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:47.395821640Z",
+  "model": "glm-5.3"
+}

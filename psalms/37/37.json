@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 37:37",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Merk op die onberispelike en sien die reguit man, want die toekoms van ⟨die⟩ man van vrede ⟨is⟩ vrede.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "merk op"
+    },
+    {
+      "surface": "תם",
+      "gloss": "onberispelike"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reguit man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "toekoms"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van ⟨die⟩ man"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.931854082Z",
+  "model": "glm-5.3"
+}

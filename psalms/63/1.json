@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "’n Mizmor van Dawid, toe hy in die woestyn van Jehoeda was.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "’n Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "toe hy was"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.045561841Z",
+  "model": "glm-5.3"
+}

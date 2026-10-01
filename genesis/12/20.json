@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Paro het manne omtrent hom beveel, en hulle het ⟨את⟩ hom weggestuur, en ⟨את⟩ sy vrou, en ⟨את⟩ alles wat hy het.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het beveel"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "omtrent hom"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "en hulle het weggestuur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vrou"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat hy het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:47.609125971Z",
+  "model": "glm-5.3"
+}

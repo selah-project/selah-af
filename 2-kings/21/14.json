@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 21:14",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Ek sal ⟨את⟩ die oorblyfsel van my erfenis verlaat en hulle in die hand van hulle vyande gee; en hulle sal tot 'n buit en tot 'n roof wees vir al hulle vyande.",
+  "tokens": [
+    {
+      "surface": "ונטשתי",
+      "gloss": "en Ek sal verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oorblyfsel"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "die oorblyfsel"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "van my erfenis"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "en hulle gee"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "van hulle vyande"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "tot 'n buit"
+    },
+    {
+      "surface": "ולמשסה",
+      "gloss": "en tot 'n roof"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hulle vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:09.766993015Z",
+  "model": "glm-5.3"
+}

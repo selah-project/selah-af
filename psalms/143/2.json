@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "En kom nie in geregsdeel met ⟨את⟩ u dienskneg nie, want voor u aangesig sal geen lewende geregtig wees nie.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in geregsdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u dienskneg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienskneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "sal geregtig wees"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u aangesig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "geen … nie (כל)"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.553639123Z",
+  "model": "glm-5.3"
+}

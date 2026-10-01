@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die Filistyne het ⟨את⟩ hulle leërskare bymekaargeskaar vir die oorlog, en hulle het hulle versamel by Soko, wat aan Jehoeda behoort, en hulle het laers opgeslaan tussen Soko en tussen Aseka, by Efes-Dammim.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "en hulle het bymekaargeskaar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle leërskare"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "hulle leërskare"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir die oorlog"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "en hulle het hulle versamel"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "by Soko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda behoort"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en hulle het laers opgeslaan"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "Soko"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Aseka"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "by Efes"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Dammim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:44.517847658Z",
+  "model": "glm-5.3"
+}

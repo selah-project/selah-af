@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "En hulle sal sing van die weë van Jahweh, want groot is die heerlikheid van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "en hulle sal sing"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "van die weë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die heerlikheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.089948224Z",
+  "model": "glm-5.3"
+}

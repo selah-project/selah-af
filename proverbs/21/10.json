@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die siel van die goddelose verlang na kwaad; sy naaste vind geen genade in sy oë nie.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddelose"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "verlang na"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen … nie"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "genade vind"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:30.985425602Z",
+  "model": "glm-5.3"
+}

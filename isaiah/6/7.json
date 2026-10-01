@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 6:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het dit teen my mond laat kom en gesê: Kyk, dit het jou lippe geraak, en jou ongeregtigheid is weggeneem en jou sonde is bedek.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "En hy het laat kom\/geraak"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "het geraak"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "jou lippe"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "is weggeneem"
+    },
+    {
+      "surface": "עונך",
+      "gloss": "jou ongeregtigheid"
+    },
+    {
+      "surface": "וחטאתך",
+      "gloss": "en jou sonde"
+    },
+    {
+      "surface": "תכפר",
+      "gloss": "is bedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:30.831182605Z",
+  "model": "glm-5.3"
+}

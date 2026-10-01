@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 1:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy moet dit ⟨את⟩ by sy vlerke oopskeur, maar nie skei nie; en die priester moet dit ⟨את⟩ laat opgaan as reuk op die altaar, op die hout wat op die vuur is; 'n brandoffer is dit, 'n vuuroffer, 'n geruik van rus, vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושסע",
+      "gloss": "en hy moet oopskeur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die voël)"
+    },
+    {
+      "surface": "בכנפיו",
+      "gloss": "by sy vlerke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "skei"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en laat opgaan as reuk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die voël)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuuroffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "'n geruik"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "van rus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:49.540121035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het ⟨את⟩ die engel geantwoord wat in my spreek — woorde, goeie woorde, woorde van troos.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en het geantwoord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die engel"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die engel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wat spreek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "van troos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:31.373582865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As julle hom waarlik verdruk ⟨את⟩ — as hy tot My uitroep, sal Ek sy uitroep sekerlik hoor.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "waarlik verdruk"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "verduk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "uitroep"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "hy uitroep"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot My"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sekerlik hoor"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "sal Ek hoor"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "sy uitroep"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:53.593110280Z",
+  "model": "glm-5.3"
+}

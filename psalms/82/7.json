@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Maar soos 'n mens sal julle sterwe, en soos een van die owerstes sal julle val.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Maar"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "soos 'n mens"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "sal julle sterwe"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "en soos een van"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "sal julle val"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:52.036615244Z",
+  "model": "glm-5.3"
+}

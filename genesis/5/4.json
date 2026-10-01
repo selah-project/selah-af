@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die dae van Adam ná hy ⟨את⟩ Set verwek het, was agt honderd jaar, en hy het seuns en dogters verwek.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En ... was"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van Adam"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hy verwek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Set"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "agt"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dogters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:09.485284593Z",
+  "model": "glm-5.3"
+}

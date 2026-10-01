@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ons vaders het gesondig en ⟨hulle⟩ ⟨is⟩ nie meer; ons dra hulle ongeregtighede.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "ons vaders"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "het gesondig"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "is nie meer"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "hulle ongeregtighede"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "dra (ons)"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:25.530565040Z",
+  "model": "glm-5.3"
+}

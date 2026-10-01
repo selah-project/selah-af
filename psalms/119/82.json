@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My oë raak uitgeput vir u uitspraak, terwyl ek sê: hoe lank nog sal U my troos?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "raak uitgeput"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "vir u uitspraak"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "terwyl ek sê"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank nog"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "sal U my troos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:34.299839203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 68:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Sing vir Elohim, speel ⟨את⟩ sy naam se lof; maak 'n pad vir Hom wat oor die steppe ry; in Jah ⟨is⟩ sy naam, en juig voor Hom.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vir Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam se lof"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "maak 'n pad"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "vir Hom wat ry"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "oor die steppe"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "in Jah"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "ועלזו",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.118381656Z",
+  "model": "glm-5.3"
+}

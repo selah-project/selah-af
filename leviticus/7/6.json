@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Elke manlike onder die priesters mag dit eet; op 'n heilige plek moet dit geëet word — heilig van heiliges ⟨is⟩ dit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlike"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "onder die priesters"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mag dit eet"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op 'n plek"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "moet geëet word"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heiliges"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:05.414819164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "vir Simon, Sjelumiël, seun van Tsoerisjaddai.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "vir Simon"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Sjelumiël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "van Tsoerisjaddai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:34.488928665Z",
+  "model": "glm-5.3"
+}

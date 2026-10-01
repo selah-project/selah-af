@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Toe het hy ⟨את⟩ sy gesig na die muur gedraai en tot Jahweh gebid om te sê:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "toe het hy gedraai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy gesig"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy gesig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en gebid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:50.398456938Z",
+  "model": "glm-5.3"
+}

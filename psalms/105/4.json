@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Soek Jahweh en sy krag, soek sy aangesig gedurig.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Soek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "en sy krag"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "soek"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.226491323Z",
+  "model": "glm-5.3"
+}

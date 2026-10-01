@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 8:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Daarom sal ek ⟨את⟩ hulle vroue aan ander gee, hulle velde aan die wat hulle sal erf; want van die kleinste tot die grootste, almal gryp wins, van die profeet tot die priester, almal handel vals.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sal ek gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle vroue"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "hulle vroue"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "aan ander"
+    },
+    {
+      "surface": "שדותיהם",
+      "gloss": "hulle velde"
+    },
+    {
+      "surface": "ליורשים",
+      "gloss": "aan die wat sal erf"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van die kleinste"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "die grootste"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "almal"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gryp"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "wins"
+    },
+    {
+      "surface": "מנביא",
+      "gloss": "van die profeet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "almal"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "handel"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vals"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:19.668111065Z",
+  "model": "glm-5.3"
+}

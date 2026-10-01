@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "en hy het vir hom by Jahweh raad gevra, en voedsel aan hom gegee, en ⟨את⟩ die swaard van Goljat die Filistyn aan hom gegee.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "en hy het raad gevra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "en voedsel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die swaard"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "van Goljat"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:51.210520970Z",
+  "model": "glm-5.3"
+}

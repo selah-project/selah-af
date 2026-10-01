@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Geskaam laat al die dienaars van 'n gesnede beeld hulle wat roem in niete — buig neer voor hom, alle gode.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "geskaam"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "van 'n gesnede beeld"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "hulle wat roem"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "in niete"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "buig neer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.334659988Z",
+  "model": "glm-5.3"
+}

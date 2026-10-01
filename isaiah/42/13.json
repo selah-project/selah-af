@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 42:13",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Jahweh gaan uit soos 'n held, soos 'n man van oorloë wek hy ywer op; hy gee 'n krygskreet, ja, hy brul, teen sy vyande wys hy hom magtig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "soos 'n held"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "soos 'n man"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "van oorloë"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "wek op"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ywer"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "hy gee 'n krygskreet"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "יצריח",
+      "gloss": "hy brul"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sy vyande"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "wys hy hom magtig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:17.501860555Z",
+  "model": "glm-5.3"
+}

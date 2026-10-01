@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En dit was kwaad vir Jona, 'n groot kwaad, en dit het in hom gebrand.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "was kwaad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "'n kwaad"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "het gebrand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "in hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:28.457844377Z",
+  "model": "glm-5.3"
+}

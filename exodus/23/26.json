@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 23:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Daar sal geen miskraam of onvrugbare in jou land wees; ⟨את⟩ die getal van jou dae sal Ek vervul.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "משכלה",
+      "gloss": "miskraam"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "of onvrugbare"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in jou land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die getal van jou dae"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die getal"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "van jou dae"
+    },
+    {
+      "surface": "אמלא",
+      "gloss": "sal Ek vervul"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:29.316878509Z",
+  "model": "glm-5.3"
+}

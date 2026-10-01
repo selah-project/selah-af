@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "In die straat het geen vreemdeling oornag nie; my deure oop ek vir die wandelaar.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "in die straat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "oornag"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vreemdeling"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "my deure"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "vir die wandelaar"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "oop ek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:47.669477655Z",
+  "model": "glm-5.3"
+}

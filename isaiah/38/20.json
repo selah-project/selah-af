@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 38:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Jahweh — om my te verlos; en my liedere sal ons speel al die dae van ons lewe, by die huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "om my te verlos"
+    },
+    {
+      "surface": "ונגנותי",
+      "gloss": "en my liedere"
+    },
+    {
+      "surface": "ננגן",
+      "gloss": "sal ons speel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "חיינו",
+      "gloss": "van ons lewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:10.587092062Z",
+  "model": "glm-5.3"
+}

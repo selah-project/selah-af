@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Verdraai en misdadig ⟨is⟩ die weg van 'n man, maar wat suiwer is — reg ⟨is⟩ sy werk.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "verdraai"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "en misdadig"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "maar suiwer"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reg"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "sy werk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:39.215550424Z",
+  "model": "glm-5.3"
+}

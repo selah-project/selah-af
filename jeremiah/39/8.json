@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 39:8",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En ⟨את⟩ die huis van die koning en ⟨את⟩ die huis van die volk het die Kasdiërs met vuur verbrand; en ⟨את⟩ die mure van Jerusjalajim het hulle afgebreek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van die koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van die volk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "het verbrand"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "die Kasdiërs"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die mure van Jerusjalajim"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "die mure"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "het afgebreek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:40:57.112241461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die koning het gesê: Wijk opsy, staan ⟨hier⟩ so. En hy het opsy gewyk en gaan staan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "סב",
+      "gloss": "wijk opsy"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "staan jou"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so \/ hier"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en hy het opsy gewyk"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en gaan staan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:27.622080973Z",
+  "model": "glm-5.3"
+}

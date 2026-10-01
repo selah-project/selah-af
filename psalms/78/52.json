@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 78:52",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En Hy het sy volk soos skape laat uittrek, en hulle soos 'n kudde in die woestyn gelei.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "En Hy het laat uittrek"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "soos skape"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "וינהגם",
+      "gloss": "en hulle gelei"
+    },
+    {
+      "surface": "כעדר",
+      "gloss": "soos 'n kudde"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:21.960374936Z",
+  "model": "glm-5.3"
+}

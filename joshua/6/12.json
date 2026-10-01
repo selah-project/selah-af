@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jehosjoea het vroeg in die môre opgestaan, en die priesters het ⟨את⟩ die ark van Jahweh gedra.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "en het vroeg opgestaan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het gedra"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:49.318626093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 20:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Dra ⟨את⟩ die naam van Jahweh jou Elohim nie verniet nie, want Jahweh sal ⟨את⟩ die een wat ⟨את⟩ sy naam verniet dra, nie onskuldig laat nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naam van Jahweh jou Elohim"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "verniet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "onskuldig laat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een wat sy naam verniet dra"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "verniet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:35.643920417Z",
+  "model": "glm-5.3"
+}

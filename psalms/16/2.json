@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ek het gesê tot Jahweh: U ⟨is⟩ my Adonai — my goed ⟨is⟩ nie bo U nie.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "tot Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my Adonai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "my goed"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "bo U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:39.751502523Z",
+  "model": "glm-5.3"
+}

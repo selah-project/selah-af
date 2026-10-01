@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Kyk, Ek het ⟨את⟩ jou gesig sterk gemaak teenoor hulle gesigte, en ⟨את⟩ jou voorkop sterk teenoor hulle voorkoppe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ek het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou gesig"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hulle gesigte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou voorkop"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "jou voorkop"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "hulle voorkoppe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:35.458587060Z",
+  "model": "glm-5.3"
+}

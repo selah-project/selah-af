@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "wanneer Adonai ⟨את⟩ die vuil van die dogters van Tsion afwas en ⟨את⟩ die bloed van Jerusjalajim uit haar midde wegstoot, deur 'n roeag van reg en deur 'n roeag van vertering.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "afwas"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vuil van die dogters van Tsion"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "die vuil"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "van die dogters"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsion"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed van Jerusjalajim"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "wegstoot"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "uit haar midde"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "deur 'n roeag"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "van reg"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "en deur 'n roeag"
+    },
+    {
+      "surface": "בער",
+      "gloss": "van vertering"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:26.189375326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Hulle het El, hulle redder, vergeet, die doenaar van groot dade in Mitsrajim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "het ... vergeet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "hulle redder"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doenaar"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groot dade"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.608317728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het gesê: Moenie vrees nie, want talryker is die wat ⟨את⟩ met ons is as die wat ⟨את⟩ met hulle is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "talryker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "as die wat"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ met hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:46.819815610Z",
+  "model": "glm-5.3"
+}

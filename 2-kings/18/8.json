@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Hy ⟨self⟩ het ⟨את⟩ die Filistyne geslaan tot by Gaza en ⟨את⟩ sy grense, van die toring van wagte af tot by 'n vestingstad.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hy self"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Gaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy grense"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sy grense"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "van die toring van"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "wagte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "'n stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "vesting"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:20.040405932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En dit het geske by die wederkeer van die jaar: Ben-Hadad het Aram getel ⟨את⟩, en hy het opgetrek Afpek toe om oorlog te voer teen Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het geske"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "by die wederkeer"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "van die jaar"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "het getel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hy het opgetrek"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "Afpek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "om oorlog te voer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "teen"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:49.576059756Z",
+  "model": "glm-5.3"
+}

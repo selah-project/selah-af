@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "wat reg doen vir die wees en die weduwee, en wat die vreemdeling liefhet om aan hom brood en klere te gee.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "wees"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en weduwee"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "en liefhet"
+    },
+    {
+      "surface": "גר",
+      "gloss": "vreemdeling"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "en klere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:52.611877492Z",
+  "model": "glm-5.3"
+}

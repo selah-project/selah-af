@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Ek is nagesoek deur ⟨die wat⟩ nie gevra het nie; ek is gevind deur ⟨die wat⟩ my nie gesoek het nie. Ek het gesê: Hier is ek, hier is ek, vir 'n nasie wat my naam nie aangeroep het nie.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "is nagesoek"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "deur die wat nie"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "gevra het"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "is gevind"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "deur die wat nie"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "my nie gesoek het"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Ek het gesê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier is ek"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier is ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "'n nasie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "aangeroep het"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "my naam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:24.885594562Z",
+  "model": "glm-5.3"
+}

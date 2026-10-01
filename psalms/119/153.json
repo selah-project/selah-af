@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Sien my ellende en red my, want u Tora het ek nie vergeet nie.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sien"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "my ellende"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "en red my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "het ek vergeet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:19.703129493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 4:19",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het vir sy vader gesê: My kop, my kop! En hy vir die jongman gesê: Dra hom na sy moeder.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my kop"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my kop"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die jongman"
+    },
+    {
+      "surface": "שאהו",
+      "gloss": "dra hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:22.102583210Z",
+  "model": "glm-5.3"
+}

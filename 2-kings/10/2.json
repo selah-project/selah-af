@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En nou, sodra hierdie geskrif by julle kom — by julle is ⟨את⟩ die seuns van julle heer, en by julle is ⟨את⟩ die strydwaens en die perde, ook 'n vestingstad en die wapens —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "sodra ... kom"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "hierdie geskrif"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "by julle"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "by julle is ⟨את⟩ die seuns van julle heer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "van julle heer"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩",
+      "marks": "by julle is ⟨את⟩ die strydwaens en die perde"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "die strydwaens"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "en die perde"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ook 'n stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "'n vesting"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "en die wapens"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:45.732475058Z",
+  "model": "glm-5.3"
+}

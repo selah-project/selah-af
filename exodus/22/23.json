@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En My toorn sal brand, en Ek sal julle ⟨את⟩ met die swaard doodmaak, en julle vroue sal weduwees word en julle seuns weeskinders.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "My toorn"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "en Ek sal doodmaak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "sal word"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "julle vroue"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "weduwees"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "en julle seuns"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "weeskinders"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:53.593524682Z",
+  "model": "glm-5.3"
+}

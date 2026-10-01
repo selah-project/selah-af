@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 27:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Hierdie sal staan om ⟨את⟩ die volk te seën op berg Gerisim, wanneer julle oor ⟨את⟩ die Jarden trek: Sjim‘on en Levi en Jehoeda en Jissaskar en Josef en Binyamin.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sal staan"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "גרזים",
+      "gloss": "Gerisim"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "wanneer julle trek oor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjim‘on"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "en Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "ויששכר",
+      "gloss": "en Jissaskar"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en Josef"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binyamin"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:54.278698883Z",
+  "model": "glm-5.3"
+}

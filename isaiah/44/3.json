@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Want ek sal water giet op die dorstige, en strome op die droë grond; ek sal my roeag giet op jou nageslag, en my seën op jou nakomelinge.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "sal ek giet"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "die dorstige"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "en strome"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "die droë grond"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "sal ek giet"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "en my seën"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "jou nakomelinge"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:35.285718986Z",
+  "model": "glm-5.3"
+}

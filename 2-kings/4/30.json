@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 4:30",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die moeder van die seun sê: So waar as Jahweh leef en jou siel leef, ek sal jou nie verlaat nie. En hy staan op en gaan agter haar aan.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die moeder"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "van die seun"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en leef"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ek sal jou verlaat"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en hy staan op"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "agter haar aan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:30.335906039Z",
+  "model": "glm-5.3"
+}

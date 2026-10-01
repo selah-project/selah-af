@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Van my ⟨is⟩ Gilad, en van my ⟨is⟩ Menasje, en Efraim ⟨is⟩ die vesting van my hoof; Jehoeda ⟨is⟩ my wetgewer.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "van my"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en van my"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Menasje"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "en Efraim"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "die vesting"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "van my hoof"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "my wetgewer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:28.751081017Z",
+  "model": "glm-5.3"
+}

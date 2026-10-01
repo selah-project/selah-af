@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En Hy het hulle dae in nietigheid geëindig en hulle jare in verskrikking.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "het geëindig"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "in nietigheid"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "hulle dae"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "en hulle jare"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "in verskrikking"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:24.685609434Z",
+  "model": "glm-5.3"
+}

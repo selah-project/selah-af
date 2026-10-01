@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 38:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En hy het ⟨את⟩ die brandoffer-altaar van sittimhout gemaak: vyf el sy lengte en vyf el sy breedte, vierkantig, en drie el sy hoogte.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer-altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vyf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "vierkantig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sy hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:40.092680462Z",
+  "model": "glm-5.3"
+}

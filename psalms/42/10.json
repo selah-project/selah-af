@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Ek sal sê tot ⟨את⟩ die El, my rots: waarom het U my vergeet? Waarom gaan ek treurend rond onder ⟨את⟩ die verdrukking van ⟨את⟩ die vyand?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ek sal sê"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot die El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "het U my vergeet"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "treurend"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "gaan ek rond"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "onder die verdrukking"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van die vyand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:45.191663687Z",
+  "model": "glm-5.3"
+}

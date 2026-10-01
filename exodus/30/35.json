@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy moet dit ⟨את⟩ as ’n wierook maak, ’n mengsel, werk van ’n menger, gesoute, suiwer, heilig.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "En jy moet maak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "’n wierook"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "’n wierook"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "’n mengsel"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "van ’n menger"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "gesoute"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:30.027886837Z",
+  "model": "glm-5.3"
+}

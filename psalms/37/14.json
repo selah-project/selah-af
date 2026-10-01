@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 37:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "⟨Die⟩ goddeloses het ⟨hulle⟩ swaard oopgetrek en hulle boog gespan om die ellendige en die noodlydende te laat val, om die opregtes van die weg af te slag.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "het oopgetrek"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "ודרכו",
+      "gloss": "en gespan"
+    },
+    {
+      "surface": "קשתם",
+      "gloss": "hulle boog"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "om te laat val"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die ellendige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en die noodlydende"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "om te slag"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "die opregtes"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "van die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.184076940Z",
+  "model": "glm-5.3"
+}

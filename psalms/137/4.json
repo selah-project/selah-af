@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Hoe sal ons ⟨את⟩ die lied van Jahweh sing op grond van 'n vreemde land?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "sal ons sing"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lied van Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "die lied"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "grond van"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "'n vreemde land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:32.690772684Z",
+  "model": "glm-5.3"
+}

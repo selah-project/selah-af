@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 56:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Hulle vergader, hulle lê weg en bewaak my spore, soos hulle gewag het op my lewe.",
+  "tokens": [
+    {
+      "surface": "יגורו",
+      "gloss": "hulle vergader"
+    },
+    {
+      "surface": "יצפינו",
+      "gloss": "hulle lê weg"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "my spore"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bewaak"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "gewag het"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:09.047522204Z",
+  "model": "glm-5.3"
+}

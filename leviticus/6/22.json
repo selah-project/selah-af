@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Elke manlike onder die priesters mag ⟨את⟩ dit eet; heilig van heilighede ⟨is⟩ dit.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlike"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "onder die priesters"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heilighede"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:58.985844983Z",
+  "model": "glm-5.3"
+}

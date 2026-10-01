@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Gaan uit die ark uit, jy en jou vrou en jou seuns en die vroue van jou seuns met jou.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Gaan uit"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "en jou vrou"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "en jou seuns"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "en die vroue"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van jou seuns"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:24.751032250Z",
+  "model": "glm-5.3"
+}

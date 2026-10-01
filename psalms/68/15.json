@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 68:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Toe Sjaddai konings daar verstrooi het, het dit gesneeu in Tsalmon.",
+  "tokens": [
+    {
+      "surface": "בפרש",
+      "gloss": "toe ... verstrooi het"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "תשלג",
+      "gloss": "het dit gesneeu"
+    },
+    {
+      "surface": "בצלמון",
+      "gloss": "in Tsalmon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:35.679779681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Jisraël en die Filistyne het ⟨die⟩ slagorde gestel, slagorde teenoor slagorde.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "het ⟨die⟩ slagorde gestel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "en die Filistyne"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "slagorde"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "slagorde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:51.781336054Z",
+  "model": "glm-5.3"
+}

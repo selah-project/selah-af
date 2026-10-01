@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En die priesters en die profete en die hele volk het ⟨את⟩ Jirmejahu gehoor spreek — ⟨את⟩ hierdie woorde — in die huis van Jahweh",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "en die profete"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jirmejahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jirmejahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:35:18.928020247Z",
+  "model": "glm-5.3"
+}

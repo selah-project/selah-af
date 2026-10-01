@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Bevestig aan u dienaar u woord, ⟨die woord⟩ wat tot vrees vir u ⟩lei⟨.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "bevestig"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan u dienaar"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "tot vrees vir u"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.534130744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En jy sal luister na die stem van Jahweh jou Elohim, en jy sal ⟨את⟩ sy gebooie en ⟨את⟩ sy insettinge uitvoer wat ek jou vandag beveel.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "En jy sal luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal uitvoer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy gebooie"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "sy gebooie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy insettinge"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sy insettinge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:54.278262618Z",
+  "model": "glm-5.3"
+}

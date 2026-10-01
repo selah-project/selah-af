@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag die aanmatigendes beskaam word, want met leuens het hulle my verwring; ek peins oor u bevele.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mag ... beskaam word"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "die aanmatigendes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "met leuens"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "het hulle my verwring"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "peins"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "oor u bevele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:45.044149431Z",
+  "model": "glm-5.3"
+}

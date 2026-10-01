@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy het tot die volk gesê: Wees gereed vir die derde dag; kom nie naby 'n vrou nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wees"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "gereed"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "vir die derde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "kom naby"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:40.876241045Z",
+  "model": "glm-5.3"
+}

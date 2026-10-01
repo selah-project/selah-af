@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "om te oordeel ⟨oor⟩ die wees en die verdrukte — glad nie meer nie sal die sterfling verskrik uit ⟨die⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "om te oordeel"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "wees"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "en die verdrukte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "meer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie meer"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "sal verskrik"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "die sterfling"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:13.514362879Z",
+  "model": "glm-5.3"
+}

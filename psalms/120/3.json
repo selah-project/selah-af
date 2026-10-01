@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Wat sal aan jou gegee word, en wat sal by jou gevoeg word, tong van bedrog?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gegee word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "gevoeg word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tong"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.206266627Z",
+  "model": "glm-5.3"
+}

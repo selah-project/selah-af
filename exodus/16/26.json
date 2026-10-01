@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ses dae sal julle dit versamel, maar op die sewende dag is ⟨dit⟩ Sjabbat — daar sal nie ⟨enigiets⟩ op wees nie.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ses"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "sal julle dit versamel"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op die dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sjabbat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal daar wees"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:30.778690080Z",
+  "model": "glm-5.3"
+}

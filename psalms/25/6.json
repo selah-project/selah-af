@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Gedenk u barmhartighede, Jahweh, en u gesed, want van voortyd af is hulle.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "u barmhartighede"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "en u gesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van voortyd af"
+    },
+    {
+      "surface": "המה",
+      "gloss": "is hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:35.352791426Z",
+  "model": "glm-5.3"
+}

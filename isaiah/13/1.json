@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Las van Babel, wat Jesaja, seun van Amots, gesien het.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Las"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:59.909427354Z",
+  "model": "glm-5.3"
+}

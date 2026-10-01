@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 26:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "U het bygevoeg tot die nasie, Jahweh; U het bygevoeg tot die nasie; U is verheerlik; U het al die eindes van die aarde ver verwyder.",
+  "tokens": [
+    {
+      "surface": "יספת",
+      "gloss": "U het bygevoeg"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot die nasie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יספת",
+      "gloss": "U het bygevoeg"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot die nasie"
+    },
+    {
+      "surface": "נכבדת",
+      "gloss": "U is verheerlik"
+    },
+    {
+      "surface": "רחקת",
+      "gloss": "U het ver verwyder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "die eindes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:52.409983972Z",
+  "model": "glm-5.3"
+}

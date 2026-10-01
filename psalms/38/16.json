@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Want op U, Jahweh, het ek gewag; U sal antwoord, Adonai, my Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "het ek gewag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sal antwoord"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:35.251163164Z",
+  "model": "glm-5.3"
+}

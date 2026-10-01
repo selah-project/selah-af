@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En jy sal ⟨את⟩ my woorde tot hulle spreek — as hulle luister en as hulle ophou — want opstandig ⟨is⟩ hulle.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "En jy sal spreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hulle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hulle luister"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "hulle ophou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "opstandig"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:45:38.045777119Z",
+  "model": "glm-5.3"
+}

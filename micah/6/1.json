@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 6:1",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Hoor tog ⟨את⟩ wat Jahweh sê: Staan op, voer regspleiding met ⟨את⟩ die berge, en laat die heuwels jou stem hoor.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh sê"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "voer regspleiding"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berge"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ותשמענה",
+      "gloss": "en laat hoor"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "die heuwels"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "jou stem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:18.369033843Z",
+  "model": "glm-5.3"
+}

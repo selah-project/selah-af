@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 23:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wees stil, bewoners van ⟨die⟩ eiland, handelaar van Tsidon, wat die see oorsteek — hulle het ⟨jou⟩ gevul.",
+  "tokens": [
+    {
+      "surface": "דמו",
+      "gloss": "wees stil"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "אי",
+      "gloss": "van eiland"
+    },
+    {
+      "surface": "סחר",
+      "gloss": "handelaar"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "van Tsidon"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wat oorsteek"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "מלאוך",
+      "gloss": "hulle het jou gevul"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:15.229398613Z",
+  "model": "glm-5.3"
+}

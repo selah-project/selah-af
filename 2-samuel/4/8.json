@@ -1,0 +1,139 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 4:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hulle het ⟨את⟩ die hoof van Isj-Bosjet na Dawid in Chebron gebring, en hulle het aan die koning gesê: Hier is die hoof van Isj-Bosjet, die seun van Sjaul, jou vyand wat ⟨את⟩ jou lewe gesoek het; en Jahweh het vandag aan my heer die koning wraak gegee van Sjaul en van sy nageslag.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoof"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van Isj"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Bosjet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "in Chebron"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier is"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van Isj"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Bosjet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaul"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "jou vyand"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "gesoek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou lewe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou lewe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "aan my heer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "van Sjaul"
+    },
+    {
+      "surface": "ומזרעו",
+      "gloss": "en van sy nageslag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:54.187446967Z",
+  "model": "glm-5.3"
+}

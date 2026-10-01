@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ hulle geseën en gesê: Word vrugbaar en vermeerder, en vul ⟨את⟩ die waters in die seë; en die voël moet vermeerder op die aarde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "word vrugbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermeerder"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die waters"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in die seë"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "en die voël"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "moet vermeerder"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.418251620Z",
+  "model": "glm-5.3"
+}

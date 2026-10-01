@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En dit het gebeur: Sjaul het ⟨את⟩ Dawid met ⟨boosheid⟩ bejeën, vanaf daardie dag en voorts.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "עון",
+      "gloss": "met boosheid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "vanaf die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "en voorts"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:36.542907359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 142,
+  "translation": "Ek het tot U geroep, Jahweh; ek het gesê: U is my toevlug, my deel in die land van die lewendes.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Ek het geroep"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "is my toevlug"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "my deel"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van die lewendes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:39.628274270Z",
+  "model": "glm-5.3"
+}

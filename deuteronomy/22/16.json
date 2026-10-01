@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "en die vader van die jongmeisie moet aan die oudstes sê: ⟨את⟩ My dogter het ek aan hierdie man gegee as vrou, en hy het haar gaan haat.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en moet sê"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "van die jongmeisie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my dogter"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "my dogter"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan hierdie man"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "en hy het haar gaan haat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:38.241546103Z",
+  "model": "glm-5.3"
+}

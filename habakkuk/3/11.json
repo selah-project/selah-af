@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Son en maan staan stil in hul woning; by die lig van jou pyle hulle-gaan; by die glans van jou flitsende spies.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "son"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "maand"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan stil"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "in hul woning"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "by die lig"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "van jou pyle"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "hulle-gaan"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "by die glans"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "flitsende"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "van jou spies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:06.851739082Z",
+  "model": "glm-5.3"
+}

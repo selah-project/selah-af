@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ek wil die voorafbesluit verkondig: Jahweh het vir my gesê: My seun is jy, Ek het jou vandag verwek.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Ek wil verkondig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van"
+    },
+    {
+      "surface": "חק",
+      "gloss": "die voorafbesluit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בני",
+      "gloss": "My seun"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is jy"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "het jou verwek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:25.526846381Z",
+  "model": "glm-5.3"
+}

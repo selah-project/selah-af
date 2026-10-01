@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En 'n dogter van 'n priester, as sy ⟨word⟩ die vrou van 'n vreemde man — sy mag van die heilige bydrae nie eet nie.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "en 'n dogter"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van 'n priester"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sy word"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "die vrou van 'n man"
+    },
+    {
+      "surface": "זר",
+      "gloss": "'n vreemde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "van die bydrae"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van die heiliges"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mag eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:21.154982349Z",
+  "model": "glm-5.3"
+}

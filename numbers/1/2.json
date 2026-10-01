@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 1:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Tel ⟨את⟩ die kop van die hele vergadering van die seuns van Jisraël, volgens hulle families, volgens hulle vaders se huis, in die getal name, elke mannetjie, volgens hulle skedels:",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Tel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kop van die hele vergadering"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hulle families"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "volgens die huis"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in die getal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "mannetjie"
+    },
+    {
+      "surface": "לגלגלתם",
+      "gloss": "volgens hulle skedels"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:26.395250466Z",
+  "model": "glm-5.3"
+}

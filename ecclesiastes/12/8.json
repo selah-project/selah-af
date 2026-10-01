@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Nietheid van niethede, sê die Kohèlet, ⟨die⟩ alles ⟨is⟩ nietheid.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Nietheid"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "van niethede"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "die Kohèlet"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨die⟩ alles"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "⟨is⟩ nietheid"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:43.853816464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "Van Dawid, 'n mizmor. Van gesed en reg sal ek sing; vir U, Jahweh, sal ek musiek maak.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "sal ek sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "sal ek musiek maak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.598158705Z",
+  "model": "glm-5.3"
+}

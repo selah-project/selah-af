@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Want U het my niere geskep; U het my toegewerk in die skoot van my moeder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "het geskep"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "my niere"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "U het my toegewerk"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "in die skoot"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van my moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:29.279505820Z",
+  "model": "glm-5.3"
+}

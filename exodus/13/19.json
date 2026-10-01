@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Mosje het die bene van Josef saam met hom geneem, want hy het die kinders van Jisraël streng laat sweer en gesê: Elohim sal jullesekerlik gedenk, en dan moet julle my bene hiervandaan saam met julle opdra.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bene van Josef"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "die bene"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Josef"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "laat sweer"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "streng laat sweer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sal ... gedenk"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "sekerlik gedenk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "en dan moet julle opdra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my bene"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "my bene"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiervandaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "saam met julle ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:41.787680448Z",
+  "model": "glm-5.3"
+}

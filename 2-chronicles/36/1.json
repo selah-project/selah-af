@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En die volk van die land het ⟨את⟩ Jegohagas, seun van Josjijahoe, geneem en hom koning gemaak in die plek van sy vader in Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle het geneem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jegohagas"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jegohagas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjijahoe"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "hom koning gemaak"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T01:04:16.150318042Z",
+  "model": "glm-5.3"
+}

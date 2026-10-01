@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Botter en heuning sal hy eet, om te weet om die kwaad te verwerp en die goeie te kies.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "botter"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en heuning"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sal hy eet"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "om te weet"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "te verwerp"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "en te kies"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "die goeie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:18.257837104Z",
+  "model": "glm-5.3"
+}

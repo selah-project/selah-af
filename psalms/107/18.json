@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Alle voedsel verfoei hulle siel, en hulle het tot by die poorte van die dood gekom.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Alle"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "voedsel"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "verfoei"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle siel"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "die poorte van"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.162621345Z",
+  "model": "glm-5.3"
+}

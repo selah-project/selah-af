@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En dit het gebeur, toe die koninkryk in sy greep versterk was, dat hy ⟨את⟩ sy dienaars doodgemaak het, dié wat ⟨את⟩ die koning, sy vader, geslaan het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "versterk was"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "in sy greep"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "dat hy doodgemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dienaars"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "dié wat geslaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:26.513385588Z",
+  "model": "glm-5.3"
+}

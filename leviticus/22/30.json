@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Op daardie dag moet dit geëet word; julle mag niks daarvan oorlaat tot die môre nie; ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "moet dit geëet word"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "mag julle oorlaat"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die môre"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.325802631Z",
+  "model": "glm-5.3"
+}

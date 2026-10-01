@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 17:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die man wat in hoogmoed sal handel deur nie te luister na ⟨die⟩ priester wat daar staan om ⟨את⟩ Jahweh jou Elohim te dien, of na ⟨die⟩ regter nie — daardie man sal sterf, en jy sal ⟨die⟩ kwaad uit Jisraël uit roei",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "En die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal handel"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "in hoogmoed"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "deur nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "te luister"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨die⟩ priester"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "wat staan"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "om te dien"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "⟨die⟩ regter"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sal sterf"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "daardie man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "en jy sal uit roei"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "⟨die⟩ kwaad"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "uit Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:58.026328510Z",
+  "model": "glm-5.3"
+}

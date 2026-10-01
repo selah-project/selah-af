@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Deur die woord van Jahweh is die hemele gemaak, en deur die roeag van sy mond al hulle leërskare.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "deur die woord van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "is gemaak"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "en deur die roeag"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "van sy mond"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "hulle leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:23.609986687Z",
+  "model": "glm-5.3"
+}

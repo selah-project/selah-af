@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Laat u werk gesien word aan u dienaars, en u prag oor hulle kinders.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Laat gesien word"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "u dienaars"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "u werk"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "en u prag"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle kinders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:24.713704099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Slawe oorheers ons; ⟨die⟩ ⟨een⟩ wat wegruk ⟨uit⟩ hulle hand, is daar nie.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "slawe"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "oorheers"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "wegruk\/verlos"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar nie"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hulle hand"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:25.530698446Z",
+  "model": "glm-5.3"
+}

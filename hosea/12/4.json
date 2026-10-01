@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "In die moederskoot het hy ⟨את⟩ sy broer by die hak gegryp, en in sy krag het hy met ⟨את⟩ Elohim gestry en oorwin.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "in die moederskoot"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "by die hak gegryp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "en in sy krag"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "het gestry en oorwin"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:27.617262021Z",
+  "model": "glm-5.3"
+}

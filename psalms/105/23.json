@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Toe het Jisraël in Mitsrajim gekom, en Jaäkow het as vreemdeling gewoon in die land van Cham.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Toe het gekom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaäkow"
+    },
+    {
+      "surface": "גר",
+      "gloss": "het as vreemdeling gewoon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Cham"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:27.974754427Z",
+  "model": "glm-5.3"
+}

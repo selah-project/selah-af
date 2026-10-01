@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Vanuit die hemele het Jahweh gekyk, Hy het ⟨את⟩ al die seuns van die mens gesien.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Vanuit die hemele"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "het gekyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die seuns van die mens"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:37.141981553Z",
+  "model": "glm-5.3"
+}

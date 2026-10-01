@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Die regverdige sal hom verheug wanneer hy wraak sien; hy sal sy voete was in die bloed van die goddelose.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "sal hom verheug"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "sal was"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "in die bloed"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "van die goddelose"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:43.641165238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Luister, o hemele, en ek sal spreek; en laat die aarde hoor die woorde van my mond.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "o hemele"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en ek sal spreek"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "en laat hoor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:43.042251176Z",
+  "model": "glm-5.3"
+}

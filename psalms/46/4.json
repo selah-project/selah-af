@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Hulle brul, woed sy waters; berge beef in sy hoogmoed. Sela.",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "hulle brul"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "woed"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "sy waters"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "beef"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "in sy hoogmoed"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:07.890809755Z",
+  "model": "glm-5.3"
+}

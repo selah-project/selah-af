@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Belaster 'n dienskneg nie by sy heer nie, anders kan hy jou verag en word jy skuldig.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie!"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "belaster"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n dienskneg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "sy heer"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "verag hy jou"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "en word jy skuldig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:11.614966398Z",
+  "model": "glm-5.3"
+}

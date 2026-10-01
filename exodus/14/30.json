@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 14:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Jahweh het op dié dag Jisraël ⟨את⟩ uit die hand van Mitsrajim gered, en Jisraël het Mitsrajim ⟨את⟩ dood gesien aan die rand van die see.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "en het gered"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:30.981305943Z",
+  "model": "glm-5.3"
+}

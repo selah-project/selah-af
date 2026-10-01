@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 28:21",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Want Agas het ⟨את⟩ die huis van Jahweh en ⟨את⟩ die huis van die koning en die owerstes gestroop en aan die koning van Assur gegee, maar dit was hom nie tot hulp nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gestroop"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Agas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van die koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "en die owerstes"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gegee"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "tot hulp"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:51.189356293Z",
+  "model": "glm-5.3"
+}

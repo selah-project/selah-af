@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Het jy nie dít aan jouself gedoen nie, deurdat jy ⟨את⟩ Jahweh jou Elohim verlaat het op die tyd dat hy jou op die weg gelei het?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "het ... nie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dít"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jouself"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "jy verlaat het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "op die tyd"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "hy jou gelei het"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:45.200401840Z",
+  "model": "glm-5.3"
+}

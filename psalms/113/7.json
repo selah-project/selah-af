@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "hy wat die swakke uit die stof laat opstaan, uit die ashoop verhef hy die behoeftige;",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "hy wat laat opstaan"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "uit die stof"
+    },
+    {
+      "surface": "דל",
+      "gloss": "die swakke"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "uit die ashoop"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "verhef hy"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "die behoeftige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:00.692396567Z",
+  "model": "glm-5.3"
+}

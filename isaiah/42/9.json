@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Die eerste dinge — kyk, hulle het gekom, en nuwe dinge kondig ek aan; voordat hulle uitspruit, laat ek ⟨את⟩ julle dit hoor.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "die eerste dinge"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "באו",
+      "gloss": "hulle het gekom"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "en nuwe dinge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "kondig aan"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "hulle uitspruit"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "laat ek hoor"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "אתכם is die voorwerp-vorm van 'julle', nie die aleph-tav-merker nie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.495117286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "oór al die sondes van Baësa en die sondes van Ela sy seun, wat hulle gesondig het en waarmee hulle ⟨את⟩ Jisraël laat sondig het, om ⟨את⟩ Jahweh, die Elohim van Jisraël, te terg met hulle nietighede.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "oór"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "die sondes"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "van Baësa"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "en die sondes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "van Ela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "hulle gesondig het"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en waarmee"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "hulle laat sondig het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "om te terg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "met hulle nietighede"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:06.342440464Z",
+  "model": "glm-5.3"
+}

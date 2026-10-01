@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Hoor, Jahweh, en wees my genadig; Jahweh, wees vir my 'n helper.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees my genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "'n helper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.612603314Z",
+  "model": "glm-5.3"
+}

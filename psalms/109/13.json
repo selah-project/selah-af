@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag sy nageslag daarop uit wees om uit te roei; in 'n ander geslag word hulle naam uitgewis.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag daar wees"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "sy nageslag"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "om uit te roei"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in 'n geslag"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "word uitgewis"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hulle naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.853593358Z",
+  "model": "glm-5.3"
+}

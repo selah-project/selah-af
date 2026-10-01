@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Huis van Aharon, vertrou op Jahweh; hulle hulp en hulle skild ⟨is⟩ hy.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Huis"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hulle hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hulle skild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:34.663848025Z",
+  "model": "glm-5.3"
+}

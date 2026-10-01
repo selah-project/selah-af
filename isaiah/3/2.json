@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "die krygsman en ⟨die⟩ man van oorlog, die regter en die profeet, die waarseër en die ouderling.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "krygsman"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en ⟨die⟩ man"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van oorlog"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "regter"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "en profeet"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "en waarseër"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "en ouderling"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:47.385147133Z",
+  "model": "glm-5.3"
+}

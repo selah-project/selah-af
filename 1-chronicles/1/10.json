@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Kus het ⟨את⟩ Nimrod verwek; hy het begin om 'n magtige op die aarde te word.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "En Kus"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te word"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "'n magtige"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.689176803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En voltooi is die hemel en die aarde en al hulle leërmag.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "voltooi is"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "hulle leërmag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:02.916058651Z",
+  "model": "glm-5.3"
+}

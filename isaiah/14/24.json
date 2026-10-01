@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Jahweh Tsewaot het gesweer en gesê: Soos ek voorgeneem het, so het dit gebeur, en soos ek besluit het, so sal dit standhou —",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "het gesweer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ek voorgeneem het"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "het dit gebeur"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en soos"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ek besluit het"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sal standhou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:17.003362943Z",
+  "model": "glm-5.3"
+}

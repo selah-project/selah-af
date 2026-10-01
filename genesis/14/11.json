@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 14:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het ⟨את⟩ al die besitting van Sodom en Gomorra geneem, en ⟨את⟩ al hulle voedsel, en ⟨hulle⟩ het weggegaan.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die besitting"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רכש",
+      "gloss": "die besitting"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "van Sodom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "en Gomorra"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al hulle voedsel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hulle voedsel"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "het weggegaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:59.644995680Z",
+  "model": "glm-5.3"
+}

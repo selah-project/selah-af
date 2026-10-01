@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Die tsedek van ⟨die⟩ volmaakte maak sy weg reguit, en deur sy goddeloosheid val ⟨die⟩ goddelose.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaakte"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "maak reguit"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sy weg"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "en deur sy goddeloosheid"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "val"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddelose"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:07.725683300Z",
+  "model": "glm-5.3"
+}

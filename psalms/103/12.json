@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "So ver soos die ooste van die weste ⟨af⟩ is, so ver het ⟨hy⟩ ons oortredinge van ons ⟨weg⟩geskuif — ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "so ver soos"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "die ooste"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "van die weste"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "het ver geskuif"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons oortredinge"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ons oortredinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:19.430909786Z",
+  "model": "glm-5.3"
+}

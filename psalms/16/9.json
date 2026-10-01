@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Daarom ⟨is⟩ my hart bly en juig my eer; ook my vlees sal veilig woon.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Daarom"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "⟨is⟩ bly"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my eer"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my vlees"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sal woon"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:16.972164309Z",
+  "model": "glm-5.3"
+}

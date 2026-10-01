@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het ⟨את⟩ hul waters in bloed verander, en ⟨את⟩ hul visse laat sterwe.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "verander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul waters"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "hul waters"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "in bloed"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "laat sterwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul visse"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "hul visse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.532863848Z",
+  "model": "glm-5.3"
+}

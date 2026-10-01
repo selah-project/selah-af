@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "maar ⟨את⟩ Natán die profeet, en Benájahu, en ⟨את⟩ die helde, en ⟨את⟩ Shelomo sy broer het hy nie geroep nie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "maar ⟨את⟩",
+      "marks": "Natán die profeet"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natán"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "en Benájahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die helde"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "die helde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Shelomo sy broer"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "het hy geroep"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:41.997407173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Hy het die see in droë grond verander; deur die rivier het hulle te voet getrek; daar het ons in Hom gejuig.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Hy het verander"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "in droë grond"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "deur die rivier"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "het hulle getrek"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "te voet"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "het ons gejuig"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.187139179Z",
+  "model": "glm-5.3"
+}

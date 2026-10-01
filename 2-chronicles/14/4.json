@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 14:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het uit al die stede van Jehoeda ⟨את⟩ die hoë plekke en ⟨את⟩ die sonbeelde verwyder, en die koninkryk was stil voor hom.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "het verwyder"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoë plekke"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die hoë plekke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die sonbeelde"
+    },
+    {
+      "surface": "החמנים",
+      "gloss": "die sonbeelde"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "was stil"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:43.573849082Z",
+  "model": "glm-5.3"
+}

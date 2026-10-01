@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Hoe gelukkig ⟨is⟩ die volk wat die jubelklank ken; hulle wandel, o Jahweh, in die lig van U aangesig.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "wat ken"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "jubelklank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באור",
+      "gloss": "in die lig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van U aangesig"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "hulle wandel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.949695814Z",
+  "model": "glm-5.3"
+}

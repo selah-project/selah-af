@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "en ⟨die⟩ dors sal vir julle die oestyd inhaal, en die oestyd sal ⟨את⟩ die saad inhaal; en julle sal julle brood eet tot versadiging en in julle land veilig woon.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "sal inhaal"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "die dors"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oestyd (בציר)"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "die oestyd"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "en die oestyd"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "sal inhaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die saad (זרע)"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "die saad"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en julle sal eet"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "julle brood"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tot versadiging"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en julle sal woon"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "in julle land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:14.815238455Z",
+  "model": "glm-5.3"
+}

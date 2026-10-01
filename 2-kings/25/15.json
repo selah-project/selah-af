@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En ⟨את⟩ die vuurpanne en ⟨את⟩ die sprinkelbakke — wat goud was, as goud, en wat silwer was, as silwer — het die owerste van die slagters weggeneem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vuurpanne"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "die vuurpanne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die sprinkelbakke"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "die sprinkelbakke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "as goud"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "as silwer"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het weggeneem"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van die slagters"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:59.833983301Z",
+  "model": "glm-5.3"
+}

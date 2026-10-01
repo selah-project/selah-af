@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 150,
+  "translation": "Loof Hom with tamboeryn en rondedans; loof Hom met snarsnaere en fluit.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "met tamboeryn"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "en rondedans"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "met snarsnaere"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "en fluit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.314921327Z",
+  "model": "glm-5.3"
+}

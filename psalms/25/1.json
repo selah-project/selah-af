@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Van Dawid. Tot U, Jahweh, lig ek my siel op.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lig ek op"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.944149011Z",
+  "model": "glm-5.3"
+}

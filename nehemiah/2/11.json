@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe het ek in Jerusjalajim gekom, en ek was daar drie dae.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "toe het ek gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "en ek was"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:39:30.496978077Z",
+  "model": "glm-5.3"
+}

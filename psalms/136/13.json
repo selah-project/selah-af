@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Hom wat die see van riete in twee gesny het, ja סוף-see in stukke, want tot in ewigheid ⟨is⟩ sy gesed;",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "aan hom wat sny"
+    },
+    {
+      "surface": "ים",
+      "gloss": "see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van riete"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "in stukke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:00.725328341Z",
+  "model": "glm-5.3"
+}

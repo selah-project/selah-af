@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En dit het so gebeur: toe Gideon ⟨את⟩ die vertelling van die droom en ⟨את⟩ die uitleg daarvan hoor, het hy negebuig, en hy het teruggekeer na die laer van Jisraël en gesê: Staan op, want Jahweh het ⟨את⟩ die laer van Midjan in julle hand gegee.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het so gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe ... hoor"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vertelling van die droom"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die vertelling"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "van die droom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die uitleg daarvan"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "die uitleg daarvan"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "het negebuig"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het teruggekeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die laer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in julle hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die laer van Midjan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die laer"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:29.047918171Z",
+  "model": "glm-5.3"
+}

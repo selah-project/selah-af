@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 8:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en jy moet ⟨את⟩ Jahweh jou Elohim onthou, want ⟨hy⟩ is dit wat aan jou krag gee om welvaart te maak, om ⟨את⟩ sy verbond te bevestig wat hy aan jou vaders gesweer het, soos ⟨op⟩ hierdie dag.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "en jy moet onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hy⟩ is dit"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "wat gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maak"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "welvaart"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om te"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "bevestig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy verbond"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "hy gesweer het"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aan jou vaders"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos op hierdie dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.588973496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 25:29",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy sal sy skottels maak, en sy kànke, en sy kruise, en sy kannetjies, waarmee ⟨gegiet⟩ word; van suiwer goud sal jy ⟨את⟩ hulle maak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "קערתיו",
+      "gloss": "sy skottels"
+    },
+    {
+      "surface": "וכפתיו",
+      "gloss": "en sy kànke"
+    },
+    {
+      "surface": "וקשותיו",
+      "gloss": "en sy kruise"
+    },
+    {
+      "surface": "ומנקיתיו",
+      "gloss": "en sy kannetjies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "gegiet word"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die skottels, kànke, kruise en kannetjies)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:48.718651341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die koning van Jisraël het gesê: Neem ⟨את⟩ Mikajahoe en bring hom terug na Amon, owerste van ⟨die⟩ stad, en na Joas, seun van die koning",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mikajahoe"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Mikajahoe"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "en bring hom terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "שר",
+      "gloss": "owerste"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joas"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:58:32.876672654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "'n Opname van die ⟨את⟩ hoof van die seuns van Gersjon, ook hulle, volgens hulle vaderlike huise, volgens hulle families:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "'n opname neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoof van die seuns van Gersjon"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersjon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "volgens die huis van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hulle vaders"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hulle families"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:00.671726482Z",
+  "model": "glm-5.3"
+}

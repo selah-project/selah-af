@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 5:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Manlik en vroulik het hy hulle geskep, en hy het hulle geseën en hulle naam Adam genoem op die dag dat hulle geskep is.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Manlik"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "en vroulik"
+    },
+    {
+      "surface": "בראם",
+      "gloss": "het hy hulle geskep"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle naam"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hulle naam"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "הבראם",
+      "gloss": "dat hulle geskep is"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:09.484761369Z",
+  "model": "glm-5.3"
+}

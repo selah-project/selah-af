@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Mosje het gesê: Eet dit vandag, want vandag is 'n Sjabbat vir Jahweh; vandag sal julle dit nie in die veld vind nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "eet dit"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sjabbat"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "sal julle dit vind"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:30.778441005Z",
+  "model": "glm-5.3"
+}

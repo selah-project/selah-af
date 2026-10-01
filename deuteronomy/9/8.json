@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En by Chorew het julle ⟨את⟩ Jahweh toorn laat ontvlam, en Jahweh het Hom teen julle vertoorn om ⟨את⟩ julle te verdelg.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "En by Chorew"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "het julle toorn laat ontvlam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "en het vertoorn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teen julle"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "om te verdelg"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:14.477705751Z",
+  "model": "glm-5.3"
+}

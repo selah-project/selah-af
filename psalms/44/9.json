@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "In Elohim het ons ⟨die⟩ heel dag geroem, en u naam sal ons vir ewig dank. Sela.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "het ons geroem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die heel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "en u naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "sal ons dank"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:15.837844979Z",
+  "model": "glm-5.3"
+}

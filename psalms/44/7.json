@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Want nie in my boog vertrou ek nie, en my swaard — dit red my nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "in my boog"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrou ek"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "en my swaard"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "red my nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:03.271795188Z",
+  "model": "glm-5.3"
+}

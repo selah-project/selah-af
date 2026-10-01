@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal ⟨את⟩ die goue altaar vir die reukwerk voor die ark van die getuienis plaas, en jy sal ⟨את⟩ die voorhangsel van die ingang vir die Misjkan plaas.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goue altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "vir die reukwerk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhangsel"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "voorhangsel"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "vir die Misjkan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:04.541923735Z",
+  "model": "glm-5.3"
+}

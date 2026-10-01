@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Jahweh ⟨is⟩ my krag en my skild; in hom het my hart vertrou, en ek is gehelp, en my hart juig, en met my lied sal ek hom loof.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "en my skild"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "het vertrou"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "en ek is gehelp"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "en met my lied"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "sal ek hom loof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:49.904285983Z",
+  "model": "glm-5.3"
+}

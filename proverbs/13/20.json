@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Gaan ⟨את⟩ wyses om en word wys, maar hy wat dwase wei, sal self kwaad ly.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wyses"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wyses"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "en word wys"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "maar ... wei"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "dwase"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "sal kwaad ly"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:50.496380155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 10:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Sjemuël het ⟨את⟩ die fles olie geneem en dit oor sy hoof uitgegiet, en hom gesoen, en gesê: Is dit nie omdat Jahweh jou gesalf het oor sy erfenis tot vors nie?",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en het geneem"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die fles olie"
+    },
+    {
+      "surface": "פך",
+      "gloss": "fles"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "en uitgegiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "en hom gesoen"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "jou gesalf het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sy erfenis"
+    },
+    {
+      "surface": "לנגיד",
+      "gloss": "tot vors"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:40.501786868Z",
+  "model": "glm-5.3"
+}

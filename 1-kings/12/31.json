@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het ⟨את⟩ 'n huis van hoogtes gemaak, en priesters gemaak uit die uithoeke van die volk, wat nie van die seuns van Levi was nie.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n huis van hoogtes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "'n huis"
+    },
+    {
+      "surface": "במות",
+      "gloss": "van hoogtes"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "priesters"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "uit die uithoeke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.609580964Z",
+  "model": "glm-5.3"
+}

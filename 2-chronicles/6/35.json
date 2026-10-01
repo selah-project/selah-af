@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "dan sal jy uit ⟨die⟩ hemel hul ⟨את⟩ gebed en hul ⟨את⟩ smeking verhoor, en hul reg doen.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "dan sal jy verhoor"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hul gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul smeking"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hul smeking"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hul reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:04.709460917Z",
+  "model": "glm-5.3"
+}

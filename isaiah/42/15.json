@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 42:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Berge sal ek verwoes en heuwels, en al hulle groen kruid laat verdor; riviere sal ek tot eilande maak, en die poele laat opdroog.",
+  "tokens": [
+    {
+      "surface": "אחריב",
+      "gloss": "sal ek verwoes"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "en heuwels"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עשבם",
+      "gloss": "hulle groen kruid"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "laat verdor"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "sal ek maak"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "riviere"
+    },
+    {
+      "surface": "לאיים",
+      "gloss": "tot eilande"
+    },
+    {
+      "surface": "ואגמים",
+      "gloss": "en die poele"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "laat opdroog"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:17.502780998Z",
+  "model": "glm-5.3"
+}

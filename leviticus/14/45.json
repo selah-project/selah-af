@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy sal ⟨את⟩ die huis afbreek, ⟨את⟩ sy stene en ⟨את⟩ sy hout en ⟨את⟩ al die stof van die huis, en hy sal dit uitbring na buite die stad, na 'n onrein plek.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "en hy sal afbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy stene"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "sy stene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy hout"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "sy hout"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al die stof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "die stof"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "en hy sal uitbring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:25.690121250Z",
+  "model": "glm-5.3"
+}

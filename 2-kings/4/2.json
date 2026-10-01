@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Elisa het vir haar gesê: wat moet ek vir jou doen? Vertel my wat daar in die huis is. En sy het gesê: daar is niks in die huis vir jou diensmaagd nie, behalwe 'n oliekannetjie olie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "moet ek doen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "vir jou diensmaagd"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige ding"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "'n oliekannetjie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:25.715794818Z",
+  "model": "glm-5.3"
+}

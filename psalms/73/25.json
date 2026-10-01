@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Wie ⟨het⟩ ek in ⟨die⟩ hemel? En by U — op ⟨die⟩ aarde begeer ek ⟨niemand⟩ nie.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en by U"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "begeer ek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:24.976118248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Sjiggajon van Dawid, wat hy vir Jahweh gesing het, oor die woorde van Koesj, seun van Jemini.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Sjiggajon"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שר",
+      "gloss": "gesing het"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Jemini"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:51.164367405Z",
+  "model": "glm-5.3"
+}

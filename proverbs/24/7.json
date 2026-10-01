@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Hoogtes ⟨is⟩ vir die dwaas wysheid; in die poort sal hy sy mond nie open nie.",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "Hoogtes"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "vir die dwaas"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "sal hy open"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sy mond"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:19.500172137Z",
+  "model": "glm-5.3"
+}

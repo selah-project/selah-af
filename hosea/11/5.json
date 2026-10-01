@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hy sal nie terugkeer na die land van Mitsrajim nie, en Asjur — hy is sy koning, want hulle het geweier om terug te keer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "en Asjur"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "is sy koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "hulle het geweier"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "om terug te keer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:47.587809974Z",
+  "model": "glm-5.3"
+}

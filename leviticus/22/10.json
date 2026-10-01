@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En geen vreemdeling mag die heilige eet nie; 'n bywoner van ⟨die⟩ priester en 'n huurling mag die heilige nie eet nie.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "die heilige"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "'n bywoner"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van die priester"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "en 'n huurling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "die heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:21.154494748Z",
+  "model": "glm-5.3"
+}

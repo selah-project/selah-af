@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En tot die kinders van Jisraël moet jy spreek en sê: Enige man, enige man wat sy Elohim vloek, sal sy sonde dra.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "moet jy spreek"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enige man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "enige man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "vloek"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "sal dra"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "sy sonde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:51.637094363Z",
+  "model": "glm-5.3"
+}

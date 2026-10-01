@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "en laat ons ⟨את⟩ die ark van onse Elohim na ons toe terugbring, want ons het dit nie gesoek in die dae van Sjaul nie.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "en laat ons terugbring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van onse Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onse Elohim"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na ons toe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "ons het dit gesoek"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in die dae van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:20.754881719Z",
+  "model": "glm-5.3"
+}

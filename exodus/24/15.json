@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Mosje het na die berg opgegaan, en die wolk het ⟨את⟩ die berg bedek.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hy het opgegaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "en dit het bedek"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die wolk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:15.624334169Z",
+  "model": "glm-5.3"
+}

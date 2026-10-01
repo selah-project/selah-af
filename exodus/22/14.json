@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As sy eienaar by hom ⟨is⟩, sal hy nie vergoed nie; as dit 'n huurling ⟨is⟩, kom hy teen sy huurloon.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "sy eienaar"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sal vergoed"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "'n huurling"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "teen sy huurloon"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:10.761721395Z",
+  "model": "glm-5.3"
+}

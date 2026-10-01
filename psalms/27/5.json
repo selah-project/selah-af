@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Want Hy sal my verberg in 'n hut, op die dag van kwaad; Hy sal my wegsteek in die skuilplek van sy tente; op 'n rots sal Hy my verhef.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יצפנני",
+      "gloss": "sal my verberg"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "in 'n hut"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "sal my wegsteek"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die skuilplek"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "van sy tente"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "op 'n rots"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "sal Hy my verhef"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:46.745547618Z",
+  "model": "glm-5.3"
+}

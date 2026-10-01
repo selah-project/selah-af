@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "En Josef het ⟨את⟩ hulle van tussen sy knieë uitgehaal, en hy het op sy gesig na die aarde gebuig.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "En hy het uitgehaal"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van tussen"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "sy knieë"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en hy het gebuig"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "op sy gesig"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:55.020993136Z",
+  "model": "glm-5.3"
+}

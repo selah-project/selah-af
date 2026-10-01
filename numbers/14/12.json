@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Ek sal hulle met die pes tref en hulle verdryf, en Ek sal ⟨את⟩ jou 'n nasie maak, groot en magtiger as dit.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Ek sal hulle tref"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "met die pes"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "en hulle verdryw"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "en Ek sal maak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "'n nasie, groot en magtiger as dit"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "'n nasie"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "en magtig"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as dit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:21.017657198Z",
+  "model": "glm-5.3"
+}

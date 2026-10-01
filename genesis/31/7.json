@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 31:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En julle vader het my bedrieg en my loon tien maal verander ⟨את⟩ my loon; maar Elohim het hom nie toegelaat om kwaad aan my te doen nie.",
+  "tokens": [
+    {
+      "surface": "ואביכן",
+      "gloss": "en julle vader"
+    },
+    {
+      "surface": "התל",
+      "gloss": "het bedrieg"
+    },
+    {
+      "surface": "בי",
+      "gloss": "my"
+    },
+    {
+      "surface": "והחלף",
+      "gloss": "en verander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my loon"
+    },
+    {
+      "surface": "משכרתי",
+      "gloss": "my loon"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "מנים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "het toegelaat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "om kwaad te doen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:57.375730716Z",
+  "model": "glm-5.3"
+}

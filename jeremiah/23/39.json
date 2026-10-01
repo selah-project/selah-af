@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "daarom, kyk, ek — ek sal julle ⟨את⟩ wegneem, wegwerp, en julle ⟨את⟩ en ⟨את⟩ die stad wat ek aan julle en aan julle vaders gegee het, weg van my aangesig",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, ek"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "sal ek wegneem"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wegwerp"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "en laat val"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek gegee het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "en aan julle vaders"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "weg van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:00.555925593Z",
+  "model": "glm-5.3"
+}

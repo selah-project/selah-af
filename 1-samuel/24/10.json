@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Dawid het aan Sjawl gesê: Waarom luister jy na ⟨את⟩ die woorde van die mens, om te sê: Kyk, Dawid soek jou onheil?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjawl"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "luister jy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van die mens"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "jou onheil"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:51.896328177Z",
+  "model": "glm-5.3"
+}

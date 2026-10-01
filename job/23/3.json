@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wie sal gee dat ek ⟨hom⟩ ken en hom vind? Ek sou kom tot sy setel.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "en hom vind"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ek sou kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "sy setel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:52.621647050Z",
+  "model": "glm-5.3"
+}

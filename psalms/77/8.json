@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Sal Adonai vir ewig verwerp, en nie meer welgevalle wees nie?",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "vir ewig?"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "sal verwerp"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "meer"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "welgevalle wees"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie?"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:29.976655304Z",
+  "model": "glm-5.3"
+}

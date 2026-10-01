@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jehosjoea het vroeg in die môre opgestaan en ⟨את⟩ die volk laat opmarsjeer; en hy en die oudstes van Jisraël het voor die volk af opgetrek na Ai.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "het vroeg opgestaan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "het laat opmarsjeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "en die oudstes van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "העי",
+      "gloss": "na Ai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:02.664269033Z",
+  "model": "glm-5.3"
+}

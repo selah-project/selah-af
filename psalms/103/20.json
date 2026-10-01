@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Loof Jahweh, sy malagim, magtiges van krag, wat sy woord doen, om te luister na die stem van sy woord.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sy malagim"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "magtiges"
+    },
+    {
+      "surface": "כח",
+      "gloss": "van krag"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "om te luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "van sy woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.910799476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die mens het ⟨את⟩ Chava sy vrou geken, en sy het swanger geword en ⟨את⟩ Kajin gebaar, en sy het gesê: Ek het 'n man verkry ⟨את⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "En die mens"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "het geken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chava"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chava"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en sy het swanger geword"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en sy het gebaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kajin"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "Ek het verkry"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:03.898212405Z",
+  "model": "glm-5.3"
+}

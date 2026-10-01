@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Van al my oortredings red my; ⟨as⟩ smaad van ⟨die⟩ dwaas maak my nie",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortredings"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "maak my nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.249853367Z",
+  "model": "glm-5.3"
+}

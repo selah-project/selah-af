@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En nou, kyk, die gil van die kinders van Jisraël het na My gekom, en Ek het ook ⟨את⟩ die verdrukking gesien waarmee die Mitsriete ⟨את⟩ hulle verdruk.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "die gil"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "באה",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het Ek gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die verdrukking"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "die verdrukking"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "die Mitsriete"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "verdruk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:44.048687255Z",
+  "model": "glm-5.3"
+}

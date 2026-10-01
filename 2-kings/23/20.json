@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 23:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ al die priesters van die hoë plekke wat daar was, op die altare, geslag, en ⟨את⟩ die beendere van mense daarop verbrand; en hy het na Jerusjalajim teruggekeer.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "En hy het geslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die priesters van die hoë plekke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "die priesters van"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die hoë plekke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "die altare"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die beendere van mense"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "die beendere van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mense"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "teruggekeer"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:33.824007439Z",
+  "model": "glm-5.3"
+}

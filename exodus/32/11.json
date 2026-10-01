@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 32:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Mosje het die aangesig van Jahweh, sy Elohim, versag ⟨את⟩, en hy sê: Waarom, Jahweh, sal jou toorn brand teen jou volk wat jy uit die land Mitsrajim laat uittrek het met groot krag en met 'n sterk hand?",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en hy het versag"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van Jahweh"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "jou toorn"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "teen jou volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "jy laat uittrek het"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "met krag"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en met hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:43.444597951Z",
+  "model": "glm-5.3"
+}

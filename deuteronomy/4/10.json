@@ -1,0 +1,140 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 4:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "die dag dat jy gestaan het voor Jahweh jou Elohim by Chorew, toe Jahweh vir my gesê het: versamel vir My ⟨את⟩ die volk, en laat hulle ⟨את⟩ My woorde hoor, sodat hulle leer om My te vrees al die dae wat hulle lewe op die aarde, en dat hulle hulle kinders sal leer.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "jy gestaan het"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by Chorew"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "toe gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "versamel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ואשמעם",
+      "gloss": "en laat hulle hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "My woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "hulle leer"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "om te vrees"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ My"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle kinders"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle kinders"
+    },
+    {
+      "surface": "ילמדון",
+      "gloss": "hulle sal leer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:34.507761838Z",
+  "model": "glm-5.3"
+}

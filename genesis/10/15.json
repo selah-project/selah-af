@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Kenaän het ⟨את⟩ Tsidon sy eersgeborene verwek, en ⟨את⟩ Get.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "En Kenaän"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsidon"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sy eersgeborene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Get"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Get"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:51.515912548Z",
+  "model": "glm-5.3"
+}

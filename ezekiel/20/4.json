@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Sal jy ⟨hulle⟩ regspreek? Sal jy regspreek, seun van die mens? ⟨את⟩ Die gruwels van hulle vaders — laat hulle dit ken.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "Sal jy regspreek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "sal jy regspreek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gruwels van hulle vaders"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "die gruwels"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "laat hulle dit ken"
+    }
+  ],
+  "timestamp": "2026-09-30T22:50:22.191235371Z",
+  "model": "glm-5.3"
+}

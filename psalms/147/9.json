@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Hy gee aan die bees haar brood, aan die kleintjies van die raaf wat roep.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Hy gee"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "aan die bees"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "haar brood"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die kleintjies"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "van die raaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "roep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.690601265Z",
+  "model": "glm-5.3"
+}

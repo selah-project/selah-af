@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Baie het U gedoen, U, Jahweh my Elohim; U wonders en U gedagtes teenoor ons — daar ⟨is⟩ geen maat by U nie; as ek sou verkondig en spreek, hulle ⟨is⟩ magtig om te tel — te veel.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "baie"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het U gedoen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "U wonders"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "en U gedagtes"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "teenoor ons"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "maat\/ordeningsgelyke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by U"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "as ek sou verkondig"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "hulle is magtig"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "om te tel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.740046627Z",
+  "model": "glm-5.3"
+}

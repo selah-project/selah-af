@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Want selfs die hinde in die veld het gekalf en ⟨dit⟩ verlaat, want daar was geen gras nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "die hinde"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gekalf"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "en verlaat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:11.685257927Z",
+  "model": "glm-5.3"
+}

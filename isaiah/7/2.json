@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 7:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En daar is aan die huis van Dawid berig: Aram het hulle by Efrajim neergelê. Toe beweeg sy hart en die hart van sy volk, soos die bome van ⟨die⟩ woud bewe voor die roeag.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en daar is berig"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "aan die huis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "נחה",
+      "gloss": "het hulle neergelê"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "וינע",
+      "gloss": "en het beweeg"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "ולבב",
+      "gloss": "en die hart"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van sy volk"
+    },
+    {
+      "surface": "כנוע",
+      "gloss": "soos die bewing"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van die bome"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van die woud"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:49.158917371Z",
+  "model": "glm-5.3"
+}

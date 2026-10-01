@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En dit het gebeur ná dit, dat Dawid ⟨את⟩ die Filistyne geslaan en hulle onderwerp het; en Dawid het ⟨את⟩ die toom van die moederstad uit die hand van die Filistyne weggeneem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "hulle onderwerp"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "weggeneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die toom"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "die toom"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "van die moederstad"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:52.455048790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 38:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En die wat my lewe soek, het strikke gelê; en die wat my kwaad nastreef, het verderwe gespreek, en bedrog prewel hulle die hele dag.",
+  "tokens": [
+    {
+      "surface": "וינקשו",
+      "gloss": "het strikke gelê"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die wat ... soek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "en die wat ... nastreef"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "my kwaad"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "verderwe"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "en bedrog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "prewel hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:35.250140883Z",
+  "model": "glm-5.3"
+}

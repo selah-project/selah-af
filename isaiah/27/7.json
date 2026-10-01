@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Soos die slag van sy slaer — het ⟨Hy⟩ hom geslaan? Of soos die doodmaak van sy gedoodes — is ⟨hy⟩ doodgemaak?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "soos die slag van"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "sy slaer"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "het Hy hom geslaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "soos die doodmaak van"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "sy gedoodes"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "is hy doodgemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:07.711746653Z",
+  "model": "glm-5.3"
+}

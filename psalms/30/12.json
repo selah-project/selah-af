@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 30:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "U het my rouklag in 'n rondedans verander — vir my; U het my sak oopgemaak en my met blydskap omgord.",
+  "tokens": [
+    {
+      "surface": "הפכת",
+      "gloss": "U het verander"
+    },
+    {
+      "surface": "מספדי",
+      "gloss": "my rouklag"
+    },
+    {
+      "surface": "למחול",
+      "gloss": "in 'n rondedans"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "U het oopgemaak"
+    },
+    {
+      "surface": "שקי",
+      "gloss": "my sak"
+    },
+    {
+      "surface": "ותאזרני",
+      "gloss": "en my omgord"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "met blydskap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.613128424Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 15:30",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "vanwee die sondes van Jarobeam wat hy gedoen het en waarmee hy ⟨את⟩ Jisraël laat sondig het, deur sy toornverwekking waarmee hy ⟨את⟩ Jahweh, die Elohim van Jisraël, toornig gemaak het.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "vanwee"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "die sondes"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hy laat sondig het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בכעסו",
+      "gloss": "deur sy toornverwekking"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "הכעיס",
+      "gloss": "toornig gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:51.486112908Z",
+  "model": "glm-5.3"
+}

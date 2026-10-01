@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Want sy siel seën hy in sy lewe, en ⟨hulle⟩ sal jou loof wanneer jy vir jouself goed doen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "in sy lewe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "seën hy"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "en sal jou loof"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "goed doen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jouself"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.114215234Z",
+  "model": "glm-5.3"
+}

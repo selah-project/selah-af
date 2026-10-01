@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Hulle het wyn gedrink en die gode van goud en silwer, koper, yster, hout en klip geloof.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "hulle het gedrink"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "en geloof"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "en silwer"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "koper"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "yster"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "en klip"
+    }
+  ],
+  "timestamp": "2026-10-01T00:33:16.747663958Z",
+  "model": "glm-5.3"
+}

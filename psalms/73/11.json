@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "En hulle sê: Hoe kan El weet, en is daar kennis by die Allerhoogste?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kan weet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "en is daar"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "by die Allerhoogste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:16.962260075Z",
+  "model": "glm-5.3"
+}

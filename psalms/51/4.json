@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 51:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Was my oorvloedig van my ongeregtigheid, en reinig my van my sonde.",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "oorvloedig"
+    },
+    {
+      "surface": "כבסני",
+      "gloss": "was my"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "van my ongeregtigheid"
+    },
+    {
+      "surface": "ומחטאתי",
+      "gloss": "en van my sonde"
+    },
+    {
+      "surface": "טהרני",
+      "gloss": "reinig my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:44.539982269Z",
+  "model": "glm-5.3"
+}

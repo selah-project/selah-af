@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ die vel van die bul en ⟨את⟩ al sy vlees, oor sy kop en oor sy pote, en sy ingewande en sy mis —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vel"
+    },
+    {
+      "surface": "עור",
+      "gloss": "vel"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van die bul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al sy vlees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy vlees"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy kop"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "sy pote"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "en sy ingewande"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "en sy mis"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:02.182545130Z",
+  "model": "glm-5.3"
+}

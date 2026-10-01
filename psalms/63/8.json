@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "Want u was my hulp, en in die skadu van u vleuels sal ek jubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היית",
+      "gloss": "u was"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "my hulp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "en in die skadu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van u vleuels"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "sal ek jubel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:02.323570403Z",
+  "model": "glm-5.3"
+}

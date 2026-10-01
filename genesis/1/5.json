@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die lig dag genoem, en ⟨את⟩ die duisternis nag genoem; en dit was aand en dit was oggend, dag een.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "aan die lig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "en aan die duisternis"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "genoem"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aand"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "oggend"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.308358698Z",
+  "model": "glm-5.3"
+}

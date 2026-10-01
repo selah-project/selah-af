@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 3:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die seuns van Josjijahoe: die eersgeborene Joganan, die tweede Jehojakim, die derde Tsidkijahoe, die vierde Sjalum.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns van"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjijahoe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Joganan"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Jehojakim"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "die derde"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "die vierde"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalum"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:49.281604740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 34:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Jong leeus het nood gely en honger geword, maar die wat Jahweh soek, sal aan geen goed ontbreek nie.",
+  "tokens": [
+    {
+      "surface": "כפירים",
+      "gloss": "jong leeus"
+    },
+    {
+      "surface": "רשו",
+      "gloss": "het nood gely"
+    },
+    {
+      "surface": "ורעבו",
+      "gloss": "en honger geword"
+    },
+    {
+      "surface": "ודרשי",
+      "gloss": "maar die wat soek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sal nie"
+    },
+    {
+      "surface": "יחסרו",
+      "gloss": "ontbreek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:11.174350499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "U — U ken my sit en my opstaan; U onderskei my gedagte van ver af.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "U ken"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "my sit"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "en my opstaan"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "U onderskei"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "my gedagte"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "van ver af"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:24.291788357Z",
+  "model": "glm-5.3"
+}

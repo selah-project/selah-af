@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die koning het ⟨את⟩ sy aangesig bedek, en die koning het met 'n groot stem geroep: my seun, Awisjalom! Awisjalom, my seun, my seun!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy aangesig"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "קול",
+      "gloss": "'n stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awisjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awisjalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:57.606711284Z",
+  "model": "glm-5.3"
+}

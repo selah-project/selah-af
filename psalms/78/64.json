@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Sy priesters het deur die swaard geval, en sy weduwees het nie gerou nie.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "sy priesters"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deur die swaard"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "en sy weduwees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "het gerou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.057693232Z",
+  "model": "glm-5.3"
+}

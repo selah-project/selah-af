@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 51:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "ruk my los van bloedskuld, Elohim, Elohim van my redding; ⟨dan⟩ sal my tong juig oor u tsedek.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk my los"
+    },
+    {
+      "surface": "מדמים",
+      "gloss": "van bloedskuld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "my redding"
+    },
+    {
+      "surface": "תרנן",
+      "gloss": "sal juig"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:18.337482215Z",
+  "model": "glm-5.3"
+}

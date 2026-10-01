@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "Jahweh het die poorte van Tsijon lief, meer as al die woonplekke van Jaäkow.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "het lief"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "die poorte van"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "meer as al"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "die woonplekke"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:52.815439727Z",
+  "model": "glm-5.3"
+}

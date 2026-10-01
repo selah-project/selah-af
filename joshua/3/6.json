@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jehosjoea sê tot die priesters en sê: Dra ⟨את⟩ die ark van die verbond en trek verby voor die volk uit; en hulle het ⟨את⟩ die ark van die verbond gedra en voor die volk uit gegaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die verbond"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "en trek verby"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor ... uit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het gedra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die verbond"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor ... uit"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:55.560171822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En as hy hulle enigsins nietig maak nadat hy gehoor het, dan dra hy ⟨את⟩ haar ongeregtigheid.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "enigsins nietig"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "maak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hulle (die geloftes en bindings)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hy gehoor het"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "dan dra hy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar ongeregtigheid"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "haar ongeregtigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:53.989670230Z",
+  "model": "glm-5.3"
+}

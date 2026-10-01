@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En dit het gebeur ná hierdie dinge, dat ⟨die⟩ Elohim Awraham op die proef gestel het, en hy het vir hom gesê: Awraham! En hy het gesê: Hier is ek.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ná"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "en ⟨die⟩ Elohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "op die proef gestel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "hier is ek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:44.400143330Z",
+  "model": "glm-5.3"
+}

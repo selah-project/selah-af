@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 3:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "totdat Jahweh aan julle broers rus gee soos aan julle, en hulle ook ⟨את⟩ die land in besit neem wat Jahweh julle Elohim hulle gee aan die oorkant van die Jarden; dan sal julle elkeen na sy besitting terugkeer wat ek aan julle gegee het.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "rus gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "aan julle broers"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "soos aan julle"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "en hulle in besit neem"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aan die oorkant van"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "dan sal julle terugkeer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לירשתו",
+      "gloss": "na sy besitting"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek gegee het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:11.523832040Z",
+  "model": "glm-5.3"
+}

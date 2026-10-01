@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 25:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "⟨Die⟩ benoudhede van my hart het hulle vergroot; uit my distresse bring my uit.",
+  "tokens": [
+    {
+      "surface": "צרות",
+      "gloss": "benoudhede"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "הרחיבו",
+      "gloss": "het hulle vergroot"
+    },
+    {
+      "surface": "ממצוקותי",
+      "gloss": "uit my distresse"
+    },
+    {
+      "surface": "הוציאני",
+      "gloss": "bring my uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:22.695630915Z",
+  "model": "glm-5.3"
+}

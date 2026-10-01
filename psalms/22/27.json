@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 22:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Die sagmoediges sal eet en versadig word; die wat Jahweh soek, sal Hom loof; jul hart sal lewe tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die sagmoediges"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "en versadig word"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "sal loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרשיו",
+      "gloss": "die wat Hom soek"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "sal lewe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jul hart"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:00.173351567Z",
+  "model": "glm-5.3"
+}

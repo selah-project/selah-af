@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Loof Jah! Ek sal Jahweh dank met my hele hart, in die raad van die opregtes en in die gemeente.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "sal ek dank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met hele"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "in die raad"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van die opregtes"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "en in die gemeente"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.070979973Z",
+  "model": "glm-5.3"
+}

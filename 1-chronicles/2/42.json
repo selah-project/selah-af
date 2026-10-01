@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 2:42",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die seuns van Kaleb, die broer van Jeragmeël: Mesja sy eersgeborene — hy ⟨is⟩ die vader van Sif — en die seuns van Maresa, die vader van Hebron.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns van"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die broer van"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Jeragmeël"
+    },
+    {
+      "surface": "מישע",
+      "gloss": "Mesja"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sy eersgeborene"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader van"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sif"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Maresa"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader van"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hebron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:37.000372294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die oom van Sjaoel sê: Vertel my tog, wat het Sjemuoel vir julle gesê?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en … sê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "die oom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het … gesê"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuoel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:57.430337181Z",
+  "model": "glm-5.3"
+}

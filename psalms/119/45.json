@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "en ek sal wandel in ⟨die⟩ ruimte, want jou bepalings het ek nagevors",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "en ek sal wandel"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "in ruimte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "jou bepalings"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "het ek nagevors"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:00.716543350Z",
+  "model": "glm-5.3"
+}

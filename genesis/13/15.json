@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "want ⟨את⟩ die hele land wat jy sien — aan jou sal Ek dit gee, en aan jou nageslag, tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele land"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "sal Ek dit gee"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "en aan jou nageslag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.679817811Z",
+  "model": "glm-5.3"
+}

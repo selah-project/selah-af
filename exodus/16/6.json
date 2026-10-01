@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Toe sê Mosje en Aharon aan die hele huis van Jisraël se seuns: Vanoggend saans sal julle weet dat dit Jahweh ⟨את⟩ julle uit die land van Mitsrajim uitgebring het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "toe sê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "saans"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "sal julle weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "uitgebring het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:20.788456527Z",
+  "model": "glm-5.3"
+}

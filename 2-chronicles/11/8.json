@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ Gat, en ⟨את⟩ Marsja, en ⟨את⟩ Sif,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Marsja"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Marsja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sif"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Sif"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:09.564384215Z",
+  "model": "glm-5.3"
+}

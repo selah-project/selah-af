@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "elf dae van Gorweg af, die pad van die berg Seïr, tot by Kades-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "elf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "elf"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van Gorweg af"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die pad"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kades-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:59.533653370Z",
+  "model": "glm-5.3"
+}

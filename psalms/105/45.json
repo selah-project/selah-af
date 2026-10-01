@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Sodat hulle sy insettinge sal bewaar en sy Toras sal onderhou. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "sal bewaar"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "sy insettinge"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "en sy Toras"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "sal onderhou"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:53.130304184Z",
+  "model": "glm-5.3"
+}

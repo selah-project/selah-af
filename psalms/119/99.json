@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Van al my leermeesters af het ek insig gekry, want jou getuienisse ⟨is⟩ my besinning.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Van al"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "my leermeesters af"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "het ek insig gekry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "jou getuienisse"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "my besinning"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:25.754845661Z",
+  "model": "glm-5.3"
+}

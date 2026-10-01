@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy gaan ⟨את⟩ hulle vergesel, en hulle kom by die Jordaan, en hulle kap die bome.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy gaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle kom"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "by die Jordaan"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "en hulle kap"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die bome"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:29.392473054Z",
+  "model": "glm-5.3"
+}

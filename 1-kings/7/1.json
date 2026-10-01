@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ sy huis het Sjelomo gebou, dertien jaar, en hy het ⟨את⟩ sy hele huis voltooi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "het gebou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "dertien"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "en hy het voltooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hele huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:58.057377473Z",
+  "model": "glm-5.3"
+}

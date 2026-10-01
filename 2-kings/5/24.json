@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 5:24",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hy het by die heuwel gekom en dit uit hulle hand geneem, en ⟨dit⟩ in die huis gestoor; en hy het ⟨את⟩ die manne weggestuur, en hulle het weggegaan.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "die heuwel"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hulle hand"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "gestoor"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "weggestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die manne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "weggegaan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:46.114842609Z",
+  "model": "glm-5.3"
+}

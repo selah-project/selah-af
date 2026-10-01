@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Die dag is aan U, ook die nag is aan U; u het die liggewer en die son berei.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "is aan U"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לך",
+      "gloss": "is aan U"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "die nag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "het berei"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "die liggewer"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "en die son"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:49.854357644Z",
+  "model": "glm-5.3"
+}

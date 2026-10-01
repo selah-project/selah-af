@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Maar U, Jahweh, ⟨is⟩ 'n skild rondom my, my heerlikheid, en Hy wat my hoof oplig.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "'n skild"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "rondom my"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my heerlikheid"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "en Hy wat oplig"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my hoof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.934789233Z",
+  "model": "glm-5.3"
+}

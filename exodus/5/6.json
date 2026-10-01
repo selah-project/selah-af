@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Paro het op daardie selfde dag ⟨את⟩ die drywers oor die volk en ⟨את⟩ hulle opsigters beveel om te sê:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het beveel"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie selfde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die drywers"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "die drywers"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "oor die volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle opsigters"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "hulle opsigters"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:40.984001387Z",
+  "model": "glm-5.3"
+}

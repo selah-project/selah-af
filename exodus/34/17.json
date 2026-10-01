@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Gegote gode mag jy vir jou nie maak nie.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "gode"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "gegote"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mag jy maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:00.653747378Z",
+  "model": "glm-5.3"
+}

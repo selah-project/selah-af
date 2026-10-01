@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Maar die Elohim het 'n wurm bestem toe die dageraad die volgende dag opkom, en dit het ⟨את⟩ die kikajon getref, en dit het verdor.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "het bestem"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "'n wurm"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "toe opkom"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "die dageraad"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "die volgende dag"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "en dit het getref"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kikajon"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "die kikajon"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "en dit het verdor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:59.227880436Z",
+  "model": "glm-5.3"
+}

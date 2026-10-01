@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Wee, land van geflits van vlerke, wat anderkant die riviere van Kus ⟨lê⟩.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "geflits"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "van vlerke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "anderkant"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "die riviere van"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:21.329415069Z",
+  "model": "glm-5.3"
+}

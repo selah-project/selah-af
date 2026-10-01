@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 142:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 142,
+  "translation": "Bring my siel uit die gevangenis uit om ⟨את⟩ u Naam te loof; oor my sal die regverdiges krone wind, want U sal my vergeld.",
+  "tokens": [
+    {
+      "surface": "הוציאה",
+      "gloss": "Bring uit"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "uit die gevangenis"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "om te loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u Naam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    },
+    {
+      "surface": "בי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "יכתרו",
+      "gloss": "sal krone wind"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תגמל",
+      "gloss": "sal vergeld"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:39.628951573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Soos die drywing van rook ⟨sal u hulle wegdryf⟩, soos was smelt voor die vuur, sal die goddeloses vergaan voor die aangesig van Elohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "soos die drywing van"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rook"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "⟨sal u hulle wegdryf⟩"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "soos die smelt van"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "was"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sal vergaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:06.909775119Z",
+  "model": "glm-5.3"
+}

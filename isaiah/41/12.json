@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 41:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Jy sal hulle soek en hulle nie vind nie — die manne van jou twis; hulle sal wees soos niks en soos 'n niet, die manne van jou oorlog.",
+  "tokens": [
+    {
+      "surface": "תבקשם",
+      "gloss": "jy sal hulle soek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תמצאם",
+      "gloss": "vind hulle"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "מצתך",
+      "gloss": "jou twis"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "hulle sal wees"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "soos niks"
+    },
+    {
+      "surface": "וכאפס",
+      "gloss": "en soos 'n niet"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "מלחמתך",
+      "gloss": "jou oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:59.641577857Z",
+  "model": "glm-5.3"
+}

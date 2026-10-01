@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "en Jogjada het ⟨את⟩ Jonatan verwek, en Jonatan het ⟨את⟩ Jaddoea verwek.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "en Jogjada"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "en Jonatan"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaddoea"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Jaddoea"
+    }
+  ],
+  "timestamp": "2026-10-01T00:42:48.149089024Z",
+  "model": "glm-5.3"
+}

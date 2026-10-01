@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 24:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Jy mag nie 'n dagloner onderdruk, arm en behoeftig, uit jou broers of uit jou bywoner wat in jou land, in jou poorte ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "mag ... onderdruk"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "'n dagloner"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en behoeftig"
+    },
+    {
+      "surface": "מאחיך",
+      "gloss": "uit jou broers"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "מגרך",
+      "gloss": "uit jou bywoner"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in jou land"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "in jou poorte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:15.556017295Z",
+  "model": "glm-5.3"
+}

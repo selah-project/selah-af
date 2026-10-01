@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En al die vee en die buit van die stede het ons vir onsself geroof.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "en die buit"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "van die stede"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "het ons geroof"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir onsself"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:28.061994482Z",
+  "model": "glm-5.3"
+}

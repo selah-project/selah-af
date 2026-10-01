@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 45:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En hy soen al sy broers en huil oor hulle; en daarna het sy broers met ⟨את⟩ hom gespreek.",
+  "tokens": [
+    {
+      "surface": "וינשק",
+      "gloss": "en hy soen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "en huil"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:54.618400348Z",
+  "model": "glm-5.3"
+}

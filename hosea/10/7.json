@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Vergaan sal Sjomron se koning ⟨wees⟩, soos skuim op die oppervlak van die water.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "se koning"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "soos skuim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van die water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:54.818237330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 32:9",
+  "book": "job",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Nie die groot ⟨is⟩ wys nie, en die oukes verstaan ⟨die⟩ reg ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "die groot"
+    },
+    {
+      "surface": "יחכמו",
+      "gloss": "is wys"
+    },
+    {
+      "surface": "וזקנים",
+      "gloss": "en die oukes"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:20.906760621Z",
+  "model": "glm-5.3"
+}

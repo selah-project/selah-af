@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Seuns van Jehoeda: Perets, Chetsron, Karmi, Chur en Sjobal.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Seuns"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "en Karmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "en Chur"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "en Sjobal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:08.461738752Z",
+  "model": "glm-5.3"
+}

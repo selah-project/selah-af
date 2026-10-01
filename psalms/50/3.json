@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Ons Elohim sal kom en nie swyg nie; vuur voor Hom verteer, en rondom Hom storm dit hevig.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "sal swyg"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor Hom"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "verteeer"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "en rondom Hom"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "storm dit"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hevig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:08.191336369Z",
+  "model": "glm-5.3"
+}

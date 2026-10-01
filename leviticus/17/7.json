@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En hulle moet nie meer hulle slagoffers slag vir die bokke ⟨את⟩ nie, agter wie hulle aanhoereer nie. Dit moet vir hulle 'n ewige insetting wees, hulle geslagte deur.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "moet hulle slagoffers slag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie meer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle slagoffers"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "hulle slagoffers"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "vir die bokke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agter wie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "aanhoereer"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "agter hulle aan"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "'n insetting"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "moet wees"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "hulle geslagte deur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:19.576726585Z",
+  "model": "glm-5.3"
+}

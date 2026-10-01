@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Aan die voorsanger. 'n Mizmor van Dawid, 'n lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die voorsanger"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.743223261Z",
+  "model": "glm-5.3"
+}

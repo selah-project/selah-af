@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Die nasies juig en sing van vreugde, want U spreek reg oor die volke in billikheid, en die nasies op die aarde lei U. Sela.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "en sing van vreugde"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "U spreek reg"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "oor die volke"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "in billikheid"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en die nasies"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "lei U"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:45.585821076Z",
+  "model": "glm-5.3"
+}

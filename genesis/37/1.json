@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Jaäkow het gewoon in die land van die verblyfplekke van sy vader, in die land Kenaän.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "van die verblyfplekke"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:41.739368778Z",
+  "model": "glm-5.3"
+}

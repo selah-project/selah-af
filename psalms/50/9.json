@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Nie sal ek uit jou huis 'n bul neem, uit jou krale reuse-bokke nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "sal ek neem"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "uit jou huis"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n bul"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "uit jou krale"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "reuse-bokke nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.392095643Z",
+  "model": "glm-5.3"
+}

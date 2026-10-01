@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En dit was kwaad in die oë van Jahweh wat hy gedoen het, en Hy het ⟨את⟩ hom ook laat sterwe.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "was kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "laat sterwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:32.972071633Z",
+  "model": "glm-5.3"
+}

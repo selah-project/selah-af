@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Eenmaal het ek by my heiligheid gesweer: voorwaar, ek sal vir Dawid nie lieg nie —",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "eenmaal"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "het ek gesweer"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "by my heiligheid"
+    },
+    {
+      "surface": "אם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "sal ek lieg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:39.989041954Z",
+  "model": "glm-5.3"
+}

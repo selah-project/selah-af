@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Beveel ⟨את⟩ die priesters, die draers van die ark van die getuienis, dat hulle uit die Jordaan moet opkom.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "die draers van"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "van die getuienis"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "dat hulle moet opkom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:31.923673408Z",
+  "model": "glm-5.3"
+}

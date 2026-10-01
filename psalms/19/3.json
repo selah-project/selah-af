@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Dag tot dag borrel ⟨ץ⟩n woord op, en nag tot nag toon kennis.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "tot dag"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "borrel op"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "tot nag"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "toon"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:49.256102251Z",
+  "model": "glm-5.3"
+}

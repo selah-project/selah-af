@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy bring ⟨את⟩ die bul uit na buitekant die kamp en verbrand dit soos hy ⟨את⟩ die eerste bul verbrand het; 'n sondoffer van die vergadering ⟨is⟩ dit.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "en hy bring uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "וורף",
+      "gloss": "en verbrand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die bul"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ורף",
+      "gloss": "hy verbrand het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die eerste bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "'n sondoffer"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:25.731859811Z",
+  "model": "glm-5.3"
+}

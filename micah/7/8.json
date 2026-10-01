@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 7:8",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Verheug jou nie, my vyandin, oor my; want ek het geval — ek het opgestaan; want ek sit in duisternis — Jahweh ⟨is⟩ 'n lig vir my.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תשמחי",
+      "gloss": "verheug jou"
+    },
+    {
+      "surface": "איבתי",
+      "gloss": "my vyandin"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפלתי",
+      "gloss": "ek het geval"
+    },
+    {
+      "surface": "קמתי",
+      "gloss": "ek het opgestaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ek sit"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אור",
+      "gloss": "'n lig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:25.441626480Z",
+  "model": "glm-5.3"
+}

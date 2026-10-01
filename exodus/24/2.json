@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Mosje alleen sal naderkom tot Jahweh, maar hulle mag nie naderkom nie, en die volk mag nie met hom opklim nie.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "En sal naderkom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והם",
+      "gloss": "maar hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "mag naderkom"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "en die volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mag opklim"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:49.732127377Z",
+  "model": "glm-5.3"
+}

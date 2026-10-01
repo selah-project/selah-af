@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Ek agtervolg my vyande en haal hulle in, en ek draai nie om voordat hulle vernietig is nie.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ek agtervolg"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "en haal hulle in"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "draai om"
+    },
+    {
+      "surface": "עד",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "hulle vernietig is"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:17.296561399Z",
+  "model": "glm-5.3"
+}

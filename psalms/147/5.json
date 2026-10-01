@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Groot ⟨is⟩ ons Adonai en ryk aan krag; aan sy insig ⟨is daar⟩ geen getal nie.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "ons Adonai"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en ryk aan"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "aan sy insig"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar geen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:25.681600207Z",
+  "model": "glm-5.3"
+}

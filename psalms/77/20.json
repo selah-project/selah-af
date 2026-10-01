@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "In die see ⟨is⟩ U weg, en U paaie in baie waters; en U voetspore is nie bekend nie.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "in die see"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "U weg"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "en U paaie"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in baie waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie waters"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "en U voetspore"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "bekend nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.571122290Z",
+  "model": "glm-5.3"
+}

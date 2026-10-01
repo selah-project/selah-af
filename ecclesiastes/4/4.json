@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ek, ek het ⟨את⟩ al die geswoeg gesien en ⟨את⟩ alle bekwaamheid van werk: dit ⟨is⟩ naywer van 'n man teenoor sy naaste. Ook dit ⟨is⟩ nietigheid en 'n najage van roeag.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "en ek het gesien"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die geswoeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "die geswoeg"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alle bekwaamheid van werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "bekwaamheid"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "van werk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "naywer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "teenoor sy naaste"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en 'n najage"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:11.693752357Z",
+  "model": "glm-5.3"
+}

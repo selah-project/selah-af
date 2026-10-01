@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Sjelag het dertig jaar gelewe, en hy het ⟨את⟩ Ever verwek.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "En Sjelag"
+    },
+    {
+      "surface": "חי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:27.400934979Z",
+  "model": "glm-5.3"
+}

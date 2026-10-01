@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Mosje het ⟨את⟩ die olie van die salwing geneem, en hy het ⟨את⟩ die Misjkan gesalf en ⟨את⟩ alles wat daarin is, en hy het hulle geheilig.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die olie van die salwing"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salwing"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "en hy het gesalf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat daarin is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hy het geheilig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:27.437813767Z",
+  "model": "glm-5.3"
+}

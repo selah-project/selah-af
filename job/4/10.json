@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die gebrul van ⟨die⟩ leeu en die stem van ⟨die⟩ fel leeu en die tande van jong leeus is uitgeruk.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "die gebrul"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leeu"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en die stem"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "fel leeu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en die tande"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "jong leeus"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "is uitgeruk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:59.065479961Z",
+  "model": "glm-5.3"
+}

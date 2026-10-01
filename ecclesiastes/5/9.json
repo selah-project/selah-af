@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Wie silwer liefhet, word nie deur silwer versadig nie, en wie oorvloed liefhet — ⟨daar is⟩ geen opbrengs nie; ook dit is ydelheid.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "versadig word"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "deur silwer"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "oorvloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "opbrengs"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ydelheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:42.904032240Z",
+  "model": "glm-5.3"
+}

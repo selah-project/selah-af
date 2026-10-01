@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en Ek sal ⟨את⟩ julle seuns en ⟨את⟩ julle dogters in die hand van die seuns van Jehoeda verkoop, en hulle sal hulle aan die Sjebaïete verkoop, aan 'n nasie ver weg; want Jahweh het gespreek",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "en Ek sal verkoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle seuns"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "julle seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "julle dogters"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "julle dogters"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "en hulle sal hulle verkoop"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "aan die Sjebaïete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "'n nasie"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "ver weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:09.486223559Z",
+  "model": "glm-5.3"
+}

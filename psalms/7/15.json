@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Kyk, hy swanger ⟨die ongereg⟩ met smart, en ⟨die onrus⟩ het hy ontvang, en leunbedrog gebaar.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "swanger word met smart"
+    },
+    {
+      "surface": "און",
+      "gloss": "ongereg"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "en ontvang"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "onrus"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "en gebaar"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leunbedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:11.936949593Z",
+  "model": "glm-5.3"
+}

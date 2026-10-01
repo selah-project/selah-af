@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 12:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het ⟨את⟩ die raad van die ou manne wat hulle hom geraai het, verlaat en hy het raad gehou met ⟨את⟩ die jong manne wat ⟨את⟩ hom grootgemaak het, wat diegene was wat voor hom gestaan het.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "en hy het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die raad"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "die raad van"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "die ou manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעצהו",
+      "gloss": "hulle hom geraai het"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "en hy het raad gehou met"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jong manne"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "die jong manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "hulle grootgemaak het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "diegene wat staan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.383661899Z",
+  "model": "glm-5.3"
+}

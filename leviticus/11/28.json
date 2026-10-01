@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 11:28",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy wat ⟨את⟩ hul karkas dra, moet sy klere was en ⟨is⟩ onrein tot die aand — hulle ⟨is⟩ onrein vir julle.",
+  "tokens": [
+    {
+      "surface": "והנשא",
+      "gloss": "en hy wat dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul karkas"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "hul karkas"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "moet was"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:45.496464609Z",
+  "model": "glm-5.3"
+}

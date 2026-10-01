@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 15:18",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En hy het ⟨את⟩ die heilige gawes van sy vader en sy heilige gawes gebring in die huis van Elohim: silwer en goud en voorwerpe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heilige gawes van sy vader"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "die heilige gawes"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "וקדשיו",
+      "gloss": "en sy heilige gawes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "en voorwerpe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:31.902299236Z",
+  "model": "glm-5.3"
+}

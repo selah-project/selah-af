@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Jaäkow sê vir Rivka, sy moeder: Kyk, Esav, my broer, ⟨is⟩ 'n harige man, en ek ⟨is⟩ 'n gladde man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Rivka"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "שער",
+      "gloss": "harige"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "gladde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:43.707695733Z",
+  "model": "glm-5.3"
+}

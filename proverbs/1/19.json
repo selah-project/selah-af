@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "So ⟨is⟩ die paaie van elkeen wat onregverdige wins maak: dit neem ⟨את⟩ die lewe van sy eienaars weg.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "die paaie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "wat ... maak"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "onregverdige wins"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "van sy eienaars"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neem weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:46.260295517Z",
+  "model": "glm-5.3"
+}

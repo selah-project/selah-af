@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Laat ⟨die⟩ swakke en ⟨die⟩ behoeftige ontkom, red hulle uit die hand van goddeloses!",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "laat ontkom"
+    },
+    {
+      "surface": "דל",
+      "gloss": "⟨die⟩ swakke"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en ⟨die⟩ behoeftige"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "red hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.660856965Z",
+  "model": "glm-5.3"
+}

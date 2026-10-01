@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "en mag Jahweh jou Elohim ons die weg wys ⟨את⟩ wat ons moet wandel daarin, en ⟨את⟩ die woord wat ons moet doen.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en mag ... wys"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die weg"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ons moet wandel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ons moet doen"
+    }
+  ],
+  "timestamp": "2026-09-30T22:41:18.080903658Z",
+  "model": "glm-5.3"
+}

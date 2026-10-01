@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wat ⟨die⟩ was, dit ⟨is⟩ wat sal wees; en wat gedoen is, dit ⟨is⟩ wat gedoen sal word; en daar is geen nuuts onder die son nie.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "gedoen is"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "gedoen sal word"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuuts"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:05.774153846Z",
+  "model": "glm-5.3"
+}

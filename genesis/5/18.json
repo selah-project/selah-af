@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Jered het twee en sestig jaar en 'n honderd jaar gelewe, en hy het ⟨את⟩ Ganog verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en sestig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ganog"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ganog"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:29.752891094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Jahweh het vir hom gesê: Gaan, keer op jou pad terug, woestyn toe van Damaskes; en as jy daar aankom, salf ⟨את⟩ Gasael as koning oor Aram.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "op jou pad"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "woestyn toe"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "van Damaskes"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "en as jy aankom"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "salf jy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gasael"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Gasael"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:13.228410607Z",
+  "model": "glm-5.3"
+}

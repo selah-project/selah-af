@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 21:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En al die oudstes van daardie stad, die naaste aan ⟨die⟩ geslane, sal ⟨את⟩ hulle hande was oor die kalfjie wat in die natdal ge-nek is.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "die naaste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "⟨die⟩ geslane"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "sal was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "die kalfjie"
+    },
+    {
+      "surface": "הערופה",
+      "gloss": "wat ge-nek is"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "in die natdal"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:25.532680081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle sal ⟨את⟩ die vlees in hierdie nag eet, gebralie in vuur, en ongesuurde brode; op bitter kruie sal hulle dit eet.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "en hulle sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "gebralie"
+    },
+    {
+      "surface": "אש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "en ongesuurde brode"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "bitter kruie"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "sal hulle dit eet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:57.462795552Z",
+  "model": "glm-5.3"
+}

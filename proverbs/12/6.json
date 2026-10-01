@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die woorde van die goddeloses ⟨is⟩ 'n lêrus vir bloed, maar die mond van die opregtes red hulle.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "'n lêrus"
+    },
+    {
+      "surface": "דם",
+      "gloss": "vir bloed"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "maar die mond"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "opregtes"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "red hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:08.935340003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En hy het ⟨את⟩ die voorhof gemaak, aan die kant van die suide, suidwaarts: die gordyne van die voorhof van fyn gedraaide linne, honderd by die el.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die voorhof"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "aan die kant van"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "die suide"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "suidwaarts"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "die gordyne van"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die voorhof"
+    },
+    {
+      "surface": "שש",
+      "gloss": "fyn linne"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "gedraaide"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "by die el"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:20.351361289Z",
+  "model": "glm-5.3"
+}

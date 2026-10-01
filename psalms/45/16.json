@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Hulle word gebring met blydskap en gejuig; hulle kom in ⟨die⟩ paleis van ⟨die⟩ koning.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "hulle word gebring"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "en gejuig"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "hulle kom in"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in ⟨die⟩ paleis"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van ⟨die⟩ koning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:47.504350212Z",
+  "model": "glm-5.3"
+}

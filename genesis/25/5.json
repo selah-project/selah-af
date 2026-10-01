@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Awraham het ⟨את⟩ alles wat hy besit het aan Jitsgak gegee.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hy besit het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy besit het"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitsgak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:01.823801850Z",
+  "model": "glm-5.3"
+}

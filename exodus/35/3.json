@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Julle mag geen vuur aansteek in enige van julle woonplekke op die dag van die Sjabbat.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "mag julle aansteek"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in enige van"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "julle woonplekke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van die Sjabbat"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:38.754592107Z",
+  "model": "glm-5.3"
+}

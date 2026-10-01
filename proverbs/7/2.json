@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Bewaar my gebooie en leef, en ⟨את⟩ my Tora soos die pupil van jou oog.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "en leef"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "en my Tora"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "soos die pupil"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "van jou oog"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.959930795Z",
+  "model": "glm-5.3"
+}

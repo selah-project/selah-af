@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Dan sal Hy tot hulle spreek in Sy toorn, en in Sy grimmigheid sal Hy hulle verskrik.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sal Hy spreek"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "tot hulle"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in Sy toorn"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "en in Sy grimmigheid"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "sal Hy hulle verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:25.526145047Z",
+  "model": "glm-5.3"
+}

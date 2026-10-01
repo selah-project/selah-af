@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 126,
+  "translation": "Lied van die opgangte. Toe Jahweh ⟨את⟩ die terugkeer van Tsijon teruggebring het, was ons soos dromers.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangte"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "toe ... teruggebring het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die terugkeer van Tsijon"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "die terugkeer"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "was ons"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "soos dromers"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:36.157764753Z",
+  "model": "glm-5.3"
+}

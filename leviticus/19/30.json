@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "My Sjabbats moet julle bewaar en my heiligdom moet julle vrees; ek is Jahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Sjabbats"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "my Sjabbats"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle bewaar"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "en my heiligdom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "moet julle vrees"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:54.008894793Z",
+  "model": "glm-5.3"
+}

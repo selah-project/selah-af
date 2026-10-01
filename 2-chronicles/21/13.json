@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 21:13",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en jy het gewandel in die weg van die konings van Jisraël, en jy het ⟨את⟩ Jehoeda en ⟨את⟩ die inwoners van Jerusjalajim laat hoereer soos die hoerery van die huis van Agab, en ook ⟨את⟩ jou broers, die huis van jou vader, wat beter was as jy, het jy doodgemaak",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "en jy het gewandel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van die konings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "en jy het laat hoereer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die inwoners van Jerusjalajim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die inwoners"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "כהזנות",
+      "gloss": "soos die hoerery"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou broers"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broers"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "wat beter was"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "as jy"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "het jy doodgemaak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:15.407660145Z",
+  "model": "glm-5.3"
+}

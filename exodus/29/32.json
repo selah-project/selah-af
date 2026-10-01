@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Aharon en sy seuns moet ⟨את⟩ die vlees van die ram eet, en ⟨את⟩ die brood wat in die mandjie is, by die ingang van die tent van samekoms.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "en moet eet"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "van die ram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die brood"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "in die mandjie is"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.675459725Z",
+  "model": "glm-5.3"
+}

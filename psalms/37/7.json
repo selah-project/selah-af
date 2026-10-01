@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Wees stil voor Jahweh en gloei soekend na Hom; gloei nie van toorn oor hom wat slaag in sy weg nie, oor die man wat slegte planne uitvoer nie.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Wees stil"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "en gloei soekend"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na Hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "gloei van toorn"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "oor hom wat slaag"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "in sy weg"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "oor die man"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat uitvoer"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "slegte planne"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.368929439Z",
+  "model": "glm-5.3"
+}

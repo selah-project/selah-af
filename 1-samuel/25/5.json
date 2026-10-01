@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 25:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Dawid het tien jongmanne gestuur, en Dawid het vir die jongmanne gesê: Gaan op na Karmel, en kom by Nabal, en vra na hom in my naam na ⟨sy⟩ welsyn.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "En ... het gestuur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongmanne"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לנערים",
+      "gloss": "vir die jongmanne"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Gaan op"
+    },
+    {
+      "surface": "כרמלה",
+      "gloss": "na Karmel"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "en julle kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nabal"
+    },
+    {
+      "surface": "ושאלתם",
+      "gloss": "en vra"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "in my naam"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na welsyn"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:47.801505069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "U het my stem gehoor; verberg u oor nie by my asem, by my geskreeu nie.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "U het gehoor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "u oor"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "by my asem"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "by my geskreeu"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:13.842629657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Want so sê Jahweh tot die huis van Jisraël: soek My, en julle sal lewe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "tot die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "soek My"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "en julle sal lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:03:25.214382488Z",
+  "model": "glm-5.3"
+}

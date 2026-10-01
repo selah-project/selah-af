@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 35:7",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En ek sal ⟨את⟩ die berg Seír tot 'n verlatenheid en 'n woestenisse maak, en ek sal daaruit afsny die wat deurgaan en die wat terugkeer.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "En ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berg Seír"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seír"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "tot 'n verlatenheid"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "en 'n woestenisse"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en ek sal afsny"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daaruit"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "die wat deurgaan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en die wat terugkeer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:09.742419307Z",
+  "model": "glm-5.3"
+}

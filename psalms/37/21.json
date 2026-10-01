@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Die goddelose leen en betaal nie terug nie, en die tsedek is genadig en gee.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "leen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "betaal terug"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en die tsedek"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "is genadig"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "en gee"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:20.057457939Z",
+  "model": "glm-5.3"
+}

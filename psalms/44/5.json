@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "U ⟨is⟩ ⟨hy⟩, my koning, Elohim; beveel ⟨את⟩ die verlossings van Jaäkow.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hy⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "my koning"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "die verlossings"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:03.271220975Z",
+  "model": "glm-5.3"
+}

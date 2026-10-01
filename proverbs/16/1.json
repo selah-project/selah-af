@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Van die mens ⟨is⟩ die reëlings van die hart, maar van Jahweh ⟨kom⟩ die antwoord van die tong.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "die reëlings"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van die hart"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "maar van Jahweh"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "die antwoord"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "van die tong"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:09.332688492Z",
+  "model": "glm-5.3"
+}

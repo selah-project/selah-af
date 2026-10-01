@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die hele volk het gegaan, elkeen na sy huis, en Dawid het teruggekeer om ⟨את⟩ sy huis te seën.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "na sy huis"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en hy het teruggekeer"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "om te seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:43.947479487Z",
+  "model": "glm-5.3"
+}

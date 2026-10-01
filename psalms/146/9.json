@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Jahweh bewaar ⟨את⟩ die vreemdelinge; die wees en die weduwee laat ⟨hy⟩ staan; maar die weg van die goddelose maak ⟨hy⟩ krom.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vreemdelinge"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "die vreemdelinge"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "die wees"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "en die weduwee"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "laat ⟨hy⟩ staan"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "maar die weg"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "maak ⟨hy⟩ krom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:00.612837538Z",
+  "model": "glm-5.3"
+}

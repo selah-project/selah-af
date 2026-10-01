@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Bewaar, my seun, die gebooie van jou vader, en verlaat nie die Tora van jou moeder nie;",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die gebooie"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van jou moeder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:28.377533773Z",
+  "model": "glm-5.3"
+}

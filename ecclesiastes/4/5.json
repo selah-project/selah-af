@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die dwaas vou ⟨את⟩ sy hande saam en eet ⟨את⟩ sy eie vlees.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Die dwaas"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "vou saam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hande"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy eie vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy eie vlees"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:02.677946995Z",
+  "model": "glm-5.3"
+}

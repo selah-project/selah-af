@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En sy sê aan die koning: waar was die woord wat ek in my land gehoor het, oor jou woorde en oor jou wysheid.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ek gehoor het"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "in my land"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jou woorde"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "jou wysheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:19.839327658Z",
+  "model": "glm-5.3"
+}

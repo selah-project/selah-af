@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 14:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het tot Jehoeda gesê om ⟨את⟩ Jahweh, die Elohim van hulle voorvaders, te soek, en om die Tora en die gebod te doen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "tot Jehoeda"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "hulle voorvaders"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "en te doen"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "en die gebod"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:43.573592188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En julle wou nie optrek nie, maar julle het ⟨את⟩ die mond van Jahweh julle Elohim geterg.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "wou julle"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "optrek"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "maar julle het geterg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mond van Jahweh julle Elohim"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:51.579261353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 8:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die paddas sal van jou af wyk en uit jou huise en van jou dienaars en van jou volk; net in die rivier sal hulle oorbly.",
+  "tokens": [
+    {
+      "surface": "וסרו",
+      "gloss": "en sal wyk"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die paddas"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van jou af"
+    },
+    {
+      "surface": "ומבתיך",
+      "gloss": "en uit jou huise"
+    },
+    {
+      "surface": "ומעבדיך",
+      "gloss": "en van jou dienaars"
+    },
+    {
+      "surface": "ומעמך",
+      "gloss": "en van jou volk"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "in die rivier"
+    },
+    {
+      "surface": "תשארנה",
+      "gloss": "sal hulle oorbly"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:04.085828246Z",
+  "model": "glm-5.3"
+}

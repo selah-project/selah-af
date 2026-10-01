@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En hy het gesê: Sweer vir my. En hy het vir hom gesweer. En Jisraël het gebuig op die kop van die bed.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sweer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en hy het gesweer"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en hy het gebuig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "van die bed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:53.685100569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En hulle sal ⟨את⟩ die goud neem, en ⟨את⟩ die tekelet, en ⟨את⟩ die argaman, en ⟨את⟩ tolaat-sjanie, en ⟨את⟩ die fyn linne.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tekelet"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "die tekelet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die argaman"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "die argaman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "tolaat-sjanie"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "tolaat"
+    },
+    {
+      "surface": "השני",
+      "gloss": "-sjanie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die fyn linne"
+    },
+    {
+      "surface": "השש",
+      "gloss": "die fyn linne"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:02.461910041Z",
+  "model": "glm-5.3"
+}

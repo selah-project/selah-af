@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Ek het ⟨את⟩ al die lewendes gesien, die wat onder die son wandel, saam met die kind, die tweede, wat in sy plek sal staan.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die lewendes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewendes"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "die wat wandel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sal staan"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:51.760333692Z",
+  "model": "glm-5.3"
+}

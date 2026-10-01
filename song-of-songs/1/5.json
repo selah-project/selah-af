@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Swart is ek, maar mooi, dogters van Jerusjalajim, soos die tente van Kedar, soos die gordyne van Sjelomo.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "swart"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "maar mooi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "soos die tente van"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Kedar"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "soos die gordyne van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:09.507580679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 1:14",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Kyk, vuur het uit die hemel neergedaal en het ⟨את⟩ die twee eerste owerstes van vyftig en ⟨את⟩ hulle vyftig verteer, en nou mag my siel kosbaar wees in jou oë.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "ירדה",
+      "gloss": "het neergedaal"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee eerste owerstes van vyftig"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "owerstes"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "van vyftig"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle vyftig"
+    },
+    {
+      "surface": "חמשיהם",
+      "gloss": "hulle vyftig"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "תיקר",
+      "gloss": "mag kosbaar wees"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in jou oë"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:10.905463696Z",
+  "model": "glm-5.3"
+}

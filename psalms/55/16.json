@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Mag verwoesting hulle oorkom, mag hulle lewend na Sjeol afdaal, want kwaad is in hulle woonplek, in hulle midde.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "hulle oorkom"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "mag hulle afdaal"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewend"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "in hulle woonplek"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "in hulle midde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.851959500Z",
+  "model": "glm-5.3"
+}

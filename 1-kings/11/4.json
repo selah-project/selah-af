@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 11:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En dit het gebeur, toe Sjelomo oud geword het, dat sy vroue ⟨את⟩ sy hart laat afwyk het agter ander gode aan; en sy hart was nie volkome met Jahweh sy Elohim nie, soos die hart van Dawid sy vader.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "teen die tyd van"
+    },
+    {
+      "surface": "זקנת",
+      "gloss": "oudword"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "het laat afwyk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hart"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "volkome"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "soos die hart"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:26.647277359Z",
+  "model": "glm-5.3"
+}

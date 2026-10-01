@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 18:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hulle het na die koning geroep, en Eljakim, seun van Chilkia, wat oor die huis ⟨is⟩, en Sewna die skrywer, en Joag, seun van Asaf, die herinneraar, het na hulle uitgegaan.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "en hulle het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgegaan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na hulle"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilkia"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ושבנה",
+      "gloss": "en Sewna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die skrywer"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "en Joag"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "die herinneraar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:10.680359520Z",
+  "model": "glm-5.3"
+}

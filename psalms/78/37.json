@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hulle hart was nie vas met hom nie, en hulle het nie getrou gebly in sy verbond nie.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "en hulle hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vas"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "het getrou gebly"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "in sy verbond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:16.027039926Z",
+  "model": "glm-5.3"
+}

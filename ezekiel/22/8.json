@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "My heilige dinge het jy verag, en ⟨את⟩ my Sjabbatte het jy ontheilig.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "My heilige dinge"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "het jy verag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my Sjabbatte"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "my Sjabbatte"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "het jy ontheilig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:50:23.320624218Z",
+  "model": "glm-5.3"
+}

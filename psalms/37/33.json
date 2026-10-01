@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Jahweh sal hom nie laat vaar in sy hand nie, en hom nie skuldig verklaar in sy gerig nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "sal hom laat vaar"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "hom skuldig verklaar"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "in sy gerig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.366445785Z",
+  "model": "glm-5.3"
+}

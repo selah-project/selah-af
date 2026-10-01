@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Want jy, Jahweh, ⟨is⟩ my toevlug; die Allerhoogste het jy tot jou woonplek gemaak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "my toevlug"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "die Allerhoogste"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "het jy gemaak"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "tot jou woonplek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:27.352038206Z",
+  "model": "glm-5.3"
+}

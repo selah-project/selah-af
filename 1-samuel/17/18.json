@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 17:18",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En ⟨את⟩ hierdie tien melksnye moet jy bring aan die owerste van die duisend, en ⟨את⟩ jou broers moet jy vir hulle welstand besoek, en ⟨את⟩ hulle pand moet jy neem.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie tien melksnye"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "חרצי",
+      "gloss": "snye"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "van die melk"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "moet jy bring"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "aan die owerste"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "van die duisend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou broers"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broers"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "moet jy besoek"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vir welstand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle pand"
+    },
+    {
+      "surface": "ערבתם",
+      "gloss": "hulle pand"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "moet jy neem"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:15.477570741Z",
+  "model": "glm-5.3"
+}

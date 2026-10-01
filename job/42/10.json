@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Jahweh het die gevangenskap van Ijow laat terugkeer toe hy vir sy vriende gebid het; en Jahweh het by alles wat Ijow se s'n was, ⟨את⟩ 'n dubbele deel gevoeg.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "שב",
+      "gloss": "het laat terugkeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangenskap van Ijow"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "die gevangenskap"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "van Ijow"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "toe hy gebid het"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "vir"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy vriende"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "en ... gevoeg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat Ijow se s'n was"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "aan Ijow behoort"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "tot 'n dubbele deel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:10.742165798Z",
+  "model": "glm-5.3"
+}

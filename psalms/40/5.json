@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Hoe gelukkig ⟨is⟩ die man wat Jahweh as sy toevlug gestel het, en nie gedraai het na die aanmatigendes en die afwykers na leuens nie.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gestel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "as sy toevlug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "gedraai het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "die aanmatigendes"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "en die afwykers"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "na leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.739268671Z",
+  "model": "glm-5.3"
+}

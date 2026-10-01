@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elia antwoord en spreek tot die owerste van die vyftig: As ek 'n man van Elohim ⟨is⟩, mag vuur uit die hemel neerkom en ⟨את⟩ jou verteer en ⟨את⟩ jou vyftig; en vuur het uit die hemel neergekom en ⟨את⟩ hom verteer en ⟨את⟩ sy vyftig.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "en antwoord"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "van die vyftig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "as"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "mag neerkom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en verteer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou vyftig"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "jou vyftig"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "en het neergekom"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "en het verteer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vyftig"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "sy vyftig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:21.906919215Z",
+  "model": "glm-5.3"
+}

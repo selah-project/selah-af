@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "⟨Die⟩ stam van Sewoelon; en die vors van die seuns van Sewoelon ⟨is⟩ Eliab, seun van Gelon.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Sewoelon"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "en die vors"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Sewoelon"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Eliab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Gelon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:19.259224603Z",
+  "model": "glm-5.3"
+}

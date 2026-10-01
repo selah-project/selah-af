@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 31:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "By wie jy ⟨את⟩ jou gode vind, hy sal nie lewe nie; voor ons broers: ken vir jouself wat by my is en neem dit vir jou. Maar Jaäkow het nie geweet dat Ragel hulle gesteel het nie.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "jy vind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gode"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou gode"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "sal hy lewe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ons broers"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ken"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jouself"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ragel"
+    },
+    {
+      "surface": "גנבתם",
+      "gloss": "hulle gesteel het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:09.954352788Z",
+  "model": "glm-5.3"
+}

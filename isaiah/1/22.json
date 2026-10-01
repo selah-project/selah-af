@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Jou silwer het tot slakke geword, jou wyn is met water vermeng!",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "jou silwer"
+    },
+    {
+      "surface": "היה",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "tot slakke"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "jou wyn"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "vermeng"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:12.269045220Z",
+  "model": "glm-5.3"
+}

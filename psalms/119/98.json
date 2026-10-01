@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Bo my vyande uit maak jou mitzwa my wys, want vir ewig is dit by my.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Bo my vyande uit"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "maak my wys"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "jou mitzwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לי",
+      "gloss": "by my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:25.754652536Z",
+  "model": "glm-5.3"
+}

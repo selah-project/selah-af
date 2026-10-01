@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle moet sy wagdienst en ⟨את⟩ die wagdienst van die hele vergadering bewaar voor die tente van samekoms, om die diens van die Misjkan te verrig.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en hulle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy wagdienst"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sy wagdienst"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die wagdienst van die hele vergadering"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "wagdienst"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te verrig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die diens van die Misjkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "die diens"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:58.242428111Z",
+  "model": "glm-5.3"
+}

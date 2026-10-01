@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Ontferm U oor my, Elohim, want 'n sterflike het my wou insluk; die heel day, vegtend, verdruk hy my.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ontferm U oor my"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "het my wou insluk"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n sterflike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die heel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "vegtend"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "verdruk hy my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.392864829Z",
+  "model": "glm-5.3"
+}

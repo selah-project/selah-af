@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 55:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Hy het sy hande uitgesteek teen sy vredeliebendes; hy het sy verbond ontheilig.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "hy het uitgesteek"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "בשלמיו",
+      "gloss": "teen sy vredeliebendes"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "hy het ontheilig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:45.007258387Z",
+  "model": "glm-5.3"
+}

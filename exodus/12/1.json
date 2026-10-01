@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het tot Mosje en tot Aharon gespreek in die land Mitsrajim, en gesê:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:03.980122390Z",
+  "model": "glm-5.3"
+}

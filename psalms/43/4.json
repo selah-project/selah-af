@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En ek sal gaan na die altaar van Elohim, na El, die vreugde van my gejuig; en ek sal U loof met ⟨die⟩ lier, o Elohim, my Elohim.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "En ek sal gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "die vreugde"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "van my gejuig"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "en ek sal U loof"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met lier"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:13.194873272Z",
+  "model": "glm-5.3"
+}

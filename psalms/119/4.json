@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "U het ⟨u⟩ beveel ⟨om⟩ u losinge ydel te hou.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "u losinge"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te hou"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ydel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:56.017846750Z",
+  "model": "glm-5.3"
+}

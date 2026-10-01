@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Want u het my bly gemaak, Jahweh, deur u werk; oor die werke van u hande sal ek jubel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "u het my bly gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "deur u werk"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "oor die werke"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van u hande"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "sal ek jubel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:49.475133843Z",
+  "model": "glm-5.3"
+}

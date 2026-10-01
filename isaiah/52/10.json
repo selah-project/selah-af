@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Jahweh het ⟨את⟩ sy heilige arm ontbloot voor die oë van al die nasies, en al die eindes van die aarde sal ⟨את⟩ die redding van ons Elohim sien.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "het ontbloot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy heilige arm"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor die oë van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en sal sien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "die eindes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die redding van ons Elohim"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "die redding"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:24.579753335Z",
+  "model": "glm-5.3"
+}

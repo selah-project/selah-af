@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Hy wat ons lewe in ⟨die⟩ lewe geplaas het, en nie toegelaat het dat ons voete wankel nie.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "die wat geplaas het"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ons lewe"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "in die lewe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "toegelaat het"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "dat … wankel"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ons voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:26.858582993Z",
+  "model": "glm-5.3"
+}

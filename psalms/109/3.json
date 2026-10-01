@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "En woorde van haat het my omring, en hulle het my sonder rede beveg.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "En woorde"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "van haat"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "het my omring"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "en hulle het my beveg"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sonder rede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:23.137002400Z",
+  "model": "glm-5.3"
+}

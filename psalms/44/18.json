@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 44:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Al hierdie het oor ons gekom, en ons het u nie vergeet nie, en ons het in u verbond nie vals gehandel nie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "באתנו",
+      "gloss": "het oor ons gekom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שכחנוך",
+      "gloss": "het u vergeet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שקרנו",
+      "gloss": "het vals gehandel"
+    },
+    {
+      "surface": "בבריתך",
+      "gloss": "in u verbond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.370209638Z",
+  "model": "glm-5.3"
+}

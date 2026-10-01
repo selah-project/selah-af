@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die koning van Aram het ⟨את⟩ die owerstes van die strydwaens wat by hom was beveel deur te sê: Moenie veg teen ⟨את⟩ die klein een of ⟨את⟩ die groot een nie, maar net teen ⟨את⟩ die koning van Jisraël alleen.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die owerstes van die strydwaens"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "van die strydwaens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "moenie veg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klein een"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "teen die klein een"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die groot een"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "of die groot een"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "net"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning van Jisraël"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "teen die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:58:37.741352815Z",
+  "model": "glm-5.3"
+}

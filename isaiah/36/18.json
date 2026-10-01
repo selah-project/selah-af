@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 36:18",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "moenie toelaat dat Hiskia ⟨את⟩ jul verlei om te sê: Jahweh sal ons red nie. Het ⟨die⟩ gode van ⟨die⟩ nasies, elkeen sy ⟨eie⟩ land, hulle ⟨dit⟩ gered uit die hand van die koning van Assur?",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "moenie toelaat dat"
+    },
+    {
+      "surface": "יסית",
+      "gloss": "verlei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jul",
+      "marks": "אתכם as objekmerker by die verleiding"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "sal ons red"
+    },
+    {
+      "surface": "ההצילו",
+      "gloss": "het hulle gered"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gode van"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:41.482132409Z",
+  "model": "glm-5.3"
+}

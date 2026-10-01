@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Ek sal die naam van Elohim met 'n lied loof, en Hom met dank groot maak.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ek sal loof"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "met 'n lied"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "en Hom groot maak"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dank"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:59.414315882Z",
+  "model": "glm-5.3"
+}

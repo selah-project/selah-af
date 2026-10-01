@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy moet daarmee salf ⟨את⟩ die tent van samekoms en ⟨את⟩ die ark van die getuienis.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "en jy moet salf"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tent van samekoms"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ark van die getuienis"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van die getuienis"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:44.047732161Z",
+  "model": "glm-5.3"
+}

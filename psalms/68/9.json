@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Die aarde het geskud, selfs die hemele het gedrup voor Elohim — hierdie Sinai — voor Elohim, die Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "het geskud"
+    },
+    {
+      "surface": "אף",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "het gedrup"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:18.205678849Z",
+  "model": "glm-5.3"
+}

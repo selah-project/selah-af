@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Eenmaal het Elohim gespreek, twee keer — dit het ek gehoor — dat mag aan Elohim behoort.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "eenmaal"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee keer"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "het ek gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.954192767Z",
+  "model": "glm-5.3"
+}

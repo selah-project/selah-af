@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 10:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy sit in die hinderlae by die Howe; in wegsteekplekke vermoor hy die onskuldige; sy oë loer heimlik op die ellendige.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Hy sit"
+    },
+    {
+      "surface": "במארב",
+      "gloss": "in die hinderlae"
+    },
+    {
+      "surface": "חצרים",
+      "gloss": "by die Howe"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in wegsteekplekke"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "vermoor hy"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "die onskuldige"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    },
+    {
+      "surface": "לחלכה",
+      "gloss": "op die ellendige"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "loer hy heimlik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.012211857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Nie vir konings, o Lemuël, nie vir konings om wyn te drink, en vir owerstes ⟨om te verlang na⟩ sterk drank nie —",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "vir konings"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "o Lemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "vir konings"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "om te drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "en vir owerstes"
+    },
+    {
+      "surface": "או",
+      "gloss": "⟨om te verlang na⟩"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "sterk drank"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:06.155997413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 18:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En tien jongmanne, draers van die wapens van Joab, het hulle gewend en ⟨את⟩ Absjalom geslaan en hom doodgemaak.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "en hulle het hulle gewend"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongmanne"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "draers"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "van die wapens"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absjalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absjalom"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "en hom doodgemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:49.384068431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 89:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "En ek sal hulle oortreding met ⟨'n⟩ staf besoek en hulle ongeregtigheid met slae.",
+  "tokens": [
+    {
+      "surface": "ופקדתי",
+      "gloss": "en ek sal besoek"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met ⟨'n⟩ staf"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "hulle oortreding"
+    },
+    {
+      "surface": "ובנגעים",
+      "gloss": "en met slae"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hulle ongeregtigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:39.988374705Z",
+  "model": "glm-5.3"
+}

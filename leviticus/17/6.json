@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 17:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die priester moet ⟨את⟩ die bloed spat op die altaar van Jahweh, by die ingang van die tent van ontmoeting, en die vet laat rook tot 'n rustige geur vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "וזרק",
+      "gloss": "en moet spat"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang van"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en die vet laat rook"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "tot 'n geur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "van rus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:19.576422334Z",
+  "model": "glm-5.3"
+}

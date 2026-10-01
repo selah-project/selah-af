@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 103:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "wat met goed jou begeerte versadig — vernuwe soos 'n arend jou jeug",
+  "tokens": [
+    {
+      "surface": "המשביע",
+      "gloss": "wat versadig"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "met goed"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "jou begeerte"
+    },
+    {
+      "surface": "תתחדש",
+      "gloss": "vernuwe"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "soos 'n arend"
+    },
+    {
+      "surface": "נעוריכי",
+      "gloss": "jou jeug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:21.974812511Z",
+  "model": "glm-5.3"
+}

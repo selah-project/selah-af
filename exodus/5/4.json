@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 5:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die koning van Mitsrajim het vir hulle gesê: Mosje en Aharon, hoekom laat julle ⟨את⟩ die volk van sy werk afvallig word? Gaan julle na julle dwangarbeid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "תפריעו",
+      "gloss": "laat julle afvallig word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ממעשיו",
+      "gloss": "van sy werk"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לסבלתיכם",
+      "gloss": "na julle dwangarbeid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:47.280993590Z",
+  "model": "glm-5.3"
+}

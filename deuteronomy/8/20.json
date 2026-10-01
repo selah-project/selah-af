@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 8:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "soos die nasies wat Jahweh voor julle aangesig laat omkom, so sal julle omkom, omdat julle nie luister na die stem van Jahweh jul Elohim nie.",
+  "tokens": [
+    {
+      "surface": "כגוים",
+      "gloss": "soos die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאביד",
+      "gloss": "laat omkom"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "voor julle aangesig"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאבדון",
+      "gloss": "sal julle omkom"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "julle luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.589409901Z",
+  "model": "glm-5.3"
+}

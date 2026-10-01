@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "⟨את⟩ die tent van ontmoeting, en ⟨את⟩ die ark van die getuienis, en ⟨את⟩ die versoendeksel wat daarop is, en ⟨את⟩ al die gereedskap van die tent",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tent van ontmoeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ark van die getuienis"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "van die getuienis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die versoendeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoendeksel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die gereedskap van die tent"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die gereedskap"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van die tent"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:09.091521696Z",
+  "model": "glm-5.3"
+}

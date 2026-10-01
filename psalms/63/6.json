@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 63:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "Soos van vet en murg word my siel versadig, en met lippe van gejubel roem my mond ⟨u⟩.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "soos van"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ודשן",
+      "gloss": "en murg"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "word versadig"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "en met lippe"
+    },
+    {
+      "surface": "רננות",
+      "gloss": "van gejubel"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "roem"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:02.323260352Z",
+  "model": "glm-5.3"
+}

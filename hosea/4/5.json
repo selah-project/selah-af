@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 4:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En jy sal struikel vandag, en ook ⟨die⟩ profeet sal struikel saam met jou in die nag; en Ek sal vir jou moeder laat vergaan.",
+  "tokens": [
+    {
+      "surface": "וכשלת",
+      "gloss": "en jy sal struikel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "וכשל",
+      "gloss": "en sal struikel"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "profeet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "saam met jou"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "ודמיתי",
+      "gloss": "en Ek sal laat vergaan"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "jou moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:43.235144916Z",
+  "model": "glm-5.3"
+}

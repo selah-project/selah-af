@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 4:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Adam het weer ⟨את⟩ sy vrou geken, en sy het 'n seun gebaar, en sy het ⟨את⟩ sy naam Set genoem: want Elohim het vir my 'n ander nageslag gegee in die plek van Hewel, omdat Kain hom doodgemaak het.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "het geken"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrou"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en sy het gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שת",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hewel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "hom doodgemaak het"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kain"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:14.209242789Z",
+  "model": "glm-5.3"
+}

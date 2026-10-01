@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 119:59",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het my weë oorweeg, en my voete omgedraai na u getuienisse.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ek het oorweeg"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "ואשיבה",
+      "gloss": "en omgedraai"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.104209395Z",
+  "model": "glm-5.3"
+}

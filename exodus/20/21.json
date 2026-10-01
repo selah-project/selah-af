@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En die volk het van ver gestaan, en Mosje het nader getree na die donkerheid waar daar die Elohim was.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en het gestaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van ver"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "en Mosje"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "het nader getree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "die donkerheid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:38.910293520Z",
+  "model": "glm-5.3"
+}

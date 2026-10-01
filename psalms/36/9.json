@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 36:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Hulle sal versadig word van die vet van u huis, en uit die stroom van u genoeë laat U hulle drink.",
+  "tokens": [
+    {
+      "surface": "ירוין",
+      "gloss": "hulle sal versadig word"
+    },
+    {
+      "surface": "מדשן",
+      "gloss": "van die vet"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van u huis"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "en uit die stroom"
+    },
+    {
+      "surface": "עדניך",
+      "gloss": "van u genoeë"
+    },
+    {
+      "surface": "תשקם",
+      "gloss": "laat U hulle drink"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:18.772223413Z",
+  "model": "glm-5.3"
+}

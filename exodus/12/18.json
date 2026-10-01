@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 12:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "In die eerste maand, op die veertiende dag van die maand, in die aand, sal julle mabbrot eet, tot die een-en-twintigste dag van die maand, in die aand.",
+  "tokens": [
+    {
+      "surface": "בראשן",
+      "gloss": "in die eerste"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "mabbrot (ongesuurde brode)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:50.372995980Z",
+  "model": "glm-5.3"
+}

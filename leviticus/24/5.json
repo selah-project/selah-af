@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En jy moet semelmeel neem en daarvan ⟨את⟩ twaalf koekies bak; twee eserons sal die een koek wees.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy moet neem"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "semelmeel"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "en jy moet bak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "twaalf koekies"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twaalf (twee)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "koekies"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "eserons"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "die koek"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:28.477101232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Ek sê: my El, neem my nie weg in die helfte van my dae nie; in geslag na geslagte ⟨is⟩ jou jare.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ek sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "neem my weg"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in die helfte"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "van my dae"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in geslag"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "na geslagte"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "jou jare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:45.706754900Z",
+  "model": "glm-5.3"
+}

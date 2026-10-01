@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 109:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Help my, Jahweh my Elohim; red my volgens u gesed.",
+  "tokens": [
+    {
+      "surface": "עזרני",
+      "gloss": "help my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens u gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:01.428943836Z",
+  "model": "glm-5.3"
+}

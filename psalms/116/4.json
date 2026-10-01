@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "En in die naam van Jahweh roep ek: ag tog, Jahweh, red tog my siel.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "en in die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ag tog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "red tog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:51.356925022Z",
+  "model": "glm-5.3"
+}

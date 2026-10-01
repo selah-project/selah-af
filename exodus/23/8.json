@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En 'n omkoopgeskenk mag jy nie neem nie, want die omkoopgeskenk maak die skerpsinniges blind en vermink die woorde van regverdiges.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "en 'n omkoopgeskenk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "mag jy neem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "die omkoopgeskenk"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "maak blind"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "die skerpsinniges"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "en vermink"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van regverdiges"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:50.856929518Z",
+  "model": "glm-5.3"
+}

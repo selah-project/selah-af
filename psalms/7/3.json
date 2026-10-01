@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "dat hy nie soos 'n leeu my siel verskeur nie, stukkendruk terwyl daar geen redder ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "dat … nie"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "verskeur"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "soos 'n leeu"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "stukkendruk"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "terwyl daar geen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:51.164935461Z",
+  "model": "glm-5.3"
+}

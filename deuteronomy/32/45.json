@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Mosje het klaar gepraat ⟨את⟩ al hierdie woorde tot by die hele Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "het klaar gepraat"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te praat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hierdie woorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:23.597836253Z",
+  "model": "glm-5.3"
+}

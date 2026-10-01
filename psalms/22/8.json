@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Almal wat my sien, spot met my; hulle keep ⟨die⟩ lip, hulle skud ⟨die⟩ hoof, ⟨en sê⟩",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "wat my sien"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "spot met my"
+    },
+    {
+      "surface": "לי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "hulle keep"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "⟨die⟩ lip"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "hulle skud"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "⟨die⟩ hoof"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.954236800Z",
+  "model": "glm-5.3"
+}

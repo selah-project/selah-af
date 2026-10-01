@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Van die klank van my gesug kleef my gebeente aan my vlees.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "van die klank"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "my gesug"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kleef"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my gebeente"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "aan my vlees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:16.939859949Z",
+  "model": "glm-5.3"
+}

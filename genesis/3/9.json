@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jahweh Elohim het na die mens geroep en aan hom gesê: Waar is jy?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "waar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:14.663998808Z",
+  "model": "glm-5.3"
+}

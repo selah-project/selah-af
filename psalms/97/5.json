@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Die berge smelt soos was voor Jahweh, voor die heer van die hele aarde.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "soos was"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "smelt"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "die heer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.334193480Z",
+  "model": "glm-5.3"
+}

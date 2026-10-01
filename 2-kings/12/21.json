@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 12:21",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En sy dienaars het opgestaan en 'n sameswering gesmee, en hulle het ⟨את⟩ Jehoas geslaan in Bet-Milo, die pad wat afdaal na Silla.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "ויקשרו",
+      "gloss": "gesmee"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "'n sameswering"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoas"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Jehoas"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "-Milo"
+    },
+    {
+      "surface": "היורד",
+      "gloss": "die wat afdaal"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "na Silla"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:59.163071186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Vanwee die stem van die vyand, vanwee die verdrukking van die goddelose — want hulle laat ⟨את⟩ onheil op my neerkom, en in toorn hate hulle my.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vanwee die stem"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van die vyand"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwee"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "die verdrukking"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "hulle laat neerkom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "en in toorn"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "hate hulle my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:48.346323457Z",
+  "model": "glm-5.3"
+}

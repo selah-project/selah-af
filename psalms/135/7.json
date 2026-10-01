@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 135:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Hy laat damp op styg van die einde van ⟨die⟩ aarde, blikseme vir die reën het ⟨hy⟩ gemaak, hy bring roeag uit sy skatholtes voort.",
+  "tokens": [
+    {
+      "surface": "מעלה",
+      "gloss": "laat op styg"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "damp"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van die einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "blikseme"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "vir die reën"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "bring voort"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "מאוצרותיו",
+      "gloss": "uit sy skatholtes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:24.258654265Z",
+  "model": "glm-5.3"
+}

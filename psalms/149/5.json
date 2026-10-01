@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Laat die gesindes juig in eer, laat hulle jubel op hulle beddens.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "laat ... juig"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "die gesindes"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "in eer"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "laat hulle jubel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "hulle beddens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.480170756Z",
+  "model": "glm-5.3"
+}

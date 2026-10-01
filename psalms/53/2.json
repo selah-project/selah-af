@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 53:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Die dwaas het in sy hart gesê: daar is geen Elohim nie. Hulle het verdorwe geword en onreg aaklig gemaak; daar is niemand wat goed doen nie.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "die dwaas"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "hulle het verdorwe geword"
+    },
+    {
+      "surface": "והתעיבו",
+      "gloss": "en aaklig gemaak"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.839315450Z",
+  "model": "glm-5.3"
+}

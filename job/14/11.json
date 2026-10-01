@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Water loop weg van ⟨die⟩ see, en ⟨die⟩ rivier word dor en droog op.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "loop weg"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "ים",
+      "gloss": "see"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "en rivier"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "word dor"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en droog op"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:20.285548295Z",
+  "model": "glm-5.3"
+}

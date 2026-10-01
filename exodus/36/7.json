@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En die materiaal was genoeg vir al die werk om ⟨את⟩ dit te maak — en daar was oor.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "En die werk\/materiaal"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "דים",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit — die werk"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "en daar was oor"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:39.231330006Z",
+  "model": "glm-5.3"
+}

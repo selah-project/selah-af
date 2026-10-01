@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Want die droom kom deur baie geswoeg, en die stem van 'n dwaas deur baie woorde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "die droom"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deur baie"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "geswoeg"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en die stem"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "van 'n dwaas"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deur baie"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:09.391338374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "en ⟨את⟩ die voetstukke van die voorhof rondom, en ⟨את⟩ die voetstukke van die poort van die voorhof, en ⟨את⟩ al die penne van die Misjkan, en ⟨את⟩ al die penne van die voorhof rondom.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voetstukke van die voorhof rondom"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "die voetstukke"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voetstukke van die poort van die voorhof"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "die voetstukke"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van die poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die penne van die Misjkan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die penne"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die penne van die voorhof rondom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die penne"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:16.204459813Z",
+  "model": "glm-5.3"
+}

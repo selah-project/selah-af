@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Die prag van die heerlikheid van u majesteit, en die woorde van u wonders sal ek oordink.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "die prag"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "van die heerlikheid"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "van u majesteit"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "en die woorde"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "van u wonders"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "sal ek oordink"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:14.470083625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Mahalalel het gelewe vyf en sestig jaar, en hy het ⟨את⟩ Jered verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Mahalalel"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en sestig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jered"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Jered"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:56.059114137Z",
+  "model": "glm-5.3"
+}

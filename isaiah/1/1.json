@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 1:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die visioen van Jesajahoe, seun van Amots, wat hy gesien het oor Jehoeda en Jerusjalajim, in die dae van Usijahoe, Jotam, Agas ⟨en⟩ Gizkijahoe, konings van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "חזון",
+      "gloss": "visioen"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jerusjalajim"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in die dae van"
+    },
+    {
+      "surface": "עזיהו",
+      "gloss": "Usijahoe"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Jotam"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Agas"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konings van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:46.481857741Z",
+  "model": "glm-5.3"
+}

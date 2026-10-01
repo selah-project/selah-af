@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Menseseun, laat ⟨את⟩ Jerusjalajim ⟨את⟩ haar gruwels weet",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "laat weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar gruwels"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "haar gruwels"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:28.868616611Z",
+  "model": "glm-5.3"
+}

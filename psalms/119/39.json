@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Laat weggaan my smaad wat ek vrees, want u vonnisse ⟨is⟩ goed.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "laat weggaan"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "my smaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "ek vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u vonnisse"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.534341332Z",
+  "model": "glm-5.3"
+}

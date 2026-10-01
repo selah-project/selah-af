@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Stuur 'n ram aan die heerser van ⟨die⟩ land, van Sela in die woestyn af, na die berg van die dogter van Tsion.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "כר",
+      "gloss": "'n ram"
+    },
+    {
+      "surface": "משל",
+      "gloss": "aan die heerser"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "van Sela"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "na die woestyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "בת",
+      "gloss": "van die dogter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "van Tsion"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:57.981895081Z",
+  "model": "glm-5.3"
+}

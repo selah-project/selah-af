@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jehoe vul sy hand met die boog en tref ⟨את⟩ Jegoram tussen sy arms, en die pyl gaan uit deur sy hart, en hy sink neer in sy strydwa.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "En Jehoe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vul"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "met die boog"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en tref"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jegoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jegoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "sy arms"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en gaan uit"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "die pylpunt"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "deur sy hart"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "en hy sink neer"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in sy strydwa"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:28.935623443Z",
+  "model": "glm-5.3"
+}

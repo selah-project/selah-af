@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 12:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die regverdige ken die siel van sy dier, maar die barmhartighede van die goddeloses ⟨is⟩ wreed.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "בהמתו",
+      "gloss": "van sy dier"
+    },
+    {
+      "surface": "ורחמי",
+      "gloss": "maar die barmhartighede"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "wreed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:25.838944725Z",
+  "model": "glm-5.3"
+}

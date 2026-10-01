@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Verheug die siel van u dienskneg, want tot u, Adonai, lig ek my siel op.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Verheug"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van u dienskneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "lig ek op"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:56.692178344Z",
+  "model": "glm-5.3"
+}

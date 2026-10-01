@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 24:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Wankel, wankel die aarde soos 'n dronkaard, en sy swaai heen en weer soos 'n hut, en sy oortreding is swaar op haar, en sy sal val en nie weer opstaan nie.",
+  "tokens": [
+    {
+      "surface": "נוע",
+      "gloss": "wankel"
+    },
+    {
+      "surface": "תנוע",
+      "gloss": "wankel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "soos 'n dronkaard"
+    },
+    {
+      "surface": "והתנודדה",
+      "gloss": "en swaai heen en weer"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "soos 'n hut"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "en is swaar"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "op haar"
+    },
+    {
+      "surface": "פשעה",
+      "gloss": "haar oortreding"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "en sy sal val"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תסיף",
+      "gloss": "weer"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:09.549709480Z",
+  "model": "glm-5.3"
+}

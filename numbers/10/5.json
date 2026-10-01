@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En as julle teroea blaas, dan trek die laers wat aan die ooskant opgetrek het, weg.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "en julle blaas"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "teroea"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "dan trek weg"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "die laers"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "wat opgetrek het"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aan die ooskant"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:20.912275721Z",
+  "model": "glm-5.3"
+}

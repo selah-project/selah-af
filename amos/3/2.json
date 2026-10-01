@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Net julle het ek geken, uit al die families van die aarde; daarom sal ek jul oortredinge oor julle besoek ⟨את⟩ al ⟨את⟩ jul oortredinges.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Net"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "het ek geken"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "die families"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "sal ek besoek"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "oor julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al jul oortredinges"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "jul oortredinges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:55.563031510Z",
+  "model": "glm-5.3"
+}

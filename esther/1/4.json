@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "toe hy ⟨את⟩ die rykdom van die heerlikheid van sy koninkryk getoon het, en ⟨את⟩ die luister van die prag van sy grootheid, baie dae, tagtig en 'n honderd dae.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "toe hy getoon het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rykdom"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "die rykdom"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "van die heerlikheid"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "van sy koninkryk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die luister"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "die luister"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "van die prag"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "van sy grootheid"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tagtig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en 'n honderd"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.115912027Z",
+  "model": "glm-5.3"
+}

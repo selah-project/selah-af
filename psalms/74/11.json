@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Hoekom trek jy jou hand terug, ja jou regterhand? Trek ⟨dit⟩ uit die middel van jou boesem; vernietig ⟨hulle⟩.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "trek jy terug"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "ja jou regterhand"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uit die middel van"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "jou boesem"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vernietig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:33.979384335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "As ek die vlerke van die dawning neem, as ek gaan woon aan die agterkant van die see —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "as ek ... neem"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "die vlerke van"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "die dawning"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "as ek gaan woon"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "aan die agterkant van"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.316110659Z",
+  "model": "glm-5.3"
+}

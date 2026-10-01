@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 25:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Vra ⟨את⟩ jou jongmanne en hulle sal dit vir jou vertel; en mag die jongmanne guns vind in jou oë, want op 'n goeie dag het ons gekom — gee tog ⟨את⟩ wat jou hand vind aan jou diensknegte en aan jou seun, aan Dawid.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Vra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou jongmanne"
+    },
+    {
+      "surface": "נעריך",
+      "gloss": "jou jongmanne"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en hulle sal vertel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en mag vind"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "die jongmanne"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in jou oë"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יום",
+      "gloss": "'n dag"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "het ons gekom"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat jou hand vind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "vind"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "aan jou diensknegte"
+    },
+    {
+      "surface": "ולבנך",
+      "gloss": "en aan jou seun"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:47.802929802Z",
+  "model": "glm-5.3"
+}

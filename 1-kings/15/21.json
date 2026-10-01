@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En dit het gebeur, toe Besa dit hoor, dat hy opgehou het om ⟨את⟩ Rama te bou, en hy het in Tirsa gebly.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe … hoor"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Besa"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "dat hy opgehou het"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Rama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Rama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het gebly"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "in Tirsa"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:49.136670770Z",
+  "model": "glm-5.3"
+}

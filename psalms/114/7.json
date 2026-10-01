@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Voor Adonai — bewe, aarde; voor die El van Jaäkow!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "bewe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "die El"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.741545934Z",
+  "model": "glm-5.3"
+}

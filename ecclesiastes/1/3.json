@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wat ⟨is⟩ die wins vir die mens in al sy geswoeg waarmee hy swaarkry onder die son?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "die wins"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "vir die mens"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sy geswoeg"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "waarmee hy swaarkry"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:08.312968955Z",
+  "model": "glm-5.3"
+}

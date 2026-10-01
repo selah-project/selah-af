@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Kyk, aan Jahweh jou Elohim behoort die hemele en die hemele van die hemele, die aarde en alles wat daarin is",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "en die hemele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin is"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:33.728312729Z",
+  "model": "glm-5.3"
+}

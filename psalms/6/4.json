@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En my siel is ⟨is⟩ baie verskrik, maar ⟨u⟩, Jahweh — hoe lank nog?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "en my siel"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "is verskrik"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "maar ⟨u⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank nog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:35.538516606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Red tog, Jahweh, want die vrome het 'n einde gekom, want die getroues het verdwyn uit die kinders van die mens.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "red tog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "het 'n einde gekom"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "die vrome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "het verdwyn"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "die getroues"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "uit die kinders van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:27.331505810Z",
+  "model": "glm-5.3"
+}

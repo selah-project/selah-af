@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 6:11",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Haman het die kleed geneem ⟨את⟩ en die perd, en Mordegai ⟨את⟩ aangetrek, en hom laat ry in die plein van die stad, en voor hom uitgeroep: so word gedoen aan die man in wie se eer die koning behae het.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleed"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "die kleed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die perd"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "die perd"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "en hy het aangetrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordegai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "וירכיבהו",
+      "gloss": "en hom laat ry"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "in die plein"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het uitgeroep"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "word gedoen"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae het"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "in wie se eer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.266092571Z",
+  "model": "glm-5.3"
+}

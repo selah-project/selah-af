@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy het 'n seun gebaar, en hy het ⟨את⟩ sy naam Gerésjom genoem, want hy het gesê: 'n vreemdeling was ek in 'n vreemde land.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Gerésjom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hy het gesê"
+    },
+    {
+      "surface": "גר",
+      "gloss": "'n vreemdeling"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "'n vreemde land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:42.354719457Z",
+  "model": "glm-5.3"
+}

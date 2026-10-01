@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Kyk, hulle laat ⟨dit⟩ uit hulle mond stroom — swaarde ⟨is⟩ op hulle lippe — want: Wie hoor?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "hulle laat stroom"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "uit hulle mond"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "swaarde"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "op hulle lippe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:08.464559789Z",
+  "model": "glm-5.3"
+}

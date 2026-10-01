@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Te bou het ek ⟨die⟩ huis werklik gebou, 'n verhewe woonplek vir U, 'n vaste plek vir u woning tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "te bou"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "het ek gebou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "verhewe woonplek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "vaste plek"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "vir u woning"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:23.931436515Z",
+  "model": "glm-5.3"
+}

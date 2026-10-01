@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Hy wat in die skuilplek van Eljon sit, in die skadu van Sjaddai vernag hy —",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "sit"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die skuilplek"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "in die skadu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "vernag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:00.242904050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Wie die bloed van die mens stort, deur die mens sal sy bloed gestort word; want in die beeld van Elohim het hy ⟨את⟩ die mens gemaak.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "Wie stort"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "deur die mens"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "sal gestort word"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "in die beeld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:25.863664716Z",
+  "model": "glm-5.3"
+}

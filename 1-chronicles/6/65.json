@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en uit die stam van Gad ⟨את⟩ Ragamot in Gilead en ⟨את⟩ sy weivelde, en ⟨את⟩ Maganajim en ⟨את⟩ sy weivelde",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "en uit die stam van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ragamot"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Ragamot"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "in Gilead"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Maganajim"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "Maganajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weivelde"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "sy weivelde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:33.880819974Z",
+  "model": "glm-5.3"
+}

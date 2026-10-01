@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Jahweh het aan my vergeld volgens my tsedek, volgens my reinheid voor sy oë.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het vergeld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "volgens my tsedek"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "volgens my reinheid"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:11.737317585Z",
+  "model": "glm-5.3"
+}

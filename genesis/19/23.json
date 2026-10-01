@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Die son het oor ⟨die⟩ aarde uitgegaan, en Lot het in Tsoar ingekom.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "en Lot"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het ingekom"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "in Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:30.186193226Z",
+  "model": "glm-5.3"
+}

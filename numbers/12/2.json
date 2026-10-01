@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle het gesê: Het Jahweh regtig net met Mosje gepraat? Het Hy nie ook met óns gepraat nie? En Jahweh het dit gehoor.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "Regtig net"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "met Mosje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Het ... nie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gepraat"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:34.206322095Z",
+  "model": "glm-5.3"
+}

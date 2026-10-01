@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Want U het ons gered uit ons benoudhede, en ons haters het U in die skande gestort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "het U ons gered"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "uit ons benoudhede"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "en ons haters"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "het U in die skande gestort"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:03.271973018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "⟨Die⟩ vrou wat egbreuk pleeg: in plaas van haar man neem sy ⟨את⟩ vreemdes.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "wat egbreuk pleeg"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "haar man"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "neem sy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vreemdes"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemdes"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:43.862426200Z",
+  "model": "glm-5.3"
+}

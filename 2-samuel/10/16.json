@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Hadadézer het gestuur en ⟨את⟩ Aram uitgebring wat anderkant die Rivier was, en hulle het in Helam gekom; en Sjobag, die owerste van die leër van Hadadézer, was voor hulle uit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "anderkant"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "die Rivier"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "in Helam"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "en Sjobag"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "van Hadadézer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle uit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:21.193003294Z",
+  "model": "glm-5.3"
+}

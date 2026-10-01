@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Vaders mag nie gedood word vir kinders nie, en kinders mag nie gedood word vir vaders nie; elke man word vir sy eie sonde gedood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mag gedood word"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "vaders"
+    },
+    {
+      "surface": "על",
+      "gloss": "vir"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "en kinders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "mag gedood word"
+    },
+    {
+      "surface": "על",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "vaders"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "vir sy eie sonde"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "word gedood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:15.556916706Z",
+  "model": "glm-5.3"
+}

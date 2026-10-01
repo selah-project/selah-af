@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 8:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Hy steun op sy huis, maar dit sal nie staan nie; hy gryp dit vas, maar dit sal nie ooreindig nie.",
+  "tokens": [
+    {
+      "surface": "ישען",
+      "gloss": "Hy steun"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "hy gryp vas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ooreindig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:38.795098667Z",
+  "model": "glm-5.3"
+}

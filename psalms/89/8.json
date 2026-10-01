@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "El is gedug in die raad van die heiliges, in hoë mate, en verskriklik bo alles rondom Hom.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "is gedug"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "in die raad"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van die heiliges"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "in hoë mate"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "en verskriklik"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rondom Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.726842192Z",
+  "model": "glm-5.3"
+}

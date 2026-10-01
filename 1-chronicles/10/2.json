@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die Filistyne het vasgeklou agter Saul en agter sy seuns, en die Filistyne het ⟨את⟩ Jonatan en ⟨את⟩ Awinadab en ⟨את⟩ Malki-Sjua geslaan, die seuns van Saul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "En hulle het vasgeklou"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en agter"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jonatan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Awinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Malki-Sjua"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Sjua"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Saul"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:22.579459404Z",
+  "model": "glm-5.3"
+}

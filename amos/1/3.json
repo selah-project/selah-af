@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "So sê Jahweh: oor drie oortredinge van Damaskus en oor vier sal ek ⟨dit⟩ nie terugdraai nie, omdat hulle ⟨את⟩ Giléad met ysterstamptuie gestamp het.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "oortredinge"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "van Damaskus"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "sal ek ⟨dit⟩ terugdraai"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "hulle ... gestamp het"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "met ysterstamptuie"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "van yster"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giléad"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Giléad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:33.593129576Z",
+  "model": "glm-5.3"
+}

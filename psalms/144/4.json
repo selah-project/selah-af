@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Die mens ⟨is⟩ soos 'n asem – sy dae soos 'n verbygaande skaduwee.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "soos 'n asem"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "is gelyk"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sy dae"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "soos 'n skaduwee"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "verbygaande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.407638036Z",
+  "model": "glm-5.3"
+}

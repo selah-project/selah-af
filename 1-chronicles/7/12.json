@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Sjuppim en Goeggim, seuns van Ir; Goegsjim, seuns van Ager.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "en Sjuppim"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "en Goeggim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Goegsjim"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ager"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:53.661439461Z",
+  "model": "glm-5.3"
+}

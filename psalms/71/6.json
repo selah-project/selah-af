@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Op U het ek geleun vanaf die baarmoeder; uit die skoot van my moeder het U my gesny; my lof is gedurig van U.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "het ek geleun"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "vanaf die baarmoeder"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uit die skoot"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van my moeder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "het my gesny"
+    },
+    {
+      "surface": "בך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "my lof"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.519905624Z",
+  "model": "glm-5.3"
+}

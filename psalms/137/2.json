@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Aan wilgerbome in die midde daarvan het ons ons kitare opgehang.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "wilgerbome"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "in die midde daarvan"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "het ons opgehang"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ons kitare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:32.690321126Z",
+  "model": "glm-5.3"
+}

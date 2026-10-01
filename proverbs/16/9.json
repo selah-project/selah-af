@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Die hart van ⟨die⟩ mens bedink sy weg, en Jahweh rig sy tree.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van ⟨die⟩ mens"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bedink"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sy weg"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "rig vas"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "sy tree"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:04.141631548Z",
+  "model": "glm-5.3"
+}

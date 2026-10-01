@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Want duisend jaar is in U oë soos gister, toe dit verbygegaan het, en soos 'n nagwag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in U oë"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos gister"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "toe dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "toe"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "verbygegaan het"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "en soos 'n nagwag"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:29.175865060Z",
+  "model": "glm-5.3"
+}

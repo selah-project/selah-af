@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die hele vergadering het geantwoord en met 'n groot stem gesê: Soos u oor ons gesê het — ⟨dit⟩ is ons om te doen.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "het geantwoord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "קול",
+      "gloss": "met 'n stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כן",
+      "gloss": "soos"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "u gesê het"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:38:58.783800596Z",
+  "model": "glm-5.3"
+}

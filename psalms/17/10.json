@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Hulle vet het hulle toegesluit; met hulle mond spreek hulle met hoogmoed.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "hulle vet"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "het toegesluit"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "met hulle mond"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek hulle"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "met hoogmoed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.720765977Z",
+  "model": "glm-5.3"
+}

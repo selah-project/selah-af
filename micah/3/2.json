@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "haters van die goeie en liefhebbers van die kwaad — beroowers van hulle vel van op hulle af, en hulle vlees van op hulle bene af.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "haters"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "van die goeie"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "en liefhebbers"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van die kwaad"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "beroowers"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "hulle vel"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "van op hulle af"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "en hulle vlees"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van op"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "hulle bene"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:58.397457664Z",
+  "model": "glm-5.3"
+}

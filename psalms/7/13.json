@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "As ⟨hy⟩ nie terugdraai nie, sal hy sy swaard skerp maak; sy boog het hy gespan en dit gereed gemaak.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "terugdraai"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sy swaard"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "skerp maak"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sy boog"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "gespan"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "en dit gereed gemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:11.936071895Z",
+  "model": "glm-5.3"
+}

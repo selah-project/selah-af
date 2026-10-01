@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 36:14",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En dit was die seuns van Oholibama, die dogter van Ana, die dogter van Tsibon, die vrou van Esau; en sy het vir Esau ⟨את⟩ Jeïsj en ⟨את⟩ Jaälam en ⟨את⟩ Korag gebaar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Oholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter van"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter van"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou van"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en sy het gebaar"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "vir Esau"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jeïsj"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeïsj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jaälam"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Jaälam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Korag"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:03.453652835Z",
+  "model": "glm-5.3"
+}

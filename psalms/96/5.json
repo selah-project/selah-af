@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 96:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Want al die gode van die volke ⟨is⟩ nietighede, maar Jahweh het ⟨את⟩ die hemele gemaak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "van die volke"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "nietighede"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maar Jahweh"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:38.896301125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Nie met ons vaders het Jahweh ⟨את⟩ hierdie verbond gesny nie, maar met ons — ons, hierso, hierdie dag, almal van ons lewend.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ met"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ons vaders"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "het gesny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie verbond"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "die verbond"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierso"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "almal van ons"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:49.668823909Z",
+  "model": "glm-5.3"
+}

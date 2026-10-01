@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 8:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning sê aan Gasael: neem in jou hand 'n geskenk en gaan die man van ⟨die⟩ Elohim tegemoet, en vra ⟨את⟩ Jahweh ⟨את⟩ deur hom, met die woorde: sal ek lewe uit hierdie siekte?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "חזהאל",
+      "gloss": "Gasael"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "'n geskenk"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "tegemoet"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "en vra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאותו",
+      "gloss": "⟨את⟩ deur hom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "sal ek lewe"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "uit die siekte"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:46.606139273Z",
+  "model": "glm-5.3"
+}

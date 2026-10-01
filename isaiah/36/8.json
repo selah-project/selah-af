@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 36:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En nou, gee tog pande ⟨את⟩ aan my heer die koning van Assur, en ek sal vir jou twee duisend perde gee, as jy in staat is om vir jou ruiters op hulle te sit.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "gee pande"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ aan",
+      "marks": "my heer die koning van Assur"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "twee duisend"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "perde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "jy in staat is"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te sit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "ruiters"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:16.153806450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En dit ⟨is⟩ gering in die oë van Jahweh, en hy sal ⟨את⟩ Moab in julle hand gee.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "en dit ⟨is⟩ gering"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en hy sal gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in julle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:00.168573408Z",
+  "model": "glm-5.3"
+}

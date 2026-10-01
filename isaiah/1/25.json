@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Ek sal my hand teen jou terugdraai, en Ek sal jou slaggoed suiwer soos ⟨met⟩ loog, en al jou tin verwyder.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "en Ek sal terugdraai"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "en Ek sal suiwer"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "soos ⟨met⟩ loog"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "jou slaggoed"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "en Ek sal verwyder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "jou tin"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:10.368951449Z",
+  "model": "glm-5.3"
+}

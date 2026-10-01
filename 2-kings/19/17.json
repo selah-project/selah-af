@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Voorwaar, Jahweh, die konings van Assur het ⟨את⟩ die nasies en ⟨את⟩ hulle land verwoes.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "het verwoes"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings van"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nasies"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:28.418386843Z",
+  "model": "glm-5.3"
+}

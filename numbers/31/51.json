@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 31:51",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Mosje en Elasar die priester het ⟨את⟩ die goud van hulle ⟨את⟩ geneem, al die bewerkte gereedskap.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En … het geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "en Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "van hulle ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die gereedskap"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "bewerkte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:15.099317132Z",
+  "model": "glm-5.3"
+}

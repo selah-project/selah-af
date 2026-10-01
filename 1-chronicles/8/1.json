@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Benjamin het ⟨את⟩ Bela verwek, sy eersgeborene, Asjbel die tweede, en Agarag die derde.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "En Benjamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "sy eersgeborene"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Asjbel"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "en Agarag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "die derde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:54.905649439Z",
+  "model": "glm-5.3"
+}

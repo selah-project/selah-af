@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En ook die seun van die slavin ⟨את⟩ sal Ek tot 'n nasie maak, want hy is jou nageslag.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "van die slavin"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot 'n nasie"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "sal Ek hom maak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:28.132853727Z",
+  "model": "glm-5.3"
+}

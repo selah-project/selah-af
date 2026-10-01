@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En die seuns van Gad het ⟨את⟩ Dibon gebou, en ⟨את⟩ Atarot, en ⟨את⟩ Aroër.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "en hulle het gebou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dibon"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Dibon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Atarot"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Atarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aroër"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Aroër"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:28.260881268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het ⟨את⟩ hulle beelde gedien, en hulle het vir hulle 'n strik geword.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle beelde"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "hulle beelde"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle het geword"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "'n strik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:27.959277684Z",
+  "model": "glm-5.3"
+}

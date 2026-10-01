@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek het gesê: Waarheen gaan jy? En hy het vir my gesê: Om ⟨את⟩ Jerusjalajim te meet, om te sien hoe wyd sy ⟨breedte⟩ is en hoe lank sy ⟨lengte⟩ is.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "למד",
+      "gloss": "om te meet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "wyd (breedte)"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "lank (lengte)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:59.695749192Z",
+  "model": "glm-5.3"
+}

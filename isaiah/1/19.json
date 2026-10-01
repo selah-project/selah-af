@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 1:19",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "As julle willig is en luister, sal julle ⟨die⟩ beste van die land eet.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תאבו",
+      "gloss": "julle willig is"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨die⟩ beste"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:25.468128835Z",
+  "model": "glm-5.3"
+}

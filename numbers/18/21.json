@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 18:21",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En aan die seuns van Levi, kyk, het ek die hele tiende in Jisraël as erfporsie gegee, in ruil vir hulle diens waarmee hulle dien, ⟨את⟩ die diens van die tent van samekoms.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "en aan die seuns"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "tiende"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "as erfporsie"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "in ruil vir"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hulle diens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die diens"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "die diens van"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:30.613595939Z",
+  "model": "glm-5.3"
+}

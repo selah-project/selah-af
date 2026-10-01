@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Loskoop, o Elohim, ⟨את⟩ Jisraël uit al sy benoudhede.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "loskoop"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sy benoudhede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.751227773Z",
+  "model": "glm-5.3"
+}

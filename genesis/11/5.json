@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jahweh het neergedaal om ⟨את⟩ die stad en ⟨את⟩ die toring te sien wat die seuns van die mens gebou het.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "het neergedaal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die toring"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "die toring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gebou het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:58.610113962Z",
+  "model": "glm-5.3"
+}

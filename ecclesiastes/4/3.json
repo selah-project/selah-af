@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En beter as albei ⟨is⟩ ⟨את⟩ hy wat tot nou nog nie was nie, wat ⟨את⟩ die slegte werk nie gesien het wat onder die son gedoen is nie.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "en beter"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "as albei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hy wat tot nou nog nie was nie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "tot nou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die slegte werk"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gedoen is"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:11.693566567Z",
+  "model": "glm-5.3"
+}

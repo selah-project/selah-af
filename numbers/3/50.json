@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "van ⟨את⟩ die eersgeborenes van die seuns van Jisraël het hy ⟨את⟩ die silwer geneem: vyf en sestig en driehonderd en duisend, in sjekels van die heiligdom.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "die eersgeborenes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het hy geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en sestig"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "en duisend"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "in sjekels"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:31.108398564Z",
+  "model": "glm-5.3"
+}

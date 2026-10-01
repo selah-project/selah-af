@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "In die moeite van sterflike mense ⟨is⟩ hulle nie, en met die mensdom word hulle nie gepla nie.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "in die moeite van"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sterflike mense"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "hulle nie"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mensdom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "word hulle gepla"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:15.291726671Z",
+  "model": "glm-5.3"
+}

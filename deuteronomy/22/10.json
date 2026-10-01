@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Jy mag nie met 'n os en 'n esel saam ploeg nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "jy mag ploeg"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "met 'n os"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "en met 'n esel"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:52.709449294Z",
+  "model": "glm-5.3"
+}

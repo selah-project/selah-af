@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "U het ons ongeregtighede voor U gestel, ons verborge sondes in die lig van u aangesig.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "U het ... gestel"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "ons ongeregtighede"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "ons verborge sondes"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "in die lig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van u aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:40.182294823Z",
+  "model": "glm-5.3"
+}

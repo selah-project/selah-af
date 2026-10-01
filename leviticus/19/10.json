@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En jou wingerd mag jy nie kaal pluk nie, en die los druiwe van jou wingerd mag jy nie byeenraap nie; vir die arm man en vir die bywoner moet jy dit laat — Ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "וכרמך",
+      "gloss": "en jou wingerd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "kaal pluk"
+    },
+    {
+      "surface": "ופרט",
+      "gloss": "en die los druiwe"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "van jou wingerd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "mag byeenraap"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "vir die arm man"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "en vir die bywoner"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "moet jy laat"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "dit (die los druiwe en die are)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:06.560656966Z",
+  "model": "glm-5.3"
+}

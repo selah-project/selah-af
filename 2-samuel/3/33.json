@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die koning het 'n klaaglied gemaak oor Awner en gesê: Soos die dood van 'n dwaas — sterf Awner?",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "het 'n klaaglied gemaak"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "soos die dood"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "van 'n dwaas"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sterf"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:27.759417103Z",
+  "model": "glm-5.3"
+}

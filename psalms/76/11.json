@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Want die grimmigheid van die mens sal U loof; die oorblyfsel van grimmigheid sal U omgord.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "die grimmigheid"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "sal U loof"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "die oorblyfsel"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "van grimmigheid"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "sal U omgord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:21.840108195Z",
+  "model": "glm-5.3"
+}

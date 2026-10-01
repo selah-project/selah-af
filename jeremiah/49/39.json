@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "En dit sal gebeur in die laaste dae: Ek sal die lot van Elam se ⟨את⟩ gevangeskap terugbring, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "in die laaste"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "Ek sal terugbring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangeskap van Elam"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "gevangeskap"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "van Elam"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:43:05.101690004Z",
+  "model": "glm-5.3"
+}

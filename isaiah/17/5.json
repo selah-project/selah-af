@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 17:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En dit sal wees soos wanneer ⟨die maaier⟩ die staande graan insamel en met sy arm are oes — soos wanneer ⟨iemand⟩ are lees in die dal van Refaïm.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En dit sal wees"
+    },
+    {
+      "surface": "כאסף",
+      "gloss": "soos wanneer ⟨die maaier⟩ insamel"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "graan"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "staande"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en met sy arm"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "are"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "oes"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "soos wanneer"
+    },
+    {
+      "surface": "כמלקט",
+      "gloss": "⟨iemand⟩ lees"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "are"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "in die dal"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "van Refaïm"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:53.967810650Z",
+  "model": "glm-5.3"
+}

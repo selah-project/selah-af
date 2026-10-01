@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ek slaan ⟨את⟩ my oë op en ek sien, en kyk, een man geklee in linne, en sy heupe omgord met goud van Ofaz.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "en ek slaan op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my oë"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "en ek sien"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "geklee"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "in linne"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "en sy heupe"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "van Ofaz"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:59.997373150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Vir die koorleier, op snaarspel; 'n onderriggedig van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "op snaarspel"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n onderriggedig"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:48.345731234Z",
+  "model": "glm-5.3"
+}

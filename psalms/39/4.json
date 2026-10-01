@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "My hart was warm in my binneste; terwyl ek my oordink, brand ⟨die⟩ vuur; ek het met my tong gespreek.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "was warm"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "in my binneste"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "terwyl ek oordink"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "brand"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ek het gespreek"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "met my tong"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:54.115224717Z",
+  "model": "glm-5.3"
+}

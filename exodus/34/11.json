@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Hou vir jou ⟨את⟩ dit wat ek u vandag beveel; kyk, ek verdryf voor u uit ⟨את⟩ die Emoriet en die Kanaäniet en die Getiet en die Perizziet en die Giwiet en die Jebusiet.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Hou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat ek u vandag beveel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "u beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, ek"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "verdryf"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor u uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriet"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "en die Kanaäniet"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "en die Getiet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en die Perizziet"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "en die Giwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en die Jebusiet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:00.827870845Z",
+  "model": "glm-5.3"
+}

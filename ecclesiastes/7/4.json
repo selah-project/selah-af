@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Die hart van wyse ⟨is⟩ in ⟨die⟩ huis van rou, en die hart van dwase in ⟨die⟩ huis van blydskap.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Die hart"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "van wyse"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨die⟩ huis"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "van rou"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en die hart"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwase"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in ⟨die⟩ huis"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "van blydskap"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:58.037361834Z",
+  "model": "glm-5.3"
+}

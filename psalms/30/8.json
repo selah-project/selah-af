@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Jahweh, in u welbehae het u my berg laat staan ⟨as⟩ sterkte; u het u aangesig verborge gehou — ek was verskrik.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "in u welbehae"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "het u laat staan"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "my berg"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterkte"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "u het verborge gehou"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ek was"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:54.127392086Z",
+  "model": "glm-5.3"
+}

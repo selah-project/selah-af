@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Baësja, koning van Jisraël, het opgetrek teen Jehoeda en ⟨את⟩ die Ramah gebou, om niemand uit te laat gaan of in te kom vir Asa, koning van Jehoeda, nie.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baësja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ramah"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "die Ramah"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om nie"
+    },
+    {
+      "surface": "תת",
+      "gloss": "te laat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uitgaan"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "of inkom"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "vir Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:15.986571289Z",
+  "model": "glm-5.3"
+}

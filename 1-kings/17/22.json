@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Jahweh het na die stem van Elia geluister, en die siel van die kind het in sy binnenste teruggekeer, en hy het geleef.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sy binnenste"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "het geleef"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:43.034426007Z",
+  "model": "glm-5.3"
+}

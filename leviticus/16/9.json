@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Aharon sal ⟨את⟩ die bok aanbied waarop die lot vir Jahweh uitgekom het, en hom tot 'n sondeoffer maak.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "en sal aanbied"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "die bok"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "uitgekom het"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "die lot"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "en hom maak"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "tot sondeoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:10.261506992Z",
+  "model": "glm-5.3"
+}

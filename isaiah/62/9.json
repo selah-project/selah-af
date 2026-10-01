@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Want sy wat dit insamel, sal dit eet en Jahweh loof ⟨את⟩; en sy wat dit bymekaarmaak, sal dit drink in die howe van my heiligdom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "sy wat insamel"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "sal dit eet"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "en sal loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "en sy wat bymekaarmaak"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "sal dit drink"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "in die howe"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "van my heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:00.006566471Z",
+  "model": "glm-5.3"
+}

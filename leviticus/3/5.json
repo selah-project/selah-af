@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die seuns van Aharon sal ⟨אתו⟩ as reukwerk laat opgaan op die altaar, op ⟨die⟩ brandoffer wat op die hout is wat op die vuur is — 'n vuuroffer, 'n aangename geur vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "sal as reukwerk laat opgaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vuuroffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "geur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "aangename"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:36.655904125Z",
+  "model": "glm-5.3"
+}

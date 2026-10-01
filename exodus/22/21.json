@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Enige weduwee en wees moet julle nie verdruk nie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "weduwee"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "en wees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "moet julle verdruk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:53.592757203Z",
+  "model": "glm-5.3"
+}

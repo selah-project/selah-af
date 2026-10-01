@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het die begeerlike land verag, sy woord nie geglo nie.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "en hulle het verag"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "begeerlike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "geglow geglo het nie"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "sy woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.608964092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "genesis 24:64",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Ribka het ⟨את⟩ haar oë opgehef en ⟨את⟩ Jitsgak gesien, en sy het van die kameel af geval-gedaal.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "en sy het opgehef"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar oë"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "haar oë"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "en sy het afgestyg"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "die kameel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:42.256202139Z",
+  "model": "glm-5.3"
+}

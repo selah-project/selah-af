@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 91,
+  "ref": "psalms 119:91",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Volgens jou regsbepalings staan hulle ⟨vandag⟩ nog; want die hele ⟨skepping⟩ ⟨is⟩ jou dienaars.",
+  "tokens": [
+    {
+      "surface": "למשפטיך",
+      "gloss": "volgens jou regsbepalings"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "staan hulle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag nog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "is jou dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:22.365339917Z",
+  "model": "glm-5.3"
+}

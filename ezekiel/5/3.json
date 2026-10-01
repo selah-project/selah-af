@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En jy moet daarvan 'n klein aantal neem en hulle ⟨את⟩ in jou vlerke toewind.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "En jy moet neem"
+    },
+    {
+      "surface": "משם",
+      "gloss": "daarvandaan"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n klein aantal"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in getal"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "en toewind"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "in jou vlerke"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "in jou vlerke"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:43.133059740Z",
+  "model": "glm-5.3"
+}

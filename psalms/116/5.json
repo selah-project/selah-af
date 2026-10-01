@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Genadig ⟨is⟩ Jahweh en regverdige, ja onse Elohim ⟨is⟩ barmhartig.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en regverdige"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "ja onse Elohim"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "barmhartig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:48.271099840Z",
+  "model": "glm-5.3"
+}

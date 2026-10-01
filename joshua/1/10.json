@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jehosjoea het ⟨את⟩ die beamptes van die volk beveel om te sê:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het beveel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die beamptes van die volk"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "die beamptes"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:43.855853627Z",
+  "model": "glm-5.3"
+}

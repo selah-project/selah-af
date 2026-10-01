@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Bewaar my, Jahweh, van die hande van die goddelose; van 'n man van geweldadighede bewaar U my, hulle wat beplan het om my treeg weg te stoot.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "bewaar my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "van die hande"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "van geweldadighede"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "bewaar U my"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hulle wat"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "beplan het"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "om weg te stoot"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "my treeg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:21.130183773Z",
+  "model": "glm-5.3"
+}

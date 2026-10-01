@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Newazaradan, die owerste van die slagters, het hulle ⟨את⟩ geneem en hulle na die koning van Babel gebring, Riblawa toe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en het geneem"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "hulle (die gevangenes)"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "Newazaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van die slagters"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en het gebring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "Riblawa toe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:36.566795036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het vir ewig aan sy verbond gedink, die woord wat hy vir 'n duisend geslagte beveel het.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Hy het gedink"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "aan sy verbond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "vir 'n duisend"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslagte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.821444854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het ⟨את⟩ die teenstanders van Retsin bo hom verhef, en ⟨את⟩ sy vyande aangehits.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die teenstanders van Retsin"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "teenstanders"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "bo hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy vyande"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sy vyande"
+    },
+    {
+      "surface": "יסככך",
+      "gloss": "aangehits"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:11.470226717Z",
+  "model": "glm-5.3"
+}

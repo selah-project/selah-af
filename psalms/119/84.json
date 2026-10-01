@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Hoe veel is die dae van u dienaar? Hoe lank nog sal U oor my agtervolgers reg doen?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "hoe veel"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van u dienaar"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank nog"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal U doen"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "aan my agtervolgers"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:34.300525654Z",
+  "model": "glm-5.3"
+}

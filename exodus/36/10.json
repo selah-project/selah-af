@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En hy verbind ⟨את⟩ die vyf voorhangsels een aan een, en vyf voorhangsels het hy verbinding een aan een.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "en hy verbind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vyf voorhangsels"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "voorhangsels"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vyf"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "voorhangsels"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "het hy verbinding"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:22.766826089Z",
+  "model": "glm-5.3"
+}

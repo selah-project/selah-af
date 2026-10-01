@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 8:2",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Esra die priester het ⟨את⟩ die Tora gebring voor die vergadering, van man tot vrou en enigeen wat kon verstaan om te hoor, op een dag van die sewende maand.",
+  "tokens": [
+    {
+      "surface": "ויביא",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "die vergadering"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vrou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en enigeen"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "wat verstaan"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "om te hoor"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op een dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    }
+  ],
+  "timestamp": "2026-10-01T00:42:08.146872092Z",
+  "model": "glm-5.3"
+}

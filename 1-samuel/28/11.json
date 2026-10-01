@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En die vrou sê: ⟨את⟩ Wie moet ek vir jou laat opkom? En hy sê: ⟨את⟩ Sjemoeël — laat hom vir my opkom.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "moet ek laat opkom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "laat opkom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:59.993347214Z",
+  "model": "glm-5.3"
+}

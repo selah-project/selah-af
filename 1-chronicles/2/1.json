@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Dit is die seuns van Jisraël: Reuwen, Sjimön, Levi en Jehoeda, Jissaskar en Seboelon.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Reuwen"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjimön"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "en Seboelon"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:11.273915765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Bring aan Elohim 'n offer van dank, en betaal aan die Allerhoogste jou geloftes.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "bring 'n offer van"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dank"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "en betaal"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "aan die Allerhoogste"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "jou geloftes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.317066735Z",
+  "model": "glm-5.3"
+}

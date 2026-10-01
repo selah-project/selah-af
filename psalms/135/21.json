@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Geseënd ⟨is⟩ Jahweh uit Tsijon, ⟨hy⟩ wat in Jerusjalajim woon. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsijon"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woon"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:51.774565741Z",
+  "model": "glm-5.3"
+}

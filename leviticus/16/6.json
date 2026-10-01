@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Aharon sal ⟨את⟩ die bul van die sondoffer wat vir hom is, naby bring, en versoening bewerk vir hom en vir sy huis.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "sal naby bring"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul van die sondoffer"
+    },
+    {
+      "surface": "פר",
+      "gloss": "bul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom is"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en versoening bewerk"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en vir"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:11.858894543Z",
+  "model": "glm-5.3"
+}

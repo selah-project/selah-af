@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 26:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En vir Hosja, van die seuns van Merari, seuns: Sjimri ⟨die⟩ hoof, want hy ⟨was⟩ nie die eersgeborene nie, en sy vader het hom as hoof aangestel.",
+  "tokens": [
+    {
+      "surface": "ולחסה",
+      "gloss": "En vir Hosja"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Sjimri"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨die⟩ hoof"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨was⟩"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "וישימהו",
+      "gloss": "en hy het hom aangestel"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "as hoof"
+    }
+  ],
+  "timestamp": "2026-10-01T00:52:41.726318743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "'n Man, arm, en wat die verdruktes onderdruk — ⟨soos⟩ 'n uitskurende reën, en daar is geen brood nie.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "'n Man"
+    },
+    {
+      "surface": "רש",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "en wat onderdruk"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "die verdruktes"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "'n reën"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "uitskurende"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:28.575075137Z",
+  "model": "glm-5.3"
+}

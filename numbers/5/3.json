@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 5:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "van manlike tot vroulike sal julle ⟨hulle⟩ wegstuur; buitekant die laer sal julle hulle wegstuur, sodat hulle nie ⟨את⟩ hulle kampe onrein maak nie, waar Ek woning maak in hulle midde.",
+  "tokens": [
+    {
+      "surface": "מזכר",
+      "gloss": "van manlike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "vroulike"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "sal julle wegstuur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die laer"
+    },
+    {
+      "surface": "תשלחום",
+      "gloss": "sal julle hulle wegstuur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יטמאו",
+      "gloss": "hulle onrein maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kampe"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "hulle kampe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woning maak"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hulle midde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:09.027660769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨hy⟩ het my gebring ⟨את⟩ na die opening van die voorhof; en ek het gekyk, en kyk, een gaatjie in die muur.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en ⟨hy⟩ het gebring"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die opening"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "en ek het gekyk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "חר",
+      "gloss": "gaatjie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "in die muur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:07.266828011Z",
+  "model": "glm-5.3"
+}

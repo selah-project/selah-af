@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 49:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Vervloek ⟨is⟩ hulle toorn, want ⟨dit is⟩ heftig, en hulle grimmigheid, want ⟨dit was⟩ hard; ek sal hulle verdeel in Jaäkow en hulle verstrooi in Jisraël.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "hulle toorn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עז",
+      "gloss": "heftig"
+    },
+    {
+      "surface": "ועברתם",
+      "gloss": "en hulle grimmigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קשתה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "אחלקם",
+      "gloss": "ek sal hulle verdeel"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Jaäkow"
+    },
+    {
+      "surface": "ואפיצם",
+      "gloss": "en hulle verstrooi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:59.087952137Z",
+  "model": "glm-5.3"
+}

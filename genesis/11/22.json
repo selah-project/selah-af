@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Serug het dertig jaar gelewe, en hy het ⟨את⟩ Nagor verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nagor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nagor"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:26.262819028Z",
+  "model": "glm-5.3"
+}

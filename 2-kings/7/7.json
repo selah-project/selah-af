@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 7:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En hulle het in die skemering opgestaan en gevlug, en hulle het hulle tente ⟨את⟩ laat staan, en ⟨את⟩ hulle perde, en ⟨את⟩ hulle donkies, die kamp soos dit was, en hulle het gevlug, elkeen vir sy lewe.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "en hulle het opgestaan"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "en gevlug"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "in die skemering"
+    },
+    {
+      "surface": "ויעזבו",
+      "gloss": "en laat staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle tente"
+    },
+    {
+      "surface": "אהליהם",
+      "gloss": "hulle tente"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle perde"
+    },
+    {
+      "surface": "סוסיהם",
+      "gloss": "hulle perde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle donkies"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hulle donkies"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit was"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en hulle het gevlug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:07.787650457Z",
+  "model": "glm-5.3"
+}

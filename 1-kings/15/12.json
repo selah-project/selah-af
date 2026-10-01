@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En hy het die kedesjitiese prostitutees uit die land laat verdwyn, en al die afgode wat sy vaders gemaak het, weggedoen ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "het laat verdwyn"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die kedesjitiese prostitutees"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "en weggedoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die afgode"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "die afgode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:24.528800549Z",
+  "model": "glm-5.3"
+}

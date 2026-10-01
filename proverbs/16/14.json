@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Die gloed van 'n koning ⟨is⟩ boodskappers van die dood, en 'n wyse man versoen dit.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "gloed\/toorn"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van 'n koning"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wyse"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "versoen dit"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:09.485221522Z",
+  "model": "glm-5.3"
+}

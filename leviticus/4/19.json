@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ⟨את】 al sy vet sal hy daarvan af wegneem en op die altaar laat rook",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al sy vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "sy vet"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "sal hy wegneem"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en laat rook"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:09.566874386Z",
+  "model": "glm-5.3"
+}

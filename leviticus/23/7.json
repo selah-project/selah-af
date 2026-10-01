@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Op die eerste dag sal daar 'n heilige samekoms vir julle wees; geen werk van dienswerk sal julle doen nie.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op die dag"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "samekoms"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "werk"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "van diens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sal julle doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:44.345699201Z",
+  "model": "glm-5.3"
+}

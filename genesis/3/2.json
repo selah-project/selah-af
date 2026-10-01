@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die vrou het aan die slang gesê: Van die vrugte van die bome van die tuin eet ons",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "die slang"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "van die vrugte"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "van die bome"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "van die tuin"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "eet ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:51.352889220Z",
+  "model": "glm-5.3"
+}

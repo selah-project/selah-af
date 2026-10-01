@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en wat hy vir julle in die woestyn gedoen het, tot by jul koms na hierdie plek toe,",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "jul koms"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na ... toe"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "hierdie plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.193013361Z",
+  "model": "glm-5.3"
+}

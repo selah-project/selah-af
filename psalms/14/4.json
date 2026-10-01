@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Weet hulle nie — al die werkers van ongerymdheid — nie? Die eters van my volk het brood ge-eet; Jahweh het hulle nie aangeroep nie.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "weet hulle nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "werkers van"
+    },
+    {
+      "surface": "און",
+      "gloss": "ongerymdheid"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eters van"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "het ge-eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "aangeroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:47.328900555Z",
+  "model": "glm-5.3"
+}

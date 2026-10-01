@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Het die werkers van nietigheid geen kennis nie, ⟨die⟩ eters van my volk het brood geëet — Elohim het hulle nie aangeroep nie.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "het ... geen"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "werkers"
+    },
+    {
+      "surface": "און",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "eters"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "het geëet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "aangeroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.353959772Z",
+  "model": "glm-5.3"
+}

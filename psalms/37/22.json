@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want ⟨die wat deur Hom> geseën word, sal ⟨die⟩ land erf, en ⟨die wat deur Hom> vervloek word, sal afgekap word.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מברכיו",
+      "gloss": "sy geseëndes"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "sal erf"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "en sy vervloektes"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "sal afgekap word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:20.058002047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Loof, my siel, ⟨את⟩ Jahweh, en vergeet nie al sy weldade nie.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "sy weldade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.607031754Z",
+  "model": "glm-5.3"
+}

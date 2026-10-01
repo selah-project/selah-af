@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Jahweh sal jou uitgaan en jou ingaan bewaar, van nou af en tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "sal bewaar"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "jou uitgaan"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "en jou ingaan"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nou af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.020154437Z",
+  "model": "glm-5.3"
+}

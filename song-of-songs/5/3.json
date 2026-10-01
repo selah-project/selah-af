@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ek het ⟨את⟩ my kleed uitgetrek — hoe sal ek dit aantrek? Ek het ⟨את⟩ my voete gewas — hoe sal ek hulle bevlek?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "ek het uitgetrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my kleed"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "my kleed"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "sal ek dit aantrek"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "ek het gewas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my voete"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "sal ek hulle bevlek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:17.377902058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 32:32",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En nou — as U hulle sonde dra, ⟨vergewig⟩; maar as nie, dan wis my tog uit U boek wat U geskryf het.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "U dra"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hulle sonde"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מחני",
+      "gloss": "wis my uit"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "מספרך",
+      "gloss": "uit U boek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "U geskryf het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:40.777030311Z",
+  "model": "glm-5.3"
+}

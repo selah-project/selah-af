@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Wie is dit wat raad verberg sonder kennis? Daarom het ek gespreek en nie verstaan nie — dinge te wonderbaarlik vir my, wat ek nie geweet het nie.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "raad"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "het ek gespreek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "dinge te wonderbaarlik"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "geweet het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:06.168986850Z",
+  "model": "glm-5.3"
+}

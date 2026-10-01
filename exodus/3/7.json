@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jahweh het gesê: Ek het sekerlik gesien ⟨את⟩ die ellende van my volk wat in Mitsrajim is, en ⟨את⟩ hul geskreeu het ek gehoor vanweë hul dwersyers, want ek ken ⟨את⟩ hul pyne.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En gehet gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sekerlik gesien"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het ek gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ellende van my volk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die ellende"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van my volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul geskreeu"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "hul geskreeu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "het ek gehoor"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "hul dwersyers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul pyne"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "hul pyne"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:46.040906002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Jahweh het in ⟨die⟩ wolk neergedaal en het hom daar gestaan en het in die naam van Jahweh geroep",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "het neergedaal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "in die wolk"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en het geroep"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:07.491737738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "In die dag van my benoudheid het ek Adonai gesoek; my hand is in die nag uitgestort en het nie verslap nie; my siel het geweier om vertroos te word.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in die dag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "van my benoudheid"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "het ek gesoek"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "is uitgestort"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en het nie"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "verslap"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "het geweier"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "om vertroos te word"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:58.206045595Z",
+  "model": "glm-5.3"
+}

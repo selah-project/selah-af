@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "’n Maskiel van Dawid. Jahweh, wie sal as vreemdeling vertoef in u tente? Wie sal woon op u heilige berg?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "’n Maskiel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "sal as vreemdeling vertoef"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "in u tente"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "sal woon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op u berg"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.339461651Z",
+  "model": "glm-5.3"
+}

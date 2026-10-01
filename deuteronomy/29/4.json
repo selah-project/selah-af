@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 29:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ek het julle ⟨את⟩ veertig jaar in die woestyn laat trek — julle klere het nie van julle af uitgehou nie, en jou skoen het nie van jou voet af uitgehou nie.",
+  "tokens": [
+    {
+      "surface": "ואולך",
+      "gloss": "en ek het laat trek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "het uitgehou"
+    },
+    {
+      "surface": "שלמתיכם",
+      "gloss": "julle klere"
+    },
+    {
+      "surface": "מעליכם",
+      "gloss": "van julle af"
+    },
+    {
+      "surface": "ונעלך",
+      "gloss": "en jou skoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "het uitgehou"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jou voet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:41.634558979Z",
+  "model": "glm-5.3"
+}

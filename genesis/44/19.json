@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "My heer het ⟨את⟩ sy diensknegte gevra en gesê: het julle 'n vader of 'n broer?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "het gevra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy diensknegte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy diensknegte"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "היש",
+      "gloss": "het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "אב",
+      "gloss": "'n vader"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אח",
+      "gloss": "'n broer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:25.669566579Z",
+  "model": "glm-5.3"
+}

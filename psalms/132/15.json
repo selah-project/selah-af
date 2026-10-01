@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Haar voedsel seën Ek sekerlik, haar behoeftiges versadig Ek met brood.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "haar voedsel"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "seën"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "Ek sal sekerlik seën"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "haar behoeftiges"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "versadig Ek"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "met brood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:04.629124523Z",
+  "model": "glm-5.3"
+}

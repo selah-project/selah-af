@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Hy wat die woord van Jahweh gevrees het onder die dienaars van Paro, het sy dienaars ⟨את⟩ en sy vee ⟨את⟩ laat vlug na die huise toe.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "Hy wat gevrees het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "onder die dienaars"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "het laat vlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dienaars"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vee"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sy vee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die huise"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:27.298110819Z",
+  "model": "glm-5.3"
+}

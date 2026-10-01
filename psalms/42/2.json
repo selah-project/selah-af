@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Soos 'n hert smag ⟨na⟩ waterstrome, so smag my siel na U, o Elohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "Soos 'n hert"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "smag"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "strome"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "smag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:04.158055790Z",
+  "model": "glm-5.3"
+}

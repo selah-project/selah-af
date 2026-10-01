@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hy wat 'n man steel en hom verkoop, en hy word in sy hand gevind — sterwe moet hy gedood word.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "en hy wat steel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "en hom verkoop"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "en hy word gevind"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterwe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet hy gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:18.316763833Z",
+  "model": "glm-5.3"
+}

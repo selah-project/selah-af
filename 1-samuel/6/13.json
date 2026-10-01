@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 6:13",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die mense van Bet-Sjemesj was besig om koringoes in die vallei in te samel, en hulle het ⟨את⟩ hulle oë opgelig en ⟨את⟩ die ark gesien en was bly om te sien.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "en Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sjemesj"
+    },
+    {
+      "surface": "קצרים",
+      "gloss": "was besig om te insamel"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "oes"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "koring"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "in die vallei"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het opgelig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle oë"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "hulle oë"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en hulle was bly"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:58.583175187Z",
+  "model": "glm-5.3"
+}

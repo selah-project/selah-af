@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 9:11",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Tsiba het vir die koning gesê: Volgens alles wat my heer die koning sy dienaar ⟨את⟩ beveel, so sal jou dienaar doen. En Mefibosjet eet aan my tafel soos een van die seuns van die koning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dienaar"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy dienaar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienaar"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "En Mefibosjet"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "my tafel"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "soos een"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:18.555049409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 9:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Diep het hulle hulself bederf soos in die dae van Gibea; Hy sal hulle ongeregtigheid gedenk, Hy sal hulle sondes besoek.",
+  "tokens": [
+    {
+      "surface": "העמיקו",
+      "gloss": "diep het hulle gemaak"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "hulle het bederf"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "soos in die dae van"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "יזכור",
+      "gloss": "Hy sal gedenk"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "יפקוד",
+      "gloss": "Hy sal besoek"
+    },
+    {
+      "surface": "חטאותם",
+      "gloss": "hulle sondes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:13.220176735Z",
+  "model": "glm-5.3"
+}

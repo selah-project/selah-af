@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 24:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En nou, kyk, ek weet dat jy as koning sal regeer, en die koninkryk van Jisraël sal in jou hand ⟨op⟩staan.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "תמלוך",
+      "gloss": "sal jy regeer"
+    },
+    {
+      "surface": "וקמה",
+      "gloss": "sal opstaan"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "koninkryk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:33.646895246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Maar jy, staan op, gaan na jou huis; as jou voete die stad binnekom, sal die kind sterwe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "maar jy"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "na jou huis"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "as ... binnekom"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "jou voete"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "sal sterwe"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:12.656216482Z",
+  "model": "glm-5.3"
+}

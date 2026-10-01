@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Arpagsjad het ⟨את⟩ Sjelag verwek, en Sjelag het ⟨את⟩ Ewer verwek.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "En Arpagsjad"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjelag"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sjelag"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en Sjelag"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ewer"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:33.777780183Z",
+  "model": "glm-5.3"
+}

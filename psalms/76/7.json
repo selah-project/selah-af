@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 76:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Van U bestraffing af, Elohim van Jaäkow, is die strydwa en die perd in diepe slaap gewerp.",
+  "tokens": [
+    {
+      "surface": "מגערתך",
+      "gloss": "Van U bestraffing af"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "in diepe slaap gewerp"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "die strydwa"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "en die perd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:39.512330234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Elke man help ⟨את⟩ sy naaste, en tot sy broer sê hy: Wees sterk!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "help"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "en tot sy broer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê hy"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wees sterk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:55.854550523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Sluk ⟨את⟩ hulle op, Adonai; splits hulle tong, want ek het geweld en stryd in die stad gesien.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "sluk op"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "splits"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "hulle tong"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het ek gesien"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "en stryd"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.785389515Z",
+  "model": "glm-5.3"
+}

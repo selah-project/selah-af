@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 30:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "In gebrek en honger ׳verlate׳ — hulle wat na ⟨die⟩ dorre streke vlug, gister-verwoesting en woestenis.",
+  "tokens": [
+    {
+      "surface": "בחסר",
+      "gloss": "in gebrek"
+    },
+    {
+      "surface": "ובכפן",
+      "gloss": "en in honger"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "verlate"
+    },
+    {
+      "surface": "הערקים",
+      "gloss": "hulle wat vlug"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dorpe streke"
+    },
+    {
+      "surface": "אמש",
+      "gloss": "gister"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "ומשאה",
+      "gloss": "en woestenis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:03.965225183Z",
+  "model": "glm-5.3"
+}

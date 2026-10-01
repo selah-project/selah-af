@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh sit tot in ewigheid; Hy het vir ⟨die⟩ reg sy troon gevestig.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sit"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "Hy het gevestig"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "vir ⟨die⟩ reg"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sy troon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:35.862302291Z",
+  "model": "glm-5.3"
+}

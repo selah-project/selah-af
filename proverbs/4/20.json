@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "My seun, luister na my woorde; neig jou oor na my sê.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "na my woorde"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "na my sê"
+    },
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "jou oor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:31.541141790Z",
+  "model": "glm-5.3"
+}

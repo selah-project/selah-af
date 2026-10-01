@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En hulle het die afgode gedien, waarvan Jahweh vir hulle gesê het: Julle mag ⟨את⟩ hierdie ding nie doen nie.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het gedien"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "die afgode"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "julle mag doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:21.622438027Z",
+  "model": "glm-5.3"
+}

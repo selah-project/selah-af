@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Die dade van sy hande ⟨is⟩ waarheid en reg; al sy bevele ⟨is⟩ getrou.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "die dade"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "getrou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "sy bevele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.336016640Z",
+  "model": "glm-5.3"
+}

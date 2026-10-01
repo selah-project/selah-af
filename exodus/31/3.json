@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "en ek het hom vervul met ⟨את⟩ die roeag van Elohim, in wysheid en in insig en in kennis en in elke werk —",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "en ek het vervul"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Betseél)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wysheid"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "en in insig"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "en in kennis"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in elke"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.703264817Z",
+  "model": "glm-5.3"
+}

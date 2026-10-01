@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 8:21",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨hy⟩ sal daardeur gaan, verhard en hongerig; en dit sal gebeur dat wanneer hy honger ly en hom kwel, sal hy sy koning en sy Elohim vloek en die gesig opwaarts keer.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "en sal gaan"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daardeur"
+    },
+    {
+      "surface": "נקשה",
+      "gloss": "verhard"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "en hongerig"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat wanneer"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "hy honger ly"
+    },
+    {
+      "surface": "והתקצף",
+      "gloss": "en hom kwel"
+    },
+    {
+      "surface": "וקלל",
+      "gloss": "sal vloek"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "sy koning"
+    },
+    {
+      "surface": "ובאלהיו",
+      "gloss": "en sy Elohim"
+    },
+    {
+      "surface": "ופנה",
+      "gloss": "en die gesig keer"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "opwaarts"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:05.616366360Z",
+  "model": "glm-5.3"
+}

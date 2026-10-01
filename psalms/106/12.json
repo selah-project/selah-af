@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Toe het hulle sy woorde geglo; hulle het sy lof gesing.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "geglo het"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "sy woorde"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "gesing het"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:15.170288138Z",
+  "model": "glm-5.3"
+}

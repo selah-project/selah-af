@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 21:24",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Wie van Agab ⟨in⟩ die stad sterwe, die honde sal hom eet; en wie in die veld sterwe, die voëls van die hemel sal hom eet.",
+  "tokens": [
+    {
+      "surface": "המת",
+      "gloss": "wie sterwe"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die honde"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "en wie sterwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:49.176815157Z",
+  "model": "glm-5.3"
+}

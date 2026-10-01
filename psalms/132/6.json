@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Kyk, ons het daarvan gehoor in Efrata, ons het dit gevind in die velde van Jaär.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "ons het daarvan gehoor"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "in Efrata"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "ons het dit gevind"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "in die velde"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van Jaär"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:07.604437125Z",
+  "model": "glm-5.3"
+}

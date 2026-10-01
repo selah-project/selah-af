@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Want hoog is Jahweh, en die nederige sien ⟨hy⟩, en die hoogmoedige ken ⟨hy⟩ van ver af.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רם",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "en die nederige"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sien ⟨hy⟩"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "en die hoogmoedige"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "van ver af"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "ken ⟨hy⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.090374428Z",
+  "model": "glm-5.3"
+}

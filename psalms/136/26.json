@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Loof ⟨die⟩ El van ⟨die⟩ hemel, want tot in ewigheid ⟨is⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "⟨die⟩ El van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨die⟩ hemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:53.098728124Z",
+  "model": "glm-5.3"
+}

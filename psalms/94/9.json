@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Hy wat ⟨die⟩ oor geplant het, sal Hy nie hoor nie? Hy wat ⟨die⟩ oog geform het, sal Hy nie sien nie?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "hy wat geplant het"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "sal Hy nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "אם",
+      "gloss": "hy wat"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "geform het"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "sal Hy nie"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "sien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.920935478Z",
+  "model": "glm-5.3"
+}

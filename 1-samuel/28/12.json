@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Toe die vrou ⟨את⟩ Sjemoeël sien, skreeu sy met 'n groot stem, en die vrou sê vir Sjaoel en sê: Waarom het jy my bedrieg — en jy is Sjaoel!",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "toe sy sien"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjemoeël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "skreeu sy"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met 'n stem"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "het jy my bedrieg"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "is Sjaoel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:59.993515684Z",
+  "model": "glm-5.3"
+}

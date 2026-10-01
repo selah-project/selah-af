@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 24:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "en ook weens die onskuldige bloed wat hy vergiet het — want hy het ⟨את⟩ Jerusjalajim met onskuldige bloed gevul — en Jahweh was nie gewillig om te vergewe nie.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "die onskuldige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "hy vergiet het"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en hy het gevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "דם",
+      "gloss": "met bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onskuldige"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "was gewillig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לסלח",
+      "gloss": "om te vergewe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:35.190259590Z",
+  "model": "glm-5.3"
+}

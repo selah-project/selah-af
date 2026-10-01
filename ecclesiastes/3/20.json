@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Die hele gaan na een plek; die hele ⟨is⟩ uit die stof, en die hele keer terug na die stof.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "is"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "die stof"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "die stof"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:50.286883860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Kom, hoor, alle wat Elohim vrees, en ek sal vertel wat hy vir my siel gedoen het.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "en ek sal vertel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "wat vrees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "vir my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:34.272001379Z",
+  "model": "glm-5.3"
+}

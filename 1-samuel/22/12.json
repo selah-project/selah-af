@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Sjaol sê: Luister tog, seun van Agitub. En hy sê: Hier is ek, my heer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Sjaol sê"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaol"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "van Agitub"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier is ek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:51.211206305Z",
+  "model": "glm-5.3"
+}

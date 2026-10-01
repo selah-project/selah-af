@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 10:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Wee hulle wat verordenings van onreg verorden, en skrywers wat verdrukking skrywe —",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "החקקים",
+      "gloss": "hulle wat verorden"
+    },
+    {
+      "surface": "חקקי",
+      "gloss": "verordenings"
+    },
+    {
+      "surface": "און",
+      "gloss": "van onreg"
+    },
+    {
+      "surface": "ומכתבים",
+      "gloss": "en skrywers"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "verdrukking"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "skrywe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:04.481960952Z",
+  "model": "glm-5.3"
+}

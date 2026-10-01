@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "As ek my met sneeu was en my hande met loog skoonmaak —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "ek my was"
+    },
+    {
+      "surface": "במו",
+      "gloss": "met"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeu"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "en my hande skoonmaak"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "met loog"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my hande"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:55.710666397Z",
+  "model": "glm-5.3"
+}

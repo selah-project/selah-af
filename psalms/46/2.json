@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Elohim is vir ons 'n toevlug en sterkte, 'n hulp in benoudhede, ryklik gevind.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "'n toevlug"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "en sterkte"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "'n hulp"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "in benoudhede"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "gevind"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ryklik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:07.890007771Z",
+  "model": "glm-5.3"
+}

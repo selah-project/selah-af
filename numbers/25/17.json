@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Beknou ⟨את⟩ die Midjanieters, en sláán ⟨את⟩ hulle;",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Beknou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Midjanieters"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "die Midjanieters"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "en sláán"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:53.655964957Z",
+  "model": "glm-5.3"
+}

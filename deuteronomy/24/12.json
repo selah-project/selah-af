@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En as die man 'n arm man ⟨is⟩, moet jy nie met sy pand gaan lê nie.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "עני",
+      "gloss": "'n arm man"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "moet jy nie gaan lê nie"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "met sy pand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:42.160883229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Jahweh help hulle en red hulle; hy red hulle uit die hand van die goddelose en verlos hulle, want hulle het by hom skuiling gesoek.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "en help hulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "en red hulle"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "hy red hulle"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "uit die hand van die goddelose"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "en verlos hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "het skuiling gesoek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.933837388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 1:18",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En nou, kyk, Adonija het koning geword — en nou, my heer die koning, u weet ⟨dit⟩ nie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Adonija"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het koning geword"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "u weet ⟨dit⟩ nie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:45.173286717Z",
+  "model": "glm-5.3"
+}

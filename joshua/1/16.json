@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 1:16",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle het ⟨את⟩ Jehosjoea geantwoord en gesê: Alles wat julle ons beveel het, sal ons doen, en na elke plek waarheen julle ons stuur, sal ons gaan.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "En hulle het geantwoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צויתנו",
+      "gloss": "julle ons beveel het"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sal ons doen"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "julle ons stuur"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "sal ons gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:57.633094143Z",
+  "model": "glm-5.3"
+}

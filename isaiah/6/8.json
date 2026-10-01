@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Toe hoor ek ⟨את⟩ die stem van Adonai wat sê: ⟨את⟩ Wie sal ek stuur, en wie sal vir ons gaan? Toe sê ek: Hier is ek, stuur my.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Toe hoor ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stem"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "van Adonai"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wat sê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "sal ek stuur"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "sal gaan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Toe sê ek"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Hier is ek"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "stuur my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:30.831368538Z",
+  "model": "glm-5.3"
+}

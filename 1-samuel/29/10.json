@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En nou, staan môre vroeg op, jy en die dienaars van jou heer wat met ⟨את⟩ jou gekom het, en as julle môre vroeg opgestaan het en dit lig word, gaan dan heen.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "staan vroeg op"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "en die dienaars"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van jou heer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou",
+      "marks": "met jou"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "en as julle vroeg opgestaan het"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en dit lig word"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "gaan heen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:56.355621160Z",
+  "model": "glm-5.3"
+}

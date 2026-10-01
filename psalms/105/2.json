@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Sing vir hom, speel psalms vir hom, peins oor al sy wonders.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel psalms"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "peins"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor al"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "sy wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.226147815Z",
+  "model": "glm-5.3"
+}

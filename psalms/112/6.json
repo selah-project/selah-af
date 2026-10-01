@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Want tot in ewigheid sal hy nie wankel nie; tot 'n gedenkteken vir ewig sal die regverdige wees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sal hy wankel"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "tot 'n gedenkteken"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:08.143789598Z",
+  "model": "glm-5.3"
+}

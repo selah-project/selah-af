@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Hoerery en wyn en mos neem die hart weg.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Hoerery"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wyn"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "en mos"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neem weg"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:08.265189057Z",
+  "model": "glm-5.3"
+}

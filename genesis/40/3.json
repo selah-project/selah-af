@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 40:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het hulle ⟨את⟩ in bewaring gegee in die huis van die owerste van die slagters, in die gevangenis, die plek waar Josef gevange was.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle — in bewaring gegee"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "שר",
+      "gloss": "van die owerste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "van die slagters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "van die gevangenis"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "gevange was"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:00.733395080Z",
+  "model": "glm-5.3"
+}

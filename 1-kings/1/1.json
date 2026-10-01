@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning Dawid was oud, in ⟨die⟩ dae gekom, en hulle het hom met klere toegedek, maar dit het nie vir hom warm geword nie.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in die dae"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "en hulle het hom toegedek"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "met klere"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "warm geword"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:48.820972662Z",
+  "model": "glm-5.3"
+}

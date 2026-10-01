@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Mag Hy nie toelaat dat jou voet wankel nie, mag jou bewaarder nie sluimer nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "Hy toelaat"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "dat … wankel"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jou voet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "sluimer"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "jou bewaarder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.941622436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal ⟨את⟩ die brandoffer-altaar voor die ingang van die Misjkan, die tent van ontmoeting, plaas.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer-altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van die brandoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Misjkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:04.542183286Z",
+  "model": "glm-5.3"
+}

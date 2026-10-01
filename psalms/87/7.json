@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "En sangers soos fluitspelers ⟨sal sê⟩: al my fonteine is in U.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "En sangers"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "soos fluitspelers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "my fonteine"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:31.290804394Z",
+  "model": "glm-5.3"
+}

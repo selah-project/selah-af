@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Wanneer jy wandel, sal dit ⟨את⟩ jou lei; wanneer jy lê, sal dit oor jou waak; en as jy wakker word, sal dit met jou spreek.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "Wanneer jy wandel"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "sal dit lei"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "wanneer jy lê"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "sal dit waak"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oor jou"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "en as jy wakker word"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit ⟨is⟩"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "met jou spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:56.679240179Z",
+  "model": "glm-5.3"
+}

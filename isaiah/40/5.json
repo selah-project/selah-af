@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En geopenbaar sal word die glans van Jahweh, en alle vlees sal dit tesame sien, want die mond van Jahweh het gespreek.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "en geopenbaar sal word"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die glans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en ... sal sien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.208110072Z",
+  "model": "glm-5.3"
+}

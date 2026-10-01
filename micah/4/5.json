@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Want al die volke sal loop, elkeen in die naam van sy god, maar ons sal loop in die naam van Jahweh onse Elohim, tot in ewigheid en verder.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sal loop"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam van"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy god"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "maar ons"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "sal loop"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en verder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:50.527405720Z",
+  "model": "glm-5.3"
+}

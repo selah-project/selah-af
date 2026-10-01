@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 7:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die visse wat in die rivier ⟨is⟩, sal sterwe, en die rivier sal stink, en Mitsrajim sal dit moeg wees om water uit die rivier te drink.",
+  "tokens": [
+    {
+      "surface": "והדגה",
+      "gloss": "en die visse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ביאר",
+      "gloss": "in die rivier"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sal sterwe"
+    },
+    {
+      "surface": "ובאש",
+      "gloss": "en sal stink"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "die rivier"
+    },
+    {
+      "surface": "ונלאו",
+      "gloss": "en sal moeg wees"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "om te drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "die rivier"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:47.881100687Z",
+  "model": "glm-5.3"
+}

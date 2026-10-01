@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "'n Leuenthing is die perd vir redding, en deur die grootte van sy krag red hy nie.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "'n leuenthing"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "die perd"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "vir redding"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "en deur die grootte"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "van sy krag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "red hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:34.658242288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die naaktheid van die dogter van jou seun of die dogter van jou dogter — hul naaktheid mag jy nie ontbloot nie, want hulle ⟨is⟩ jou eie naaktheid.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "van jou dogter"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mag jy ontbloot"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "hul naaktheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "jou naaktheid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hulle self"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:40.128092576Z",
+  "model": "glm-5.3"
+}

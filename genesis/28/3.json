@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En El Sjaddai seën ⟨את⟩ jou, en maak jou vrugbaar, en vermeerder jou, en jy word 'n vergadering van volke.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "seën"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "en maak jou vrugbaar"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "en vermeerder jou"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "en jy word"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "'n vergadering"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van volke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:18.089333176Z",
+  "model": "glm-5.3"
+}

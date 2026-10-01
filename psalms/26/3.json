@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Want u gesed ⟨is⟩ voor my oë, en ek het gewandel in u trou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "en ek het gewandel"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in u trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:39.912393907Z",
+  "model": "glm-5.3"
+}

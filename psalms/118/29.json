@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 118:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Loof Jahweh, want hy is goed, want tot in ewigheid ⟨is⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:28.270363059Z",
+  "model": "glm-5.3"
+}

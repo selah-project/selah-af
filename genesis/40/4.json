@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En die owerste van die slagters het Josef ⟨את⟩ by hulle aangestel, en hy het hulle ⟨את⟩ bedien; en hulle was dae in bewaring.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "het aangestel"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "van die slagters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "by hulle"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "en hy het bedien"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:00.733584784Z",
+  "model": "glm-5.3"
+}

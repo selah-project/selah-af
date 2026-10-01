@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het nog sewe ander dae gewag en weer die duif uit die ark gestuur, ⟨את⟩ die duif.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "en hy het gewag"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "en weer"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die duif"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "die duif"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die ark"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:26.163374093Z",
+  "model": "glm-5.3"
+}

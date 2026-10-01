@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoe kan ek alleen dra jul las, en jul mooi σydstelsel — en jul regsgeskille?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "kan ek dra"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "jul las"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "en jul laste"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "en jul regsgeskille"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:14.199858276Z",
+  "model": "glm-5.3"
+}

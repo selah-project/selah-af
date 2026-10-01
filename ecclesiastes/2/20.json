@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek het my omgedraai om ⟨את⟩ my hart te laat wanhoop oor al die geswoeg waarin ek afgesloef het onder die son.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "en ek het my omgedraai"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "om te laat wanhoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hart"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "die geswoeg"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "waarin ek afgesloef het"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:35.860324340Z",
+  "model": "glm-5.3"
+}

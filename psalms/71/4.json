@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "My Elohim, bevry my uit die hand van die goddelose, uit die greep van die verkeerde en die gewelddadige.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "bevry my"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "uit die greep"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "van die verkeerde"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "en die gewelddadige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:40.029225495Z",
+  "model": "glm-5.3"
+}

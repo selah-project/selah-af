@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jahweh het aan my teruggekeer volgens my tsedek, volgens die reinheid van my hande voor sy oë.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en het teruggekeer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "volgens my tsedek"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "volgens die reinheid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van my hande"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:42.074582732Z",
+  "model": "glm-5.3"
+}

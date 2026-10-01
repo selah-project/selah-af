@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Jahweh het ⟨את⟩ die volk getref, omdat hulle ⟨את⟩ die kalf gemaak het, wat Aharon gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "En ... getref het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hulle ... gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kalf"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "die kalf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:38.577698573Z",
+  "model": "glm-5.3"
+}

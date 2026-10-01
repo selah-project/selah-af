@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 9:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het ⟨את⟩ die minga gebring en sy handpalm daarvan gevul en dit op die altaar laat rook, behalwe die brandoffer van die more.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die minga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en gevul"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sy handpalm"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en laat rook"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van die more"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:32.182013276Z",
+  "model": "glm-5.3"
+}

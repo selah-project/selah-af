@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 93,
+  "translation": "Boven die stemme van baie waters, magtige branders van die see — magtig in die hoogte ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "bove die stemme"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "branders"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "magtig"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "in die hoogte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:57.768864816Z",
+  "model": "glm-5.3"
+}

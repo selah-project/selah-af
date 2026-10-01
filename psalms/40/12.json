@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "U, Jahweh — moenie u barmhartighede van my terughou nie; laat u gesed en u waarheid my gedurig bewaar.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "teruhou"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "u barmhartighede"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "en u waarheid"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "bewaar my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:50.571954167Z",
+  "model": "glm-5.3"
+}

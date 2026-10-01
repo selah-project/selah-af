@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Ek het jou aangeroep, want jy sal my antwoord, El; neig jou oor na my, hoor my woord.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "het jou aangeroep"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "sal my antwoord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "jou oor"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "my woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:46.662999325Z",
+  "model": "glm-5.3"
+}

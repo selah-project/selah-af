@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 14:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "dan sal jy dit in geld gee, en die geld in jou hand toebind, en jy sal gaan na die plek wat Jahweh jou Elohim daarin sal kies",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "dan sal jy gee"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "in geld"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "en jy sal toebind"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die geld"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "en jy sal gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "sal kies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:58.506039852Z",
+  "model": "glm-5.3"
+}

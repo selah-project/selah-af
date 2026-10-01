@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En jy sal die tulband op sy hoof sit, en jy sal ⟨את⟩ die heilige kroon op die tulband sit.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en jy sal sit"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "die tulband"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heilige kroon"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "die kroon"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heilige"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "die tulband"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:21.335308448Z",
+  "model": "glm-5.3"
+}

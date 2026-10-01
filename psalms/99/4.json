@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 99:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "En die krag van ⟨die⟩ koning ⟨is⟩ hy wat reg liefhet; jy het billikheid bevestig, reg en tsedek in Jaäkow — jy het ⟨dit⟩ gedoen.",
+  "tokens": [
+    {
+      "surface": "ועז",
+      "gloss": "En die krag"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "het bevestig"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "billikheid"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "in Jaäkow"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:34.175933006Z",
+  "model": "glm-5.3"
+}

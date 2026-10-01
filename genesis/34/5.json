@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Jaäkow het gehoor dat ⟨hy⟩ ⟨את⟩ Dina sy dogter onrein gemaak het; en sy seuns was by ⟨את⟩ sy vee in die veld, en Jaäkow het geswyg tot hul koms.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "En Jaäkow"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "את",
+      "gloss": "by ⟨את⟩",
+      "marks": "sy vee"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sy vee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "en het geswyg"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "באם",
+      "gloss": "hul koms"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:41.420374523Z",
+  "model": "glm-5.3"
+}

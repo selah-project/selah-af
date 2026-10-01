@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "In Elohim het ek vertrou, ek sal nie vrees nie — wat sal ⟨die⟩ mens aan my doen?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek vertrou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sal ek vrees"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨die⟩ mens"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.226752203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En sy suster Hammoleket het ⟨את⟩ Jisjod en ⟨את⟩ Abiëzer en ⟨את⟩ Magla gebaar.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "En sy suster"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Hammoleket"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisjod"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Jisjod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Abiëzer"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Abiëzer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Magla"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Magla"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:39.400473918Z",
+  "model": "glm-5.3"
+}

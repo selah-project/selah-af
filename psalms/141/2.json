@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Laat my gebed gereedstaan as reukwerk voor U, die opheffing van my hande as ⟨die⟩ minga van die aand.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "laat gereedstaan"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "as reukwerk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "die opheffing"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "van my hande"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "as ⟨die⟩ minga"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "van die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:30.827911094Z",
+  "model": "glm-5.3"
+}

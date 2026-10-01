@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "en Azarja het ⟨את⟩ Seraja verwek, en Seraja het ⟨את⟩ Jehotsadak verwek.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seraja"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Seraja"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "en Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehotsadak"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:29.163094547Z",
+  "model": "glm-5.3"
+}

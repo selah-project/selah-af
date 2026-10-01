@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 127,
+  "ref": "psalms 119:127",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Daarom het ek u gebooie lief bo goud, ja bo fyn goud.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "derhalwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "het ek lief"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "u gebooie"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "bo goud"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "ja bo fyn goud"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:29.064206781Z",
+  "model": "glm-5.3"
+}

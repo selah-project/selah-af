@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ek het my werke groot gemaak; ek het vir my huise gebou; ek het vir my wingerde geplant.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Ek het groot gemaak"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "my werke"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ek het gebou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ek het geplant"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "wingerde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:31.698098781Z",
+  "model": "glm-5.3"
+}

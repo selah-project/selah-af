@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "U het ⟨die grond⟩ voor ⟨hom⟩ geskoonmaak, en hy het wortel geskiet met sy wortels, en die land gevul.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "het U geskoonmaak"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "en hy het wortel geskiet"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "met sy wortels"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en gevul"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:21.442474011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "en Rag het uit sy wyn ontwaak en hy het ⟨את⟩ geken wat sy seun, die kleinste, aan hom gedoen het",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "en hy het ontwaak"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Rag"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "uit sy wyn"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en hy het geken\/geweet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat sy seun gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "die kleinste"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:32.589752657Z",
+  "model": "glm-5.3"
+}

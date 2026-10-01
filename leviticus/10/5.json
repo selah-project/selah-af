@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle het nader gekom en hulle gedra in hulle kittels na buite, uit die kamp, soos Mosje gespreek het.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "en hulle het nader gekom"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "en hulle gedra"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "in hulle kittels"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "uit die kamp"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:51.235658160Z",
+  "model": "glm-5.3"
+}

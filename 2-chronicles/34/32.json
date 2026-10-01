@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 34:32",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En hy het laat staan ⟨את⟩ almal wat in Jerusjalajim en Binjamin gevind is, en die inwoners van Jerusjalajim het gedoen volgens die verbond van Elohim, die Elohim van hulle vaders.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hy het laat staan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "almal wat gevind is in Jerusjalajim en Binjamin"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wat gevind is"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binjamin"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die inwoners van"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "כברית",
+      "gloss": "volgens die verbond van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "hulle vaders"
+    }
+  ],
+  "timestamp": "2026-10-01T01:04:24.978899606Z",
+  "model": "glm-5.3"
+}

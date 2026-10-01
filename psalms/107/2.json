@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Die losgekooptes van Jahweh moet ⟨dit⟩ sê, diegene wat hy losgekoop het uit die hand van 'n vyand.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "moet sê"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "losgekooptes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diegene wat"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "losgekoop het"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van 'n vyand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:36.899930114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 21:24",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En die volk van die land het ⟨את⟩ al die samespanners teen koning Amon geslaan, en die volk van die land het ⟨את⟩ Josjia sy seun koning gemaak in sy plek.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die samespanners"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "die samespanners"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en hulle het koning gemaak"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josjia"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:22.170018206Z",
+  "model": "glm-5.3"
+}

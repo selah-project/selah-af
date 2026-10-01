@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En hulle het oorlog gevoer teen Midjan, soos Jahweh ⟨את⟩ Mosje beveel het, en hulle het elke manlike gedood.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "en hulle het oorlog gevoer"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "en hulle het gedood"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlike"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:36.008388252Z",
+  "model": "glm-5.3"
+}

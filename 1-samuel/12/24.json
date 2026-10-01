@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 12:24",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Alleen: vrees Jahweh ⟨את⟩, en dien Hom ⟨את⟩ in waarheid met jul hele hart, want sien ⟨את⟩ wat Hy groot gemaak het met julle.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "en dien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Hom",
+      "marks": "Hom"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met hele"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jul hart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Hy groot gemaak het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot gemaak het"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:11.815062626Z",
+  "model": "glm-5.3"
+}

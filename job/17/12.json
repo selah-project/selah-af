@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Hulle stel die nag aan vir die dag; lig ⟨is⟩ naby voor die aangesig van duisternis.",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "die nag"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vir die dag"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "hulle stel"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "naby"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:30.623832868Z",
+  "model": "glm-5.3"
+}

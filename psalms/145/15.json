@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Die oë van alles verwag u, en u gee aan hulle ⟨את⟩ hul spys op sy tyd.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Die oë"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "u"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "verwag"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul spys"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hul spys"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "op sy tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.224209641Z",
+  "model": "glm-5.3"
+}

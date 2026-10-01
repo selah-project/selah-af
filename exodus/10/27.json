@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Maar Jahweh het ⟨את⟩ die hart van Paro versterk, en hy wou hulle nie laat gaan nie.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "en hy het versterk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hart van Paro"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "wou"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "hulle laat gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:08.668024064Z",
+  "model": "glm-5.3"
+}

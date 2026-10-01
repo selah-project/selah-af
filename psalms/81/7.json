@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Sy skouer het Ek van die las weggehaal; sy hande — van die dra-mand gaan hulle verby.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "het Ek weggehaal"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "van die las"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sy skouer"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "van die dra-mand"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "gaan hulle verby"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:50.524327365Z",
+  "model": "glm-5.3"
+}

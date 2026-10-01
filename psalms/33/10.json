@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Jahweh het ⟨die⟩ raad van nasies verydel, die planne van volke het Hy verydel.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "het verydel"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "raad"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "het verydel"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planne"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:24.018120785Z",
+  "model": "glm-5.3"
+}

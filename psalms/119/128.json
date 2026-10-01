@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Daarom ag ek elke insetting van u, ⟨oor⟩ alles ⟨reg⟩; elke pad van leuen haat ek.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "derhalwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "insettings van u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ag ek reg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pad"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuen"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "haat ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:29.064348081Z",
+  "model": "glm-5.3"
+}

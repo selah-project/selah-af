@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 4:17",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "In die vloei van die Jordaan het die koning hulle gegiet, in die dikgrondse grond tussen Sukkot en tussen Tseredata.",
+  "tokens": [
+    {
+      "surface": "בככר",
+      "gloss": "in die vloei"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "van die Jordaan"
+    },
+    {
+      "surface": "יצקם",
+      "gloss": "het hulle gegiet"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בעבי",
+      "gloss": "in die dikgrond"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "צרדתה",
+      "gloss": "Tseredata"
+    }
+  ],
+  "timestamp": "2026-10-01T00:54:58.263779105Z",
+  "model": "glm-5.3"
+}

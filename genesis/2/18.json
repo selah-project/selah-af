@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim het gesê: dit is nie goed dat die mens alleen is nie; ek sal vir hom 'n helper maak wat by hom pas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "היות",
+      "gloss": "dat ... is"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal ek maak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "'n helper"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wat by hom pas"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:49.617778481Z",
+  "model": "glm-5.3"
+}

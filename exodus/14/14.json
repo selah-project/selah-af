@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Jahweh sal vir julle veg, en julle — julle sal swyg.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "sal veg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "julle sal swyg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:39.816077103Z",
+  "model": "glm-5.3"
+}

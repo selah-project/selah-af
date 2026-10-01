@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En ⟨את⟩ al hulle stede in hulle woonplekke en ⟨את⟩ al hulle kampvestings het hulle met vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hulle stede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "hulle stede"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "in hulle woonplekke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al hulle kampvestings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "hulle kampvestings"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "het hulle verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:36.156562680Z",
+  "model": "glm-5.3"
+}

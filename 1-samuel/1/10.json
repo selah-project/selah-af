@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy ⟨was⟩ bitter van siel, en sy het gebid tot Jahweh en heteens gehuil en baie geween.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "en sy"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "van siel"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "en sy het gebid"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "en gehuil"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "baie geween"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:03.551009097Z",
+  "model": "glm-5.3"
+}

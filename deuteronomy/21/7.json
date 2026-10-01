@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hulle sal antwoord en sê: Ons hande het ⟨את⟩ hierdie bloed nie gestort ⟨nie⟩, en ons oë het ⟨dit⟩ nie gesien nie.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "en hulle sal antwoord"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ons hande"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "het gestort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "hierdie bloed"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "en ons oë"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:25.532894302Z",
+  "model": "glm-5.3"
+}

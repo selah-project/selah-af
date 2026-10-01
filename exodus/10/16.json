@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 10:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Toe het Paro haastig geroep vir Mosje en vir Aharon, en hy het gesê: ek het gesondig teen Jahweh julle Elohim en teen julle.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "toe ... haastig"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "geroep"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "vir Mosje"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "en vir Aharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ek het gesondig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "teen Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "en teen julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:25.589948560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Hulle sal nie beskaam staan in die tyd van kwaad nie, en in dae van hongersnood sal hulle versadig word.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sal beskaam staan"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in die tyd"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "en in dae"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "van hongersnood"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sal hulle versadig word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:21.641111414Z",
+  "model": "glm-5.3"
+}

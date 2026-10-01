@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ach, mag my weë ⟨is⟩ bevestig om jou insettinge te bewaar.",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "Ach, mag"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "bevestig"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaar"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "jou insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.176329111Z",
+  "model": "glm-5.3"
+}

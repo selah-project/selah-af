@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "voordat die son verduister word en die lig en die maan en die sterre, en die wolke terugkeer na die reën;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "verduister word"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "en die lig"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "en die maan"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "en die sterre"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en terugkeer"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "die wolke"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "die reën"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.648698326Z",
+  "model": "glm-5.3"
+}

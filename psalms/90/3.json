@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 90:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "U laat sterflike mens terugkeer tot stof, en U sê: Keer terug, seuns van Adam.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "laat terugkeer"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "sterflike mens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "stof"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en U sê"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van Adam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:29.175676054Z",
+  "model": "glm-5.3"
+}

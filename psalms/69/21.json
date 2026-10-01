@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 69:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Smaad het my hart gebreek, en ek is verslae; en ek het gewag op een wat sou rou, maar daar was ⟨geen⟩, en op troosters, maar ek het ⟨geen⟩ gevind.",
+  "tokens": [
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "שברה",
+      "gloss": "het gebreek"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ואנושה",
+      "gloss": "en ek is verslae"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "en ek het gewag"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "op een wat sou rou"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar daar was geen"
+    },
+    {
+      "surface": "ולמנחמים",
+      "gloss": "en op troosters"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "het ek gevind"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.244418515Z",
+  "model": "glm-5.3"
+}

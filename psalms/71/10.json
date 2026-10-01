@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 71:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Want my vyande het teen my gesê, en die wat op my lewe wag, het saam beraadslaag;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "en die wat wag op"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "het beraadslaag"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:24.769541949Z",
+  "model": "glm-5.3"
+}

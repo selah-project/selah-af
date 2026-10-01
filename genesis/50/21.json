@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En nou, moenie vrees nie; ek sal vir julle ⟨את⟩ en ⟨את⟩ jul klein kinders onderhou. En hy het hulle ⟨את⟩ getroos en op hulle hart gepraat.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "sal onderhou"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "vir julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jul klein kinders"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "jul klein kinders"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en hy het getroos"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en gepraat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle hart"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:23.589493724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy sê: Bring jou hand terug na jou boesem. En hy bring sy hand terug na sy boesem en hy bring haar uit uit sy boesem, en kyk, sy hand ⟨is⟩ teruggekeer soos sy vlees.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "jou boesem"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy bring terug"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "sy boesem"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "en hy bring haar uit"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "uit sy boesem"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "teruggekeer"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "soos sy vlees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:09.115355232Z",
+  "model": "glm-5.3"
+}

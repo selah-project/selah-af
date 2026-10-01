@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 16:14",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die koning het gekom, en al die volk wat ⟨את⟩ hom vergesel het, uitgeput, en ⟨hulle⟩ het daar op asem gekom.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en het gekom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom vergesel het",
+      "marks": "hom"
+    },
+    {
+      "surface": "עיפים",
+      "gloss": "uitgeput"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "en ⟨hulle⟩ het op asem gekom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:02.797675430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Alles wat kruip, wat lewe het, sal vir julle tot voedsel wees; soos die groen plante het ek vir julle ⟨את⟩ alles gegee.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wat kruip"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewe het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "tot voedsel"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "soos die groen"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "plante"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:04.505566812Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Wees my genadig, o Elohim, volgens jou gesed, volgens die menigte van jou ontfermings, vee my oortredinge uit.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens jou gesed"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "volgens die menigte"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "van jou ontfermings"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "vee uit"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortredinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:44.539773286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "in die tweede maand, op die veertiende dag, tussen die aandye sal hulle ⟨את⟩ dit berei; op ongesuurde brood en bitterkruie sal hulle dit eet",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tweede"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op die veertiende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(tiende dag)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die aandye"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "sal hulle berei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ongesuurde brood"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "en bitterkruie"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "sal hulle dit eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:23.561124608Z",
+  "model": "glm-5.3"
+}

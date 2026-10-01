@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Noord en suid — U het hulle geskep; Tabor en Germon laat in U naam ⟨hulle⟩ jubelklank opgaan.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "Noord"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "en suid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "het hulle geskep"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Tabor"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "en Germon"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in U naam"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "laat jubel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.948933504Z",
+  "model": "glm-5.3"
+}

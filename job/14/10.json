@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Maar 'n man sterf en word kragteloos, en die mens blaas ⟨die asem⟩ uit — en waar is hy?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "maar 'n man"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sterf"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "en word kragteloos"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "en blaas uit"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "en waar is hy"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:55.851786100Z",
+  "model": "glm-5.3"
+}

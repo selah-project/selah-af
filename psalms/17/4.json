@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Wat die dade van die mens betref — deur die woord van u lippe het ek my gehou ⟨vandat⟩ die paaie van die geweldenaar.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Wat die dade betref"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "deur die woord"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "van u lippe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "het ek my gehou"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "die paaie"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "van die geweldenaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.558774306Z",
+  "model": "glm-5.3"
+}

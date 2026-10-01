@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En as daar ramp ⟨is⟩, dan moet jy 'n lewe gee in plaas van 'n lewe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ramp"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": " daar sal wees"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "dan moet jy gee"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "'n lewe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "'n lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:02.892444985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 30:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Gee my ⟨את⟩ my vroue en ⟨את⟩ my kinders vir wie ek jou gedien het, dat ek kan gaan; want jy weet ⟨את⟩ my diens waarmee ek jou gedien het.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vroue"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "my vroue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my kinders"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "my kinders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "vir wie"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ek … gedien het"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "deur hulle"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dat ek kan gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my diens"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "my diens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ek jou gedien het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:18.166032632Z",
+  "model": "glm-5.3"
+}

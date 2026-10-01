@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Want ⟨את⟩ hul altare sal julle afbreek, en ⟨את⟩ hul gedenkstene sal julle verbrysel, en ⟨את⟩ hul Asjeras sal julle omkap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul altare"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "hul altare"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "sal julle afbreek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul gedenkstene"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "hul gedenkstene"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "sal julle verbrysel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul Asjeras"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "hul Asjeras"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "sal julle omkap"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:02.049758700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En waarom het julle ⟨את⟩ die vergadering van Jahweh gebring na hierdie woestyn, om daar te sterwe, ons en ons vee?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "het julle gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vergadering van Jahweh"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "die vergadering"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "hierdie woestyn"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "למות",
+      "gloss": "om te sterwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "en ons vee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:09.880835629Z",
+  "model": "glm-5.3"
+}

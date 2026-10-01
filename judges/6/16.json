@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh sê tot hom: Ek sal met jou wees, en jy sal ⟨את⟩ Midjan slaan soos een man.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ek sal wees"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "en jy sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "soos een man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:54.099300221Z",
+  "model": "glm-5.3"
+}

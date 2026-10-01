@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 42:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En blindes sal ek laat stap op 'n weg wat hulle nie geken het nie; op paaie wat hulle nie geken het, sal ek hulle laat loop; duisternis voor hulle sal ek in lig verander, en krom plekke in vlaktes. Dié dinge het ek gedoen, en hulle nie versaak nie.",
+  "tokens": [
+    {
+      "surface": "והולכתי",
+      "gloss": "en sal ek laat stap"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "blindes"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op 'n weg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hulle het geken"
+    },
+    {
+      "surface": "בנתיבות",
+      "gloss": "op paaie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hulle het geken"
+    },
+    {
+      "surface": "אדריכם",
+      "gloss": "sal ek hulle laat loop"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "sal ek verander"
+    },
+    {
+      "surface": "מחשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "in lig"
+    },
+    {
+      "surface": "ומעקשים",
+      "gloss": "en krom plekke"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "in vlaktes"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "dinge"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "עזבתים",
+      "gloss": "hulle versaak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:17.503196588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Hulle — hulle dwaal rond vir voedsel; as hulle nie versadig word nie, dan brom hulle die nag deur.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "hulle dwaal rond"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "vir voedsel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "hulle versadig word"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "dan brom hulle die nag deur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.600964163Z",
+  "model": "glm-5.3"
+}

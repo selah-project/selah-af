@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Elohim, vermeteles het teen my opgestaan, en 'n vergadering van gewelddadiges het my siel gesoek, en hulle het u nie voor hulle gestel nie.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "vermeteles"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "en 'n vergadering"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "van gewelddadiges"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "het gesoek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "het u gestel"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "voor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:41.188788218Z",
+  "model": "glm-5.3"
+}

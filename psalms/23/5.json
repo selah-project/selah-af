@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "U berei voor my ⟨die⟩ tafel aan teenoor my vyande; U het my hoof met olie gevryf, my beker ⟨is⟩ oorvloedig.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "U berei voor"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "tafel"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "aan teenoor"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "U het gevryf"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my hoof"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "my beker"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "oorvloedig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:13.977804832Z",
+  "model": "glm-5.3"
+}

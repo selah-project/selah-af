@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 46:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Hulle stort goud uit die beurs en weeg silver op die weegbalk; hulle huur 'n smelter, en hy maak daarvan 'n god — hulle buig neer, ja, hulle val voor hom neer.",
+  "tokens": [
+    {
+      "surface": "הזלים",
+      "gloss": "hulle stort"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "מכיס",
+      "gloss": "uit die beurs"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "en silver"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "op die weegbalk"
+    },
+    {
+      "surface": "ישקלו",
+      "gloss": "weeg hulle"
+    },
+    {
+      "surface": "ישכרו",
+      "gloss": "hulle huur"
+    },
+    {
+      "surface": "צורף",
+      "gloss": "'n smelter"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "en hy maak hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n god"
+    },
+    {
+      "surface": "יסגדו",
+      "gloss": "hulle buig neer"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja, selfs"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "hulle val voor hom neer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:20.415740810Z",
+  "model": "glm-5.3"
+}

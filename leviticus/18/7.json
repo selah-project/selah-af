@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 18:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die naaktheid van jou vader en die naaktheid van jou moeder mag jy nie onthul nie; sy ⟨is⟩ jou moeder — jy mag haar naaktheid nie onthul nie.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "וערות",
+      "gloss": "en die naaktheid"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van jou moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mag jy onthul"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "jou moeder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy ⟨is⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "jy mag onthul"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "haar naaktheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:40.516338427Z",
+  "model": "glm-5.3"
+}

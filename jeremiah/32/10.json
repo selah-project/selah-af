@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 32:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En ek het in die boek geskryf en dit verseël, en ek het getuies laat getuig, en ek het die silweer op die weegskaal afgeweeg.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "en ek het geskryf"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die boek"
+    },
+    {
+      "surface": "ואחתם",
+      "gloss": "en ek het verseël"
+    },
+    {
+      "surface": "ואעד",
+      "gloss": "en ek het laat getuig"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "getuies"
+    },
+    {
+      "surface": "ואשקל",
+      "gloss": "en ek het afgeweeg"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silweer"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "op die weegskaal"
+    }
+  ],
+  "timestamp": "2026-09-30T22:38:44.640039640Z",
+  "model": "glm-5.3"
+}

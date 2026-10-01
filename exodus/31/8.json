@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "en ⟨את⟩ die tafel en ⟨את⟩ sy gereedskap, en ⟨את⟩ die lampstander — die suiwere — en ⟨את⟩ al sy gereedskap, en ⟨את⟩ die altaar van die reukwerk",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gereedskap"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die lampstander, die suiwere"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die lampstander"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "die suiwere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gereedskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die altaar van die reukwerk"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "van die reukwerk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:09.091877077Z",
+  "model": "glm-5.3"
+}

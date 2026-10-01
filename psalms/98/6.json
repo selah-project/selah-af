@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Met trompette en ⟨die⟩ stem van die sjofar — juig voor ⟨die⟩ koning Jahweh.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Met trompette"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en ⟨die⟩ stem"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "van die sjofar"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨die⟩ koning"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.970718299Z",
+  "model": "glm-5.3"
+}

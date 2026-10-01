@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Dit ⟨is⟩ Aharon en Mosje aan wie Jahweh gesê het: Bring ⟨את⟩ die seuns van Jisraël uit die land van Mitsrajim uit, volgens hulle leërskare.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Dit ⟨is⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "en Mosje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Bring uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "hulle leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:59.946800154Z",
+  "model": "glm-5.3"
+}

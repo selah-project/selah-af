@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Wie sy naaste verag, ⟨is⟩ 'n man sonder hart, maar 'n man van insig swyg.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "verag"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "wie sy naaste"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar 'n man"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "van insig"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "swyg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:36.254854326Z",
+  "model": "glm-5.3"
+}

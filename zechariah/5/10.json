@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En ek sê vir die engel wat met my spreek: Waarheen laat hulle ⟨את⟩ die efa gaan?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die engel"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "wat spreek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die efa"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "die efa"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:23.473099588Z",
+  "model": "glm-5.3"
+}

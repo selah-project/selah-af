@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Dawid het ⟨את⟩ Elohim gesoek vir die seun; en Dawid het 'n vas gevas, en hy het ingegaan en die nag deurgebring en op die grond gaan lê.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "en gesoek"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "vir"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "en gevas"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "צום",
+      "gloss": "'n vas"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en ingegaan"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "die nag deurgebring"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "en gaan lê"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die grond"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:59.110413750Z",
+  "model": "glm-5.3"
+}

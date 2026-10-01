@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En ⟨die⟩ dogter van Tsor ⟨is⟩ daar met 'n minga; die rykes van ⟨die⟩ volk smeek jou aangesig.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "en ⟨die⟩ dogter"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van Tsor"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "met 'n minga"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou aangesig"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "smeek"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "die rykes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van ⟨die⟩ volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:47.502255639Z",
+  "model": "glm-5.3"
+}

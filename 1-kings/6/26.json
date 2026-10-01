@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Die hoogte van die een kerub ⟨was⟩ tien el, en so die tweede kerub.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "hoogte"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "die kerub"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "en so"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "die kerub"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:05.499407943Z",
+  "model": "glm-5.3"
+}

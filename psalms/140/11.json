@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Mag gloeiende kole op hulle val, in vuur werp ⟨Hy⟩ hulle, in skeure — hulle sal glad nie opstaan nie.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "laat wankel-val"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gloeiende kole"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "werp hulle"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "in skeure"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "sal opstaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.693512621Z",
+  "model": "glm-5.3"
+}

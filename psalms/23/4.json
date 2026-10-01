@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Ook as ek wandel in 'n dal van doodskadu, sal ek geen kwaad vrees nie, want U ⟨is⟩ by my; u staf en u steunstok — húlle troos my.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ek wandel"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "in 'n dal"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "van doodskadu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sal ek vrees"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "u staf"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "en u steunstok"
+    },
+    {
+      "surface": "המה",
+      "gloss": "húlle"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "troos my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:06.457164947Z",
+  "model": "glm-5.3"
+}

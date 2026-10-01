@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hy het 'n altaar opgerig vir die Baäl in die huis van die Baäl wat hy gebou het in Sjomron.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hy het opgerig"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "vir die Baäl"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van die Baäl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hy gebou het"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:02.974049439Z",
+  "model": "glm-5.3"
+}

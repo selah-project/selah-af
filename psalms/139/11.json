@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "En ek sê: net duisternis sal my oorstroom, en die nag ⟨is⟩ lig om my heen.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek sê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "sal my oorstroom"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en die nag"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "om my heen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.316665939Z",
+  "model": "glm-5.3"
+}

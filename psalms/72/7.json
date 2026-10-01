@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "In sy dae sal die regverdige bloei, en oorvloed van sjalom, tot daar geen maan ⟨meer is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "sal bloei"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "in sy dae"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en oorvloed"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "geen … nie"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "maan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.960323368Z",
+  "model": "glm-5.3"
+}

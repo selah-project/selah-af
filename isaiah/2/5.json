@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Huis van Jaäkow, kom, laat ons wandel in die lig van Jahweh!",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "laat ons wandel"
+    },
+    {
+      "surface": "באור",
+      "gloss": "in die lig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:21.664997034Z",
+  "model": "glm-5.3"
+}

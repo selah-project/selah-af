@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 1:9",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die Satan antwoord ⟨את⟩ Jahweh en sê: Vir niks vrees Ijob Elohim nie?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoord"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "die Satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "החנם",
+      "gloss": "vir niks"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:27.218728599Z",
+  "model": "glm-5.3"
+}

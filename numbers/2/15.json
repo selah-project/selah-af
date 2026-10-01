@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 2:15",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en sy leërskare en hulle geteldes ⟨is⟩ vyf en veertig duisend en ses honderd en vyftig",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leërskare"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle geteldes"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:33.734808157Z",
+  "model": "glm-5.3"
+}

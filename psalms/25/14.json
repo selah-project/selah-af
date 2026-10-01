@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Die geheim van Jahweh is by die wat Hom vrees, en sy verbond om hulle dit te laat ken.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "die geheim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "is by die wat Hom vrees"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "en sy verbond"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "om hulle dit te laat ken"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.898592074Z",
+  "model": "glm-5.3"
+}

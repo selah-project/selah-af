@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "As jy die os van jou vyand teëkom, of sy esel wat weggedwaal het — terugbring moet jy hom beslis na hom terugbring.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "jy ... teëkom"
+    },
+    {
+      "surface": "שור",
+      "gloss": "die os"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "van jou vyand"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "sy esel"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "wat weggedwaal het"
+    },
+    {
+      "surface": "השב",
+      "gloss": "terugbring"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "moet jy hom beslis terugbring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:35.861850197Z",
+  "model": "glm-5.3"
+}

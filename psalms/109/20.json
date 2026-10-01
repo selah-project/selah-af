@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 109:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Dit ⟨is⟩ die loon van my aanklaers van ⟨את⟩ Jahweh af, en van die wat kwaad spreek oor my siel.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "die loon"
+    },
+    {
+      "surface": "שטני",
+      "gloss": "van my aanklaers"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והדברים",
+      "gloss": "en van die wat spreek"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.391410576Z",
+  "model": "glm-5.3"
+}

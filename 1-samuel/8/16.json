@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ julle slawe en ⟨את⟩ julle slavinne en ⟨את⟩ julle jongmanne, die beste, en ⟨את⟩ julle donkies sal hy neem, en hulle laat werk vir sy werk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle slawe"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "julle slawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle slavinne"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "julle slavinne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle jongmanne"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "julle jongmanne"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "die beste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle donkies"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "julle donkies"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal hy neem"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hulle laat werk"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "vir sy werk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:59.673586751Z",
+  "model": "glm-5.3"
+}

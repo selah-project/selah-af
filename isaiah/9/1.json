@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 9:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die volk wat in die duisternis wandel, het 'n groot lig gesien; die wat woon in die land van die doodskaduwee — lig het oor hulle geskyn.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "Die volk"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "wat wandel"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in die duisternis"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אור",
+      "gloss": "'n lig"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die wat woon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "doodskaduwee"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "het geskyn"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:02.014084544Z",
+  "model": "glm-5.3"
+}

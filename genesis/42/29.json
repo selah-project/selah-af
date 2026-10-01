@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 42:29",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En hulle het by Jaäkow hulle vader in die land Kenaan aangekom en vir hom ⟨את⟩ alles wat hulle getref het vertel, deur te sê:",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het aangekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hulle vader"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en hulle het vertel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hulle getref het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הקרת",
+      "gloss": "wat hulle getref het"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "die dinge wat hulle getref het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:22.752799677Z",
+  "model": "glm-5.3"
+}

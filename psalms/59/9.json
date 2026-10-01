@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Maar U, Jahweh, sal oor hulle lag; U sal spot met al die nasies.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "sal lag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "sal spot"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.033014129Z",
+  "model": "glm-5.3"
+}

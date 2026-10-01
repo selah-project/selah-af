@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "En ek het gesê: Wie gee aan my vere soos 'n duif? Ek sou wegvlieg en my huisveste vind.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "vere"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "soos 'n duif"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "ek sou wegvlieg"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "en my huisveste vind"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.547303631Z",
+  "model": "glm-5.3"
+}

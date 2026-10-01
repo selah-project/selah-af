@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En in 'n drinkhuis moet jy nie kom om met hulle te sit ⟨את⟩ om te eet en om te drink nie.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "en in 'n huis"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "van drank (drinkhuis)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "moet jy kom"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te sit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "om te eet en om te drink"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "en om te drink"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:24.972801375Z",
+  "model": "glm-5.3"
+}

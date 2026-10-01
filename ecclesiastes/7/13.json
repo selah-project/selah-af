@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Aanskou ⟨את⟩ die werk van Elohim, want wie kan reg maak ⟨את⟩ dit wat Hy krom gemaak het?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Aanskou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die werk van Elohim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "reg maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat Hy krom gemaak het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "Hy krom gemaak het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:46.298358635Z",
+  "model": "glm-5.3"
+}

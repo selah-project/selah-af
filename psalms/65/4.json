@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Sake van ongeregtighede het my oorweldig; ons oortredings — U self sal hulle bedek.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "sake"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "van ongeregtighede"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "het oorweldig"
+    },
+    {
+      "surface": "מני",
+      "gloss": "my"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ons oortredings"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U self"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "sal hulle bedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.743777707Z",
+  "model": "glm-5.3"
+}

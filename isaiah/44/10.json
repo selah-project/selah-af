@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Wie het 'n el gevorm, of 'n gegote beeld gegiet, sonder om te baat?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "het gevorm"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n el"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "of 'n gesnede beeld"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "gegiêt"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sonder om"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "te baat"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:20.782723906Z",
+  "model": "glm-5.3"
+}

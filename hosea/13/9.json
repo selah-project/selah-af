@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Verderf het jou getref, Jisraël — want ⟨dit is⟩ teen my, teen jou hulp.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "verderf het jou getref"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "teen jou hulp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:04.726001462Z",
+  "model": "glm-5.3"
+}

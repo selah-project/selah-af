@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Mosje het ⟨את⟩ ⟨die⟩ volk gesien, want dit was losgelaat, want Aharon het dit losgelaat tot 'n smaad onder hulle teenstanders.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "loosgelaat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "het dit losgelaat"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "tot 'n smaad"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "onder hulle teenstanders"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:34.414325690Z",
+  "model": "glm-5.3"
+}

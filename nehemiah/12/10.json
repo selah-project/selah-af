@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jegosjoea het ⟨את⟩ Jogjakim verwek, en Jogjakim het ⟨את⟩ Eljasjib verwek, en Eljasjib ⟨את⟩ Jogjada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "En Jegosjoea"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jogjakim"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Jogjakim"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "en Jogjakim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljasjib"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Eljasjib"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "en Eljasjib"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jogjada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Jogjada"
+    }
+  ],
+  "timestamp": "2026-10-01T00:42:48.148943325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want die goddeloses sal vergaan, en die vyande van Jahweh — soos die prag van ramme ⟨is hulle⟩ vernietig; in rook ⟨is hulle⟩ vernietig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sal vergaan"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "en die vyande van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "soos die prag van"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "ramme"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨is hulle⟩ vernietig"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "in rook"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨is hulle⟩ vernietig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:21.641406168Z",
+  "model": "glm-5.3"
+}

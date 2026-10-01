@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 2:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elohim het ⟨את⟩ die seuns van Jisraël gesien, en Elohim het geken.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "en het geken"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:35.542466733Z",
+  "model": "glm-5.3"
+}

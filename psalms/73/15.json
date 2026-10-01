@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "As ek gesê het: ek sal dit só vertel — kyk, aan die geslag van U kinders sou ek ontrou gehandel het.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek gesê het"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ek sal vertel"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "só"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "דור",
+      "gloss": "aan die geslag"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van U kinders"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "sou ek ontrou gehandel het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:20.959096409Z",
+  "model": "glm-5.3"
+}

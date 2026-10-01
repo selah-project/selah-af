@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Wend ⟨U oog⟩ van my af, dat ek mag opklaar, voordat ek heengaan en ⟨ek⟩ daar nie meer ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Wend U oog"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "dat ek mag opklaar"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ek heenga"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "en ek nie meer is nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.392270956Z",
+  "model": "glm-5.3"
+}

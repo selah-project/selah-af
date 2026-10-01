@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 1:9",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy sê vir my: Staan tog oor my en laat my sterwe, want ⟨die⟩ vertowing het my gegryp, want nog is my hele siel in my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "ומתתני",
+      "gloss": "en laat my sterwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אחזני",
+      "gloss": "het my gegryp"
+    },
+    {
+      "surface": "השבץ",
+      "gloss": "die vertowing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כל",
+      "gloss": "my hele"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "siel"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:45.967048936Z",
+  "model": "glm-5.3"
+}

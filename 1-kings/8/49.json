@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en U hoor in die hemel, die woonplek van U troon, ⟨את⟩ hulle gebed en ⟨את⟩ hulle smeking, en U doen hulle reg",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "en U hoor"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "die woonplek"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "van U troon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gebed"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "hulle gebed"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle smeking"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "hulle smeking"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en U doen"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "hulle reg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:43.380256508Z",
+  "model": "glm-5.3"
+}

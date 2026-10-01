@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 52:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "So sal hy baie nasies besprinkel; oor hom sal konings hulle mond toemaak, want wat aan hulle nie vertel is, het hulle gesien, en wat hulle nie gehoor het, het hulle begryp.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "So"
+    },
+    {
+      "surface": "יזה",
+      "gloss": "sal besprinkel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "יקפצו",
+      "gloss": "sal toemaak"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hulle mond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "vertel is"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het hulle gesien"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "gehoor het"
+    },
+    {
+      "surface": "התבוננו",
+      "gloss": "het hulle begryp"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:11.349765306Z",
+  "model": "glm-5.3"
+}

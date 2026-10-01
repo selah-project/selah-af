@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En hy het gesê: kyk ◄nou►, ek het oud geword, ek ken nie die dag van my dood nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "◄nou►"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ek het oud geword"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "van my dood"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:04.440639553Z",
+  "model": "glm-5.3"
+}

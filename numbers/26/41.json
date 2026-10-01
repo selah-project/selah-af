@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 26:41",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Dit is die seuns van Benjamin volgens hulle families, en hulle getelde ⟨is⟩ vyf en veertig duisend en ses honderd.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit is"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hulle families"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle getelde"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:03.960043044Z",
+  "model": "glm-5.3"
+}

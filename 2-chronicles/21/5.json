@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 21:5",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Seun van twee en dertig jaar was Jegoram toe hy koning geword het, en agt jaar het hy in Jerusjalajim geregeer.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Seun"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jegoram"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "toe hy koning geword het"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "en agt"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het hy geregeer"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:33.695311414Z",
+  "model": "glm-5.3"
+}

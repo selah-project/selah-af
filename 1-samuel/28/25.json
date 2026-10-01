@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 28:25",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En sy het dit voor Sjaoel gebring en voor sy dienaars, en hulle het geëet; en hulle het opgestaan en weggegaan in daardie nag.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "en sy het gebring"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en hulle het geëet"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "en hulle het opgestaan"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en weggegaan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:45.707671124Z",
+  "model": "glm-5.3"
+}

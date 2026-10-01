@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "en vir jou vee en vir die dier wat in jou land is — al sy opbrengs sal daar wees om te eet.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "en vir jou vee"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "en vir die dier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in jou land"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sy opbrengs"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:22.439285829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 7:20",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Akan het ⟨את⟩ Jehosjoea geantwoord en gesê: Voorwaar, ek het gesondig teen Jahweh, die Elohim van Jisraël, en so en so het ek gedoen.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en het geantwoord"
+    },
+    {
+      "surface": "עכן",
+      "gloss": "Akan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "het gesondig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "teen Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "en so"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "en so"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:00.335726770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die wyfie-esel het ⟨את⟩ die boodskapper van Jahweh gesien en sy het haar teen die muur vasgedruk, en Bilam se voet teen die muur vasgedruk, en hy het voortgegaan om haar te slaan.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "die wyfie-esel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boodskapper"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "en het vasgedruk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "en het gedruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "voet"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "van Bilam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "en hy het voortgegaan"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "om haar te slaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:40.245211903Z",
+  "model": "glm-5.3"
+}

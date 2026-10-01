@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Ek sal ⟨את⟩ julle onderrig oor ⟨die⟩ hand van El; wat by Sjaddai is, sal ek nie verswyg nie.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "sal onderrig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "oor ⟨die⟩ hand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "verswyg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:19:48.090365822Z",
+  "model": "glm-5.3"
+}

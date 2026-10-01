@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En jy — verhef ⟨את⟩ jou staf en strek ⟨את⟩ jou hand uit oor die see en kloof dit, en die kinders van Jisraël sal in die middel van die see kom, op droë grond.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou staf"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "jou staf"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "en strek uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "en kloof dit"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle sal kom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel van"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "op droë grond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:39.816382893Z",
+  "model": "glm-5.3"
+}

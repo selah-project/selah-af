@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Verhef is Jahweh, want hy woon in die hoogte; hy het Sion gevul met reg en tsedek.",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "Verhef is"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "hy woon"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "in die hoogte"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "hy het gevul"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Sion"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "met reg"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:54.897362310Z",
+  "model": "glm-5.3"
+}

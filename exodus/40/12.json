@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 40:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy moet Aharon en sy seuns nader bring, ⟨את⟩, ⟨את⟩, na die ingang van die tent van samekoms, en jy moet hulle was ⟨את⟩ met water.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "en jy moet nader bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "en jy moet was"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "Aharon en sy seuns"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:13.458385488Z",
+  "model": "glm-5.3"
+}

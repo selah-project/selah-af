@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 43:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "As u ⟨את⟩ ons broer ⟨את⟩ met ons saam stuur, sal ons afgaan en vir u kos koop.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "u bereid is"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "saam stuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons broer"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ons broer"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ met ons"
+    },
+    {
+      "surface": "נרדה",
+      "gloss": "sal ons afgaan"
+    },
+    {
+      "surface": "ונשברה",
+      "gloss": "en koop"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir u"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kos"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:00.542639250Z",
+  "model": "glm-5.3"
+}

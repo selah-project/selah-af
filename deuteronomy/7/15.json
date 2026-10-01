@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 7:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh sal van jou af wegneem elke siekte, en al die kwale van Mitsrajim, die slegte wat jy ken, sal hy nie op jou lê nie, maar hy sal hulle lê op almal wat jou haat.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "en hy sal wegneem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van jou af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "siekte"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al die"
+    },
+    {
+      "surface": "מדוי",
+      "gloss": "kwale"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "die slegte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "jy ken"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישימם",
+      "gloss": "sal hy hulle lê"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op jou"
+    },
+    {
+      "surface": "ונתנם",
+      "gloss": "maar hy sal hulle gee"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op almal"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "wat jou haat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.427552741Z",
+  "model": "glm-5.3"
+}

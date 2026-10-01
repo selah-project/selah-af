@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Waak oor jouself, dat jy ⟨את⟩ die Leviet nie verlaat nie, al jou dae op jou grondgebied.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "waak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oor jouself"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat ... nie"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jy verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Leviet"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "die Leviet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "jou dae"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "jou grondgebied"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:21.530070401Z",
+  "model": "glm-5.3"
+}

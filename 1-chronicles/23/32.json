@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 23:32",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "en hulle moet ⟨את⟩ die wag van die tent van samekoms bewaar, en ⟨את⟩ die wag van die heiligdom, en die wag van die seuns van Aharon, hulle broers, vir die diens van die huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en hulle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wag van die tent van samekoms"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "die wag"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wag van die heiligdom"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "die wag"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    },
+    {
+      "surface": "ומשמרת",
+      "gloss": "en die wag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hulle broers"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "vir die diens"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:52:28.408248473Z",
+  "model": "glm-5.3"
+}

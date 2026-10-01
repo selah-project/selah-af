@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 7:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Paro sal nie na julle luister nie, en Ek sal ⟨את⟩ my hand op Mitsrajim lê, en Ek sal ⟨את⟩ my leërskare laat uittrek, ⟨את⟩ my volk, die seuns van Jisraël, uit die land van Mitsrajim, met groot oordele.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sal luister"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "na julle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "op Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "en Ek sal laat uittrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my leërskare"
+    },
+    {
+      "surface": "צבאתי",
+      "gloss": "my leërskare"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בשפטים",
+      "gloss": "met oordele"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:46.510247586Z",
+  "model": "glm-5.3"
+}

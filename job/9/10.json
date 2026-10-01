@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "wat groot dinge doen tot waar geen ondersoek reik, en wonders tot waar geen getal reik",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groot dinge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot waar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ondersoek"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "en wonders"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot waar"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:20.331154233Z",
+  "model": "glm-5.3"
+}

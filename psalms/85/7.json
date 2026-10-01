@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Sal U, U nie terugkeer om ons te laat lewe nie, sodat u volk in U kan juig?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sal U nie ... nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "terugkeer"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "om ons te laat lewe"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "sodat u volk"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "kan juig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:23.261537129Z",
+  "model": "glm-5.3"
+}

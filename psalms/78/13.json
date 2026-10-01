@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hy het die see gekloof en hulle laat deurgaan, en ⟨die⟩ water soos 'n hoop laat staan.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "het gekloof"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "en hulle laat deurgaan"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "en laat staan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "נד",
+      "gloss": "'n hoop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:54.462205836Z",
+  "model": "glm-5.3"
+}

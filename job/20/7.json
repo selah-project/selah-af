@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Soos sy mis vergaan hy vir ewig; die wat hom gesien het, sal sê: waar ⟨is⟩ hy?",
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "soos sy mis"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "vergaan hy"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "die wat hom gesien het"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "איו",
+      "gloss": "waar is hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:21.043514298Z",
+  "model": "glm-5.3"
+}

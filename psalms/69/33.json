@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Die ootmoediges sien ⟨dit⟩ en verheug hulle; julle wat Elohim soek — mag julle hart lewe.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die ootmoediges"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "verheug hulle"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "julle wat soek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "mag lewe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "julle hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:34.677580293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 10:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En aan Ever is twee seuns gebore; die naam van die een was Peleg, want in sy dae is die aarde verdeel, en die naam van sy broer was Joktan.",
+  "tokens": [
+    {
+      "surface": "ולעבר",
+      "gloss": "aan Ever"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is gebore"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van die een"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "in sy dae"
+    },
+    {
+      "surface": "נפלגה",
+      "gloss": "is verdeel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van sy broer"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Joktan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.208247083Z",
+  "model": "glm-5.3"
+}

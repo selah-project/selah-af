@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 7:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Sjemoeël het gesê: Versamel ⟨את⟩ die hele Jisraël na Mitspa toe, en ek sal vir julle bid tot Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "קבצו",
+      "gloss": "versamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "המצפתה",
+      "gloss": "na Mitspa toe"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "en ek sal bid"
+    },
+    {
+      "surface": "בעדכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:29.854965797Z",
+  "model": "glm-5.3"
+}

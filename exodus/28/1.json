@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 28:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En jy — bring naby tot jou ⟨את⟩ Aharon jou broer en ⟨את⟩ sy seuns ⟨את⟩ met hom, uit die midde van die seuns van Jisraël, om as priester vir My te dien: Aharon, Nadab en Avihoe, Elasar en Itamar, seuns van Aharon.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bring naby"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit die midde van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לכהנו",
+      "gloss": "om as priester te dien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "en Avihoe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "en Itamar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:06.034104162Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Hierdie is die vasgestelde tye van Jahweh, heilige byeenkomste wat julle moet uitroep ⟨את⟩ op hulle vasgestelde tyd.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "die vasgestelde tye van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "byeenkomste"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "moet julle uitroep"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "op hulle vasgestelde tyd"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "op hulle vasgestelde tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:53.040088817Z",
+  "model": "glm-5.3"
+}

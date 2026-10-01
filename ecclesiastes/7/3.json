@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Beter ⟨is⟩ kwaadheid as gelag, want by droefheid van aangesig word die hart goed gemaak.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Beter"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "kwaadheid"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "as gelag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "by droefheid"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "van aangesig"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "word goed gemaak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:58.037141121Z",
+  "model": "glm-5.3"
+}

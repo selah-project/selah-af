@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Versamel vir My my gesindes, die wat my verbond gesny het oor ⟨את⟩ ⟨die⟩ slagoffer.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Versamel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "my gesindes"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "gesny het"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "⟨die⟩ slagoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:36.063465911Z",
+  "model": "glm-5.3"
+}

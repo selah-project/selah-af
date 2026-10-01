@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 26:4",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En aan Obed-Edom ⟨was⟩ seuns: Sjemaja die eersgeborene, Jegozabad die tweede, Joag die derde, en Sakar die vierde, en Netanel die vyfde,",
+  "tokens": [
+    {
+      "surface": "ולעבד",
+      "gloss": "en aan Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Sjemaja"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Jegozabad"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "יואח",
+      "gloss": "Joag"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "die derde"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en Sakar"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "die vierde"
+    },
+    {
+      "surface": "ונתנאל",
+      "gloss": "en Netanel"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "die vyfde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:52:34.685762201Z",
+  "model": "glm-5.3"
+}

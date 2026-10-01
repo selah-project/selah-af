@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "En hulle het in my brood gif gegee, en vir my dors het hulle my asyn laat drink.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "en hulle het gegee"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "in my brood"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "gif"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "en vir my dors"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "het hulle my laat drink"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "asyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.244830682Z",
+  "model": "glm-5.3"
+}

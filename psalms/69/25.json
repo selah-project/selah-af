@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 69:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Stort jou grimmigheid oor hulle uit, en die brand van jou toorn moet hulle inhaal.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "stort … uit"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "jou grimmigheid"
+    },
+    {
+      "surface": "וחרון",
+      "gloss": "en die brand"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "van jou toorn"
+    },
+    {
+      "surface": "ישיגם",
+      "gloss": "moet hulle inhaal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:47.917879411Z",
+  "model": "glm-5.3"
+}

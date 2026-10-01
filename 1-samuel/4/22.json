@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 4:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En sy het gesê: weg is die glans van Jisraël, want die ark van ⟨die⟩ Elohim is weggevat.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "weg"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "is die glans"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "is weggevat"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van ⟨die⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:43.888889787Z",
+  "model": "glm-5.3"
+}

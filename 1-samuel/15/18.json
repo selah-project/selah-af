@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Jahweh het jou op 'n pad gestuur en gesê: Gaan, en doen ⟨את⟩ die sondaars — ⟨את⟩ Amalek — in die ban, en veg teen hulle totdat jy hulle ⟨את⟩ uitroei.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "en hy het jou gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op 'n pad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "en jy het in die ban gedoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sondaars"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "die sondaars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "en jy sal veg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "teen hom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "jy hulle uitroei"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:19.242045399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Wie gee dat my versoek kom, en dat Eloah my verwagting gee?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "dat … kom"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "my versoek"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "en my verwagting"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloah"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:50.444482956Z",
+  "model": "glm-5.3"
+}

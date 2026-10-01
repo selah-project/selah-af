@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En Josef sê vir sy broers: Ek is Josef — leef my vader nog? En sy broers kon ⟨את⟩ hom nie antwoord nie, want hulle was verslae voor sy aangesig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "is Josef"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "hulle was verslae"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor sy aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:26.771495330Z",
+  "model": "glm-5.3"
+}

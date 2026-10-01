@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "In die môre bloei dit op en gaan verby; teen die aand word dit afgekap en verdor.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "In die môre"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "bloei dit op"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "en gaan verby"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "teen die aand"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "word dit afgekap"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en verdor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:40.181768525Z",
+  "model": "glm-5.3"
+}

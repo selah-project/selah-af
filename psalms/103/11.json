@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Want so hoog soos die hemele bo ⟨die⟩ aarde ⟨is⟩, so kragtig is sy gesed oor die wat Hom vrees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "so hoog soos"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "is kragtig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "die wat Hom vrees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:19.430712608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 16:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En wanneer hy klaar gemaak het met die versoenen van ⟨את⟩ die heiligdom en ⟨את⟩ die tent vansamekoms en ⟨את⟩ die altaar, dan moet hy ⟨את⟩ die lewende bok nader bring.",
+  "tokens": [
+    {
+      "surface": "וכלה",
+      "gloss": "en wanneer hy klaar gemaak het"
+    },
+    {
+      "surface": "מכפר",
+      "gloss": "met die versoenen van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heiligdom"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "die heiligdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tent vansamekoms"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "vansamekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan moet hy nader bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewende bok"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "die bok"
+    },
+    {
+      "surface": "החי",
+      "gloss": "die lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:36.711775922Z",
+  "model": "glm-5.3"
+}

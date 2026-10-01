@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Mag Hy aan jou gee volgens jou hart, en jou hele raad vervul.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "volgens jou hart"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en jou hele"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "raad"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "vervul"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.291515040Z",
+  "model": "glm-5.3"
+}

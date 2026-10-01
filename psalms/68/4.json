@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "En die regverdiges sal bly wees, hulle sal jubel voor ⟨die aangesig van⟩ Elohim, en hulle sal juig met blydskap.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "en die regverdiges"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "sal bly wees"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "hulle sal jubel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "en hulle sal juig"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blydskap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:06.910033274Z",
+  "model": "glm-5.3"
+}

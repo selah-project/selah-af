@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Hom wat sy volk deur die woestyn gelei het, want tot in ewigheid ⟨is⟩ sy gesed;",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "aan hom wat lei"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deur die woestyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:00.726098679Z",
+  "model": "glm-5.3"
+}

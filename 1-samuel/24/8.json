@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 24:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Dawid beteuel ⟨את⟩ sy manne met woorde en het hulle nie toegelaat om teen Sjaoel op te staan nie; en Sjaoel het uit die grot opgestaan en op die weg gegaan.",
+  "tokens": [
+    {
+      "surface": "וישסע",
+      "gloss": "en beteuel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy manne"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "sy manne"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "met woorde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "hulle toegelaat"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "om op te staan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "en Sjaoel"
+    },
+    {
+      "surface": "קם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "מהמערה",
+      "gloss": "uit die grot"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gegaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:01.176466232Z",
+  "model": "glm-5.3"
+}

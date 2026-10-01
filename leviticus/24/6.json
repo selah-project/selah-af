@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En jy moet hulle ⟨את⟩ in twee rye sit, ses per ry, op die rein tafel voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en jy moet sit"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "twee rye"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "rye"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "die ry"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "die rein"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:28.477375661Z",
+  "model": "glm-5.3"
+}

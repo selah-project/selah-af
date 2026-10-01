@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Want daar sit ⟨die⟩ trone vir reg, trone van ⟨die⟩ huis van Dawid.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sit"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trone"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "vir reg"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "trone"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van ⟨die⟩ huis"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:10.872330295Z",
+  "model": "glm-5.3"
+}

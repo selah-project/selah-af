@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het geen mens toegelaat om hulle te onderdruk nie, en vir hulle het Hy konings bestraf.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "het Hy toegelaat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "om hulle te onderdruk"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "en Hy het bestraf"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:13.734016091Z",
+  "model": "glm-5.3"
+}

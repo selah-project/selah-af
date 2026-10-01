@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ die vlees en ⟨את⟩ die vel het hy met vuur verbrand, buite die laer.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vel"
+    },
+    {
+      "surface": "העור",
+      "gloss": "die vel"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "het verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die laer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.765787277Z",
+  "model": "glm-5.3"
+}

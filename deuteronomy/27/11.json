@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Mosje het ⟨את⟩ die volk op daardie dag beveel en gesê:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "En ... het beveel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:54.278432975Z",
+  "model": "glm-5.3"
+}

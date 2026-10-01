@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "Hy wat bedrog pleeg, sal nie in die midde van my huis woon nie; hy wat leuens spreek, sal nie standhou voor my oë nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sal woon"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die midde van"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my huis"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy wat pleeg"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hy wat spreek"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "leuens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sal standhou"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:49.312364695Z",
+  "model": "glm-5.3"
+}

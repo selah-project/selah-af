@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 9:19",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En nou, stuur en bring jou vee ⟨את⟩ en ⟨את⟩ alles wat aan jou in die veld behoort in veiligheid — elke mens en dier wat in die veld gevind word en nie huis toe gebring word nie, die hael sal op hulle neerkom en hulle sal sterwe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "העז",
+      "gloss": "bring in veiligheid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vee"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "jou vee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat aan jou behoort"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "והבהמה",
+      "gloss": "en dier"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevind word"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "gebring word"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "huis toe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "sal neerkom"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "die hael"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en hulle sal sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:27.297190376Z",
+  "model": "glm-5.3"
+}

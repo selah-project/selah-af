@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Tot in ewigheid, Jahweh, staan jou woord vas in ⟨die⟩ hemele.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "jou woord"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "staan vas"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:22.364961559Z",
+  "model": "glm-5.3"
+}

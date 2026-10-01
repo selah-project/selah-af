@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 19:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Waar ⟨is⟩ hulle dan nou, jou wyse manne? Laat hulle jou tog verklaar, en laat hulle weet wat Jahweh Tsewaot oor Mitsrajim beraadslaag het.",
+  "tokens": [
+    {
+      "surface": "אים",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "dan nou"
+    },
+    {
+      "surface": "חכמיך",
+      "gloss": "jou wyse manne"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en laat hulle verklaar"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en laat hulle weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "beraadslaag het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:32.439947435Z",
+  "model": "glm-5.3"
+}

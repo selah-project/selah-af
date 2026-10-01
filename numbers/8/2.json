@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 8:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Spreek met Aharon en sê vir hom: as jy ⟨את⟩ die lampe laat opgaan, teenoor die aangesig van die menora, sal die sewe lampe skyn.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "בהעלתך",
+      "gloss": "as jy laat opgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lampe"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "die lampe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מול",
+      "gloss": "teenover"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "van die menora"
+    },
+    {
+      "surface": "יאירו",
+      "gloss": "sal skyn"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die sewe"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "lampe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:34.817634331Z",
+  "model": "glm-5.3"
+}

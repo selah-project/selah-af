@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het ⟨את⟩ hul seuns en ⟨את⟩ hul dogters geoffer aan die schede (demonne).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "en hulle het geoffer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul seuns"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hul seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hul dogters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hul dogters"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "aan die schede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.315309489Z",
+  "model": "glm-5.3"
+}

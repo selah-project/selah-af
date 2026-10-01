@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy het hulle ⟨את⟩ die ingang van die stad gewys, en hulle het ⟨את⟩ die stad met die mond van die swaard geslaan, maar ⟨את⟩ die man en ⟨את⟩ sy hele familie het hulle laat gaan.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "en hy het hulle gewys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingang van die stad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ingang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die mond"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy hele familie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "familie van hom"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "het hulle laat gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:29.382101463Z",
+  "model": "glm-5.3"
+}

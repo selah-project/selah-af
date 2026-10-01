@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Op my het u grimmigheid gerus, en met al u branders het U my verdruk. Sela.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "het gerus"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "u grimmigheid"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en met al"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "u branders"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "het U my verdruk"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:49.070064352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 1:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Sjeba het hulle oorval en hulle weggevoer, en ⟨את⟩ die jongmanne het hulle met die mond van die swaard geslaan; en ek het ontsnap — net ek alleen — om dit aan u te vertel.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "En het oorval"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeba"
+    },
+    {
+      "surface": "ותקחם",
+      "gloss": "en hulle weggevoer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die jongmanne"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "die jongmanne"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "het hulle geslaan"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die mond"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "ואמלטה",
+      "gloss": "en ek het ontsnap"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "om te vertel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:33.734642470Z",
+  "model": "glm-5.3"
+}

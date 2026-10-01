@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Waarmee sal 'n jongman ⟨את⟩ sy pad suiver maak? Deur ⟨dit⟩ te bewaar volgens u woord.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "suiver maak"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n jongman"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy pad"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "sy pad"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "te bewaar"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "volgens u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:05.726587219Z",
+  "model": "glm-5.3"
+}

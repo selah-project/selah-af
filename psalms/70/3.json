@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Mag hulle beskaamd staan en verneder word, die wat my lewe soek; mag hulle terugwyk en versteen wees, die wat my kwaad begerig is.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mag hulle beskaamd staan"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "en verneder word"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "die wat soek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mag hulle terugwyk"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agtertoe"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "en versteen wees"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "die wat begerig is"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "my kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:56.250769872Z",
+  "model": "glm-5.3"
+}

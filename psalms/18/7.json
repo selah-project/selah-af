@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 18:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "In my benoudheid roep ek Jahweh aan, en tot my Elohim skreeu ek om hulp; hy hoor my stem uit sy paleis, en my geroep kom voor sy aangesig, in sy ore in.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "in my benoudheid"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "skreeu ek om hulp"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hy hoor"
+    },
+    {
+      "surface": "מהיכלו",
+      "gloss": "uit sy paleis"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "en my geroep"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "באזניו",
+      "gloss": "in sy ore in"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:38.215178465Z",
+  "model": "glm-5.3"
+}

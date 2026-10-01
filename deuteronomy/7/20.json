@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ook ⟨את⟩ die horingwesp sal Jahweh jou Elohim onder hulle stuur, tot die vergaan van die oorblywendes en die wegkruipes van voor jou af.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "En ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die horingwesp"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "die horingwesp"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sal stuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "die vergaan"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "van die oorblywendes"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "en die wegkruipes"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "van voor jou af"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:42.175971079Z",
+  "model": "glm-5.3"
+}

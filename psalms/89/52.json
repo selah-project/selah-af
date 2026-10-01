@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "waarmee u vyande gesmaad het, Jahweh — waarmee hulle die spore van u gesalfde gesmaad het.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "gesmaad het"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "u vyande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "hulle gesmaad het"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "die spore"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "van u gesalfde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:15.624378569Z",
+  "model": "glm-5.3"
+}

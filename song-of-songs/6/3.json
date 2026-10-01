@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Ek behoort aan my geliefde, en my geliefde behoort aan my; hy wei onder die lelies.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "aan my geliefde"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "en my geliefde"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "hy wei"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "onder die lelies"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:04.889823636Z",
+  "model": "glm-5.3"
+}

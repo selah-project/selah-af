@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Tyd om te soek, en 'n tyd om te verloor; 'n tyd om te bewaar, en 'n tyd om weg te werp.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te soek"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "om te verloor"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "om te bewaar"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "om weg te werp"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:16.453872222Z",
+  "model": "glm-5.3"
+}

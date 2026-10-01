@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Sestig is daar koninginne, en tagtig byvroue, en jongmeisies sonder getal.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "sestig"
+    },
+    {
+      "surface": "המה",
+      "gloss": "is daar"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "koninginne"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "en tagtig"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "byvroue"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "en jongmeisies"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:00.435439640Z",
+  "model": "glm-5.3"
+}

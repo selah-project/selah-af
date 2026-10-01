@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Want hierdie ⟨is⟩ Elohim, ons Elohim, tot in ewigheid en verder; hy dit is wat ons sal lei bo die dood uit.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en verder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy dit is wat"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ons sal lei"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:29.371270872Z",
+  "model": "glm-5.3"
+}

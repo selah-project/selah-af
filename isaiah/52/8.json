@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 52:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Die stem van jou wagte — hulle verhef die stem, tesame juig hulle; want oog tot oog sien hulle by die terugkeer van Jahweh na Tsion.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "צפיך",
+      "gloss": "van jou wagte"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hulle verhef"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juig hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "tot oog"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sien hulle"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "by die terugkeer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "na Tsion"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:53.178946111Z",
+  "model": "glm-5.3"
+}

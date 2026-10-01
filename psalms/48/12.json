@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Laat die berg Tsijon hom verheug, laat die dogters van Jehoeda juig oor u oordele.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "hom verheug"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "juig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oor"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u oordele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:37.411860911Z",
+  "model": "glm-5.3"
+}

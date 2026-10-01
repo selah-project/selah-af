@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Want Hy staan aan die regterhand van die behoeftige, om hom te red van die wat sy siel veroordeel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "Hy staan"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "aan die regterhand"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "van die behoeftige"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "om te red"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "van die wat veroordeel"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.030690776Z",
+  "model": "glm-5.3"
+}

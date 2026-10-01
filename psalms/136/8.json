@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "⟨את⟩ die son om te heers oor die dag, want sy gesed is tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die son"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "om te heers oor"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:56.695797791Z",
+  "model": "glm-5.3"
+}

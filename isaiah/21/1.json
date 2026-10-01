@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "'n Las van die woestyn van die see. Soos stormwind ⟨in⟩ die suide verbytrek, so kom dit uit die woestyn, uit 'n land van skrik.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "'n Las"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "van die woestyn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "soos stormwind"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "⟨in⟩ die suide"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "verbytrek"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uit die woestyn"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom dit"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit 'n land"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "van skrik"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:51.107113180Z",
+  "model": "glm-5.3"
+}

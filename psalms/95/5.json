@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Van wie ⟨is⟩ die see, en hy het dit gemaak, en die droë grond het sy hande gevorm.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "van wie"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "het dit gemaak"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "en die droë grond"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "het gevorm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:43.178137745Z",
+  "model": "glm-5.3"
+}

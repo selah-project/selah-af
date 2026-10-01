@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Wie weet ⟨of⟩ die roeag van die seuns van die mens opwaarts gaan, dit ⟨is⟩ na bo, en die roeag van die bees afwaarts gaan, dit ⟨is⟩ na onder, na die aarde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "opwaarts gaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "na bo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en die roeag"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "van die bees"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "afwaarts gaan"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na onder"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:12.495094139Z",
+  "model": "glm-5.3"
+}

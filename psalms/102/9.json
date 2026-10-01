@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Die hele dag het my vyande my gesmaad; die wat teen my woed, het by my gesweer.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "het my gesmaad"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "die wat teen my woed"
+    },
+    {
+      "surface": "בי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "het gesweer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:23.254095907Z",
+  "model": "glm-5.3"
+}

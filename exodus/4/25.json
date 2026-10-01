@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 4:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Tsippora het 'n vuursteen geneem en ⟨את⟩ die voorhuid van haar seun afgesny en dit aan sy voete laat raak, en sy het gesê: voorwaar, 'n bloedbruidegom is jy vir my.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "en sy het geneem"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsippora"
+    },
+    {
+      "surface": "צר",
+      "gloss": "'n vuursteen"
+    },
+    {
+      "surface": "ותכרת",
+      "gloss": "en sy het afgesny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhuid van haar seun"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "die voorhuid"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "van haar seun"
+    },
+    {
+      "surface": "ותגע",
+      "gloss": "en sy het laat raak"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "aan sy voete"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "'n bruidegom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:21.789675582Z",
+  "model": "glm-5.3"
+}

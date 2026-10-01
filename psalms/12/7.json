@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die woorde van Jahweh is rein woorde: silwer gesmolte in 'n smeltkroes van die aarde, gesuiwerd sewekeer.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "Die woorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "rein"
+    },
+    {
+      "surface": "סף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "gesmolte"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "in 'n smeltkroes"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "gesuiwerd"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "sewekeer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.638533141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Want in sy dood sal hy ⟨die⟩ alles nie neem nie; sy glans sal nie agter hom afdaal nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "in sy dood"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal neem"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨die⟩ alles"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sal afdaal"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy glans"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.113668681Z",
+  "model": "glm-5.3"
+}

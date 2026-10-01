@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Want ⟨את⟩ elke werk sal die Elohim in oordeel bring, oor alles wat verborge is, of dit goed is en of dit kwaad is.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elke werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sal bring"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in oordeel"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "wat verborge is"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en of"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:03.575613416Z",
+  "model": "glm-5.3"
+}

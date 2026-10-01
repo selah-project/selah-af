@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Vir die koorleier, vir die seuns van Korag, 'n maskiel-lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n maskiel-lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:02.186416348Z",
+  "model": "glm-5.3"
+}

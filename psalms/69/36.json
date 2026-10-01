@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Want Elohim sal Tsijon red en die stede van Jehoeda bou, en hulle sal daar woon en dit in besit neem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "sal red"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "en bou"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en hulle sal woon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "en dit in besit neem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:34.678876444Z",
+  "model": "glm-5.3"
+}

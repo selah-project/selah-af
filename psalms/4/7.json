@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Baie sê: Wie sal ons ⟨die⟩ goeie laat sien? Lig die lig van u aangesig oor ons op, Jahweh.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "sê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "sal ons laat sien"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Lig op"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "אור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van u aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.332376234Z",
+  "model": "glm-5.3"
+}

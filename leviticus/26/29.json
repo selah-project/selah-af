@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En julle sal die vlees van julle seuns eet, en die vlees van julle dogters sal julle eet.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "en julle sal eet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "van julle seuns"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en die vlees"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "van julle dogters"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:41.916880123Z",
+  "model": "glm-5.3"
+}

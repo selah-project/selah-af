@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Die sondes van my jeug en my oortredings — moet nie gedenk nie; volgens u gesed, gedenk my, U, ter wille van u goedheid, Jahweh.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "die sondes"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "van my jeug"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "en my oortredings"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moet nie"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "gedenk nie"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens u gesed"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedenk"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "u goedheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:35.353002085Z",
+  "model": "glm-5.3"
+}

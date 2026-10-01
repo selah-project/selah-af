@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 10:14",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en hy het nie by Jahweh navraag gedoen nie, daarom het Hy hom laat sterf en ⟨את⟩ die koningskap laat oorgaan na Dawid, seun van Jisjai.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en ... nie"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "navraag gedoen"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "daarom het Hy hom laat sterf"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en Hy het laat oorgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koningskap"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "die koningskap"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "na Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    }
+  ],
+  "timestamp": "2026-10-01T00:47:26.359574193Z",
+  "model": "glm-5.3"
+}

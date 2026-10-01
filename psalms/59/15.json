@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "En hulle keer terug in die aand, hulle huil soos ⟨'n⟩ hond en gaan rond om ⟨die⟩ stad.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "en hulle keer terug"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "hulle huil"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "soos ⟨'n⟩ hond"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "en gaan rond"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "om ⟨die⟩ stad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.600808057Z",
+  "model": "glm-5.3"
+}

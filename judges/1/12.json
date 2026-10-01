@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 1:12",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Kaleb het gesê: Wie ⟨את⟩ Kirjat-Séfer slaan en dit inneem, aan hom sal ek ⟨את⟩ Aksa my dogter as vrou gee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Kaleb"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kirjat-Séfer"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Séfer"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "en dit inneem"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "sal ek gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aksa"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Aksa"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "my dogter"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:37.463399437Z",
+  "model": "glm-5.3"
+}

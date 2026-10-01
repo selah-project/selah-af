@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Ons sal dit nie wegsteek van hulle kinders nie; vir die laaste geslag sal ⟨ons⟩ vertel die lofliedere van Jahweh, en sy krag en sy wonderwerke wat hy gedoen het.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "ons sal wegsteek"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "van hulle kinders"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "vir die geslag"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "laaste"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "vertel ⟨ons⟩"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "die lofliedere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "en sy krag"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en sy wonderwerke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:00.720049168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "en die priester bring ⟨את⟩ haar naby en laat haar staan voor Jahweh",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "en bring naby"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "en laat haar staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:56.743740889Z",
+  "model": "glm-5.3"
+}

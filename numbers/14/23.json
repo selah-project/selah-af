@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 14:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "as hulle ⟨את⟩ die land sien wat ek aan hulle vaders gesweer het — en al my versmaadders sal dit nie sien nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hulle sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ek gesweer het"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "aan hulle vaders"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "מנאצי",
+      "gloss": "my versmaadders"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראוה",
+      "gloss": "sal dit sien"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:52.955013109Z",
+  "model": "glm-5.3"
+}

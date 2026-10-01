@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Jehoeda ⟨is⟩ geword tot sy heiligdom, Jisraël tot sy ryke ⟨van⟩ heerskappy.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "is geword"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "tot sy heiligdom"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "tot sy ryke van heerskappy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.143347392Z",
+  "model": "glm-5.3"
+}

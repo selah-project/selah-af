@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Jy mag dit nie eet nie; op die aarde moet jy dit uitgiet, soos water.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "jy mag dit eet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "moet jy dit uitgiet"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos water"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:01.578774687Z",
+  "model": "glm-5.3"
+}

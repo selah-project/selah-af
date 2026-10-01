@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 50:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "My father het my laat sweer met die woorde: Kyk, ek sterf — in my graf wat ek vir my gegrawe het in die land Kenaan, daar moet jy my begrawe. En nou sal ek asseblief opgaan en my vader begrawe ⟨את⟩, en ek sal terugkeer.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "my father"
+    },
+    {
+      "surface": "השביעני",
+      "gloss": "het my laat sweer"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sterf"
+    },
+    {
+      "surface": "בקברי",
+      "gloss": "in my graf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כריתי",
+      "gloss": "ek gegrawe het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "תקברני",
+      "gloss": "moet jy my begrawe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "sal ek opgaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "asseblief"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "en begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ואשובה",
+      "gloss": "en ek sal terugkeer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:13.143371867Z",
+  "model": "glm-5.3"
+}

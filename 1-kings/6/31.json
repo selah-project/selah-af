@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 6:31",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ die ingang van die Debir het hy gemaak: deure van oliehout; die bo-paal en die deurposte was 'n vyfde ⟨deel⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ingang van die Debir"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "van die Debir"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deure"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oliehout"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die bo-paal"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "die deurposte"
+    },
+    {
+      "surface": "חמשית",
+      "gloss": "'n vyfde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:45.450185405Z",
+  "model": "glm-5.3"
+}

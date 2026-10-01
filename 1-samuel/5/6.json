@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die hand van Jahweh was swaar op die Asjdidiete, en Hy het hulle verwoes en hulle geslaan met opswellinge — ⟨את⟩ Asjdod en ⟨את⟩ sy gebiede.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "was swaar"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "die Asjdidiete"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "verwoes"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "met opswellinge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asjdod"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Asjdod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebiede"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "sy gebiede"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:57.027293749Z",
+  "model": "glm-5.3"
+}

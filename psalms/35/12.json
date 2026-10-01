@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Hulle vergeld my kwaad vir goed, beroowing vir my siel.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "hulle vergeld my"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "beroowing"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "vir my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:17.885723393Z",
+  "model": "glm-5.3"
+}

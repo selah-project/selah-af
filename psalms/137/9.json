@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Gelukkig hy wat gryp en jou suigelinge teen ⟨את⟩ die rots verpletter — ⟨את⟩ jou kleintjies teen die rots.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Gelukkig"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "wat gryp"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "en verpletter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou suigelinge"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "jou suigelinge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "die rots"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:51.959158809Z",
+  "model": "glm-5.3"
+}

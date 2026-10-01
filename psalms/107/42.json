@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "⟨Die⟩ regverdiges sien ⟨dit⟩ en rejoice hulle, en alle onreg sluit haar mond.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "verheug"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "sluit"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:40.812308815Z",
+  "model": "glm-5.3"
+}

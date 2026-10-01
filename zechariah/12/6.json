@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 12:6",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "In dié dag sal Ek ⟨את⟩ die owerstes van Jehoeda maak soos 'n vuurherd van vuur onder die hout, en soos 'n fakkel van vuur in 'n gerf, en hulle sal verteer aan die regterkant en aan die linkerkant ⟨את⟩ al die volke rondom; en Jerusjalajim sal weer bewoon word op sy plek, in Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié dag"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "sal Ek maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die owerstes van Jehoeda"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "die owerstes van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ככיור",
+      "gloss": "soos 'n vuurherd"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    },
+    {
+      "surface": "בעצים",
+      "gloss": "onder die hout"
+    },
+    {
+      "surface": "וכלפיד",
+      "gloss": "en soos 'n fakkel"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    },
+    {
+      "surface": "בעמיר",
+      "gloss": "in 'n gerf"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en hulle sal verteer"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "die regterkant"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "die linkerkant"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die volke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "en sal bewoon word"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "op sy plek"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:51.541534520Z",
+  "model": "glm-5.3"
+}

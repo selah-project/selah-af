@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "⟨את⟩ die een lam moet jy in die oggend doen, en ⟨את⟩ die tweede lam tussen die aandtye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die een lam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die oggend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tweede lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die tweede lam"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die aandtye"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:32.054079912Z",
+  "model": "glm-5.3"
+}

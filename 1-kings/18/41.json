@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Elia het aan Agab gesê: Klim op, eet en drink, want ⟨daar is⟩ die geluid van ’n gedruis van die reën.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … het gesê"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "aan Agab"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "klim op"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die geluid"
+    },
+    {
+      "surface": "המון",
+      "gloss": "van ’n gedruis"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "van die reën"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:33.475411617Z",
+  "model": "glm-5.3"
+}

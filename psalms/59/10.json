@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Sy krag — op U sal ek wag; want Elohim ⟨is⟩ my skuilrots.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Sy krag"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "sal ek wag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my skuilrots"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.033263692Z",
+  "model": "glm-5.3"
+}

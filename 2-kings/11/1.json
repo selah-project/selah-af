@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Atalja, die moeder van Agasja, het gesien dat haar seun dood was, en sy het opgestaan en ⟨את⟩ die hele nageslag van die koninkryk uitgeroei.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "en Atalja"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die moeder van"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Agasja"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood was"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar seun"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "en sy het opgestaan"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "uitgeroei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele nageslag van die koninkryk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "van die koninkryk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:48.849924815Z",
+  "model": "glm-5.3"
+}

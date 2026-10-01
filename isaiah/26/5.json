@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 26:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Want Hy het die bewoners van die hoogte neergeduik, ⟨die⟩ stad, die verhewe; Hy verneder dit, Hy verneder dit tot by die aarde, Hy laat dit raak tot by die stof.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השח",
+      "gloss": "Hy het neergeduik"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die bewoners van"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "die hoogte"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "stad"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "verhewe"
+    },
+    {
+      "surface": "ישפילנה",
+      "gloss": "Hy verneder dit"
+    },
+    {
+      "surface": "ישפילה",
+      "gloss": "Hy verneder dit"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "יגיענה",
+      "gloss": "Hy laat dit raak"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "die stof"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:50.277236959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 35:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Al die stede wat julle aan die Lewiete sal gee — vier en veertig stede — ⟨את⟩ ⟨hulle⟩ en ⟨את⟩ hulle weivelde.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "julle sal gee"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aan die Lewiete"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "en agt"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ ⟨hulle⟩",
+      "marks": "hulle self"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle weivelde"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "hulle weivelde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:01.717139741Z",
+  "model": "glm-5.3"
+}

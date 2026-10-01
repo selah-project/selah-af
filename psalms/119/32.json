@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Die weg van jou gebooie sal ek hardloop, want jy verwyd my hart.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "van jou gebooie"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "sal ek hardloop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "verwyd jy"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.580150709Z",
+  "model": "glm-5.3"
+}

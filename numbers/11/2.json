@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die volk het geskreeu na Mosje, en Mosje het gebid tot Jahweh, en die vuur het gesink.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "en geskreeu het"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "en gebid het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "en gesink het"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:49.664135662Z",
+  "model": "glm-5.3"
+}

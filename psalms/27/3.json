@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "As 'n leër teen my kamp opslaan, sal my hart nie vrees nie; as oorlog teen my oprys, in dit vertrou ek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "kamp opslaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "'n leër"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sal vrees"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "oprys"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "in dit"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "vertrou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:00.806865912Z",
+  "model": "glm-5.3"
+}

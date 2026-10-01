@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 13:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy het vir die koning van Jisraël gesê: Laat jou hand op die boog rus. En hy het sy hand laat rus, en Elisa het sy hande op die hande van die koning gelê.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vir die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "laat … rus"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "die boog"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "en laat rus"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en gelê"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "die hande van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:26.416417688Z",
+  "model": "glm-5.3"
+}

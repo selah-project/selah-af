@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "En hy bring op hulle ⟨את⟩ hulle ongeregtigheid terug, en in hulle boosheid roei hy hulle uit; Jahweh, ons Elohim, roei hulle uit.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en bring terug"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "en in hulle boosheid"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "roei hy hulle uit"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "roei hulle uit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.239938355Z",
+  "model": "glm-5.3"
+}

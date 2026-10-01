@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Tot in ewigheid sal ek my gesed vir hom bewaar, en my verbond sal getrou bly staan vir hom.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "sal ek bewaar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "my gesed"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "en my verbond"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "getrou bly staan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:50.018463739Z",
+  "model": "glm-5.3"
+}

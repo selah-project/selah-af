@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Leer my, Jahweh, u weg, en lei my op 'n gelykte pad, ter wille van my teenstanders.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "u weg"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "en lei my"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "op 'n pad"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "gelykte"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "my teenstanders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:26.730912897Z",
+  "model": "glm-5.3"
+}

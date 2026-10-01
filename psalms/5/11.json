@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Verklaar hulle skuldig, o Elohim; laat hulle val deur hulle eie planne; in die menigte van hulle oortredings dryf hulle ⟨weg⟩, want hulle het teen U gerebelleer.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "verklaar hulle skuldig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "laat hulle val"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "deur hulle eie planne"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in die menigte"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "van hulle oortredings"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "dryf hulle weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "het gerebelleer"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teen U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:10.533649341Z",
+  "model": "glm-5.3"
+}

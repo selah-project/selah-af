@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Dawid het gegaan en teruggekeer van Sjaoel af om ⟨את⟩ die kleinvee van sy vader in Bet-légem te laat wei.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "En Dawid"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en teruggekeer"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "om te laat wei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleinvee"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "légem"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:49.348207335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Voorwaar, tevergeefs het ek my hart gereinig en my hande in onskuld gewas.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "het ek gereinig"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "en gewas"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "in onskuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my hande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:20.958547062Z",
+  "model": "glm-5.3"
+}

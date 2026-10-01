@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 3:8",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle moet ⟨את⟩ al die gereedskap van die tente van samekoms bewaar, en ⟨את⟩ die wagdienst van die seuns van Jisraël, om ⟨את⟩ die diens van die Misjkan te verrig.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "en hulle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die gereedskap van die tente van samekoms"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die gereedskap"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die wagdienst van die seuns van Jisraël"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "die wagdienst"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te verrig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die diens van die Misjkan"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "die diens"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:58.242663356Z",
+  "model": "glm-5.3"
+}

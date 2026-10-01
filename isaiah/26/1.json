@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 26:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "In dié dag sal hierdie lied gesing word in die land van Jehoeda: 'n Sterke stad het ons; redding sal ⟨hy⟩ as mure en buitemure aanstel.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "In dié dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "יושר",
+      "gloss": "sal gesing word"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "die lied"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "'n stad"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "het ons"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "redding"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "sal aanstel"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "as mure"
+    },
+    {
+      "surface": "וחל",
+      "gloss": "en buitemure"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:07.297133015Z",
+  "model": "glm-5.3"
+}

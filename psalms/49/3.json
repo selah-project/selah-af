@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "both seuns van Adam sowel as seuns van man, tesame ryk en behoeftige.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "sowel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam (mensdom)"
+    },
+    {
+      "surface": "גם",
+      "gloss": "sowel as"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ryk"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en behoeftige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:02.193315977Z",
+  "model": "glm-5.3"
+}

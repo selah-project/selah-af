@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Soos my hand die koninkryke van die afgodjie gevind het, en hulle gesnede beelde ⟨dié van⟩ Jerusjalajim en Sjomeron ⟨oortref het⟩,",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "gevind het"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "die koninkryke van"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "die afgodjie"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "en hulle gesnede beelde"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "en van Sjomeron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:44.859627965Z",
+  "model": "glm-5.3"
+}

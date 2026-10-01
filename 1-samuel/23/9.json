@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid het geweet dat Sjaoel teen hom die kwaad beraam het, en hy het gesê tot Awjatar die priester: Bring die efod nader.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teen hom"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "in stilte beraam"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awjatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "bring nader"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "die efod"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:42.954859313Z",
+  "model": "glm-5.3"
+}

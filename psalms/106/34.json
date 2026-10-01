@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Hulle het ⟨את⟩ die volke nie uitgewis nie, oor wie Jahweh ⟨het⟩ gesê ⟨dat hulle dit moes doen⟩ aan hulle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "het uitgewis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oor wie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:27.958908053Z",
+  "model": "glm-5.3"
+}

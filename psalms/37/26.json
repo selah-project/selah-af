@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Die hele dag buig hy ⟨die genadige⟩ en leen, en sy nageslag ⟨is⟩ tot 'n seën.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "bied genade"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "en leen"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en sy nageslag"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "tot 'n seën"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:31.857507433Z",
+  "model": "glm-5.3"
+}

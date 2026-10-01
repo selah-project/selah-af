@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "El van wraak ⟨is⟩ Jahweh, El van wraak, verskyn!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "van wraak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "van wraak"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "verskyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.520515404Z",
+  "model": "glm-5.3"
+}

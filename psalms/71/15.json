@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "My mond sal u tsedek vertel, die hele dag u redding, want die getalle ken ek nie.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sal vertel"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "u redding"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ken ek"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "die getalle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:39.196499363Z",
+  "model": "glm-5.3"
+}

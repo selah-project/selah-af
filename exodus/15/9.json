@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Die vyand het gesê: Ek sal agtervolg, ek sal inhaal, ek sal die buit verdeel; my siel sal daarmee gevul word; ek sal my swaard leegtap, my hand sal hulle vernietig.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "ek sal agtervolg"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "ek sal inhaal"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "ek sal verdeel"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "die buit"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "sal daarmee gevul word"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ek sal leegtap"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "my swaard"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "sal vernietig"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:07.696085688Z",
+  "model": "glm-5.3"
+}

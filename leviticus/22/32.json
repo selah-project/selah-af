@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En julle mag my heilige ⟨את⟩ naam nie ontheilig nie; en ek moet geheilig word midde in die seuns van Jisraël; ek ⟨is⟩ Jahweh, die een wat julle heilig.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En nie"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "mag julle ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heilige naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "my heilige"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "en ek moet geheilig word"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midde in"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "die een wat julle heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.326117501Z",
+  "model": "glm-5.3"
+}

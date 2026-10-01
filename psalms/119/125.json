@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "U dienskneg ⟨is⟩ ek; laat my verstaan, dat ek u getuienisse mag ken.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "u dienskneg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "laat my verstaan"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "dat ek mag ken"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:29.063828143Z",
+  "model": "glm-5.3"
+}

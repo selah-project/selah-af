@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En as hulle sê: So seker as Jahweh leef — sweer hulle tog leuen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sê hulle"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "sweer hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:30:27.560345547Z",
+  "model": "glm-5.3"
+}

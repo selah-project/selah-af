@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Ek sal my mond in 'n gelykenis oopmaak; ek sal raaisels laat uitspring, uit die voortyd.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "ek sal oopmaak"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "in 'n gelykenis"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ek sal laat uitspring"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "raaisels"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uit"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "die voortyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:00.717859114Z",
+  "model": "glm-5.3"
+}

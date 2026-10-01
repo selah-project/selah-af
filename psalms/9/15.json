@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 9:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "sodat ek al u lof kan vertel in die poorte van die dogter van Tsijon; ek wil juig in u verlossing.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ek vertel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תהלתיך",
+      "gloss": "u lof"
+    },
+    {
+      "surface": "בשערי",
+      "gloss": "in die poorte"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "ek juig"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "in u verlossing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:43.948986701Z",
+  "model": "glm-5.3"
+}

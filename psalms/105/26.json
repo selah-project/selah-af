@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het Mosje, sy dienaar, gestuur, en Aharon wat hy uitgekies het.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "gestuur het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy dienaar"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "uitgekies het"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.380107802Z",
+  "model": "glm-5.3"
+}

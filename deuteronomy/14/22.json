@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Tiende mag jy tiende van ⟨את⟩ die hele opbrengs van jou saad af sonder, dit wat die veld jaar na jaar uithaal.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "tiende"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "mag jy tiende afsonder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele opbrengs van jou saad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "opbrengs"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "van jou saad"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "dit wat uitkom"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "na jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:08.748409437Z",
+  "model": "glm-5.3"
+}

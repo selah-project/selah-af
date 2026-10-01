@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 18:41",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En my vyande — U het hulle my die nek laat toon; en my haters — ek roei hulle uit.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "en my vyande"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "U het gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "die nek (agterkop)"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "en my haters"
+    },
+    {
+      "surface": "אצמיתם",
+      "gloss": "ek roei hulle uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:33.676475412Z",
+  "model": "glm-5.3"
+}

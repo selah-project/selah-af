@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 22:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "'n Aas en ⟨'n⟩ verskeurde dier mag hy nie eet om daarmee onrein te word nie; ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "נבלה",
+      "gloss": "'n aas"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "en verskeurde dier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hy eet"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "om onrein te word"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:12.294288820Z",
+  "model": "glm-5.3"
+}

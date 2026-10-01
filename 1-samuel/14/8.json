@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Jehonatan sê: Kyk, ons gaan oor na die manne en ons wys onsself aan hulle ⟨vrywillig⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … sê"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "gaan oor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "en ons wys onsself"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:19.879664058Z",
+  "model": "glm-5.3"
+}

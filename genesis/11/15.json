@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 11:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Sjelag het gelewe nadat hy ⟨את⟩ Ever verwek het drie jaar en vierhonderd jaar, en hy het seuns en dogters verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sjelag"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hy verwek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ever"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ever"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dogters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:27.401097094Z",
+  "model": "glm-5.3"
+}

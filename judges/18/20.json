@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die hart van die priester was bly, en hy het ⟨את⟩ die efod en ⟨את⟩ die terafim en ⟨את⟩ die beeld geneem, en het in die middel van die volk ingekom.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "was bly"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "van die priester"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die efod"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "die efod"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die terafim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "die terafim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die beeld"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "die beeld"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en ingekom"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:00.258068191Z",
+  "model": "glm-5.3"
+}

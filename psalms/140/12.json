@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "ʼn Man van tong sal glad nie in die land standhou nie; die man van geweld — kwaad sal hom jaag tot omverwerping toe.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "van tong"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sal standhou"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "sal hom jaag"
+    },
+    {
+      "surface": "למדחפת",
+      "gloss": "tot omverwerping toe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.693802205Z",
+  "model": "glm-5.3"
+}

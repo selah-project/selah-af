@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het ⟨את⟩ die fees van die boothutte gehou soos geskrywe ⟨is⟩, en die brandoffer van dag tot dag, in getal volgens die verordening, die voorskrif van elke dag op sy dag.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die fees van die boothutte"
+    },
+    {
+      "surface": "חג",
+      "gloss": "die fees"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "van die boothutte"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "soos geskrywe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "en die brandoffer van"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "tot dag"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "in getal"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens die verordening"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die voorskrif van"
+    },
+    {
+      "surface": "יום",
+      "gloss": "'n dag"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "op sy dag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:38:04.352378759Z",
+  "model": "glm-5.3"
+}

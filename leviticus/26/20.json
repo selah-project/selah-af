@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En julle krag sal tevergeefs verbruik word, en julle land sal ⟨את⟩ sy opbrengs nie gee nie, en die bome van die land sal hulle vrugte nie gee nie.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "en sal verbruik word"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "julle krag"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "julle land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy opbrengs"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "sy opbrengs"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "en die bome"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "hulle vrugte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:43.338051500Z",
+  "model": "glm-5.3"
+}

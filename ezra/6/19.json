@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die seuns van die ballingskap het ⟨את⟩ die Pasga gehou op die veertiende ⟨dag⟩ van die eerste maand.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gehou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "van die ballingskap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pasga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "die Pasga"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op die veertiende"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "veertiende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    }
+  ],
+  "timestamp": "2026-10-01T00:37:27.052273884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Awimeleg het na Tebets gegaan en hy het teë Tebets geleër en dit ingeneem.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimeleg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Tebets"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "en hy het geleër"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "teë Tebets"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "en hy het dit ingeneem"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:40.796739730Z",
+  "model": "glm-5.3"
+}

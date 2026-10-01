@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ die gedenkstyle verbreek en ⟨את⟩ die Asjerim omgekap, en ⟨את⟩ hulle plekke met mensebeendere gevul.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "en hy het verbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gedenkstyle"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "die gedenkstyle"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en omgekap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjerim"
+    },
+    {
+      "surface": "האשרim",
+      "gloss": "die Asjerim"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en gevul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle plekke"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "hulle plekke"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "beendere"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mense"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:46.887322637Z",
+  "model": "glm-5.3"
+}

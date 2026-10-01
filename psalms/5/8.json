@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En ek, in die menigte van U gesed, sal ek U huis binnegaan; ek sal my buig na ⟨die⟩ heiligdom van U heiligheid, in U vrees.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ek"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in die menigte"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "van U gesed"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sal ek binnegaan"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "U huis"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ek sal my buig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "⟨die⟩ heiligdom"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "van U heiligheid"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "in U vrees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:19.916715149Z",
+  "model": "glm-5.3"
+}

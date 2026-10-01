@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Awraham se... nee — En Aharon en sy seuns sal ingaan wanneer die kamp vertrek, en hulle sal ⟨את⟩ die voorhangsel van die omhulsel afhaal en daarmee ⟨את⟩ die ark van die getuienis bedek.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "en sal ingaan"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "wanneer ... vertrek"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "en hulle sal afhaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhangsel"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "voorhangsel"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "van die omhulsel"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "en bedek"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die getuienis"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van die getuienis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:52.585684820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ek het my gedraai en van die berg afgekom, en ek het ⟨את⟩ die tafels in die ark geplaas wat ek gemaak het, en hulle was daar, soos Jahweh my beveel het.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "en ek het my gedraai"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "en afgekom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "en ek het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafels"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "die tafels"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in die ark"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gemaak het"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "my beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:10.466059156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 50:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En Josef het gesterwe, 'n seun van honderd en tien jaar, en hulle het hom gebalsem ⟨את⟩, en hom in 'n kis gesit in Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "van honderd"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "het gebalsem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ויישם",
+      "gloss": "en gesit"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in 'n kis"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:39.861318141Z",
+  "model": "glm-5.3"
+}

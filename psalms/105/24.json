@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 105:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "En Hy het ⟨את⟩ sy volk uiters vermenigvuldig, en dit sterker gemaak as sy teëstanders.",
+  "tokens": [
+    {
+      "surface": "ויפר",
+      "gloss": "En Hy het vermenigvuldig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "uiters"
+    },
+    {
+      "surface": "ויעצמהו",
+      "gloss": "en sterker gemaak as"
+    },
+    {
+      "surface": "מצריו",
+      "gloss": "sy teëstanders"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:27.974912348Z",
+  "model": "glm-5.3"
+}

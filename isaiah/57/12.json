@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Ek sal jou tsedek bekend maak, en ⟨את⟩ jou werke — en hulle sal jou nie voordeel bring nie.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "sal bekend maak"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "jou tsedek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou werke"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jou werke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "sal jou voordeel bring"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:01.145418394Z",
+  "model": "glm-5.3"
+}

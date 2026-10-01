@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Rykdom en eer ⟨is⟩ by ⟨את⟩ my, blywende rykdom en tsedek.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "rykdom"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en eer"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "by my"
+    },
+    {
+      "surface": "הון",
+      "gloss": "blywende rykdom"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "blywende"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:29.703145932Z",
+  "model": "glm-5.3"
+}

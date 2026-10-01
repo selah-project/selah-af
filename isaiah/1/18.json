@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 1:18",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Kom nou, en laat ons met mekaar redeneer, sê Jahweh: al is julle sondes soos skarlaken, soos sneeu sal hulle wit word; al is hulle rooi soos ____ tint, soos wol sal hulle wees.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ונוכחה",
+      "gloss": "en laat ons met mekaar redeneer"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "al is"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "is"
+    },
+    {
+      "surface": "חטאיכם",
+      "gloss": "julle sondes"
+    },
+    {
+      "surface": "כשנים",
+      "gloss": "soos skarlaken"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "soos sneeu"
+    },
+    {
+      "surface": "ילבינו",
+      "gloss": "sal hulle wit word"
+    },
+    {
+      "surface": "אם",
+      "gloss": "al is"
+    },
+    {
+      "surface": "יאדימו",
+      "gloss": "hulle rooi is"
+    },
+    {
+      "surface": "כתולע",
+      "gloss": "soos ____ tint"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "soos wol"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:25.467935359Z",
+  "model": "glm-5.3"
+}

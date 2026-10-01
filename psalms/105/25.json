@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het hulle hart omgekeer om sy volk te haat, om slinks te werk teen sy dienaars.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "omgekeer het"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle hart"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "om te haat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "om slinks te werk"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "teen sy dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.379830300Z",
+  "model": "glm-5.3"
+}

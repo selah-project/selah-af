@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die hele huis van Agab sal vergaan, en Ek sal vir Agab uitroei elkeen wat teen die muur water maak, sowel die opgeslote as die verlate in Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "en sal vergaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en Ek sal uitroei"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "vir Agab"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "elkeen wat water maak"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "teen die muur"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "die opgeslote"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "die verlate"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:21.638343606Z",
+  "model": "glm-5.3"
+}

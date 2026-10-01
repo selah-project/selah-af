@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Het U my nie soos melk uitgestort nie, en my soos kaas laat stol nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Het U nie"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "soos melk"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "my uitgestort"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "en soos kaas"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "my laat stol"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:08.726281061Z",
+  "model": "glm-5.3"
+}

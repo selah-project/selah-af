@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Beroof nie die arm man nie, want hy is arm, en vertrap nie die verdrukte in die poort nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "beroof"
+    },
+    {
+      "surface": "דל",
+      "gloss": "die arm man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דל",
+      "gloss": "arm"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "vertrap"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die verdrukte"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:58.598576224Z",
+  "model": "glm-5.3"
+}

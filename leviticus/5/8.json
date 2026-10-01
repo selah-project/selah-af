@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hy moet hulle ⟨את⟩ na die priester bring, en die priester bring die een wat vir die sondoffer is, die eerste, naby; en hy moet sy kop van voor die nek afknyp, maar nie afskei nie.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "en hy moet bring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "en bring naby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een wat vir die sondoffer is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die een wat"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "vir die sondoffer"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "en hy moet afknyp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy kop"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy kop"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "van voor"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "die nek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "afskei nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:45.867471021Z",
+  "model": "glm-5.3"
+}

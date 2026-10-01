@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Speel ⟨ vir ⟩ die eer van sy Naam; maak sy lofprysing eerlik-glansryk.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "speel (saitoklank)"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "van sy Naam"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "maak"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer-glansryk"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lofprysing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.752340318Z",
+  "model": "glm-5.3"
+}

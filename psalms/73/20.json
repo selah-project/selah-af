@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Soos 'n droom by die ontwaking — Adonai, by ⟨die⟩ ontwaak, sal U hulle gedaagte verag.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "soos 'n droom"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "by die ontwaking"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "by ⟨die⟩ ontwaak"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "hulle gedaagte"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "sal U verag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:20.605878619Z",
+  "model": "glm-5.3"
+}

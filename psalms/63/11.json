@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "Hulle sal uitgestort word deur ⟨die⟩ krag van ⟨die⟩ swaard; hulle sal 'n deel vir jakkalse wees.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "hulle sal uitgestort word"
+    },
+    {
+      "surface": "על",
+      "gloss": "deur"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "krag"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "'n deel"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "vir jakkalse"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:30.224872735Z",
+  "model": "glm-5.3"
+}

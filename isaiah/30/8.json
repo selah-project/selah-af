@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 30:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Nou toe, gaan, skryf dit op 'n tablet ⟨אתם⟩, en graveer dit in 'n boek in; en dit sal wees vir die dag van die laaste, vir getuie tot in ewigheid, tot vir ewig.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nou toe"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "כתבה",
+      "gloss": "skryf dit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "'n tablet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die geskrewe woord) voor hulle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "'n boek"
+    },
+    {
+      "surface": "חקה",
+      "gloss": "graveer in"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vir die dag"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "van die laaste"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir getuie tot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:34.186194275Z",
+  "model": "glm-5.3"
+}

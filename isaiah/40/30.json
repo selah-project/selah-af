@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 40:30",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jongmanne sal vermoë word en versmoor, en junge mans sal struikelend struikel.",
+  "tokens": [
+    {
+      "surface": "ולאין",
+      "gloss": ""
+    },
+    {
+      "surface": "ויעפו",
+      "gloss": "sal vermoë word"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jongmanne"
+    },
+    {
+      "surface": "ויגעו",
+      "gloss": "en versmoor"
+    },
+    {
+      "surface": "ובחורים",
+      "gloss": "en junge mans"
+    },
+    {
+      "surface": "כשול",
+      "gloss": "struikelend"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "sal struikel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:12.253781521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Hy het my na ⟨die⟩ ruimte uitgelei, ⟨את⟩ my; Hy het my bevry, want Hy het 'n welbehae in my gehad.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en Hy het uitgelei"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na die ruimte"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Hy het my bevry"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Hy het 'n welbehae gehad"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:54.077942773Z",
+  "model": "glm-5.3"
+}

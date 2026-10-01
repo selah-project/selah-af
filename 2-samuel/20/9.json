@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 20:9",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Joab sê vir Amasa: Gaan dit goed met jou, my broer? En die regterhand van Joab gryp die baard van Amasa om hom te soen.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … sê"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "לעמשא",
+      "gloss": "vir Amasa"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Gaan dit goed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "ותחז",
+      "gloss": "En … gryp"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "regter-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "van Joab"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "die baard"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "van Amasa"
+    },
+    {
+      "surface": "לנשק",
+      "gloss": "om te soen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:46.774089192Z",
+  "model": "glm-5.3"
+}

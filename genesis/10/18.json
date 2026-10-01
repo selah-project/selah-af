@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ die Arwadiet, en ⟨את⟩ die Tsemariet, en ⟨את⟩ die Gamatiet; en daarna is die families van die Kanaäniet uiteen gestrooi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Arwadiet"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "die Arwadiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Tsemariet"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "die Tsemariet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Gamatiet"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "die Gamatiet"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "uiteen gestrooi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "families"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:35.259304996Z",
+  "model": "glm-5.3"
+}

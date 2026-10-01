@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Jehosjafat, koning van Jehoeda, het in vrede na sy huis in Jerusjalajim teruggekeer.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:52.394352291Z",
+  "model": "glm-5.3"
+}

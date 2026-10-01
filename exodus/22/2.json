@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 22:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As die son oor hom opgekom het, ⟨is daar⟩ bloed ⟨skuld⟩ vir hom; ten volle sal hy vergoed — as hy niks het nie, sal hy vir sy diefstal verkoop word.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "opgekom het"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloed(skuld)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ten volle"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "sal hy vergoed"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hy niks het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "sal hy verkoop word"
+    },
+    {
+      "surface": "בגנבתו",
+      "gloss": "vir sy diefstal"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:30.603312310Z",
+  "model": "glm-5.3"
+}

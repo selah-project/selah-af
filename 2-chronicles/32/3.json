@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 32:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "en hy het raad gehou met sy owerstes en sy krygshelde om ⟨את⟩ die water van die fonteyne wat buite die stad ⟨is⟩ toe te stop, en hulle het hom gehelp.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "en hy het raad gehou"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sy owerstes"
+    },
+    {
+      "surface": "וגבריו",
+      "gloss": "en sy krygshelde"
+    },
+    {
+      "surface": "לסתום",
+      "gloss": "om toe te stop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die water van die fonteyne"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "die water"
+    },
+    {
+      "surface": "העינות",
+      "gloss": "van die fonteyne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ויעזרוהו",
+      "gloss": "en hulle het hom gehelp"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:18.313862510Z",
+  "model": "glm-5.3"
+}

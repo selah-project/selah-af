@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 11:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hy sal laat reën op die goddelose: nette, vuur en swael, en 'n stormwind van gloeiende gloed — die deel van hulle beker.",
+  "tokens": [
+    {
+      "surface": "ימטר",
+      "gloss": "Hy sal laat reën"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "nette"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "וגפרית",
+      "gloss": "en swael"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en 'n wind"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "van gloeiende gloed"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "die deel"
+    },
+    {
+      "surface": "כוסם",
+      "gloss": "van hulle beker"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:30.142692823Z",
+  "model": "glm-5.3"
+}

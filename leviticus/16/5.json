@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En uit ⟨את⟩ die vergadering van die seuns van Jisraël sal hy twee bokke neem as sondoffer, en een ram as brandoffer.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "uit ⟨את⟩",
+      "marks": "die vergadering"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal hy neem"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "bokke"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "van die bokke"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "as sondoffer"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en een ram"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "as brandoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:11.858579184Z",
+  "model": "glm-5.3"
+}

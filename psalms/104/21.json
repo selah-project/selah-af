@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 104:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Die jongleeus brul vir prooi, en om van El hul voedsel te soek.",
+  "tokens": [
+    {
+      "surface": "הכפירים",
+      "gloss": "die jongleeus"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "brul"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "vir prooi"
+    },
+    {
+      "surface": "ולבקש",
+      "gloss": "en om te soek"
+    },
+    {
+      "surface": "מאל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hul voedsel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.724600218Z",
+  "model": "glm-5.3"
+}

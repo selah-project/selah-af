@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 48:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Kyk, ek het jou gelouter, maar nie soos silwer nie; ek het jou gekies in die oond van ellende.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "צרפתיך",
+      "gloss": "ek het jou gelouter"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "soos silwer"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ek het jou gekies"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "in die oond"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van ellende"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:57.064948644Z",
+  "model": "glm-5.3"
+}

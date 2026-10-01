@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 94:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "As Jahweh nie ⟨hulp⟩ vir my was nie, sou my siel byna in stilte gewoon het.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "as nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "hulp"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "byna"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "sou gewoon het"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "in stilte"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:36.388401094Z",
+  "model": "glm-5.3"
+}

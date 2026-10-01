@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hulle het onthou dat Elohim hulle rots ⟨is⟩, en El Elyon hulle losser.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "En hulle het onthou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "hulle rots"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "hulle losser"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:24.686204042Z",
+  "model": "glm-5.3"
+}

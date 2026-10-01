@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Nie een dag sal julle eet nie, en nie twee dae nie, en nie vyf dae nie, en nie tien dae nie, en nie twintig dae nie —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "twee dae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "andלא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:07.329286701Z",
+  "model": "glm-5.3"
+}

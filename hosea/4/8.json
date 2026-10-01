@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die sondoffer van my volk eet hulle, en op hulle ongeregtigheid rig hulle hulle siel.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "die sondoffer"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van my volk"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "eet hulle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "rig hulle"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "hulle siel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:43.236347405Z",
+  "model": "glm-5.3"
+}

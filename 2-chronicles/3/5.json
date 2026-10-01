@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En ⟨את⟩ die groot huis het hy met sipreshout oorgetrek, en dit met goeie goud oorgetrek, en daarop palmboomstyle en kettinkies aangebring.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die groot huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "het oorgetrek"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sipres"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "en dit oorgetrek"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en aangebring"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "palmboomstyle"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "en kettinkies"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:34.690687997Z",
+  "model": "glm-5.3"
+}

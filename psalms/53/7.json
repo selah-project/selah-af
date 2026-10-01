@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 53:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Wie sal gee uit Tsijon die reddings van Jisraël? Wanneer Elohim ⟨die⟩ terugkeer van sy volk laat omkeer, sal Jaäkow juig, sal Jisraël bly wees.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sal gee"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsijon"
+    },
+    {
+      "surface": "ישעות",
+      "gloss": "die reddings"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "wanneer ... laat omkeer"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "terugkeer"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van sy volk"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "sal juig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sal bly wees"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.354585741Z",
+  "model": "glm-5.3"
+}

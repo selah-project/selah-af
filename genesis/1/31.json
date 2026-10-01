@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ alles gesien wat hy gemaak het, en kyk — baie goed. En dit was aand en dit was môre, dag ses.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gemaak het"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aand"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ses"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:33.543227598Z",
+  "model": "glm-5.3"
+}

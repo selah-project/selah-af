@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En as jy vir My 'n altaar van klippe maak, moenie hulle ⟨את⟩ as gekapte klippe bou nie; want as jy jou swaard daaroor swaai, dan het jy dit ontheilig.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "van klippe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "gekapte klippe"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gekapte klippe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "jou swaard"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "swaai"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "dan het jy dit ontheilig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:44.593247222Z",
+  "model": "glm-5.3"
+}

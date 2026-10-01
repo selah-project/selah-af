@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jahweh het met Mosje gespreek en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.701987805Z",
+  "model": "glm-5.3"
+}

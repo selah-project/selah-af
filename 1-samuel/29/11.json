@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Dawid het vroeg opgestaan, hy en sy manne, om in die môre te gaan, om terug te keer na die land van die Filistyne; en die Filistyne het optrek Jisreël toe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "en het vroeg opgestaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "om terug te keer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "en die Filistyne"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:56.355847812Z",
+  "model": "glm-5.3"
+}

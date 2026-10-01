@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Regoor ⟨die⟩ omranding was die ringe, huisse vir ⟨die⟩ draers, om ⟨את⟩ die tafel te dra.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "regoor"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "die omranding"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "die ringe"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huisse"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "vir die draers"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:17.697508018Z",
+  "model": "glm-5.3"
+}

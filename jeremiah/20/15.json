@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Vervloek ⟨is⟩ die man wat my vader die tyding gebring en ⟨את⟩ hom bly gemaak het deur te sê: aan jou is 'n seun gebore, 'n manlike — wat hom met blydskap vervul het.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloek"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die tyding gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hom (my vader)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "gebore"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "'n manlike"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bly gemaak"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "met blydskap vervul"
+    }
+  ],
+  "timestamp": "2026-09-30T22:33:43.501092683Z",
+  "model": "glm-5.3"
+}

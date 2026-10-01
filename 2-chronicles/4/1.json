@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het 'n altaar van koper gemaak, twintig el die lengte daarvan, en twintig el die breedte daarvan, en tien el die hoogte daarvan.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "die lengte daarvan"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "die breedte daarvan"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "die hoogte daarvan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:56.117027549Z",
+  "model": "glm-5.3"
+}

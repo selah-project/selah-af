@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Hoor die stem van my smekinge, met my roep tot U, met my ophef van my hande na ⟨die⟩ debir van U se heiligdom.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van my smekinge"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "met my roep"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "met my ophef"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "debir"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "van U se heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:03.250134461Z",
+  "model": "glm-5.3"
+}

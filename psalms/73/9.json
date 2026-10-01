@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Hulle het hulle mond in die hemel geplaas, en hulle tong wandel oor die aarde.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "het geplaas"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "hulle mond"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "en hulle tong"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "oor die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:16.961664979Z",
+  "model": "glm-5.3"
+}

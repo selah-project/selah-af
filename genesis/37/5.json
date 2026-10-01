@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Josef het 'n droom gedroom en dit aan sy broers vertel, en hulle het hom nog meer gehaat.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "en hy het gedroom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "'n droom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hy het vertel"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "aan sy broers"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "en hulle het bygevoeg"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:45.008737179Z",
+  "model": "glm-5.3"
+}

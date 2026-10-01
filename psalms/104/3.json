@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Wat die balke van sy boonste kamers in die waters lê, wat die wolke tot sy wa maak, wat wandel op die vlerke van die roeag.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "wat lê die balke van"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in die waters"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "sy boonste kamers"
+    },
+    {
+      "surface": "השם",
+      "gloss": "wat maak"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "die wolke"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "tot sy wa"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "wat wandel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "die vlerke van"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.077680040Z",
+  "model": "glm-5.3"
+}

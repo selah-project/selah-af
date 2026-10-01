@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 66:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "U het ons in die strik gebring, 'n benoudheid op ons heupe gelê.",
+  "tokens": [
+    {
+      "surface": "הבאתנו",
+      "gloss": "het U ons gebring"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "in die strik"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "het U gelê"
+    },
+    {
+      "surface": "מועקה",
+      "gloss": "'n benoudheid"
+    },
+    {
+      "surface": "במתנינו",
+      "gloss": "op ons heupe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:26.859028896Z",
+  "model": "glm-5.3"
+}

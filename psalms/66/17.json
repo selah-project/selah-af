@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Tot Hom het ek met my mond geroep, en verheffing ⟨was⟩ onder my tong.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "tot Hom"
+    },
+    {
+      "surface": "פי",
+      "gloss": "met my mond"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "het ek geroep"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "en verheffing"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:32.391350043Z",
+  "model": "glm-5.3"
+}

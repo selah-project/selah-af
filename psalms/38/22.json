@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Moenie my verlaat nie, Jahweh, my Elohim; moenie ver van my wees nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "my verlaat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ver wees"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.301700590Z",
+  "model": "glm-5.3"
+}

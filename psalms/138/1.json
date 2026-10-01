@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Van Dawid. Ek loof U met my hele hart; voor die gode speel ek snaar vir U.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van Dawid"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "Ek loof U"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met my hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hart"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "speel ek snaar vir U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:40.272058642Z",
+  "model": "glm-5.3"
+}

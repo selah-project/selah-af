@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Sara het ⟨את⟩ die seun van Hagar die Mitsritiese, wat sy aan Awraham gebaar het, sien lag-speel.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en sy het gesien"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "van Hagar"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "die Mitsritiese"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "sy gebaar het"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "lag-speel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:08.056900982Z",
+  "model": "glm-5.3"
+}

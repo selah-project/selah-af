@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "My geloftes aan Jahweh sal ek betaal — tog, voor die aangesig van al sy volk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "My geloftes"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "sal ek betaal"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "voor die aangesig"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:19.474464943Z",
+  "model": "glm-5.3"
+}

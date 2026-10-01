@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "So sê Jahweh my Elohim: Weei ⟨את⟩ die kudde van ⟨die⟩ slagting.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Weei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kudde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kudde"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "van ⟨die⟩ slagting"
+    }
+  ],
+  "timestamp": "2026-09-30T23:09:39.907206835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Want neergebuig tot die stof ⟨is⟩ ons siel, kleef aan die aarde ons buik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "neergebuig"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tot die stof"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ons siel"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kleef"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "aan die aarde"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ons buik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:18.909839766Z",
+  "model": "glm-5.3"
+}

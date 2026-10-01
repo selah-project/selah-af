@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Verwyder u plaag van my af; deur die aanslag van u hand is ek verteer",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "verwyder"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "u plaag"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "deur die aanslag"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "van u hand"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "is verteer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.250261964Z",
+  "model": "glm-5.3"
+}

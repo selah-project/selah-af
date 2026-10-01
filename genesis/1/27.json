@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die mens geskep in sy beeld; in die beeld van Elohim het hy ⟨את⟩ hom geskep; manlik en vroulik het hy ⟨את⟩ hulle geskep.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "en het geskep"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "in sy beeld"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "in die beeld"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "het geskep"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlik"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "en vroulik"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "het geskep"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:03.854721429Z",
+  "model": "glm-5.3"
+}

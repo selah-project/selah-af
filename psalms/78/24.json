@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het manna op hulle laat reën om te eet, en graan van die hemel aan hulle gegee;",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "En hy het laat reën"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "manna"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "en graan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "למו",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:56.278382554Z",
+  "model": "glm-5.3"
+}

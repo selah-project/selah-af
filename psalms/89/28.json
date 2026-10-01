@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Ja, ék sal hom as eersgeborene stel, hoogste van die konings van ⟨die⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ék"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "as eersgeborene"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "sal hom stel"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "hoogste"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "van die konings"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van ⟨die⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.676287401Z",
+  "model": "glm-5.3"
+}

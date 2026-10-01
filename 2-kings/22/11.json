@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 22:11",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En dit het gebeur: toe die koning die woorde ⟨את⟩ van die boek van die Tora hoor, het hy sy klere ⟨את⟩ geskeur.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe ... hoor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "van die boek"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "van die Tora"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "het hy geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:42.846693772Z",
+  "model": "glm-5.3"
+}

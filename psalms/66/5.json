@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Kom en sien die werke van Elohim, vreeswekkend in dade oor die kinders van ⟨die⟩ mens.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "vreeswekkend"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "in dade"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.186861048Z",
+  "model": "glm-5.3"
+}

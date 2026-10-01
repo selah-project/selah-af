@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 29:20",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En julle, luister na die woord van Jahweh, al die wegvoerdes wat ek van Jerusjalajim na Babel gestuur het —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "luister"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "die wegvoerdes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ek gestuur het"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "na Babel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:37:15.278922272Z",
+  "model": "glm-5.3"
+}

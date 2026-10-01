@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Daar gaan die skepe; Lewiatán, dié het U gevorm om daarin te speel.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Daar"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "die skepe"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Lewiatán"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "het U gevorm"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "om te speel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:52.542373407Z",
+  "model": "glm-5.3"
+}

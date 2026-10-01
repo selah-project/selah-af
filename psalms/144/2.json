@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "My gesed en my vesting, my hoogtes en my redder, vir my my skild, en in hom skuil ek, hy wat my volk ⟨onder⟩ my buig.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "my gesed"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en my vesting"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my hoogtes"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en my redder"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "my skild"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "en in hom"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "skuil ek"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "hy wat buig"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "onder my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.406878733Z",
+  "model": "glm-5.3"
+}

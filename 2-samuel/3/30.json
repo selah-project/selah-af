@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 3:30",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Joab en Abisai sy broer het Awner gedood, omdat hy ⟨את⟩ Asael hul broer gedood het in Givon in die oorlog.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "En Joab"
+    },
+    {
+      "surface": "ואבישי",
+      "gloss": "en Abisai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "het gedood"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המית",
+      "gloss": "gedood het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asael"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Asael"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hul broer"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "in Givon"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in die oorlog"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:43.128270822Z",
+  "model": "glm-5.3"
+}

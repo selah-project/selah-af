@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek, ek het gesien dat daar voordeel ⟨is⟩ vir die wysheid bo die dwaasheid, soos die voordeel van die lig bo die duisternis.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "en ek het gesien"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "dat daar is"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "voordeel"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "vir die wysheid"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "die dwaasheid"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "soos die voordeel"
+    },
+    {
+      "surface": "האור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "die duisternis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:52.966212724Z",
+  "model": "glm-5.3"
+}

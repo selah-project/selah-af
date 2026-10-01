@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Terwyl die koning aan sy rustafel ⟨sit⟩, het my nardus sy geur gegee.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "terwyl"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "aan sy rustafel"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "my nardus"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "sy geur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:21.156155390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Jahweh sê vir Kajin: Waar is Hebel, jou broer? En hy sê: Ek weet nie; ⟨is⟩ ek my broer se bewaarder nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Waar"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek weet"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "die bewaarder"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:23.008129690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Daar ⟨is⟩ geen heelheid in my vlees vanweë u toorn nie, daar ⟨is⟩ geen vrede in my gebeente vanweë my sonde nie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "heelheid"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "in my vlees"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "u toorn"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "in my gebeente"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sonde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:42.598224169Z",
+  "model": "glm-5.3"
+}

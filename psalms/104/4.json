@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hy maak sy boodskappers winde, sy dienaars 'n vlammende vuur.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Hy maak"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "sy boodskappers"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "winde"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "אש",
+      "gloss": "'n vuur"
+    },
+    {
+      "surface": "להט",
+      "gloss": "vlammende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.077912212Z",
+  "model": "glm-5.3"
+}

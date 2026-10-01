@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Wat lig as 'n kleed omhul, wat die hemel uitspan soos 'n tentdoek.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "omhul"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "as 'n kleed"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "uitspan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "soos 'n tentdoek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.077394645Z",
+  "model": "glm-5.3"
+}

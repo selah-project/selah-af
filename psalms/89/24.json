@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "En ek ⟨sal⟩ sy teëstanders voor sy aangesig verbrysel, en sy haters ⟨sal⟩ ek tref.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "en ek ⟨sal⟩ verbrysel"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "sy teëstanders"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "en sy haters"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "⟨sal⟩ ek tref"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:58.726128373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "'n Vreemde moet jou prys, en nie jou eie mond nie; 'n buitenstaander, en nie jou eie lippe nie.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "moet jou prys"
+    },
+    {
+      "surface": "זר",
+      "gloss": "'n vreemde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou eie mond"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "'n buitenstaander"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "jou eie lippe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:34.298506158Z",
+  "model": "glm-5.3"
+}

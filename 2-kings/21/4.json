@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hy het altare gebou in die huis van Jahweh, waarvan Jahweh gesê het: In Jerusjalajim sal ek ⟨את⟩ my naam stel.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "sal ek stel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my naam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:45.947354780Z",
+  "model": "glm-5.3"
+}

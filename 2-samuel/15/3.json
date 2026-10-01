@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 15:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Awbsjalom het vir hom gesê: Kyk, jou woorde is goed en reg, maar daar is niemand wat na jou luister van ⟨את⟩ die koning nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awbsjalom"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jou woorde"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ונכחים",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "maar luister"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is niemand"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:52.339574561Z",
+  "model": "glm-5.3"
+}

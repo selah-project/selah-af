@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 8:8",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En dit sal gebeur, wanneer julle die stad ⟨את⟩ gevange geneem het, dat julle die stad ⟨את⟩ met vuur moet aansteek; volgens die woord van Jahweh moet julle doen — sien, ek het julle ⟨את⟩ beveel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En dit sal gebeur"
+    },
+    {
+      "surface": "כתפשכם",
+      "gloss": "wanneer julle gevange geneem het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "תציתו",
+      "gloss": "moet julle aansteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle doen"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ek het beveel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:20.186622544Z",
+  "model": "glm-5.3"
+}

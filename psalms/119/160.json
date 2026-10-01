@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Die som van u woord ⟨is⟩ waarheid, en vir ewig ⟨is⟩ elke oordeel van u tsedek.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Die som"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "van u woord"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "en vir ewig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oordeel"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van u tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:47.925324936Z",
+  "model": "glm-5.3"
+}

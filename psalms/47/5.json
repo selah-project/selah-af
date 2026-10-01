@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 47:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Hy kies vir ons ⟨את⟩ ons erfdeel, ⟨את⟩ die majesteit van Jaäkow wat Hy liefgehad het. Sela.",
+  "tokens": [
+    {
+      "surface": "יבחר",
+      "gloss": "Hy kies"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons erfdeel"
+    },
+    {
+      "surface": "נחלתנו",
+      "gloss": "ons erfdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die majesteit van Jaäkow"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "die majesteit"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "Hy liefgehad het"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.134921175Z",
+  "model": "glm-5.3"
+}

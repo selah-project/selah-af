@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "As jy gaan sit om te eet met ⟨את⟩ 'n heerser, let op, let goed op op ⟨את⟩ wat voor jou ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "jy gaan sit"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n heerser"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "'n heerser"
+    },
+    {
+      "surface": "בין",
+      "gloss": "let op"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "let goed op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat voor jou is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:32.723777728Z",
+  "model": "glm-5.3"
+}

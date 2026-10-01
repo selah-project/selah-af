@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Lied, psalm van die seuns van Korag; vir die koorleier, op Machalat, om te antwoord; 'n Maskil van Heman die Ezrahiet.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalat"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "om te antwoord"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Maskil"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "van Heman"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "die Ezrahiet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:54.856913120Z",
+  "model": "glm-5.3"
+}

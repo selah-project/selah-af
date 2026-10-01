@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 69:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Want ywer vir u huis het my verteer, en die smaadjes van u smadders het op my geval.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "ywer"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "vir u huis"
+    },
+    {
+      "surface": "אכלתני",
+      "gloss": "het my verteer"
+    },
+    {
+      "surface": "וחרפות",
+      "gloss": "en die smaadjes"
+    },
+    {
+      "surface": "חורפיך",
+      "gloss": "van u smadders"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:27.991860491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 45:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En Josef sê vir sy broers: Kom tog naby na my. En hulle het naby gekom. En hy sê: Ek is Josef, julle broer, wat julle ⟨את⟩ my verkoop het na Mitsrajim toe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "kom naby"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "en hulle het naby gekom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "is Josef"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "joule broer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מכרתם",
+      "gloss": "julle verkoop het"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsrajim toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:26.771685244Z",
+  "model": "glm-5.3"
+}

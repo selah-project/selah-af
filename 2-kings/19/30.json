@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die ontsnapte deel van die huis van Jehoeda, die wat oorgebly het, sal weer wortel skiet ondertoe en vrug maak boontoe.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "sal weer"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "die ontsnapte deel"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "die wat oorgebly het"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "wortel"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ondertoe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en maak"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrug"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "boontoe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:52.606944308Z",
+  "model": "glm-5.3"
+}

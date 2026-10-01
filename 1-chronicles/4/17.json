@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 4:17",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die seun van Ezra: Jeter en Mered en Efer en Jalon; en sy het ⟨את⟩ Mirjam en ⟨את⟩ Sjammaj en ⟨את⟩ Jisbag, vader van Esjtemoa, verwek.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "en die seun van"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "Ezra"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Jeter"
+    },
+    {
+      "surface": "ומרד",
+      "gloss": "en Mered"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "en Efer"
+    },
+    {
+      "surface": "וילון",
+      "gloss": "en Jalon"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en sy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mirjam"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "Mirjam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjammaj"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Sjammaj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jisbag"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "Jisbag"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader van"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Esjtemoa"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:22.727546114Z",
+  "model": "glm-5.3"
+}

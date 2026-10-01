@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 11:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hulle sal geen kwaad doen nie en nie verdierf nie op die hele berg van my heiligheid, want die aarde is vol kennis van ⟨את⟩ Jahweh, soos die waters wat die see bedek.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "sal kwaad doen"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישחיתו",
+      "gloss": "verdierf"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op die hele"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "van my heiligheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos die waters"
+    },
+    {
+      "surface": "לים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "מכסים",
+      "gloss": "bedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:32.194729966Z",
+  "model": "glm-5.3"
+}

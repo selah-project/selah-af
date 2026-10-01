@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy het gesê: Roep sy naam Lo-Ammi, want julle is nie my volk nie, en ek sal nie vir julle wees nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Lo-Ammi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:35.167073944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Dit is goed dat jy ⟨hierdie⟩ vashou, en ook van ⟨hierdie⟩ ⟨את⟩ jou hand nie laat los nie; want hy wat Elohim vrees, kom uit ⟨את⟩ hulle almal uit.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "dit is goed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "jy vashou"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "van hierdie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "laat los"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "hy wat vrees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "kom uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle almal"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.954858426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 40:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy moet die salfolie van die salwing neem en die Misjkan salf, en ⟨את⟩ alles wat daarin is, en jy moet dit heilig maak en ⟨את⟩ al sy gereedskap, en dit sal heilig wees.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy moet neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die salfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salwing"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en jy moet salf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat daarin is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin is"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en jy moet heilig maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gereedskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:13.457708601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 9:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Elohim het ⟨את⟩ Nag seën en ⟨את⟩ sy seuns, en Hy het tot hulle gesê: Wees vrugbaar en vermenigvuldig en vul ⟨את⟩ die aarde.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "en het geseën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nag"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hy het gesê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "tot hulle"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "wees vrugbaar"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en vermenigvuldig"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:04.504738846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het ⟨את⟩ Jerubbaäl en ⟨את⟩ Bedan en ⟨את⟩ Jeftag en ⟨את⟩ Sjemuoël gestuur, en hy het julle gered uit die hand van julle vyande rondom, en julle het veilig gewoon.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en gestuur"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerubbaäl"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Jerubbaäl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bedan"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Bedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jeftag"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Jeftag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjemuoël"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuoël"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "en hy het gered"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "en julle het gewoon"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "veilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:42.393254693Z",
+  "model": "glm-5.3"
+}

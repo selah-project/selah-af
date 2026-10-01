@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En jy moet ⟨את⟩ die Misjkan oprig volgens sy regsreël, soos wat jou gewys is op die berg.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "En jy moet oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "volgens sy regsreël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "soos wat"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "jou gewys is"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:48.114863717Z",
+  "model": "glm-5.3"
+}

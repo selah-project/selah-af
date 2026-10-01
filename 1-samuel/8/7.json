@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jahweh sê tot Sjemuël: luister na die stem van die volk, na alles wat hulle vir jou sê; want nie ⟨את⟩ jou het hulle verwerp nie, want ⟨את⟩ My het hulle verwerp, van om oor hulle te regeer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "na alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hulle sê"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "het hulle verwerp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "My"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "het hulle verwerp"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "van om te regeer"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:21.841649303Z",
+  "model": "glm-5.3"
+}

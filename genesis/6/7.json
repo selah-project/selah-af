@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh het gesê: Ek sal ⟨את⟩ die mens wat ek geskep het uitwis van die oppervlak van die grond af, van die mens af tot die vee toe, tot die kruipende diere en tot die voëls van die hemel toe, want ek het berou dat ek hulle gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ek sal uitwis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ek geskep het"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van … af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van die mens af"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "die kruipende diere"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ek het berou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ek hulle gemaak het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:21.165736162Z",
+  "model": "glm-5.3"
+}

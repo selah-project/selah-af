@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim het 'n tuin in Eden, in die ooste, geplant, en daar het hy ⟨את⟩ die mens geplaas wat hy geform het.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "geplant"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "'n tuin"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "in Eden"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "in die ooste"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "geplaas"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "geform het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.044930172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Mosje met die ouderlinge van Jisraël het ⟨את⟩ die volk beveel en gesê: Onderhou ⟨את⟩ die hele gebod wat ek ⟨את⟩ jul vandag beveel.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "en die ouderlinge van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "onderhou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele gebod"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "gebod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jul"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:35.388841551Z",
+  "model": "glm-5.3"
+}

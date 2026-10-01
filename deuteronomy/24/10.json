@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Wanneer jy aan jou naaste 'n lening van enigiets gee, moet jy nie sy huis binnetree om sy pand weg te neem nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Wanneer"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "jy 'n lening gee"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "aan jou naaste"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "'n lening"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "van enigiets"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "moet jy nie binnetree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "om weg te neem as pand"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "sy pand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:42.160458070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en sy leër en hulle geteldees: twee en dertig duisend en twee honderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leër"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle geteldees"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "en twee honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:17.702895899Z",
+  "model": "glm-5.3"
+}

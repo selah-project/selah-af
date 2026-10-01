@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Stort U grimmigheid uit oor die nasies wat U nie ken nie, en oor die koninkryke wat op U naam nie geroep het nie.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "stort uit"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "U grimmigheid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "U ken"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "op U naam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "geroep het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:58.376090157Z",
+  "model": "glm-5.3"
+}

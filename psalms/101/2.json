@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "Ek sal insig hê in die weg van die volmaakte; wanneer sal U na my toe kom? Ek sal wandel in onberispelikheid van hart, binne-in my huis.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "ek sal insig hê"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "van die volmaakte"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sal U kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ek sal wandel"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in onberispelikheid"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my huis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.598626889Z",
+  "model": "glm-5.3"
+}

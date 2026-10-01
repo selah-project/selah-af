@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "'n Wolk vergaan en gaan weg, so daal hy wat na Sjeol afgaan — hy sal nie opgaan nie.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "'n wolk"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gaan weg"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "na Sjeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sal opgaan nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:24.022850306Z",
+  "model": "glm-5.3"
+}

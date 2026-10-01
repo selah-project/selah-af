@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Dink nie aan ons vroeëre ongeregtighede nie; laat U ontfermings gou vorentoe kom om ons te ontmoet, want ons is geheel verlaag.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "dink aan"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "ongeregtighede"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "vroeëre"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gou"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "kom vorentoe om ons te ontmoet"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "U ontfermings"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "is ons verlaag"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "geheel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:58.376476620Z",
+  "model": "glm-5.3"
+}

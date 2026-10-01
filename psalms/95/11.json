@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "sodat ek gesweer het in my toorn: hulle sal nie in my rus kom nie.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ek gesweer het"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in my toorn"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "hulle sal kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "my rus"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:26.490506587Z",
+  "model": "glm-5.3"
+}

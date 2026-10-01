@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Absalom het aan Agitofel gesê: Gee vir julleself raad: wat moet ons doen?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Agitofel"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julleself"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "raad"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "moet ons doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:46.477234849Z",
+  "model": "glm-5.3"
+}

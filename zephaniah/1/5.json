@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ die wat hulle neerbuig op die dakke vir die leërskare van die hemel, en ⟨את⟩ die wat hulle neerbuig, dié wat sweer by Jahweh en sweer by hulle koning;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wat hulle neerbuig op die dakke"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "die wat hulle neerbuig"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "die dakke"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "vir die leërskare"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wat hulle neerbuig en sweer"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "die wat hulle neerbuig"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "dié wat sweer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "en sweer"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "by hulle koning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:50.955663756Z",
+  "model": "glm-5.3"
+}

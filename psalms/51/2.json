@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Toe Natán die profeet na hom toe gekom het, nadat hy by Bat-Séwa ingegaan het.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "toe ... gekom het"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom toe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natán"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ingegaan het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Séwa"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:44.539538531Z",
+  "model": "glm-5.3"
+}

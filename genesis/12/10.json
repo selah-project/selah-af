@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 12:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En daar ⟨was⟩ 'n hongersnood in die land, en Awraham het afgegaan Mitsrajim toe om daar 'n tyd lank te vertoef, want swaar ⟨was⟩ die hongersnood in die land.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "'n hongersnood"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en het afgegaan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Mitsrajim toe"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "om te vertoef"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "die hongersnood"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:01.264772497Z",
+  "model": "glm-5.3"
+}

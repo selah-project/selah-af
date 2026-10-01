@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": " Neig my hart na u getuienisse, en nie na onregverdige wins nie.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "neig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "u getuienisse"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie na"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "onregverdige wins"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.443823157Z",
+  "model": "glm-5.3"
+}

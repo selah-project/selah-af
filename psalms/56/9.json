@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "My omswerwinge het U getel; U — sit my trane in ⟨die⟩ bottel van U; is hulle nie in ⟨die⟩ boek van U nie?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "My omswerwinge"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "het U getel"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "sit"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "my trane"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "in ⟨die⟩ bottel van U"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "is hulle nie"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "in ⟨die⟩ boek van U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.226162344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "My lippe sal jubel want ek psalmsing vir U, en my siel, wat U losgekoop het.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "sal jubel"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lippe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ek psalmsing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "en my siel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "U losgekoop het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:38.218732814Z",
+  "model": "glm-5.3"
+}

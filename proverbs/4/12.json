@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Wanneer jy loop, sal jou tree nie vernou word nie; en as jy hardloop, sal jy nie struikel nie.",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "Wanneer jy loop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "vernou word"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "jou tree"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "jy hardloop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "jy struikel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:09.983884362Z",
+  "model": "glm-5.3"
+}

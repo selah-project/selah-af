@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Jy mag hulle nie vrees nie; onthou ⟨את⟩ dit wat Jahweh jou Elohim aan Paro en aan die hele Mitsrajim gedoen het —",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "jy mag vrees"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat Jahweh jou Elohim aan Paro en aan die hele Mitsrajim gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "aan Paro"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan die hele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:42.175439961Z",
+  "model": "glm-5.3"
+}

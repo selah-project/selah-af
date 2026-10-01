@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En die Filistyne het ⟨את⟩ Sjaul en ⟨את⟩ sy seuns vasgevat, en die Filistyne het ⟨את⟩ Jehonatan en ⟨את⟩ Awinadab en ⟨את⟩ Malki-Sjoea geslaan — seuns van Sjaul.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "En het vasgevat"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en het geslaan"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehonatan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Awinadab"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Awinadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Malki-Sjoea"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Sjoea"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaul"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:49.791186557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Kyk, op my handpalme het ek jou ingegraveer; jou mure is gedurig voor my.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "my handpalme"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "het ek jou ingegraveer"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "jou mure"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:12.357456112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 167,
+  "ref": "psalms 119:167",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My siel het jou getuienisse bewaar, en ek het hulle baie liefgehad.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "het bewaar"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "jou getuienisse"
+    },
+    {
+      "surface": "ואהבם",
+      "gloss": "en ek het hulle liefgehad"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:32.783170259Z",
+  "model": "glm-5.3"
+}

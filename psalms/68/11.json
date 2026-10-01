@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "U lewende makke het daarin gewoon; U berei in U goedheid vir die armes, o Elohim.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "U lewende makke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "U berei"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "in U goedheid"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "vir die armes"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:18.206522392Z",
+  "model": "glm-5.3"
+}

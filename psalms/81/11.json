@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Ek ⟨is⟩ Jahweh jou Elohim, wat jou laat optrek het uit die land Mitsrajim — rede jou mond wyd, en ek sal dit vul.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "wat jou laat optrek het"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "rede wyd"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "en ek sal dit vul"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:20.813052958Z",
+  "model": "glm-5.3"
+}

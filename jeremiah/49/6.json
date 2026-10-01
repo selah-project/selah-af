@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "En daarna sal ek ⟨את⟩ die gevangenskap van die seuns van Ammon terugbring, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "En daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sal ek terugbring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangenskap van die seuns van Ammon"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die gevangenskap"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:43:30.927609843Z",
+  "model": "glm-5.3"
+}

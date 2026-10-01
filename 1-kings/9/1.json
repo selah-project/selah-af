@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En dit het gebeur, toe Sjelomo klaar gebou het ⟨את⟩ die huis van Jahweh en ⟨את⟩ die huis van die koning en ⟨את⟩ alles wat Sjelomo begeer het om te doen, waar hy 'n behae in gehad het",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "toe ... klaar was"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van die koning"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat Sjelomo begeer het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wat hy begeer het"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "'n behae in gehad het"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:42.737259949Z",
+  "model": "glm-5.3"
+}

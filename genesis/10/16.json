@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ die Jebusiet, en ⟨את⟩ die Emoriet, en ⟨את⟩ die Girgasiet.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Jebusiet"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "die Jebusiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Emoriet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Girgasiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "die Girgasiet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:51.516123905Z",
+  "model": "glm-5.3"
+}

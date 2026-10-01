@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 34:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En geen man mag saam met jou opgaan nie, en ook mag geen man gesien word op die hele berg nie, en ook die kleinvee en die beeste mag nie wei teenoor daardie berg nie.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en geen man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "opgaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "saam met jou"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "gesien word"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op die hele"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "en die beeste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "wei"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "מול",
+      "gloss": "reg teenoor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:42.100930938Z",
+  "model": "glm-5.3"
+}

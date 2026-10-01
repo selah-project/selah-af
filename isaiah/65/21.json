@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "En hulle sal huise bou en ⟨daarin⟩ woon, en wingerde plant en die vrug daarvan eet.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "en hulle sal bou"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en hulle sal woon"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "en hulle sal plant"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "wingerde"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en hulle sal eet"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "die vrug daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:50.471947007Z",
+  "model": "glm-5.3"
+}

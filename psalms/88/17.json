@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Oor my het u brandende toorn gegaan; u verskrikkinge het my uitgeroei.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "u brandende toorn"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "u verskrikkinge"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "het my uitgeroei"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:11.952496913Z",
+  "model": "glm-5.3"
+}

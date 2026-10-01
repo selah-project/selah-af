@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en Owed het ⟨את⟩ Jehoe verwek, en Jehoe het ⟨את⟩ Azarja verwek.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "en Owed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoe"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "en Jehoe"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Azarja"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarja"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:08.085159399Z",
+  "model": "glm-5.3"
+}

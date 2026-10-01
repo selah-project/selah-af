@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Hulle het hulle bloed uitgegiet soos water rondom Jerusjalajim, en daar was niemand om ⟨hulle⟩ te begrawe nie.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "hulle het uitgegiet"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hulle bloed"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos water"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar was niemand"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "om te begrawe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:55.053209372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Die koning het ⟨iemand⟩ gestuur en hom losgemaak; die heerser van ⟨die⟩ volke, en hom vrygelaat.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Die koning"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "en hom losgemaak"
+    },
+    {
+      "surface": "משל",
+      "gloss": "die heerser"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van volke"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "en hom vrygelaat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.410147398Z",
+  "model": "glm-5.3"
+}

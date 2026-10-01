@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hulle moet 'n ark van sittimhout maak: twee en 'n half amah ⟨is⟩ sy lengte, en 'n amah en 'n half sy breedte, en 'n amah en 'n half sy hoogte.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "En hulle moet maak"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "'n ark"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "twee amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en 'n half"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "sy lengte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en 'n amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en 'n half"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "en 'n amah"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en 'n half"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "sy hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:16.603801837Z",
+  "model": "glm-5.3"
+}

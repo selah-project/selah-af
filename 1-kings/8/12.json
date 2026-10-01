@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Toe het Sjelomo gesê: Jahweh het gesê dat Hy in ⟨die⟩ donkerheid sou woon.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Toe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "in ⟨die⟩ donkerheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:06.802774824Z",
+  "model": "glm-5.3"
+}

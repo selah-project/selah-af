@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het die tent van Jossef verag, en die stam van Efrajim nie uitgekies nie.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "En hy het verag"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Jossef"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "en die stam"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "van Efrajim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "uitgekies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:24.212859650Z",
+  "model": "glm-5.3"
+}

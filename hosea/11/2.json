@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 11:2",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hulle het hulle geroep — hoe meer hulle geroep het, hoe meer het hulle van hulle af weggegaan; aan die Baälim het hulle geslag en aan die uitgekerfde beelde wierook gebrand.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "hulle het geroep"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so — hoe meer"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "het hulle weggegaan"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "van hulle af"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "aan die Baälim"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "het hulle geslag"
+    },
+    {
+      "surface": "ולפסלים",
+      "gloss": "en aan die uitgekerfde beelde"
+    },
+    {
+      "surface": "יקטרון",
+      "gloss": "het hulle wierook gebrand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:21.499421892Z",
+  "model": "glm-5.3"
+}

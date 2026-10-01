@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 37:29",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hy het ⟨את⟩ die salvingsolie van die heiligdom gemaak, en ⟨את⟩ die rein wierook van speserye — die werk van 'n parfumeur.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die salvingsolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "die salvings-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligdom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die wierook"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wierook"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "van speserye"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "van 'n parfumeur"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:46.871806156Z",
+  "model": "glm-5.3"
+}

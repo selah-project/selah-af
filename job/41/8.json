@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Die een nader aan die een ⟨die ander⟩, en geen roeag kom tussen hulle nie.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "aan die een"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "nader"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "tussen hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:22:45.279224685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En julle weet dat ek met al my krag julle vader gedien het ⟨את⟩ julle vader.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ek gedien het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle vader"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "julle vader"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:57.375567763Z",
+  "model": "glm-5.3"
+}

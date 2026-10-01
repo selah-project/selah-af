@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Mitsrajim het ⟨את⟩ die Ludim verwek, en ⟨את⟩ die Anamim, en ⟨את⟩ die Lehabim, en ⟨את⟩ die Naftugim.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "En Mitsrajim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Ludim"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "die Ludim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Anamim"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "die Anamim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Lehabim"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "die Lehabim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Naftugim"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "die Naftugim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.689387109Z",
+  "model": "glm-5.3"
+}

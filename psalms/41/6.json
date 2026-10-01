@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "My vyande sê kwaad van my: wanneer sal hy sterwe en sy naam vergaan?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "ייאמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van my"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sal hy sterwe"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "en vergaan"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:59.377926929Z",
+  "model": "glm-5.3"
+}

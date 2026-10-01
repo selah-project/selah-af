@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 104:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hoe talryk is u werke, Jahweh — almal het U in wysheid gemaak; die aarde is vol van u verworwe skeppinge.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "talryk is"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "u werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "almal"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wysheid"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het U gemaak"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "van u verworwe skeppinge"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.725131954Z",
+  "model": "glm-5.3"
+}

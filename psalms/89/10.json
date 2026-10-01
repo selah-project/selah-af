@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 89:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "U heers oor die trots van die see; as sy golwe hulle verhef, stil U hulle.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "heers"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "oor die trots"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "בשוא",
+      "gloss": "as"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "sy golwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תשבחם",
+      "gloss": "stil hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.907944637Z",
+  "model": "glm-5.3"
+}

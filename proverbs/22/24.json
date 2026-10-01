@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Toon jou nie bevriend met ⟨את⟩ 'n man van toorn nie, en met ⟨את⟩ 'n man van gloednyd gaan jy nie om nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "toon jou bevriend"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n man van toorn"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אף",
+      "gloss": "van toorn"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "van gloednyd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "gaan jy om"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:58.598910443Z",
+  "model": "glm-5.3"
+}

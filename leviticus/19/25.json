@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En in die vyfde jaar sal julle ⟨את⟩ sy vrug eet, om vir julle sy opbrengs te vermeerder; ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "En in die jaar"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "die vyfde"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrug"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sy vrug"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "om te vermeerder"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "sy opbrengs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:00.299162227Z",
+  "model": "glm-5.3"
+}

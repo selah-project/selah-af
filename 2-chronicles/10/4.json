@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Jou vader het ons juk swaar gemaak ⟨את⟩, en nou, maak die swaar dwangarbeid van jou vader ligter, en sy swaar juk wat hy op ons gelê het, dan sal ons jou dien.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "swaar gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons juk"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ons juk"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "maak ligter"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "die dwangarbeid van"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "die swaar"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "en sy juk"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "die swaar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gelê het"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "op ons"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "dan sal ons jou dien"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:10.421209508Z",
+  "model": "glm-5.3"
+}

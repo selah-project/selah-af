@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "en ⟨את⟩ die Hittiet en ⟨את⟩ die Perissiet en ⟨את⟩ die Refaïet",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Hittiet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hittiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Perissiet"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "die Perissiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Refaïet"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "die Refaïet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:18.622769038Z",
+  "model": "glm-5.3"
+}

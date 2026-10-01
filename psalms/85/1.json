@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Vir die koorleier; van die seuns van Korag; 'n psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:22.869105628Z",
+  "model": "glm-5.3"
+}

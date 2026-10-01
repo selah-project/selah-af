@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Wee ⟨hom⟩ wat aan 'n vader sê: wat verwek jy? en aan 'n vrou: wat bare jy?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wat sê"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "aan 'n vader"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "verwek jy"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "en aan 'n vrou"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "bare jy"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:54.214426086Z",
+  "model": "glm-5.3"
+}

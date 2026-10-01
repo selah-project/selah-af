@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En hy het vir hulle gesê: Nee, maar om die naaktheid van die land te sien, het julle gekom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "het julle gekom"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:21.650268709Z",
+  "model": "glm-5.3"
+}

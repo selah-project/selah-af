@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Ag tog, Jahweh, want ek is u dienaar — ek is u dienaar, seun van u diensmaagd; U het my boeie losgemaak.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ag tog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "is u dienaar"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "u diensmaagd"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "U het losgemaak"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "my boeie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:19.474749006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Sien, ek het vandag voor jou gesit ⟨את⟩ die lewe en ⟨את⟩ die goeie, en ⟨את⟩ die dood en ⟨את⟩ die slegte.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gesit"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewe"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die goeie"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "die goeie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die dood"
+    },
+    {
+      "surface": "המות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die slegte"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die slegte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:43.611571919Z",
+  "model": "glm-5.3"
+}

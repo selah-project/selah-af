@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Hy sal nie skreeu en nie sy stem verhef nie, en nie laat hoor buitekant sy stem nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "sal skreeu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sal verhef"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "sal laat hoor"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sy stem"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:24.260154838Z",
+  "model": "glm-5.3"
+}

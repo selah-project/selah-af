@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 9:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want nou toe al het ek ⟨את⟩ my hand uitgestrek en jou geslaan — ⟨את⟩ jou en ⟨את⟩ jou volk — met die pes, en jy sou van die aarde uitgedelg gewees het.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou toe al"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "het ek … uitgesteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "ואך",
+      "gloss": "en geslaan"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "met die pes"
+    },
+    {
+      "surface": "ותכחד",
+      "gloss": "en jy sou uitgedelg wees"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:30.240849999Z",
+  "model": "glm-5.3"
+}

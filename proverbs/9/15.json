@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 9:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "om te roep die wat verbygaan op die weg, die wat reguit loop hul paaie.",
+  "tokens": [
+    {
+      "surface": "לקרא",
+      "gloss": "om te roep"
+    },
+    {
+      "surface": "לעברי",
+      "gloss": "die wat verbygaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op die weg"
+    },
+    {
+      "surface": "המישרים",
+      "gloss": "die wat reguit loop"
+    },
+    {
+      "surface": "ארחותם",
+      "gloss": "hul paaie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:12.402067632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Sê van die regverdige dat dit goed ⟨sal wees⟩, want die vrug van hulle dade sal hulle eet.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "die vrug"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "van hulle dade"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal hulle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:27.253944152Z",
+  "model": "glm-5.3"
+}

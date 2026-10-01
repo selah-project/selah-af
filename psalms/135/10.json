@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "wat nasies geslaan het, baie, en magtige konings gedood het.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "wat geslaan het"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "en gedood"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "magtige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.892939286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 49:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Hulle sal nie honger ly nie en nie dors ly nie, en gloed en son sal hulle nie tref nie, want hy wat hulle ontferm, sal hulle lei, en by fonteine van water sal hy hulle laat rus.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירעבו",
+      "gloss": "sal honger ly"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יצמאו",
+      "gloss": "dors ly"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכם",
+      "gloss": "sal hulle tref"
+    },
+    {
+      "surface": "שרב",
+      "gloss": "gloed"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "en son"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרחמם",
+      "gloss": "hy wat hulle ontferm"
+    },
+    {
+      "surface": "ינהגם",
+      "gloss": "sal hulle lei"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "מבועי",
+      "gloss": "fonteine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "ינהלם",
+      "gloss": "sal hy hulle laat rus"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:09.920472749Z",
+  "model": "glm-5.3"
+}

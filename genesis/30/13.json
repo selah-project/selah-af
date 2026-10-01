@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 30:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Lea het gesê: In my geluk, want ⟨die⟩ dogters noem my gelukkig; en sy het ⟨את⟩ sy naam Ajer genoem.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "באשרי",
+      "gloss": "in my geluk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אשרוני",
+      "gloss": "noem my gelukkig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ajer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:16.101783821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 30:29",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En hy sê vir hom: jy weet ⟨את⟩ wat ek gedien het om dit vir jou te doen, en ⟨את⟩ wat jou vee was — ⟨את⟩ by my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ek gedien het om dit vir jou te doen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עבדתיך",
+      "gloss": "ek gedien het om dit vir jou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat jou vee was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "jou vee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:44.956036951Z",
+  "model": "glm-5.3"
+}

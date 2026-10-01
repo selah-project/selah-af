@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Die hemele sal hul verbly en die aarde sal juig; die see sal dreun en sy volheid.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "sal hul verbly"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "en sal juig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "sal dreun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en sy volheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:22.720011947Z",
+  "model": "glm-5.3"
+}

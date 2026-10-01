@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En dit is hom as tsedek toegereken, van geslag tot geslag, tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "is toegereken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "as tsedek"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:36.207181039Z",
+  "model": "glm-5.3"
+}

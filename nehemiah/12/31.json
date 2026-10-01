@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 12:31",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Toe laat ek ⟨את⟩ die owerstes van Jehoeda bo-op die muur klim, en ek stel twee groot dankgroepe op, met optogte, na die regterkant bo-op die muur, na die Aspoort toe.",
+  "tokens": [
+    {
+      "surface": "ואעלה",
+      "gloss": "toe laat ek klim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die owerstes van Jehoeda"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die owerstes van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "ואעמידה",
+      "gloss": "en ek stel op"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "dankgroepe"
+    },
+    {
+      "surface": "גדולת",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ותהלכת",
+      "gloss": "met optogte"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "na die regterkant"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "na die poort van"
+    },
+    {
+      "surface": "האשפת",
+      "gloss": "die Aspoort"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:01.492364098Z",
+  "model": "glm-5.3"
+}

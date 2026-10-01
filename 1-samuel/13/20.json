@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die hele Jisraël het by die Filistyne afgegaan om te skerpe, elkeen ⟨את⟩ sy ploegskaar en ⟨את⟩ sy skoffel en ⟨את⟩ sy byl en ⟨את⟩ sy pik.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "en het afgegaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "by die Filistyne"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "om te skerpe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy ploegskaar"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sy ploegskaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy skoffel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "sy skoffel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy byl"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "sy byl"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy pik"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "sy pik"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:37.735457658Z",
+  "model": "glm-5.3"
+}

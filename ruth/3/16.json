@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En sy het by haar skoonmoeder gekom, en ⟨hulle⟩ het gesê: wie is jy, my dogter? En sy het aan haar ⟨את⟩ alles vertel wat die man aan haar gedoen het.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "en sy het gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "haar skoonmoeder"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "is jy"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "my dogter"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "en sy het vertel"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aan haar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aan haar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:13.533792893Z",
+  "model": "glm-5.3"
+}

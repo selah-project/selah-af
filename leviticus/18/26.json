@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En julle moet ⟨את⟩ my insettinge en ⟨את⟩ my regte hou, en julle mag nie een van al hierdie gruwels doen nie — die inboorling en die bywoner wat in julle midde bywoon.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle moet hou"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my insettinge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my regte"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my regte"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "julle mag doen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "een van al"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "die gruwels"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "die inboorling"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "en die bywoner"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "wat bywoon"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "in julle midde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:00.724632484Z",
+  "model": "glm-5.3"
+}

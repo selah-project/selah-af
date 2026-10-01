@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En dit is die name van die seuns van Aharon: die eersgeborene Nadaw, en Abihu, Elazar en Itamar.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadaw"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "en Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "en Itamar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:01.392116339Z",
+  "model": "glm-5.3"
+}

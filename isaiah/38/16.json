@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 38:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Adonai, deur hierdie dinge leef ⟨hulle⟩, en in al hierdie dinge ⟨is⟩ die lewe van my roeag; genees U my en laat my lewe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "deur hulle"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "leef hulle"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en in al"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "van my roeag"
+    },
+    {
+      "surface": "ותחלימני",
+      "gloss": "genees U my"
+    },
+    {
+      "surface": "והחיני",
+      "gloss": "en laat my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:33.581312795Z",
+  "model": "glm-5.3"
+}

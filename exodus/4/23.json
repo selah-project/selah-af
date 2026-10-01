@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 4:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ek het aan jou gesê: Stuur ⟨את⟩ my seun weg dat hy my dien; maar jy het geweier om hom weg te stuur — kyk, ek maak ⟨את⟩ jou seun dood, jou eersgeborene.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "dat hy my dien"
+    },
+    {
+      "surface": "ותמאן",
+      "gloss": "en jy het geweier"
+    },
+    {
+      "surface": "לשלחו",
+      "gloss": "om hom weg te stuur"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "maak dood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "jou eersgeborene"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:22.251684773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy manne wat met hom was — hulle het die man met sy huis laat opgaan — Dawid het hulle laat opgaan, en hulle het in die stede van Chewron gewoon.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het laat opgaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "en sy huis"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "en hulle het gewoon"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "in die stede"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chewron"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:16.647181497Z",
+  "model": "glm-5.3"
+}

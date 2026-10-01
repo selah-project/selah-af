@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 11:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy het hulle by Besek getel, en die seuns van Jisraël was drie honderd duisend, en die manne van Jehoeda dertig duisend.",
+  "tokens": [
+    {
+      "surface": "ויפקדם",
+      "gloss": "en hy het hulle getel"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "by Besek"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en die manne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:48.631769759Z",
+  "model": "glm-5.3"
+}

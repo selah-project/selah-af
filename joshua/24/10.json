@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 24:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "en Ek wou nie na Bilam luister nie, en hy het julle oor en oor geseën, en Ek het julle uit sy hand gered.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אביתי",
+      "gloss": "wou Ek"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "na Bilam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "oor en oor"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "en Ek het gered"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "מידו",
+      "gloss": "uit sy hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:40.846436594Z",
+  "model": "glm-5.3"
+}

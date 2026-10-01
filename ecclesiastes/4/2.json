@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ek het ⟨את⟩ die dodes geprys, wat reeds gesterf het, bo die lewendes wat nog lewe tot nou toe.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "en ek het geprys"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dodes"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "die dodes"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "wat reeds"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "gesterf het"
+    },
+    {
+      "surface": "מן",
+      "gloss": "bo"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewendes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "tot nou toe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:11.693397679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 71:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "My tong ook, die heel dag, sal u tsedek mompel, want hulle is beskaam, want hulle is geskaam, hulle wat my kwaad soek.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die heel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "sal mompel"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "is beskaam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "is geskaam"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "hulle wat soek"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "my kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:38.219180604Z",
+  "model": "glm-5.3"
+}

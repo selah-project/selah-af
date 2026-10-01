@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Jahweh sê aan Kajin: waarom gloei dit vir jou, en waarom het jou gesig gedaal?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "gloei dit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het gedaal"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou gesig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:27.682193517Z",
+  "model": "glm-5.3"
+}

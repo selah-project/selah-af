@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Nie so nie! Gaan tog, julle manne, en dien ⟨את⟩ Jahweh, want dít ⟨is⟩ wat julle soek. En hy het hulle weggejaag, van ⟨את⟩ die aangesig van Paro af.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat julle soek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "soek"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "en hy het weggejaag"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩ … af",
+      "marks": "die aangesig van Paro"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:32.182241855Z",
+  "model": "glm-5.3"
+}

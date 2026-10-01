@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "die berge, dat julle spring soos ramme, die heuwels soos lammers?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "dat julle spring"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "soos ramme"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "die heuwels"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "soos die kleintjies van"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kleinvee"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.741373204Z",
+  "model": "glm-5.3"
+}

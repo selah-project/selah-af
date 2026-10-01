@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 30:29",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy moet hulle heilig, en hulle sal heilig van heiliges wees; alles wat hulle aanraak, sal geheilig word.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "en jy moet heilig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die voorwerpe van die heiliging)"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heiliges"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wat aanraak"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "sal geheilig word"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:06.501885592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En sy het aan hom gesê: Dogter van Betuël ⟨is⟩ ek, seun van Milka, wat sy vir Nagor gebaar het.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Betuël"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Milka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaar het"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "vir Nagor"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:44.921194936Z",
+  "model": "glm-5.3"
+}

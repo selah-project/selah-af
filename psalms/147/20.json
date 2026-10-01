@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Aan geen enkele nasie het Hy so gedoen nie; en wat sy regte betref — hulle het hulle nie geken nie. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan enige"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "en sy regte"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geensins"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "hulle het hulle geken"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.511283702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Kom, eet van my brood, en drink van die wyn wat ek gemeng het.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "eet"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "van my brood"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "van die wyn"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "het ek gemeng"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:37.794133614Z",
+  "model": "glm-5.3"
+}

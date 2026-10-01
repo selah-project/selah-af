@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En jy mag nie teen jou naaste 'n leugetuienis antwoord nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "teen jou naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "'n getuienis"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leue-"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:16.881454814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Van El, jou vader, wat jou help, en ⟨את⟩ Sjaddai, wat jou seën — met seëninge van die hemel daarbo, seëninge van die diepte wat lê onder, seëeninge van borsste en moederskoot.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "wat jou help"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaddai"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "wat jou seën"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "met seëninge van"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "daarbo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "seëninge van"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "die diepte"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "wat lê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "seëninge van"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "borsste"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "en moederskoot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:11.252589056Z",
+  "model": "glm-5.3"
+}

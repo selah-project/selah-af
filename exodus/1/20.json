@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het goed gedoen aan die vroedvroue, en die volk het vermenigvuldig en baie sterk geword.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "En ... het goed gedoen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "aan die vroedvroue"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "en het vermenigvuldig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "en baie sterk geword"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.962107388Z",
+  "model": "glm-5.3"
+}

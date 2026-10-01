@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "Wie in die verborge sy naaste belaster — hom sal ek uitroei; die hoogoog en die breed van hart — hom sal ek nie kan ⟨verdra⟩ nie.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "belaster"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die verborge"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "sal ek uitroei"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "van oë"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en breed"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:49.311919072Z",
+  "model": "glm-5.3"
+}

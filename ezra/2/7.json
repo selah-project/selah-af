@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die kinders van Eïlam, duisend tweehonderd vier-en-vyftig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "kinders van"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Eïlam"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "en vier"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:24.494063953Z",
+  "model": "glm-5.3"
+}

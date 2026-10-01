@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die koning het gesterwe, en ⟨hulle⟩ het ⟨hom⟩ na Sjomeron gebring, en hulle het ⟨את⟩ die koning in Sjomeron begrawe.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en hy het gesterwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "na Sjomeron"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Sjomeron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:19.975712114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Elohim, mag Hy ons genadig wees en ons seën, mag Hy sy aangesig laat skyn oor ⟨את⟩ ons. Sela.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "mag Hy ons genadig wees"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "en ons seën"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "mag Hy laat skyn"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "ons"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.532995173Z",
+  "model": "glm-5.3"
+}

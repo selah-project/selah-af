@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En sy dienaars het ⟨את⟩ hom op 'n wa weggebring, na Jerusjalajim, en hulle het ⟨את⟩ hom in sy graf begrawe, by sy vaders, in die stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "en hulle het laat ry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "na Jerusjalajim"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom in sy graf"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "in sy graf"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:26.937914291Z",
+  "model": "glm-5.3"
+}

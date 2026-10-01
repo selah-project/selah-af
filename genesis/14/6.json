@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En ⟨את⟩ die Horiete in hulle berg Seïr, tot by El-Paran, wat aan die woestyn is.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Horiete"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "die Horiete"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "in hulle berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "איל",
+      "gloss": "El"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:03.500440534Z",
+  "model": "glm-5.3"
+}

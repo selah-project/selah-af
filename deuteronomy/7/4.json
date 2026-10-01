@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "want hy sal ⟨את⟩ jou seun van agter My af wegdraai, en hulle sal gode ander dien; dan sal die neus van Jahweh teen julle brand, en Hy sal jou gou uitroei.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "sal wegdraai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van agter My af"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "en hulle sal dien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "en sal brand"
+    },
+    {
+      "surface": "אף",
+      "gloss": "neus"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "teen julle"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "en sal jou uitroei"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "gou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:17.740928973Z",
+  "model": "glm-5.3"
+}

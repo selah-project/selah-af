@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "O dat u, El, die goddelose sou doodmaak — en julle, manne van bloed, wyk van my af!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "o dat"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "u sou doodmaak"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en julle, manne"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "wyk"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van my af"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:25.298029940Z",
+  "model": "glm-5.3"
+}

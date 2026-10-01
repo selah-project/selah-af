@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 19:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Ek sal Mitsrajim teen Mitsrajim aansweep, en hulle sal veg, elkeen teen sy broer, en elkeen teen sy naaste, stad teen stad, koninkryk teen koninkryk.",
+  "tokens": [
+    {
+      "surface": "וסכסכתי",
+      "gloss": "en Ek sal aansweep"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "teen Mitsrajim"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "en hulle sal veg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "teen sy broer"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "teen sy naaste"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "teen stad"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "koninkryk"
+    },
+    {
+      "surface": "בממלכה",
+      "gloss": "teen koninkryk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:07.748104888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "⟨Du het my⟩ hard gedruk om my te laat val, maar Jahweh het my gehelp.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "hard gedruk"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "⟨du het my⟩ gedruk"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "om te val"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maar Jahweh"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "het my gehelp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:43.184760775Z",
+  "model": "glm-5.3"
+}

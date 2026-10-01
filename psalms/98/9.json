@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 98:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Voor die aangesig van Jahweh, want Hy kom om ⟨את⟩ die aarde te oordeel; Hy sal ⟨את⟩ die wêreeld oordeel in tsedek, en ⟨את⟩ die volke in reguitheid.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "om te oordeel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "Hy sal oordeel"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreeld"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in tsedek"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "en die volke"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in reguitheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:06.947033508Z",
+  "model": "glm-5.3"
+}

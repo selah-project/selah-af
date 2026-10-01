@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 19:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Neig, Jahweh, U oor en hoor; open, Jahweh, U oë en sien; en hoor ⟨את⟩ die woorde van Sanherib wat hy gestuur het om die lewende Elohim te bespot.",
+  "tokens": [
+    {
+      "surface": "הטה",
+      "gloss": "neig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "U oor"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "open"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "U oë"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "van Sanherib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hy gestuur het"
+    },
+    {
+      "surface": "לחרף",
+      "gloss": "om te bespot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:11.717100596Z",
+  "model": "glm-5.3"
+}

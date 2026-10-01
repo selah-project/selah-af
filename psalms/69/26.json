@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Mag hulle vesting verwoes wees, en in hulle tente mag daar geen bewoner wees nie.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "hulle vesting"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "verwoes"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "in hulle tente"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag nie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mag daar wees"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "'n bewoner"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:47.918308900Z",
+  "model": "glm-5.3"
+}

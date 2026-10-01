@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 5:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "U sal ⟨die⟩ sprekers van leuens vernietig; 'n man van bloed en bedrog — Jahweh verafsku hom.",
+  "tokens": [
+    {
+      "surface": "תאבד",
+      "gloss": "U sal vernietig"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨die⟩ sprekers"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "van leuens"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "en bedrog"
+    },
+    {
+      "surface": "יתעב",
+      "gloss": "verafsku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:19.916554361Z",
+  "model": "glm-5.3"
+}

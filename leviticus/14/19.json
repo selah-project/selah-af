@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester sal die sondoffer doen — ⟨את⟩ die sondoffer — en versoening doen oor die een wat hom reinig van sy onreinheid; en daarna sal hy ⟨את⟩ die brandoffer slag.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en sal doen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sondoffer"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "die sondoffer"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en versoening doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "die een wat hom reinig"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "van sy onreinheid"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "sal hy slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:48.045357080Z",
+  "model": "glm-5.3"
+}

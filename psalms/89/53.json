@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Geseënd ⟨is⟩ Jahweh tot in ewigheid. Amen, en Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "en Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:08.392997428Z",
+  "model": "glm-5.3"
+}

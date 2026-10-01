@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 31:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Mosje het hierdie Tora geskryf en dit aan die priesters, die seuns van Levi, wat ⟨את⟩ die ark van die verbond van Jahweh dra, gegee, en aan al die oudstes van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en het geskryf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie Tora"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "en het gegee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "wat dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die verbond van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:45.375372102Z",
+  "model": "glm-5.3"
+}

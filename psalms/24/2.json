@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Want hy het dit op die seë gegrondves en op die riviere dit vasgemaak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "die seë"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "het dit gegrondves"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "dit vasgemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:41.902603744Z",
+  "model": "glm-5.3"
+}

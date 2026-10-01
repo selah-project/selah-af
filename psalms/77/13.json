@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 77:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Ek sal oor al u werke nadink, en oor u dade sal ek spree.",
+  "tokens": [
+    {
+      "surface": "והגיתי",
+      "gloss": "ek sal nadink"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor al"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "u werke"
+    },
+    {
+      "surface": "ובעלילותיך",
+      "gloss": "en oor u dade"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "sal ek spree"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:36.011123224Z",
+  "model": "glm-5.3"
+}

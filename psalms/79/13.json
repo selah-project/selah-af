@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "En ons, u volk en ⟨die⟩ kudde van u weiveld, sal u dank tot in ⟨die⟩ ewigheid, van geslag tot geslag sal ons u lof vertel.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "en ons"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "en ⟨die⟩ kudde"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "van u weiveld"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "sal ons dank"
+    },
+    {
+      "surface": "לך",
+      "gloss": "u"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ⟨die⟩ ewigheid"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "sal ons vertel"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "u lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:57.637565575Z",
+  "model": "glm-5.3"
+}

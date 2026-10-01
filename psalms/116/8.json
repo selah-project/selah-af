@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Want U het my siel uit die dood geruk, ⟨את⟩ my oog uit ⟨die⟩ trane, ⟨את⟩ my voet uit ⟨die⟩ struikeling.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "het U geruk"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit die dood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my oog"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "trane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my voet"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voet"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "uit struikeling"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:48.271823799Z",
+  "model": "glm-5.3"
+}

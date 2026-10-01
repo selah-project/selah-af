@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Jahweh, u naam ⟨is⟩ tot in ewigheid, Jahweh, u gedenkteken ⟨is⟩ vir geslag en geslag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "u gedenkteken"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.824641796Z",
+  "model": "glm-5.3"
+}

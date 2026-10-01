@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En dit het gebeur toe Joab oor die stad wag gehou het, dat hy ⟨את⟩ Urija aangewys het na die plek waar hy geweet het dat dapper manne daar was.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "toe hy wag gehou het"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "aangewys het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hy geweet het"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "manne"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "dapper"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:51.516095972Z",
+  "model": "glm-5.3"
+}

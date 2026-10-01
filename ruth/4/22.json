@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en Obed het ⟨את⟩ Jissai verwek, en Jissai het ⟨את⟩ Dawid verwek",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "en Obed"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jissai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jissai"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "en Jissai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:16.983797100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Want as soos brood het ek geëet, en my drank met geween gemeng.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "as"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "soos brood"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "het ek geëet"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "en my drank"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "met geween"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "gemeng"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:23.254335548Z",
+  "model": "glm-5.3"
+}

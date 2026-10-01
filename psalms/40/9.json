@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Om u welbehae te doen, my Elohim, het ek behae gevoel; en u Tora is binne my ingewande.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "u welbehae"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "het ek behae gevoel"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en u Tora"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binne"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "my ingewande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:50.570517344Z",
+  "model": "glm-5.3"
+}

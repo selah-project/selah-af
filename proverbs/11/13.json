@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hy wat rondloop as lasterdrager, ontuel ⟨'n⟩ geheim; maar hy wat getrou is van roeag, bedek die saak.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "hy wat rondloop"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "lasterdrager"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ontuel"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "geheim"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "maar hy wat getrou is"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die saak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:12.884492365Z",
+  "model": "glm-5.3"
+}

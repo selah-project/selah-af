@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 8:6",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "want hoe kan ek ⟨dit⟩ verdra en aanskou die onheil wat ⟨את⟩ my volk sal vind, en hoe kan ek verdra en aanskou die ondergang van my geboorteland?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ek"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "en aanskou"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "die onheil"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sal vind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ואיככה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ek"
+    },
+    {
+      "surface": "וראיתי",
+      "gloss": "en aanskou"
+    },
+    {
+      "surface": "באבדן",
+      "gloss": "die ondergang"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "van my geboorteland"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:11.537507554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy leër en sy geteldes: ses en veertig duisend en vyfhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "En sy leër"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "en sy geteldes"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ses"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vyf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:31.496063633Z",
+  "model": "glm-5.3"
+}

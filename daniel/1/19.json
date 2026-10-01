@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "daniel 1:19",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning het met ⟨את⟩ hulle gespreek, en daar is nie uit hulle almal een gevind soos Daniël, Hananja, Misjaël en Azarja nie; en hulle het gestaan voor die koning.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "is gevind"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "uit hulle almal"
+    },
+    {
+      "surface": "כדניאל",
+      "gloss": "soos Daniël"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Hananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misjaël"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en hulle het gestaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:12.484005830Z",
+  "model": "glm-5.3"
+}

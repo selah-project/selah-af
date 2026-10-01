@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 13:19",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En 'n smid is in die hele land van Jisraël nie gevind nie, want die Filistyne het gesê: dat die Hebreeë nie swaard of spies maak nie.",
+  "tokens": [
+    {
+      "surface": "וחרש",
+      "gloss": "en 'n smid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "word gevind"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat ... nie ... nie"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "maak"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "die Hebreeë"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spies"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:37.735284856Z",
+  "model": "glm-5.3"
+}

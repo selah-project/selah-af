@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die koning Sjelomo het gestuur en ⟨את⟩ Giram uit Tsoor gebring.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Giram"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Giram"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "uit Tsoor"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:03.288962394Z",
+  "model": "glm-5.3"
+}

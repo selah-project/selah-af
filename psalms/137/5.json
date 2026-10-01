@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "As ek u vergeet, o Jerusjalajim, laat my regterhand vergeet.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ek u vergeet"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "o Jerusjalajim"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "laat ... vergeet"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "my regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:52.258423953Z",
+  "model": "glm-5.3"
+}

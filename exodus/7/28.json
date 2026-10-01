@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 7:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die rivier sal wemel van paddas, en hulle sal opklim en in jou huis kom en in jou slaapkamer en op jou bed en in die huis van jou dienaars en op jou volk en in jou oonde en in jou deegbakke.",
+  "tokens": [
+    {
+      "surface": "ושרץ",
+      "gloss": "En ... sal wemel"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "die rivier"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "van paddas"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "en hulle sal opklim"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jou huis"
+    },
+    {
+      "surface": "ובחדר",
+      "gloss": "en in jou slaapkamer"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "jou slaapkamer"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "מטתך",
+      "gloss": "jou bed"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "en in die huis"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "van jou dienaars"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "en op jou volk"
+    },
+    {
+      "surface": "ובתנוריך",
+      "gloss": "en in jou oonde"
+    },
+    {
+      "surface": "ובמשארותיך",
+      "gloss": "en in jou deegbakke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:40.987647774Z",
+  "model": "glm-5.3"
+}

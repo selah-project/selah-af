@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "want 'n roeag gaan daaroor, en hy ⟨is⟩ daar nie meer; en sy plek sal hom nie meer herken nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "'n roeag"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "gaan daaroor"
+    },
+    {
+      "surface": "בו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hy is daar nie meer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "sal hom herken"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie meer"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sy plek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.496658904Z",
+  "model": "glm-5.3"
+}

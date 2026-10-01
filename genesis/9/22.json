@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "en Gam, die vader van Kenaan, het ⟨את⟩ die naaktheid van sy vader gesien, en hy het dit aan sy twee broers buite gaan vertel",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Gam"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader van"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naaktheid van sy vader"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en hy het vertel"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "aan sy twee"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "broers"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buite"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:32.588626026Z",
+  "model": "glm-5.3"
+}

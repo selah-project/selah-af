@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Hy het my uitgebring na 'n wydte, Hy het my gered, want Hy het 'n welbehae in my gehad.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "En Hy het my uitgebring"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "na 'n wydte"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "Hy het my gered"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Hy het 'n welbehae gehad"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:29.561448069Z",
+  "model": "glm-5.3"
+}

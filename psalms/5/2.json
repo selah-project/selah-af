@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "My woorde — luister, o Jahweh, verstaan my gemurmel.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "my gemurmel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:26.160016845Z",
+  "model": "glm-5.3"
+}

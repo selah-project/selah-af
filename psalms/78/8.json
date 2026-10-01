@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "en dat hulle nie mag wees soos hulle vaders nie: 'n geslag wat afwyk en opstandig is, 'n geslag wie se hart nie gereedgemaak het nie en wie se roeag nie getrou ⟨את⟩ El was nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "soos hulle vaders"
+    },
+    {
+      "surface": "דור",
+      "gloss": "'n geslag"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "afwykend"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "en opstandig"
+    },
+    {
+      "surface": "דור",
+      "gloss": "'n geslag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "gereedgemaak het"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "getrou was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sy roeag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.951260357Z",
+  "model": "glm-5.3"
+}

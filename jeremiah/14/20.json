@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 14:20",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Ons ken dit, Jahweh — ons goddeloosheid en die ongeregtigheid van ons vaders, want ons het teen U gesondig.",
+  "tokens": [
+    {
+      "surface": "ידענו",
+      "gloss": "ons ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רשענו",
+      "gloss": "ons goddeloosheid"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongeregtigheid"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "van ons vaders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "het ons gesondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen U"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:50.284975061Z",
+  "model": "glm-5.3"
+}

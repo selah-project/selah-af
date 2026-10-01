@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Verheug julle, regverdiges, in Jahweh, en dank by die gedagtenis van sy heiligheid.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Verheug julle"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "en dank"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "by die gedagtenis"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van sy heiligheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:18.241063802Z",
+  "model": "glm-5.3"
+}

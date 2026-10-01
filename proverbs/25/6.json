@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Verheerlik jouself nie voor die aangesig van die koning nie, en in die plek van grotes moet jy nie staan nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "verheerlik jouself"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "en in die plek van"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "grotes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moet ... nie"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:17.929528431Z",
+  "model": "glm-5.3"
+}

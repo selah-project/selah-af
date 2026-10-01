@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Ter wille van jou Naam, Jahweh, vergewe jy my oortreding, want sy ⟨is⟩ groot.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "vergewe jy"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "my oortreding"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:14.458509601Z",
+  "model": "glm-5.3"
+}

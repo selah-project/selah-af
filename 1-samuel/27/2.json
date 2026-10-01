@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Dawid het opgestaan en oorgetrek, hy en ses honderd man wat met hom ⟨was⟩, na Agisj, seun van Maög, koning van Gat.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en oorgetrek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Agisj"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "Maög"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:42.176200888Z",
+  "model": "glm-5.3"
+}

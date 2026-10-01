@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Jod. Jou hande het my gemaak en my toegerus; gee my insig, en ek sal jou gebooie leer.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "Jou hande"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "het my gemaak"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "en my toegerus"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "gee my insig"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "en ek sal leer"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jou gebooie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.229522610Z",
+  "model": "glm-5.3"
+}

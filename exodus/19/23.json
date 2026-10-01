@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mosje het vir Jahweh gesê: Die volk kan nie opgaan na berg Sinai nie, want U self het teen ons betuig en gesê: Sit 'n grens om die berg ⟨את⟩ en heilig dit.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en-het-gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die-volk"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "om-op-te-gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U-self"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "het-U-betuig"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "teen-ons"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en-gesê"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "sit-'n-grens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "om-die-berg"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "en-heilig-dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:47.344294434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "maar in die Tora van Jahweh ⟨is⟩ sy welbehae, en in sy Tora peins hy dag en nag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "in die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "sy welbehae"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "en in sy Tora"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "peins hy"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:52.155200137Z",
+  "model": "glm-5.3"
+}

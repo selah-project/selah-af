@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "'n Mizmor, 'n lied van die inwyding van die huis, van Dawid.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "van die inwyding"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:42.432698601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 134,
+  "ref": "psalms 119:134",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Los my los van ⟨die⟩ verdrukking van die mens, en ek sal u bevele onderhou.",
+  "tokens": [
+    {
+      "surface": "פדני",
+      "gloss": "los my los"
+    },
+    {
+      "surface": "מעשק",
+      "gloss": "van verdrukking"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ek sal onderhou"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "u bevele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:36.162099985Z",
+  "model": "glm-5.3"
+}

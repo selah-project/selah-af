@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 36:22",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En die koning was sitting in die winterhuis in die negende maand, en ⟨את⟩ die vuurpot voor hom het gebrand.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "was sitting"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "החרף",
+      "gloss": "van die winter"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "die negende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vuurpot"
+    },
+    {
+      "surface": "האח",
+      "gloss": "die vuurpot"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "מבערת",
+      "gloss": "het gebrand"
+    }
+  ],
+  "timestamp": "2026-09-30T22:40:38.724147490Z",
+  "model": "glm-5.3"
+}

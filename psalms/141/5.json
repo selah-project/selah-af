@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Mag die regverdige my slaan — ⟨dit is⟩ gesed — en my bestraf; olie vir die kop — laat my kop ⟨dit⟩ nie weier nie, want nog ⟨is⟩ my gebed oor hulle kwaad.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "mag my slaan"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "en my bestraf"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kop"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "יני",
+      "gloss": "weier"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my kop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "en my gebed"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "oor hulle kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:28.580011719Z",
+  "model": "glm-5.3"
+}

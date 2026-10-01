@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En nou: my vader het 'n swaar juk op julle gelaai, maar ek sal by julle juk byvoeg; my vader het julle ⟨את⟩ met sweepslae tugtig, maar ek sal julle ⟨את⟩ met skerpioene tugtig.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "het gelaai"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "op julle"
+    },
+    {
+      "surface": "על",
+      "gloss": "'n juk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "sal byvoeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "julle juk"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "het getugtig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "met sweepslae"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "met sweepslae"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "sal tugtig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "met skerpioene"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "met skerpioene"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:34.458810238Z",
+  "model": "glm-5.3"
+}

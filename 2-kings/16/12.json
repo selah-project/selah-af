@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die koning het uit Damaskes gekom, en die koning het ⟨את⟩ die altaar gesien, en die koning het by die altaar nader getree, en daarop geoffer.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "uit Damaskes"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "het nader getree"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "geoffer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:32.972227665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Ek sal seën ⟨את⟩ Jahweh te alle tyd; gedurig ⟨is⟩ sy lof in my mond.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "ek sal seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:29.477652695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Jahweh Tsewaot, Elohim van Jisraël, wat oor ⟨die⟩ kerewe troon: U alleen ⟨is⟩ die Elohim van al die koninkryke van die aarde; U het ⟨את⟩ die hemele en ⟨את⟩ die aarde gemaak.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wat troon"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "oor ⟨die⟩ kerewe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:49.443130254Z",
+  "model": "glm-5.3"
+}

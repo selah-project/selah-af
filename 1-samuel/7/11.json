@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die manne van Jisraël het uit Mitspa uitgegaan en ⟨את⟩ die Filistyne agtervolg, en hulle geslaan tot onder Bet-Kar.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "uitgegaan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitspa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "agtervolg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:12.176967619Z",
+  "model": "glm-5.3"
+}

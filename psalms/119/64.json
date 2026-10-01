@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 119:64",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Jou gesed, Jahweh, vervul ⟨die⟩ aarde; jou insettinge — leer my.",
+  "tokens": [
+    {
+      "surface": "חסדך",
+      "gloss": "Jou gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vervul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "jou insettinge"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:12.038704652Z",
+  "model": "glm-5.3"
+}

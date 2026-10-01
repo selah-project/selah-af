@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Toe sê die dienaars van die koning wat in die hek van die koning is, vir Mordegai: waarom oortree jy ⟨את⟩ die gebod van die koning?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "toe sê hulle"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die hek van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "vir Mordegai"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "oortree"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebod van die koning"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die gebod van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:02.956972727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Hoe kosbaar ⟨is⟩ u gesed, o Elohim! En die seuns van die mens skuil in die skadu van u vleuels.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kosbaar"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "in die skadu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van u vleuels"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "skuil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:46.125255852Z",
+  "model": "glm-5.3"
+}

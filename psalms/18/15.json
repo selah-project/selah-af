@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 18:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het sy pyle uitgestuur en hulle verstrooi, en bliksems in menigtes, en hulle versit.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het uitgestuur"
+    },
+    {
+      "surface": "חציו",
+      "gloss": "sy pyle"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "en hulle verstrooi"
+    },
+    {
+      "surface": "וברקים",
+      "gloss": "en bliksems"
+    },
+    {
+      "surface": "רב",
+      "gloss": "in menigtes"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "en hulle versit"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.288415408Z",
+  "model": "glm-5.3"
+}

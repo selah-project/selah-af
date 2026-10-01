@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Groot ⟨is⟩ Jahweh en zeer geprys, en aan Sy grootte ⟨is⟩ daar geen deurgronding nie.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "en geprys"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "zeer"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "en aan Sy grootte"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "deurgronding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:24.033381920Z",
+  "model": "glm-5.3"
+}

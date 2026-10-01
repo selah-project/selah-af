@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 20:25",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En jy — tel vir jou 'n leërmag soos die leërmag wat van jou geval het ⟨את⟩, en perde soos perde, en strydwaens soos strydwaens, en laat ons hulle in die vlakte beveg; as ons nie sterker as hulle ⟨is⟩ nie? En hy het na hulle stem geluister en so gedoen.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jy"
+    },
+    {
+      "surface": "תמנה",
+      "gloss": "tel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "'n leërmag"
+    },
+    {
+      "surface": "כחיל",
+      "gloss": "soos die leërmag"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "wat geval het"
+    },
+    {
+      "surface": "מאותך",
+      "gloss": "⟨את⟩",
+      "marks": "die leërmag wat van jou geval het"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "en perde"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "soos perde"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "en strydwaens"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "soos strydwaens"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "en laat ons beveg"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "in die vlakte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "sterker is"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "as hulle"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het geluister"
+    },
+    {
+      "surface": "לקלם",
+      "gloss": "na hulle stem"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en gedoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:49.575781695Z",
+  "model": "glm-5.3"
+}

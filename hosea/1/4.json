@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh sê vir hom: Noem sy naam Jisreël, want nog 'n klein bietjie, en Ek sal ⟨את⟩ die bloed van Jisreël besoek op die huis van Jehoe, en Ek sal die koninkryk van die huis van Jisraël laat ophou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Noem"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n klein bietjie"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "en Ek sal besoek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed van Jisreël"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "van Jisreël"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "en Ek sal laat ophou"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryk van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:41.161950287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Elohim het ⟨את⟩ die volk laat omreis, die woestynweg na die Rietsee; en die kinders van Jisraël het in krygsorde opgetrek uit die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en laat omreis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "ים",
+      "gloss": "see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Riet"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "in krygsorde"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:41.787429907Z",
+  "model": "glm-5.3"
+}

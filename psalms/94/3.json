@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Tot wanneer, goddeloses, Jahweh, tot wanneer sal die goddeloses jubel?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "sal jubel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.520968641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Dogters van konings ⟨is⟩ onder jou kosbaarstes; ⟨die⟩ koningin staan aan jou regterhand in goud van Ofir.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "van konings"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "onder jou kosbaarstes"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "staan"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "die koningin"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "aan jou regterhand"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "in goud"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "van Ofir"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:38.383207612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hierdie dag sal vir julle 'n gedenkdag wees, en julle sal ⟨את⟩ dit as 'n fees vir Jahweh vier; vir julle geslagte, 'n ewige insetting — julle sal dit as fees vier.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En … sal wees"
+    },
+    {
+      "surface": "היום",
+      "gloss": "hierdie dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "'n gedenkdag"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "en julle sal vier"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die fees)"
+    },
+    {
+      "surface": "חג",
+      "gloss": "as 'n fees"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "vir julle geslagte"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "'n insetting"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "sal julle dit as fees vier"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:09.562192046Z",
+  "model": "glm-5.3"
+}

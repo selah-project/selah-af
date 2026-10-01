@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Hulle moet ⟨את⟩ die naam van Jahweh loof, want sy naam alleen is verhef; sy majesteit is bo ⟨die⟩ aarde en hemel.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "hulle moet loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשגב",
+      "gloss": "is verhef"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "sy majesteit"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ושמים",
+      "gloss": "en hemel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:02.256914351Z",
+  "model": "glm-5.3"
+}

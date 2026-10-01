@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 57:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Hy sal stuur van die hemel af en my red — ⟨hij⟩ smaad hy wat my verslind — sela; Elohim sal sy gesed en sy trou uitstuur.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hy sal stuur"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "van die hemel af"
+    },
+    {
+      "surface": "ויושיעני",
+      "gloss": "en my red"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "שאפי",
+      "gloss": "hy wat my verslind"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "sela"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sal uitstuur"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "ואמתו",
+      "gloss": "en sy trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.938348660Z",
+  "model": "glm-5.3"
+}

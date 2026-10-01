@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy moet ⟨את⟩ die dra stokke van sitahout maak, en jy moet ⟨את⟩ hulle met goud oortrek.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy moet maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dra stokke"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die dra stokke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sitahout"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "en jy moet oortrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:15.801566075Z",
+  "model": "glm-5.3"
+}

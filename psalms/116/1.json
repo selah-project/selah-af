@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Ek het liefgehad, want Jahweh hoort ⟨את⟩ my stem, my smeekgebed.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "ek het liefgehad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my stem"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "my smeekgebed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:51.356265811Z",
+  "model": "glm-5.3"
+}

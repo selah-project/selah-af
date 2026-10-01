@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En Josef antwoord Paro ⟨את⟩ en sê: Sonder my — Elohim sal ⟨את⟩ die welstand van Paro antwoord.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en antwoord"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "sonder my"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "sal antwoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die welstand van Paro"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "welstand"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:14.879924898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "My verbond sal ek nie ontheilig nie, en wat uit my lippe uitgaan, sal ek nie verander nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "sal ek ontheilig"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "en wat uitgaan"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "uit my lippe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "sal ek verander"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:39.988887662Z",
+  "model": "glm-5.3"
+}

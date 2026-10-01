@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Die stem van Jahweh ⟨is⟩ met krag, die stem van Jahweh ⟨is⟩ met majesteit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "met krag"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "met majesteit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:44.859138165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Wat my betref — kyk, my verbond ⟨is⟩ met jou ⟨את⟩, en jy sal 'n vader van 'n menigte nasies word.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Wat my betref"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "met jou"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "en jy sal word"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "'n vader"
+    },
+    {
+      "surface": "המון",
+      "gloss": "'n menigte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:37.818644437Z",
+  "model": "glm-5.3"
+}

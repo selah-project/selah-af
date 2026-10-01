@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Moenie my siel saam met sondaars versamel nie, en my lewe nie saam met manne van bloede nie",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie ... nie"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "versamel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sondaars"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en saam met"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "manne"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "van bloede"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.325408156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En sy het ⟨את⟩ sy naam Josef genoem, met die woorde: Mag Jahweh my nog 'n ander seun bysit.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "bysit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nog 'n ander"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:39.147377749Z",
+  "model": "glm-5.3"
+}

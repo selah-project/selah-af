@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Moab ⟨is⟩ my waspot; oor Edom sal ek my skoen uitsmyt; oor my, Pelesjet, juig!",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "pot"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "my was-"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "sal ek uitsmyt"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "my skoensandal"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesjet"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "juig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:28.751351115Z",
+  "model": "glm-5.3"
+}

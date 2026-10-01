@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "⟨'n⟩ Psalm van Dawid. Jahweh, ek het U geroep — haas ⟨U⟩ na my toe; luister na my stem wanneer ek tot U roep.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ek het U geroep"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haas"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "na my stem"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "wanneer ek roep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "tot U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:30.826904953Z",
+  "model": "glm-5.3"
+}

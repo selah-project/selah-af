@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Jahweh rig die ootmoediges op; hy verneder die goddeloses tot op die aarde.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "rig op"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die ootmoediges"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "hy verneder"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot op"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:25.681878965Z",
+  "model": "glm-5.3"
+}

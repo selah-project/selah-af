@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Hierdie dinge onthou ek, en stort ek my siel oor my uit, want ek gaan oor met ⟨die⟩ menigte, ek gaan saggings met hulle tot die huis van Elohim, met die stem van gejubel en dank, 'n menigte wat fees hou.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie dinge"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "onthou ek"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "en stort ek uit"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ek gaan oor"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "met ⟨die⟩ menigte"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ek gaan saggings"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met die stem"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "van gejubel"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "en dank"
+    },
+    {
+      "surface": "המון",
+      "gloss": "'n menigte"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "wat fees hou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.093913969Z",
+  "model": "glm-5.3"
+}

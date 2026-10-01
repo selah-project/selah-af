@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Sy die heerlikheid van Jahweh tot in ewigheid; laat Jahweh Hom verheug in sy werke.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "sy"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die heerlikheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "laat Hy Hom verheug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "in sy werke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.350545340Z",
+  "model": "glm-5.3"
+}

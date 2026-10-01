@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Dawid het klaargemaak met die aanbied van die brandoffer en die vrede-offers, en hy het ⟨את⟩ die volk geseën in die Naam van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "en hy het klaargemaak"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "met die aanbied van"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "en die vrede-offers"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die Naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:21.192932651Z",
+  "model": "glm-5.3"
+}

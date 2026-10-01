@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Awraham het ⟨את⟩ sewe ooilammers van die kleinvee afsonderlik opgestel.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "het opgestel"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sewe ooilammers"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ooilammers"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "van die kleinvee"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "afsonderlik"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:55.168556113Z",
+  "model": "glm-5.3"
+}

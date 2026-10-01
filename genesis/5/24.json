@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Chanoch het gewandel met ⟨את⟩ ⟨die⟩ Elohim, en hy ⟨was⟩ nie meer nie, want Elohim het ⟨את⟩ hom geneem.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "het gewandel"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Chanoch"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨die⟩ Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hy ⟨was⟩ nie meer nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:42.310056207Z",
+  "model": "glm-5.3"
+}

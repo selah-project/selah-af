@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Sy bewys hom goed en nie kwaad nie, al die dae van haar lewe.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "sy bewys hom"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "van haar lewe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:51.813052698Z",
+  "model": "glm-5.3"
+}

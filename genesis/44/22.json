@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En ons het tot my heer gesê: Die jongman kan sy vader nie verlaat nie; want as hy sy vader verlaat, sal ⟨hy⟩ sterwe.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "en ons het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die jongman"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "en as hy verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en sal sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:41.738381711Z",
+  "model": "glm-5.3"
+}

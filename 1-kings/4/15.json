@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Agimaats in Naftali — ook hy het ⟨את⟩ Basmat, dogter van Sjelomo, as vrou geneem.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Agimaats"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "in Naftali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Basmat"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Basmat"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:01.326722538Z",
+  "model": "glm-5.3"
+}

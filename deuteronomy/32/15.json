@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Toe het Jesjurun vet geword en geskop — jy het vet geword, jy het dik geword, jy het dikbedek geword — en hy het El verlaat wat hom gemaak het, en die Rots van sy redding onwaardig geag.",
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "Toe het vet geword"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "Jesjurun"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "en geskop"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "jy het vet geword"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "jy het dik geword"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "jy het dikbedek geword"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "en hy het verlaat"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "wat hom gemaak het"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "en onwaardig geag"
+    },
+    {
+      "surface": "צור",
+      "gloss": "die Rots"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "van sy redding"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:48.745284844Z",
+  "model": "glm-5.3"
+}

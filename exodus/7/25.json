@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En sewe dae is vervul nadat Jahweh ⟨את⟩ die rivier geslaan het.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "is vervul"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "geslaan het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rivier"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "die rivier"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:40.985673829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jahweh het in die hemele gedonder, en die Hoogste het sy stem laat klink — hael en kole van vuur.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "en het gedonder"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "en die Hoogste"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "het laat klink"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "sy stem"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hael"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "en kole"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.288257487Z",
+  "model": "glm-5.3"
+}

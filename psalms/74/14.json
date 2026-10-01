@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 74:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "U het die koppe van Liwjetan vergruis; u het hom as voedsel gegee aan ⟨die⟩ volk, aan ⟨die⟩ bewoners van die droë plekke.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "רצצת",
+      "gloss": "het vergruis"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die koppe"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "van Liwjetan"
+    },
+    {
+      "surface": "תתננו",
+      "gloss": "u het hom gegee"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "as voedsel"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan ⟨die⟩ volk"
+    },
+    {
+      "surface": "לציים",
+      "gloss": "aan ⟨die⟩ bewoners van die droë plekke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:49.853898609Z",
+  "model": "glm-5.3"
+}

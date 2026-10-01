@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "En jy ⟨is⟩ ⟨dieselfde⟩, en jou jare sal nie eindig nie.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨dieselfde⟩"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "en jou jare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "sal eindig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:45.707430531Z",
+  "model": "glm-5.3"
+}

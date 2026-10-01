@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 30:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "wat sê aan die sieners: Moenie sien nie; en aan die skouers: Moenie vir ons reguit dinge sien nie; spreek vir ons gladde dinge, gesels bedrog vir ons;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לראים",
+      "gloss": "aan die sieners"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Moenie"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "ולחזים",
+      "gloss": "en aan die skouers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Moenie"
+    },
+    {
+      "surface": "תחזו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "reguit dinge"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladde dinge"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "gesels"
+    },
+    {
+      "surface": "מהתלות",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:08.333644669Z",
+  "model": "glm-5.3"
+}

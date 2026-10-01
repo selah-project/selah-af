@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jahweh het gesê: Die kreet van Sedom en Amora — want hy ⟨is⟩ groot, en hulle sonde — want sy ⟨is⟩ baie swaar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "Die kreet"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "van Sedom"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "en Amora"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "en hulle sonde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:16.304145666Z",
+  "model": "glm-5.3"
+}

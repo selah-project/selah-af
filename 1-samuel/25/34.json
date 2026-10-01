@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 25:34",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Maar so waar as Jahweh, die Elohim van Jisraël, lewe, wat my weerhou het om ⟨את⟩ jou kwaad te doen — want as jy nie gou gekom het om my te ontmoet nie, dan sou daar vir Nawal teen die lig van die oggend nie oorgebly het iemand wat teen die muur water laat nie.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "maar so waar as"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מנעני",
+      "gloss": "my weerhou het"
+    },
+    {
+      "surface": "מהרע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou — die objek van die kwaad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "as nie"
+    },
+    {
+      "surface": "מהרת",
+      "gloss": "jy gou gekom het"
+    },
+    {
+      "surface": "ותבאתי",
+      "gloss": "en gekom het"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "my ontmoet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sekerlik nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "oorgebly"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "vir Nawal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van die oggend"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "iemand wat water laat"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "teen die muur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:24.375881618Z",
+  "model": "glm-5.3"
+}

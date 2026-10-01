@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Hulle weet nie en hulle verstaan nie; in die duisternis wandel hulle rond; al die fondamente van die aarde wankel.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hulle weet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "hulle verstaan"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "in die duisternis"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "wandelen hulle rond"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "wankel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "die fondamente van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:52.035704718Z",
+  "model": "glm-5.3"
+}

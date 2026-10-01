@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ecclesiastes 7:26",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ek vind bitterder as die dood ⟨את⟩ die vrou: sy is nette en strikke, haar hart; boeie, haar hande; die een wat goed is voor Elohim sal uit haar ontkom, maar die sondaar sal deur haar gevang word.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "en ek vind"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitterder"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "as die dood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "nette"
+    },
+    {
+      "surface": "וחרמים",
+      "gloss": "en strikke"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "haar hart"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "boeie"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "haar hande"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "die een wat goed is"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "sal ontkom"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "uit haar"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "en die sondaar"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "sal gevang word"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deur haar"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:49.170895007Z",
+  "model": "glm-5.3"
+}

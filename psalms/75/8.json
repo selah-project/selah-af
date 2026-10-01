@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "Want Elohim ⟨is⟩ die Regter: dié verneder Hy, en dié verhoog Hy.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "die Regter"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "verneder Hy"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "en dié"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "verhoog Hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.470297180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 10:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "om die ⟨את⟩ gebooie van Jahweh en ⟨את⟩ sy insettinge te bewaar, wat ek jou vandag beveel, vir jou _goeie_",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebooie"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "gebooie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy insettinge"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "sy insettinge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "vir goeie"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:33.728059044Z",
+  "model": "glm-5.3"
+}

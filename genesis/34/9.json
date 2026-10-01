@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 34:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "en tree met ⟨את⟩ ons in huweliksverwantskap; jul dogters moet jul aan ons gee, en ⟨את⟩ ons dogters moet jul vir julself neem.",
+  "tokens": [
+    {
+      "surface": "והתחתנו",
+      "gloss": "en tree in huweliksverwantskap"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons",
+      "marks": "ons"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "jul dogters"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "moet jul gee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "ons dogters"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ons dogters"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "moet jul neem"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:03.824399934Z",
+  "model": "glm-5.3"
+}

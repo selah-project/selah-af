@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Sjemuël het met die volk ⟨את⟩ die reg van die koningskap gepraat en dit in die boek geskryf en dit voor Jahweh neergelê; en Sjemuël het ⟨את⟩ die hele volk weggestuur, elkeen na sy huis.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die reg van die koningskap"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "van die koningskap"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "en geskryf"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die boek"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "en neergelê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en weggestuur"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "na sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:14.009250026Z",
+  "model": "glm-5.3"
+}

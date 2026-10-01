@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Dan spring die lamme soos 'n hert, en die tong van die stomme juig; want in die woestyn is waters oopgebreek en strome in die dorre vlakte.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "spring"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "soos 'n hert"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "die lamme"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "die tong van"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "die stomme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "is oopgebreek"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "en strome"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in die dorre vlakte"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:49.153512921Z",
+  "model": "glm-5.3"
+}

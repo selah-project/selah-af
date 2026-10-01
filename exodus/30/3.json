@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy sal dit oortrek met suiwer goud — ⟨את⟩ sy dak en ⟨את⟩ sy mure rondom en ⟨את⟩ sy horings — en jy sal vir hom 'n kroon van goud rondom maak.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "en jy sal oortrek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dak"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "sy dak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy mure"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "sy mure"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy horings"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "sy horings"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "זר",
+      "gloss": "'n kroonrand"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.640438744Z",
+  "model": "glm-5.3"
+}

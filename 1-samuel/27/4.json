@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En dit is aan Sjaoel berig dat Dawid na Gat gevlug het, en hy het nie voortgegaan om hom verder te soek nie.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "is berig"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlug het"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "גת",
+      "gloss": "na Gat"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "het voortgegaan"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "verder"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "om hom te soek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:42.176521974Z",
+  "model": "glm-5.3"
+}

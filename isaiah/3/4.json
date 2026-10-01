@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 3:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En ek sal jong seuns as hulle owerste aanstel, en grilliges sal oor hulle regeer.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal aanstel"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "jong seuns"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "as hulle owerste"
+    },
+    {
+      "surface": "ותעלולים",
+      "gloss": "en grilliges"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "sal regeer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "oor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:47.385411364Z",
+  "model": "glm-5.3"
+}

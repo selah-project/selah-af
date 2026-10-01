@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Want as jy waarlik luister na sy stem en doen alles wat ek sal spreek, dan sal ek 'n vyand wees vir ⟨את⟩ jou vyande, en ek sal teister ⟨את⟩ die wat jou teister.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "jy waarlik luister"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "na sy stem"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ek sal spreek"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "dan sal ek 'n vyand wees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vyande"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "en ek sal teister"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wat jou teister"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "die wat jou teister"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:13.127344653Z",
+  "model": "glm-5.3"
+}

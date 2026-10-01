@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Kyk, vir tsedek sal 'n koning regeer, en die vorste — vir reg sal hulle heers.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "vir tsedek"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "sal regeer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "en die vorste"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "vir reg"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "sal hulle heers"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:20.773430216Z",
+  "model": "glm-5.3"
+}

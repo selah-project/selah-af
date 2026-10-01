@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die hele aarde was een lip en een woorde ⟨was⟩ een.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit was"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "lip"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "en woorde"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:56.961220882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En oor die leër van die stam van die seuns van Gad ⟨was⟩ Eljasaf, seun van Deüël.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leër"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Eljasaf"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deüël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:08.098841364Z",
+  "model": "glm-5.3"
+}

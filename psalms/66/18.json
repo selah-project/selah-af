@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Onreg, as ek dit in my hart gesien het, sal Adonai nie luister nie.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "het ek gesien"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in my hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sal luister"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:32.391595346Z",
+  "model": "glm-5.3"
+}

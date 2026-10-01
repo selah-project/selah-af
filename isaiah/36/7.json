@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 36:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En as jy vir my sê: Op Jahweh ons Elohim het ons vertrou — is dit nie hy wie se hoogtes en wie se altare Hiskía weggesit het, en hy het vir Jehoeda en vir Jerusjalajim gesê: voor hierdie altaar moet julle jul neerbuig nie?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "En as"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jy sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "het ons vertrou"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie se"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "weggesit het"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskía"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hoogtes"
+    },
+    {
+      "surface": "במתיו",
+      "gloss": "sy hoogtes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy altare"
+    },
+    {
+      "surface": "מזבחתיו",
+      "gloss": "sy altare"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "vir Jehoeda"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "en vir Jerusjalajim"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "hierdie altaar"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "moet julle jul neerbuig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:16.153446389Z",
+  "model": "glm-5.3"
+}

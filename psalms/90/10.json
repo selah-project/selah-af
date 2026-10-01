@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 90:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Die dae van ons jare — in hulle is sewentig jaar, en as daar krag is, tagtig jaar; en hulle hoogmoed is moeite en ongereg, want gou word dit afgesny, en ons vlieg weg.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Die dae"
+    },
+    {
+      "surface": "שנותינו",
+      "gloss": "van ons jare"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "sewentig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "daar krag"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "tagtig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ורהבם",
+      "gloss": "en hulle hoogmoed"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeite"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ongereg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גז",
+      "gloss": "word afgesny"
+    },
+    {
+      "surface": "חיש",
+      "gloss": "gou"
+    },
+    {
+      "surface": "ונעפה",
+      "gloss": "en ons vlieg weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:28.518370762Z",
+  "model": "glm-5.3"
+}

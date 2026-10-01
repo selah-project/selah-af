@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Hy het my gered van my sterk vyand en van my haters, want hulle was sterker as ek.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Hy het my gered"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van my vyand"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "en van my haters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "hulle was sterker"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "as ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:29.560750856Z",
+  "model": "glm-5.3"
+}

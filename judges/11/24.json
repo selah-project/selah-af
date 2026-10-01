@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 11:24",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Is dit nie so: ⟨את⟩ wat Kemosj, jou god, jou laat beërwe — ⟨את⟩ dit sal jy beërwe; en ⟨את⟩ al wat Jahweh, onse Elohim, voor ons uit ontsettel het — ⟨את⟩ dit sal ons beërwe.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is dit nie so nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Kemosj jou laat beërwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יורישך",
+      "gloss": "jou laat beërwe"
+    },
+    {
+      "surface": "כמוש",
+      "gloss": "Kemosj"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou god"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit sal jy beërwe"
+    },
+    {
+      "surface": "תירש",
+      "gloss": "sal jy beërwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al wat Jahweh ontsettel het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "ontsettel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse Elohim"
+    },
+    {
+      "surface": "מפנינו",
+      "gloss": "voor ons uit"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit sal ons beërwe"
+    },
+    {
+      "surface": "נירש",
+      "gloss": "sal ons beërwe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:50.938890545Z",
+  "model": "glm-5.3"
+}

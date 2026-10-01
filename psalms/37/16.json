@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Better ⟨is⟩ min vir die regverdige as die rykdom van baie goddeloses.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Better"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "min"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vir die regverdige"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "as die rykdom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "van baie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.184778903Z",
+  "model": "glm-5.3"
+}

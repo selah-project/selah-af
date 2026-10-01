@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die koning van Assur het na hom geluister, en die koning van Assur het opgetrek na Damaskes, en dit gevange geneem, en die inwoners daarvan na Kir weggevoer, en ⟨את⟩ Retsin gedood.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Damaskes"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "en dit gevange geneem"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "weggevoer"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "na Kir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Retsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Retsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "gedood"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:32.971532828Z",
+  "model": "glm-5.3"
+}

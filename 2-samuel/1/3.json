@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Dawid het vir hom gesê: Van waar kom jy? En hy het vir hom gesê: Uit die laer van Jisraël het ek ontkom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אי",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "vandaan"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom jy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "uit die laer"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "het ek ontkom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:36.179435515Z",
+  "model": "glm-5.3"
+}

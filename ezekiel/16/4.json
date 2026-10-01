@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Wat jou geboortes betref — op die dag dat ⟨את⟩ jy gebore is, is jou naelstring nie afgesny nie, en in water is jy nie geswas ter reiniging nie, en met sout is jy nie gesout nie, en in doeke is jy nie toegedraai nie",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "en jou geboortes"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "geword"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "afgesny"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "jou naelstring"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en in water"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "gewas"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "ter reiniging"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "en met sout"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "gesout"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "en in doeke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "toegedraai"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:28.869150032Z",
+  "model": "glm-5.3"
+}

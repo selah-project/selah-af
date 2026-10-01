@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En jy sal aan hulle sê: So sê Jahweh: Val ⟨hulle⟩ en staan ⟨hulle⟩ nie weer op nie? Draai hy weg en sal hy nie terugdraai nie?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "En jy sal sê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "Val hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "staan hulle op"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "draai hy terug"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal hy terugdraai"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:24.350788229Z",
+  "model": "glm-5.3"
+}

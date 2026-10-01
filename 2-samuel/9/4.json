@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die koning het vir hom gesê: waar is hy? En Tsiba het aan die koning gesê: kyk, hy is in die huis van Magir, seun van Ammiël, in Lo-Dewar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis van"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Magir"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Ammiël"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "in"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Lo-Dewar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:02.262055228Z",
+  "model": "glm-5.3"
+}

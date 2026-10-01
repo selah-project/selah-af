@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En dit het gebeur, toe koning Hizkiahu ⟨dit⟩ hoor, dat hy ⟨את⟩ sy klere geskeur het en hom met ⟨את⟩ sak bekleed het en die huis van Jahweh binnegegaan het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe hy hoor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "het geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "het hom bekleed"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "met sak"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "het binnegegaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:15.967266266Z",
+  "model": "glm-5.3"
+}

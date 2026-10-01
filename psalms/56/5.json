@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "In Elohim sal ek sy woord loof, in Elohim het ek vertrou — ek sal nie vrees nie: wat sal vlees my doen?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "sal ek loof"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek vertrou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sal ek vrees"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal hy doen"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:09.046770371Z",
+  "model": "glm-5.3"
+}

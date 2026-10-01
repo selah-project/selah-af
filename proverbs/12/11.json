@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 12:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hy wat sy grond bewerk, sal met brood versadig word, maar hy wat nietighede najag, ⟨is⟩ een wat 'n hart kort.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "hy wat bewerk"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sy grond"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "sal versadig word"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "met brood"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "maar hy wat najag"
+    },
+    {
+      "surface": "ריקים",
+      "gloss": "nietighede"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "kort"
+    },
+    {
+      "surface": "לב",
+      "gloss": "'n hart"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:25.839147563Z",
+  "model": "glm-5.3"
+}

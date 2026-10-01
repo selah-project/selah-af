@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 23:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Ja, my niere sal juig wanneer jou lippe reguit dinge spreek.",
+  "tokens": [
+    {
+      "surface": "ותעלזנה",
+      "gloss": "en sal juig"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my niere"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "wanneer spreek"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "jou lippe"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "reguit dinge"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:48.804910950Z",
+  "model": "glm-5.3"
+}

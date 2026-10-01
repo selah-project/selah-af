@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Hoe kan ek vloek? El het nie gevloek nie. En hoe kan ek woed? Jahweh het nie gewoed nie.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "kan ek vloek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "het gevloek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "kan ek woed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "het gewoed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:12.670392649Z",
+  "model": "glm-5.3"
+}

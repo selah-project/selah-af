@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 17:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Die hand van die getuies sal eerste op hom wees om hom dood te maak, en die hand van die hele volk daarna; so roei jy die kwaad uit jou midde uit.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "העדים",
+      "gloss": "van die getuies"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hom dood te maak"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "en die hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "en jy roei uit"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit jou midde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:16.148616837Z",
+  "model": "glm-5.3"
+}

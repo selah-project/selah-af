@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Jahweh het gesê: Kyk, 'n plek ⟨את⟩ by my, en jy moet op die rots staan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my",
+      "marks": "by my"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "en jy moet staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "die rots"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:37.682886945Z",
+  "model": "glm-5.3"
+}

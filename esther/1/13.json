@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning het gesê ⟨tot⟩ die wyse manne, kenners van die tye — want so ⟨was⟩ die woord van die koning voor al wat wet en reg geken het:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "⟨tot⟩ die wyse manne"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "kenners"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "van die tye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "wat geken het"
+    },
+    {
+      "surface": "דת",
+      "gloss": "wet"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "en reg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:36.840137636Z",
+  "model": "glm-5.3"
+}

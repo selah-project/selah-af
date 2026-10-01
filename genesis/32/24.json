@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En hy het hulle geneem en hulle oor die spruit laat oorgaan, en hy het laat oorgaan ⟨את⟩ alles wat hy het.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "en hy het hulle geneem"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "en hulle laat oorgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die spruit"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "die spruit"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "en hy het laat oorgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hy het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:37.187793844Z",
+  "model": "glm-5.3"
+}

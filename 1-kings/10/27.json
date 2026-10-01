@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die koning het ⟨את⟩ die silwer in Jerusjalajim soos klippe gegee, en ⟨את⟩ die seders het hy gegee soos die wildevye wat in die laagland is, in oorvloed.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "soos klippe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die seders"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "die seders"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het hy gegee"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "soos die wildevye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "in die laagland"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in oorvloed"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:50.536634173Z",
+  "model": "glm-5.3"
+}

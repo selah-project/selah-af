@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 25:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En die seuns het binne-in haar gesukkel, en sy het gesê: as dit so is, waarom ⟨is⟩ ek so? En sy het gegaan om Jahweh ⟨את⟩ te raadpleeg.",
+  "tokens": [
+    {
+      "surface": "ויתרצצו",
+      "gloss": "en hulle het gesukkel"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "binne-in haar"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en sy het gegaan"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "om te raadpleeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:20.338863495Z",
+  "model": "glm-5.3"
+}

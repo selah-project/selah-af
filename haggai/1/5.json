@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En nou, so sê Jahweh Tsewaot: Stel jul hart op jul weë.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Stel"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "jul hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "jul weë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:31.665090460Z",
+  "model": "glm-5.3"
+}

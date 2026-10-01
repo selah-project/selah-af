@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het daar op die klippe geskryf ⟨את⟩ 'n afskrif van die Tora van Mosje, wat hy geskryf het voor die oë van die kinders van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "En hy het geskryf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die klippe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n afskrif van die Tora van Mosje"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "'n afskrif"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "van die Tora"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "hy geskryf het"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die oë van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:57.774152228Z",
+  "model": "glm-5.3"
+}

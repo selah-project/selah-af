@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Ek sal jou ⟨את⟩ oormatig vrugbaar maak, en Ek sal jou tot nasies maak, en konings sal uit jou uitgaan.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "en Ek sal vrugbaar maak"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "oormatig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "oormatig"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "en Ek sal jou maak"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "tot nasies"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "en konings"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "uit jou"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "sal uitgaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:22.987912801Z",
+  "model": "glm-5.3"
+}

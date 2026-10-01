@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 8:22",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy sal na die land kyk, en kyk: benoudheid en duisternis, dofheid van benoudheid, en donkerte, verdrywe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "sal kyk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benoudheid"
+    },
+    {
+      "surface": "וחשכה",
+      "gloss": "en duisternis"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "dofheid"
+    },
+    {
+      "surface": "צוקה",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "en donkerte"
+    },
+    {
+      "surface": "מנדח",
+      "gloss": "verdrywe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:05.616676062Z",
+  "model": "glm-5.3"
+}

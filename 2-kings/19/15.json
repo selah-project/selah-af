@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 19:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Hiskia het gebid voor Jahweh en gesê: Jahweh, Elohim van Jisraël, wat troon op die kerubs, U alleen ⟨is⟩ die Elohim van al die koninkryke van die aarde; U het ⟨את⟩ die hemele en ⟨את⟩ die aarde gemaak.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "het gebid"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hiskia"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wat troon"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "op die kerubs"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "U alleen"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:11.716905933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En jy sal ⟨את⟩ die bul slag voor Jahweh, by die ingang van die tent van samekoms.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "en jy sal slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:24.686417476Z",
+  "model": "glm-5.3"
+}

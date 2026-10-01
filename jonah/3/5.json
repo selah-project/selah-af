@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die manne van Nineve het in Elohim geglo, en hulle het 'n vasten uitgeroep en sakke aangetrek, van hulle grootstes tot hulle kleinstes.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "het geglo"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "manne"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "het uitgeroep"
+    },
+    {
+      "surface": "צום",
+      "gloss": "'n vasten"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "het aangetrek"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "sakke"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "van hulle grootstes"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "hulle kleinstes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:45.586546591Z",
+  "model": "glm-5.3"
+}

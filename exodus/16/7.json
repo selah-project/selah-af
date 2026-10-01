@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "en in die môre sal julle ⟨את⟩ die glans van Jahweh sien, wanneer Hy ⟨את⟩ julle gemurmel teen Jahweh hoor; en wat is ons, dat julle teen ons murmur?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "en in die môre"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "sal julle sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die glans van Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die glans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "wanneer Hy hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle gemurmel"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "julle gemurmel"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "en wat is ons"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "julle murmur"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "teen ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:20.788680736Z",
+  "model": "glm-5.3"
+}

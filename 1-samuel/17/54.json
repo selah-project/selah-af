@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Dawid het ⟨את⟩ die hoof van die Filistyn geneem en dit na Jerusjalajim gebring, en ⟨את⟩ sy wapens het hy in sy tent gesit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoof van die Filistyn"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "en gebring dit"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy wapens"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy wapens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gesit"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "in sy tent"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:12.799962267Z",
+  "model": "glm-5.3"
+}

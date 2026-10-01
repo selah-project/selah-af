@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "U tsedek ⟨is⟩ soos die berge van El; u reg ⟨is⟩ 'n groot diepte; mens en vee red U, o Jahweh.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "soos die berge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "u reg"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "'n diepte"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "en vee"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "red U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:46.125067404Z",
+  "model": "glm-5.3"
+}

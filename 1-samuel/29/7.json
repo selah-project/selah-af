@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En nou, keer terug en gaan in vrede, en jy mag geen kwaad doen in die oë van die owerstes van die Filistyne nie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy mag doen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "van die owerstes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:52.266770695Z",
+  "model": "glm-5.3"
+}

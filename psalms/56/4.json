@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Die dag as ek bang is, vertrou ek op U.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "as ek bang is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.393160212Z",
+  "model": "glm-5.3"
+}

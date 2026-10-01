@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Daarom sal Ek nog ⟨את⟩ met julle twis, sê Jahweh, en met ⟨את⟩ die kinders van jul kinders sal Ek twis.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "sal Ek twis"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met julle"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die kinders van jul kinders"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "van jul kinders"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "sal Ek twis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:02.446672864Z",
+  "model": "glm-5.3"
+}

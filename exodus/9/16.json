@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Maar juis hiervoor het ek jou laat staan — om aan jou ⟨את⟩ my krag te wys, en sodat my Naam vertel word in die hele aarde.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Maar juis"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "hiervoor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "het ek jou laat staan"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "om"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "aan jou te wys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my krag"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en sodat"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "vertel word"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my Naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:30.241346261Z",
+  "model": "glm-5.3"
+}

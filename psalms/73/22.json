@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "En ek was onverstandig en het nie geweet nie; soos 'n redelose dier was ek by U.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "בער",
+      "gloss": "onverstandig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "soos 'n redelose dier"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ek"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:11.430696411Z",
+  "model": "glm-5.3"
+}

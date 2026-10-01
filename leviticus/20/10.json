@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En ‘n man wat egbreuk pleeg met ⟨את⟩ die vrou van ‘n man — wat egbreuk pleeg met ⟨את⟩ die vrou van sy naaste — dood sal hy sekerlik gedood word, die egbreukpleger en die egbreukpleegster.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "egbreuk pleeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou van 'n man"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "egbreuk pleeg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou van sy naaste"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "van sy naaste"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sal hy gedood word"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "die egbreukpleger"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "en die egbreukpleegster"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.335408472Z",
+  "model": "glm-5.3"
+}

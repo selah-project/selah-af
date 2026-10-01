@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ook die twee van hulle het gesterwe, Maglon en Kiljon, en die vrou is oorgebly van haar twee kinders en van haar man.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "en hulle het gesterwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "die twee van hulle"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "Maglon"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "en Kiljon"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "en is oorgebly"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "משני",
+      "gloss": "van haar twee"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "en van haar man"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:37.563062107Z",
+  "model": "glm-5.3"
+}

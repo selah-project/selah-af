@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En jy — tot jou Elohim moet jy terugkeer: hou gesed en reg in stand, en hoop gedurig op jou Elohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "En jy"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "tot jou Elohim"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "moet jy terugkeer"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "hou in stand"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "en hoop"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:03.103888603Z",
+  "model": "glm-5.3"
+}

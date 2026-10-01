@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 22:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En hy het aan Jehosjoea gesê: Sal jy ⟨את⟩ saam met my trek na die oorlog, na Ramot in Giléad? En Jehosjoea het aan die koning van Jisraël gesê: Soos ek, so jy; soos my volk, so jou volk; soos my perde, so jou perde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "sal jy trek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ saam met my"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "na die oorlog"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "in Giléad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "soos ek"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "so jy"
+    },
+    {
+      "surface": "כעמי",
+      "gloss": "soos my volk"
+    },
+    {
+      "surface": "כעמך",
+      "gloss": "so jou volk"
+    },
+    {
+      "surface": "כסוסי",
+      "gloss": "soos my perde"
+    },
+    {
+      "surface": "כסוסיך",
+      "gloss": "so jou perde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:27.202912589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Want groot tot ⟨die⟩ hemele is U gesed, en tot ⟨die⟩ wolke U trou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemele"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "U gesed"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "wolke"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "U trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:24.152655697Z",
+  "model": "glm-5.3"
+}

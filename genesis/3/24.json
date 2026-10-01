@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het ⟨את⟩ die mens uitgedryf; en hy het oos van die tuin van Eden ⟨את⟩ die gerubs laat woon, en ⟨את⟩ die vlam van die swaard wat hom om en om draai, om ⟨את⟩ die weg na die boom van die lewe te bewaak.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "en hy het uitgedryf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "en hy het laat woon"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "oos"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "van die tuin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gerubs"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "die gerubs"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vlam van die swaard"
+    },
+    {
+      "surface": "להט",
+      "gloss": "die vlam"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "wat hom om en om draai"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "om te bewaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die weg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "na die boom"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van die lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:06.434315611Z",
+  "model": "glm-5.3"
+}

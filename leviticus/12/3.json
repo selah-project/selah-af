@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En op die agtste dag word die vlees van sy voorhuid besny.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "en op die dag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "die agtste"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "word besny"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "van sy voorhuid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:11.660862413Z",
+  "model": "glm-5.3"
+}

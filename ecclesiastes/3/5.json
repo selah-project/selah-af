@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Tyd om stene weg te werp, en 'n tyd om stene bymekaar te maak; 'n tyd om te omhels, en 'n tyd om ver van omhelsing te wees.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "om weg te werp"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stene"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "om bymekaar te maak"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stene"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "om te omhels"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "om ver te wees"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "van omhelsing"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:16.453632860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 19:6",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Joab het na die koning in die huis gekom en gesê: jy het vandag ⟨את⟩ die aangesigte van al jou dienaars beskaam gemaak, hulle wat vandag ⟨את⟩ jou lewe gered het, en ⟨את⟩ die lewe van jou seuns en jou dogters, en die lewe van jou vroue en die lewe van jou byvroue.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hy het gekom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הבשת",
+      "gloss": "beskaam gemaak"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesigte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesigte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jou dienaars"
+    },
+    {
+      "surface": "הממלטים",
+      "gloss": "wat redding bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou lewe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou lewe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die lewe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van jou seuns"
+    },
+    {
+      "surface": "ובנתיך",
+      "gloss": "en jou dogters"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en die lewe"
+    },
+    {
+      "surface": "נשיך",
+      "gloss": "van jou vroue"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en die lewe"
+    },
+    {
+      "surface": "פלגשיך",
+      "gloss": "van jou byvroue"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:57.607083563Z",
+  "model": "glm-5.3"
+}

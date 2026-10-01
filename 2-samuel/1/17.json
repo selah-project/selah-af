@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Dawid het ⟨את⟩ hierdie klaaglied gekla oor Sjawoel en oer Jehonatan sy seoen.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "het gekla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie klaaglied"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "hierdie klaaglied"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "על",
+      "gloss": "oer"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjawoel"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oer"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seoen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:51.020390010Z",
+  "model": "glm-5.3"
+}

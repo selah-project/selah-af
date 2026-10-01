@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Julle wat Jahweh liefhet, haat kwaad; Hy bewaar die siele van sy getroues, uit die hand van goddeloses red Hy hulle.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Julle wat liefhet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "haat"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Hy bewaar"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "die siele"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "van sy getroues"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van goddeloses"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "red Hy hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:18.240625652Z",
+  "model": "glm-5.3"
+}

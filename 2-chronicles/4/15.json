@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "⟨את⟩ die een see, en ⟨את⟩ die twaalf beeste daaronder.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die twaalf beeste"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die beeste"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "daaronder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:15.237551391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 3:23",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "en die spieëls en die fyn linne en die tulbande en die sluiers",
+  "tokens": [
+    {
+      "surface": "והגלינים",
+      "gloss": "en die spieëls"
+    },
+    {
+      "surface": "והסדינים",
+      "gloss": "en die fyn linne"
+    },
+    {
+      "surface": "והצניפות",
+      "gloss": "en die tulbande"
+    },
+    {
+      "surface": "והרדידים",
+      "gloss": "en die sluiers"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:51.022406462Z",
+  "model": "glm-5.3"
+}

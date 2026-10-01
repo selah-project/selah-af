@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Daarom sal 'n man ⟨את⟩ sy vader en ⟨את⟩ sy moeder verlaat en aan sy vrou vaskleef, en hulle sal een vlees wees.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daar"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "sal verlaat"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy moeder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "en vaskleef"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "aan sy vrou"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "een vlees"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:31.167702652Z",
+  "model": "glm-5.3"
+}

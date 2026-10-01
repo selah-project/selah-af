@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "In u insettinge sal ek my verheug, u woord sal ek nie vergeet nie.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "in u insettinge"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "sal ek my verheug"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "sal ek vergeet"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:50.870010208Z",
+  "model": "glm-5.3"
+}

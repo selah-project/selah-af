@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 1:43",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek het met julle gespreek, maar julle het nie geluister nie, en julle het ⟨את⟩ die mond van Jahweh geterg, en julle het roekeloos gehandel en die berg ingetrek.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "en ek het gespreek"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "julle het geluister"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "en julle het geterg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mond van Jahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ותזדו",
+      "gloss": "en julle het roekeloos gehandel"
+    },
+    {
+      "surface": "ותעלו",
+      "gloss": "en julle het ingetrek"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "die berg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:21.635393309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 23:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "want Jahweh jou Elohim wandel in die midde van jou kamp om jou te red en om jou vyande voor jou te gee; en jou kamp moet heilig wees, sodat Hy in jou geen naaktheid van enige saak sien nie en Hom nie van agter jou af wegdraai nie",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיק",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "wandel"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die midde"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "van jou kamp"
+    },
+    {
+      "surface": "להצילק",
+      "gloss": "om jou te red"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "en om te gee"
+    },
+    {
+      "surface": "איביק",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "לפניק",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en ⟨dit⟩ sal wees"
+    },
+    {
+      "surface": "מחניק",
+      "gloss": "jou kamp"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "בק",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "naaktheid"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van enige saak"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en wegdraai"
+    },
+    {
+      "surface": "מאחריק",
+      "gloss": "van agter jou af"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:00.930553070Z",
+  "model": "glm-5.3"
+}

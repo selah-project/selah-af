@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Laat die voet van hoogmoed my nie teekom nie, en laat die hand van die goddeloses my nie wegdryf nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "my teekom"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "die voet"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "van hoogmoed"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "en die hand"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "my wegdryf"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:18.772956528Z",
+  "model": "glm-5.3"
+}

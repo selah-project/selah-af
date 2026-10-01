@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "In daardie tyd het Awigja, die seun van Jarobeam, siek geword.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in daardie tyd"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "het siek geword"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Awigja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:14.732655244Z",
+  "model": "glm-5.3"
+}

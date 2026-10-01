@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 69:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Mag hulle wat op u wag, nie om my beskaam staan nie, Adonai, Jahweh Tsewaot; mag hulle wat u soek, nie om my tot skande kom nie, Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mag ... nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "beskaam staan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "om my"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "hulle wat op u wag"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag ... nie"
+    },
+    {
+      "surface": "יכלמו",
+      "gloss": "tot skande kom"
+    },
+    {
+      "surface": "בי",
+      "gloss": "om my"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "hulle wat u soek"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:34.650881687Z",
+  "model": "glm-5.3"
+}

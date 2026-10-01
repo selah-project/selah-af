@@ -1,0 +1,154 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 23:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En die koning het bevel gegee aan ⟨את⟩ Gilkijahoe die hoëpriester en ⟨את⟩ die priesters van die tweede orde en ⟨את⟩ die wagters van die dorpel, om uit te bring uit die tempel van Jahweh ⟨את⟩ al die voorwerpe wat gemaak is vir die Baäl en vir die Asjera en vir die hele leër van die hemel; en hy het hulle verbrand buite Jerusjalajim in die landerye van Kidron, en ⟨את⟩ hulle as gedra Bet-El toe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het bevel gegee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gilkijahoe die hoëpriester"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Gilkijahoe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "die hoë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ en",
+      "marks": "die priesters van die tweede orde"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "die priesters van"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "die tweede orde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ en",
+      "marks": "die wagters van die dorpel"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die wagters van"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "die dorpel"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om uit te bring"
+    },
+    {
+      "surface": "מהיכל",
+      "gloss": "uit die tempel van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die voorwerpe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "die voorwerpe"
+    },
+    {
+      "surface": "העשוים",
+      "gloss": "wat gemaak is"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "vir die Baäl"
+    },
+    {
+      "surface": "ולאשרה",
+      "gloss": "en vir die Asjera"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en vir die hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leër"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "וישרפם",
+      "gloss": "en hy het hulle verbrand"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "בשדמות",
+      "gloss": "in die landerye van"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "en hy het gedra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle as"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "hulle as"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:49.330366542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 7:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die priester wat ⟨את⟩ die brandoffer van 'n man aanbied — die vel van die brandoffer wat hy aangebied het, sal aan daardie priester behoort.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "en die priester"
+    },
+    {
+      "surface": "המקריב",
+      "gloss": "wat aanbied"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "עור",
+      "gloss": "die vel"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van die brandoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "hy aangebied het"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aan die priester"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:05.415221482Z",
+  "model": "glm-5.3"
+}

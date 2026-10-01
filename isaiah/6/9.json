@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het gesê: Gaan, en sê vir hierdie volk: Hoor voortdurend, maar verstaan nie; en sien voortdurend, maar ken nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Gaan"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vir volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "voortdurend horende"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "voortdurend siende"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "ken"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:23.033381009Z",
+  "model": "glm-5.3"
+}

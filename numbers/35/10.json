@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Spreek met die kinders van Jisraël en sê vir hulle: wanneer julle oor ⟨את⟩ die Jordaan trek, landwaarts Kanaän toe,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "trek oor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "landwaarts"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kanaän"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:36.668633694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Aangesig tot aangesig het Jahweh met julle gespreek op ⟨die⟩ berg, uit die middel van die vuur —",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "aangesig"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "tot aangesig"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit die middel"
+    },
+    {
+      "surface": "האש",
+      "gloss": "van die vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:49.669009074Z",
+  "model": "glm-5.3"
+}

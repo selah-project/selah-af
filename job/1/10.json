@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 1:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Het U nie hom omhein, en sy huis, en alles wat hy het, rondom? Die werk van sy hande het U geseën, en sy vee het uitgebaar in die land.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "het ... nie"
+    },
+    {
+      "surface": "את",
+      "gloss": "U"
+    },
+    {
+      "surface": "שכת",
+      "gloss": "omhein"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en rondom"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en rondom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy het"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "van alle kante"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "het U geseën"
+    },
+    {
+      "surface": "ומקנהו",
+      "gloss": "en sy vee"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "het uitgebaar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:27.218992550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 127,
+  "translation": "Kyk, 'n erfdeel van Jahweh ⟨is⟩ seuns; 'n loon, die vrug van die skoot.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "'n erfdeel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "'n loon"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "die vrug"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "van die skoot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:47.088190622Z",
+  "model": "glm-5.3"
+}

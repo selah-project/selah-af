@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 4:5",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En sy het van hom weggegaan en die deur toegemaak agter haar en agter haar seuns; hulle het ⟨die vate⟩ na haar aangedra, en sy het uitgegiet.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "en sy het gegaan"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "van ⟨את⟩ hom"
+    },
+    {
+      "surface": "ותסגר",
+      "gloss": "en sy het toegemaak"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "die deur"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "agter haar"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en agter"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "haar seuns"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מגשים",
+      "gloss": "het aangedra"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na haar"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "en sy"
+    },
+    {
+      "surface": "מיצקת",
+      "gloss": "het uitgegiet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:01.313107522Z",
+  "model": "glm-5.3"
+}

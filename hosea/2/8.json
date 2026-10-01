@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 2:8",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Daarom, kyk, Ek is besig om ⟨את⟩ jou pad toe te heinig met doringstruike, en Ek sal ⟨את⟩ 'n muur rondom haar oprig, sodat sy haar paadjies nie vind nie.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, Ek"
+    },
+    {
+      "surface": "שך",
+      "gloss": "heinig toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou pad"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jou pad"
+    },
+    {
+      "surface": "בסירים",
+      "gloss": "met doringstruike"
+    },
+    {
+      "surface": "וגדרתי",
+      "gloss": "en Ek sal oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n muur rondom haar"
+    },
+    {
+      "surface": "גדרה",
+      "gloss": "'n muur rondom haar"
+    },
+    {
+      "surface": "ונתיבותיה",
+      "gloss": "en haar paadjies"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sal sy vind"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:15.206986081Z",
+  "model": "glm-5.3"
+}

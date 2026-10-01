@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 4:2",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het tien manne van die oudstes van die stad geneem en gesê: Sit hier. En hulle het gaan sit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hy het geneem"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "van die oudstes"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Sit"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "En hulle het gaan sit"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:57.158092191Z",
+  "model": "glm-5.3"
+}

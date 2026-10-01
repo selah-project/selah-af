@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Vir die koorleier, 'n mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vir die koorleier"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:00.722122649Z",
+  "model": "glm-5.3"
+}

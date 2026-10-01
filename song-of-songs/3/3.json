@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 3:3",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Die wagte wat in die stad rondgaan, het my gevind: het julle ⟨את⟩ hom gesien wat my siel liefhet?",
+  "tokens": [
+    {
+      "surface": "מצאוני",
+      "gloss": "het my gevind"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die wagte"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "wat rondgaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hom wat my siel liefhet"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wat liefhet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "het julle gesien"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:59.993100413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Hy sê: Wat het jy gedoen? Die stem van die bloed van jou broer skreeu na My uit die aarde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Hy sê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het jy gedoen"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van jou broer"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "skreeu"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:23.008565465Z",
+  "model": "glm-5.3"
+}

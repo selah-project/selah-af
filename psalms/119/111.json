@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "I have inherited your testimonies forever, for they ⟨are⟩ the joy of my heart.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ek het geërf"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "jou getuienisse"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "die vreugde"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van my hart"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle ⟨is dit⟩"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:18.490742923Z",
+  "model": "glm-5.3"
+}

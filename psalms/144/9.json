@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Elohim, 'n nuwe lied sal ek vir U sing; op 'n tiensnarige nevel sal ek musiek maak vir U.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "sal ek sing"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "op 'n nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tiensnarige"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "sal ek musiek maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:09.187995118Z",
+  "model": "glm-5.3"
+}

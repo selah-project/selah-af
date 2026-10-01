@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Jy mag vir jou geen gesnede beeld maak nie — en enige gedaante van enige iets wat in die hemel bo is, of wat in die aarde onder is, of wat in die waters onder die aarde is nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy mag maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "gesnede beeld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en enige"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "gedaante"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "of wat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die aarde"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "of wat"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in die waters"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:01.271450501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en ⟨את⟩ Kibtsajim met sy wysland, en ⟨את⟩ Bet-Goron met sy wysland — vier stede.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Kibtsajim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "Kibtsajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy wysland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy wysland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bet-Goron"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "Goron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy wysland"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy wysland"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "stede"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:34.558796547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 2:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ⟨את⟩ die volk moet jy beveel en sê: Julle is besig om deur die grens van jul broers, die seuns van Esaw wat in Seïr woon, te trek; en hulle sal vir julle bang wees, en julle moet julle baie hoedig hou.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "צו",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "besig om te trek"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "deur die grens"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "van jul broers"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esaw"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "wat woon"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "in Seïr"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "sal bang wees"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "moet jul hoedig hou"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:33.678661524Z",
+  "model": "glm-5.3"
+}

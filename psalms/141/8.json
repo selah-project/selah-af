@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Want na U, Jahweh, Adonai, ⟨is⟩ my oë; in U het ek toevlug gesoek — maak my siel nie kaal nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "in U"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "het ek toevlug gesoek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תער",
+      "gloss": "maak kaal"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:28.581021142Z",
+  "model": "glm-5.3"
+}

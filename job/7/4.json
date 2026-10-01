@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 7:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "As ek gaan lê en sê: Wanneer sal ek opstaan? — en ⟨ek meet⟩ die aand af, en ek is versadig van rondwoel tot aan die dagbreek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ek gaan lê"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sal ek opstaan"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "⟨ek meet⟩ af"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "die aand"
+    },
+    {
+      "surface": "ושבעתי",
+      "gloss": "en ek is versadig"
+    },
+    {
+      "surface": "נדדים",
+      "gloss": "van rondwoel"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "die dagbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:49.176661357Z",
+  "model": "glm-5.3"
+}

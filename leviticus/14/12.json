@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester sal ⟨את⟩ die een lam neem en dit as skuldoffer aanbied, en ⟨את⟩ die log olie, en hulle as 'n swaaioffer voor Jahweh swaai.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "En neem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die lam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "en aanbied"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit — die lam"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "as skuldoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die log olie"
+    },
+    {
+      "surface": "לג",
+      "gloss": "die log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "en swaai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle — die lam en die olie"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "as swaaioffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:03.365066363Z",
+  "model": "glm-5.3"
+}

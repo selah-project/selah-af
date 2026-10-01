@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 4:19",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het vir haar gesê: Laat my asseblief 'n bietjie water drink, want ek het dors. En sy het ⟨את⟩ die sak melk oopgemaak en hom laat drink en hom toegemaak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "laat my drink"
+    },
+    {
+      "surface": "נא",
+      "gloss": "asseblief"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n bietjie"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צמאתי",
+      "gloss": "ek het dors"
+    },
+    {
+      "surface": "ותפתח",
+      "gloss": "en sy het oopgemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sak melk"
+    },
+    {
+      "surface": "נאוד",
+      "gloss": "die sak"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "melk"
+    },
+    {
+      "surface": "ותשקהו",
+      "gloss": "en hom laat drink"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "en hom toegemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:21.889428769Z",
+  "model": "glm-5.3"
+}

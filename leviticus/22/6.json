@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 22:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "die siel wat ⟨dit⟩ aanraak, is onrein tot die aand af, en hy mag nie eet van die heiliges nie, tensy hy sy liggaam in water was.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "aanraak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨dit⟩"
+    },
+    {
+      "surface": "וטמאה",
+      "gloss": "en onrein is"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "hy eet"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die heiliges"
+    },
+    {
+      "surface": "כי",
+      "gloss": "tensy"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "was"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy liggaam"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:12.293990574Z",
+  "model": "glm-5.3"
+}

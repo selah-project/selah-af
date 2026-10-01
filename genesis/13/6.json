@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die aarde kon hulle ⟨את⟩ nie dra om saam te woon nie, want hulle besittings was baie en hulle kon nie saam woon nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "kon dra"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "hulle besittings"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kon hulle"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "woon"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:22.102955646Z",
+  "model": "glm-5.3"
+}

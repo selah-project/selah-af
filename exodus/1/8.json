@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe het daar 'n nuwe koning oor Mitsrajim opgestaan, wat Josef nie geken het ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "geken het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:50.525858863Z",
+  "model": "glm-5.3"
+}

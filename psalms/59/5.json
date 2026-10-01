@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Sonder onreg hardloop hulle en rig hulle toe; ontwaak om my te ontmoet, en sien.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "עון",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "hardloop hulle"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "en rig hulle toe"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "om my te ontmoet"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:08.463805930Z",
+  "model": "glm-5.3"
+}

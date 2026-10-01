@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "In u bepalinge sal ek oordink, en ek sal u paaie aanskou.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "in u bepalinge"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "sal ek oordink"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "en ek sal aanskou"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "u paaie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:50.869801228Z",
+  "model": "glm-5.3"
+}

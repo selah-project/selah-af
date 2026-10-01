@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "In hongersnood koop Hy jou los uit die dood, en in oorlog uit die hande van ⟨die⟩ swaard.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "In hongersnood"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "koop Hy jou los"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit die dood"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "en in oorlog"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "uit die hande van"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:33.378358748Z",
+  "model": "glm-5.3"
+}

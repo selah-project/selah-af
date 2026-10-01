@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Ek is gereken onder die wat afdaal in ⟨die⟩ kuil; ek was soos 'n man sonder krag.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "ek is gereken"
+    },
+    {
+      "surface": "עם",
+      "gloss": "onder"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "die wat afdaal"
+    },
+    {
+      "surface": "בור",
+      "gloss": "kuil"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ek was"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "soos 'n man"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "איל",
+      "gloss": "krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:49.069459687Z",
+  "model": "glm-5.3"
+}

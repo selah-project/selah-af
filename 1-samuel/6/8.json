@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 6:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "en julle sal ⟨את⟩ die ark van Jahweh neem en dit op die wa sit, en ⟨את⟩ die goue voorwerpe wat julle hom as skuldoffer teruggee, in ‘n kis aan die sy daarvan sit; en julle sal ⟨dit⟩ wegstuur, en dit sal gaan.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "en julle sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "en julle sal sit"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "die wa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die voorwerpe",
+      "marks": "die goue voorwerpe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "goue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "השבתם",
+      "gloss": "julle teruggegee het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "as skuldoffer"
+    },
+    {
+      "surface": "תשימו",
+      "gloss": "sal julle sit"
+    },
+    {
+      "surface": "בארגז",
+      "gloss": "in ‘n kis"
+    },
+    {
+      "surface": "מצדו",
+      "gloss": "aan die sy daarvan"
+    },
+    {
+      "surface": "ושלחתם",
+      "gloss": "en julle sal wegstuur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die ark)"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "en dit sal gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:04.559045282Z",
+  "model": "glm-5.3"
+}

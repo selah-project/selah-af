@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 123,
+  "translation": "'n Lied van die opgange. Na U toe hef ek ⟨את⟩ my oë op, U wat troon in die hemele.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "'n Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgange"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U toe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "hef ek op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my oë"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "U wat troon"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:37.641872435Z",
+  "model": "glm-5.3"
+}

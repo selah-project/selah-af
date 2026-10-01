@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Vir die reuk is jou olieë goed; soos uitgegote olie ⟨is⟩ jou naam; daarom het die jongmeisies jou lief.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "Vir die reuk"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "jou olieë"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "uitgegote"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom (op)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "die jongmeisies"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "het jou lief"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:47.159342237Z",
+  "model": "glm-5.3"
+}

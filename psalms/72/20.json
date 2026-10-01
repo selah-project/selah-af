@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Voltooi ⟨is⟩ die gebede van Dawid, seun van Jisjai.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "voltooi"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "die gebede"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:50.668155610Z",
+  "model": "glm-5.3"
+}

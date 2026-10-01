@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag my hart volmaak wees in u insettinge, sodat ek nie beskaam word nie.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag ... wees"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaak"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "in u insettinge"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ek beskaam word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:45.045724331Z",
+  "model": "glm-5.3"
+}

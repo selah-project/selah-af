@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag my siel lewe en u loof, en mag u gebooie my help.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "mag lewe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "en u loof"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "en u gebooie"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "my help"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:16.500661078Z",
+  "model": "glm-5.3"
+}

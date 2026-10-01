@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 129,
+  "translation": "Lied van die opgangte. Baie het hulle my beklem vanaf my jeug — mag Jisraël tog sê",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangte"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "het hulle my beklem"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf my jeug"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "mag ... sê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:31.216412417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 4:3",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ons het tot ons Elohim gebid en 'n wag teen hulle gestel, dag en nag, weens hulle.",
+  "tokens": [
+    {
+      "surface": "ונתפלל",
+      "gloss": "en ons het gebid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "ונעמיד",
+      "gloss": "en gestel"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "'n wag"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "weens hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:40:43.408592372Z",
+  "model": "glm-5.3"
+}

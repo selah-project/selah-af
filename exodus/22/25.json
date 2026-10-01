@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As jy as pand die kleed van jou naaste neem, teen die ingaan van die son moet jy dit aan hom teruggee.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "as pand"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "neem"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "kleed"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "teen"
+    },
+    {
+      "surface": "בא",
+      "gloss": "die ingaan"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "van die son"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "moet jy dit teruggee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:00.624682678Z",
+  "model": "glm-5.3"
+}

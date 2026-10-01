@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 29:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ sy seuns sal jy nader bring, en jy sal hulle met kutanot beklee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "sal jy nader bring"
+    },
+    {
+      "surface": "והלבשתם",
+      "gloss": "en jy sal beklee hulle"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "met kutanot"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:21.335705179Z",
+  "model": "glm-5.3"
+}

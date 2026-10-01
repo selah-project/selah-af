@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 37:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Het die elohim van die nasies ⟨את⟩ hulle gered, dié wat my vaders vernietig het — ⟨את⟩ Gozan en ⟨את⟩ Haran en Resef en die seuns van Eden wat in Telassar ⟨is⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "het gered"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die nasies)"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die elohim"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dié wat"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "vernietig het"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "my vaders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Haran"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Haran"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "en Resef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בתלשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:32.329684420Z",
+  "model": "glm-5.3"
+}

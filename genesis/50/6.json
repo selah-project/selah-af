@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En Paro het gesê: Gaan op en begrawe ⟨את⟩ jou vader, soos hy jou laat sweer het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "gaan op"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "en begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vader"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "hy jou laat sweer het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:13.143600406Z",
+  "model": "glm-5.3"
+}

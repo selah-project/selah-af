@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hy het gesê: Kom met ⟨את⟩ my, en sien in my ywer vir Jahweh. En hulle het ⟨את⟩ hom in sy strydwa laat ry.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "in my ywer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "en hulle het laat ry"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "in sy strydwa"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in sy strydwa"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:16.125618374Z",
+  "model": "glm-5.3"
+}

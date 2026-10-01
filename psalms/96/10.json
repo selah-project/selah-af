@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Sê onder die nasies: Jahweh ⟨is⟩ koning; ook word die wêreld bevestig, dit sal hoegenaamd nie wankel nie; hy sal die volke oordeel in opregtheid.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Sê"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨is⟩ koning"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "word bevestig"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "בל",
+      "gloss": "hoegenaamd nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sal wankel"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "hy sal oordeel"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "in opregtheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:22.719788088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Die begin van wysheid ⟨is⟩ die vrees van Jahweh, en kennis van heiliges ⟨is⟩ verstand.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Die begin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "van wysheid"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "die vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heiliges"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "verstand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:48.750804707Z",
+  "model": "glm-5.3"
+}

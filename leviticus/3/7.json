@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "As hy 'n skaaplammie as sy offergawe nader bring, dan moet hy ⟨את⟩ dit voor die aangesig van Jahweh nader bring.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "'n skaaplampie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "nader bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy offergawe"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sy offergawe"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan moet hy nader bring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:36.656407861Z",
+  "model": "glm-5.3"
+}

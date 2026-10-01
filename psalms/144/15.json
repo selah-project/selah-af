@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Voorspoedig ⟨is⟩ die volk vir wie dit so vergaan; ja, voorspoedig ⟨is⟩ die volk wie se Elohim Jahweh ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "voorspoedig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "vir wie dit so vergaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ja, voorspoedig"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "wie se Elohim Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:07.731758504Z",
+  "model": "glm-5.3"
+}

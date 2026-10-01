@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "En ek, tot u, Jahweh, het ek geroep, en in die môre sal my gebed u vooruitkom.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "het ek geroep"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in die môre"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "sal u vooruitkom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:29.311581937Z",
+  "model": "glm-5.3"
+}

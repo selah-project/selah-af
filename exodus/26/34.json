@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En jy sal ⟨את⟩ die versoendeksel bo-op die ark van die getuienis sit, in die heiligste van die heiliges.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die versoendeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoendeksel"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van die getuienis"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligste"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van die heiliges"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:55.117154084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Met 'n sterke hand en met 'n uitgestrekte arm, want vir ewig duur sy gesed.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "met 'n hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "en met 'n arm"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "uitgestrekte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "duur sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.972592307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 6:12",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Wie se rykes vol geweld is, en sy inwoners leuens spreek, en hulle tong bedrieglik ⟨is⟩ in hulle mond.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wie se"
+    },
+    {
+      "surface": "עשיריה",
+      "gloss": "rykes"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "vol"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "en sy inwoners"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leuens"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "en hulle tong"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrieglik"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in hulle mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:41.362927600Z",
+  "model": "glm-5.3"
+}

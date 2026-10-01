@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ook al het owerstes gesit en teen my gespreek — u dienaar peins oor u insettinge.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ook al"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "owerstes"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "gespreek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "peins"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "oor u insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.163147275Z",
+  "model": "glm-5.3"
+}

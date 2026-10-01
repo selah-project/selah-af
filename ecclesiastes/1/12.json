@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Ek, Kohélet, was koning oor Jisraël in Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohélet"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:05.774707447Z",
+  "model": "glm-5.3"
+}

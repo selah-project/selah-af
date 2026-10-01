@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 15:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En hy wat die vlees van die zav aanraak, moet sy klere was en hom in ⟨die⟩ water was, en ⟨hy is⟩ onrein tot die aand.",
+  "tokens": [
+    {
+      "surface": "והנגע",
+      "gloss": "en hy wat aanraak"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "die zav"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "was"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en hom was"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in water"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en onrein wees"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:41.585378543Z",
+  "model": "glm-5.3"
+}

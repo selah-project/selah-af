@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die seun van Jehonatan ⟨was⟩ Meriw-Baäl, en Meriw-Baäl het ⟨את⟩ Miga verwek.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "en die seun van"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Meriw-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "en Meriw-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Miga"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Miga"
+    }
+  ],
+  "timestamp": "2026-10-01T00:47:22.644733935Z",
+  "model": "glm-5.3"
+}

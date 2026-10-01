@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Jahweh het welgevalle in ⟨את⟩ dié wat Hom vrees, in ⟨את⟩ dié wat op sy gesed wag.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "het welgevalle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dié wat Hom vrees"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dié wat Hom vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dié wat op sy gesed wag"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "dié wat wag"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "op sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.691181690Z",
+  "model": "glm-5.3"
+}

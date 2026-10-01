@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Las van Moab: omdat in 'n nag Ar van Moab verwoes is, is dit vernietig; omdat in 'n nag Kir van Moab verwoes is, is dit vernietig.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "las"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in 'n nag"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoes is"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "is dit vernietig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "in 'n nag"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoes is"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Kir"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "is dit vernietig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:43.911676548Z",
+  "model": "glm-5.3"
+}

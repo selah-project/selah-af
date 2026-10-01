@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en sy leërmag en hulle getelde ⟨is⟩ een-en-veertig duisend en vyf honderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leërmag"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle getelde"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "en vyf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:20.213852755Z",
+  "model": "glm-5.3"
+}

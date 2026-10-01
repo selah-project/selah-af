@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 122:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Jerusjalajim, die geboude soos 'n stad wat saam ⟨verbind is⟩, ⟨⟨aan haarself⟩⟩.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "הבנויה",
+      "gloss": "die geboude"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "soos 'n stad"
+    },
+    {
+      "surface": "שחברה",
+      "gloss": "wat verbind is"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aan haarself"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:17.092394455Z",
+  "model": "glm-5.3"
+}

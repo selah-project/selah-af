@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal ⟨את⟩ julle stede 'n woesteny maak, en Ek sal ⟨את⟩ julle heiligdomme verwoes, en Ek sal die reuk van julle aangename geure nie ruik nie.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle stede"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "julle stede"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "'n woesteny"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "en Ek sal verwoes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle heiligdomme"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "julle heiligdomme"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "sal Ek ruik"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "die reuk"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "van julle aangename geure"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:41.917472425Z",
+  "model": "glm-5.3"
+}

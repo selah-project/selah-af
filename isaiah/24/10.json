@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Verbreek is die stad van toehoe; toegesluit is elke huis van ingang.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "is verbreek"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "van toehoe"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "is toegesluit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "van ingang"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:56.890728993Z",
+  "model": "glm-5.3"
+}

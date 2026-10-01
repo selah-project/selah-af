@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En ⟨hy⟩ het my laat opkom uit 'n kuil van gedruis, uit die slyk van modder, en ⟨hy⟩ het my voete op 'n rots gestaan en my stappe vas gemaak.",
+  "tokens": [
+    {
+      "surface": "ושאון",
+      "gloss": "van gedruis",
+      "marks": ""
+    },
+    {
+      "surface": "ומבור",
+      "gloss": "uit 'n kuil"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "uit die slyk"
+    },
+    {
+      "surface": "היון",
+      "gloss": "van modder"
+    },
+    {
+      "surface": "ויעלני",
+      "gloss": "en hy het my laat opkom"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "en ⟨hy⟩ het gestaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "'n rots"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "hy het vas gemaak"
+    },
+    {
+      "surface": "אשורי",
+      "gloss": "my stappe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.398431638Z",
+  "model": "glm-5.3"
+}

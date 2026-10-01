@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Kusj het ⟨את⟩ Nimrod verwek; hy het begin om 'n magtige man op die aarde te word.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "en Kusj"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nimrod"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "החל",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te word"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "'n magtige man"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:48.532862969Z",
+  "model": "glm-5.3"
+}

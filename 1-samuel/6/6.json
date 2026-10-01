@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 6:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En waarom sal julle ⟨את⟩ julle hart swaar maak, soos Mitsrajim en Paro ⟨את⟩ hulle hart swaar gemaak het? Is dit nie soos toe ⟨hy⟩ hulle gekasty het, dat hulle hulle laat gaan het en hulle weggegaan het nie?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "תכבדו",
+      "gloss": "sal julle swaar maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle hart"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "julle hart"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "swaar gemaak het"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "en Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hart"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle hart"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "התעלל",
+      "gloss": "hy gekasty het"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "וישלחום",
+      "gloss": "dat hulle hulle laat gaan het"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle weggegaan het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:04.558558938Z",
+  "model": "glm-5.3"
+}

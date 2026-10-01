@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 21:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Staan op, lig ⟨את⟩ die seun op en hou hom stewig aan ⟨את⟩ jou hand vas, want tot 'n groot nasie sal ek hom maak.",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "שאי",
+      "gloss": "lig op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seun"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "והחזיקי",
+      "gloss": "en hou vas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot 'n nasie"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "sal ek hom maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:21.889541544Z",
+  "model": "glm-5.3"
+}

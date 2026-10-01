@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Beter 'n palmvol kalmte as twee hande vol geploeter en kwelling van roeag.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Beter"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "'n ... vol"
+    },
+    {
+      "surface": "כף",
+      "gloss": "palm"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "kalmte"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "as ... vol"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "twee hande"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "geploeter"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en kwelling"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:02.678224144Z",
+  "model": "glm-5.3"
+}

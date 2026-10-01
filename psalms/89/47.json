@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Hoe lank, Jahweh, sal U ⟨Uself⟩ verberg, vir ewig? Sal U gloed brand soos vuur?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lank (tot wanneer)"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "sal U verberg"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "U gloed (toorn)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.603024878Z",
+  "model": "glm-5.3"
+}

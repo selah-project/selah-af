@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Awimeleg het vir Jitsgak gesê: Gaan weg van ons, want jy het baie magtiger geword as ons.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimeleg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan weg"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "van ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "jy het magtiger geword"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as ons"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:32.602899287Z",
+  "model": "glm-5.3"
+}

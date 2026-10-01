@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 15:33",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die wat hom gevind het toe hy hout versamel, het hom gebring na Mosje en na Aharon en na die hele vergadering toe.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "המצאים",
+      "gloss": "die wat gevind het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "versamel"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:20.424209443Z",
+  "model": "glm-5.3"
+}

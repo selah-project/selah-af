@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Die môre het gelig, en die manne is weggestuur, hulle en hulle donkies.",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "die môre"
+    },
+    {
+      "surface": "אור",
+      "gloss": "het gelig"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "en die manne"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "is weggestuur"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ו חמריהם",
+      "gloss": "en hulle donkies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:28.421225315Z",
+  "model": "glm-5.3"
+}

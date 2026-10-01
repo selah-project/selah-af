@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die seuns van Elpaäl: Ewer en Misjam en Sjemed — hý het gebou ⟨את⟩ Ono en ⟨את⟩ Lod en sy dogterdorpe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaäl"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewer"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "en Misjam"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "en Sjemed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hý"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ono"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Ono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Lod"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Lod"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "en sy dogterdorpe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:39.604251742Z",
+  "model": "glm-5.3"
+}

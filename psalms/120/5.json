@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Wee my, dat ek as vreemdeling gewoon het in Mesjek, dat ek saam met die tente van Kedar gewoon het!",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ek as vreemdeling gewoon het"
+    },
+    {
+      "surface": "משך",
+      "gloss": "in Mesjek"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ek gewoon het"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "die tente"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "van Kedar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:47.745512084Z",
+  "model": "glm-5.3"
+}

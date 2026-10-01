@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "om die seuns van ⟨die⟩ mens sy magtige dade bekend te maak, en die heerlike prag van sy koninkryk.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "om bekend te maak"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨die⟩ mens"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "sy magtige dade"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "en die heerlikheid"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "prag"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "van sy koninkryk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:13.782653079Z",
+  "model": "glm-5.3"
+}

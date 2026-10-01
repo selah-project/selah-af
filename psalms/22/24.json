@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Julle wat Jahweh vrees, loof Hom; hele nageslag van Jaäkow, verheerlik Hom, en bewe vir Hom, hele nageslag van Jisraël.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "wat vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "verheerlik Hom"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "en bewe vir"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:41.590967145Z",
+  "model": "glm-5.3"
+}

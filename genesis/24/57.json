@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hulle het gesê: Laat ons die jongmeisie roep en ⟨את⟩ haar mond vra.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "laat ons roep"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "die jongmeisie"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "en laat ons vra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar mond"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:08.061956886Z",
+  "model": "glm-5.3"
+}

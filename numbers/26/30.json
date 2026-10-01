@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Dit ⟨is⟩ die seuns van Gilad: van Iëzer, die familie van die Iëzeriete; van Chelek, die familie van die Chekiete.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "van Gilad"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "van Iëzer"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "die familie"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "van die Iëzeriete"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "van Chelek"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "die familie"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "van die Chekiete"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:03.848015852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 10:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "In die hoogmoed van die goddelose brand die verdrukte ⟨vervolg word⟩; hulle word gegryp in die planne wat ⟨hulle⟩ uitgedink het.",
+  "tokens": [
+    {
+      "surface": "בגאות",
+      "gloss": "In die hoogmoed"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "ידלק",
+      "gloss": "brand"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die verdrukte"
+    },
+    {
+      "surface": "יתפשו",
+      "gloss": "word gegryp"
+    },
+    {
+      "surface": "במזמות",
+      "gloss": "in die planne"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "hulle uitgedink het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:38.658843755Z",
+  "model": "glm-5.3"
+}

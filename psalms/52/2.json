@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Toe Dog die Edomiet gekom het en aan Sjaol berig het en vir hom gesê het: Dawid het by die huis van Agimeleg gekom.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "toe … gekom het"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "Dog"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "die Edomiet"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en berig het"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaol"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "van Agimeleg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:54.939909938Z",
+  "model": "glm-5.3"
+}

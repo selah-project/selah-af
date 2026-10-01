@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Nie aan ons nie, Jahweh, nie aan ons nie, maar aan u Naam gee eer, oor u gesed en oor u trou.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "aan u Naam"
+    },
+    {
+      "surface": "תן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "u trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:17.359614115Z",
+  "model": "glm-5.3"
+}

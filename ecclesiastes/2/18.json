@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek, ek het ⟨את⟩ al my geswoeg gehaat waarmee ek myself afgesloof het onder die son, omdat ek dit sal agterlaat aan die mens wat ná my sal wees.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "en ek het gehaat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al my geswoeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "my geswoeg"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "wat ek"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "myself afsloof"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "omdat ek dit sal agterlaat"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "aan die mens"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "wat sal wees"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:35.859913575Z",
+  "model": "glm-5.3"
+}

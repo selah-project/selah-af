@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 100,
+  "translation": "Kom in sy poorte met dankbetuiging, sy howe met lofgesang; erken hom, seën sy Naam.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Kom in"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "sy poorte"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dankbetuiging"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "sy howe"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "met lofgesang"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "erken"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "seën"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:42.989317340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En vasgemaak is die veld en die grot wat daarin is, vir Awraham as grafbesitting, van ⟨את⟩ die seuns van Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "vasgemaak is"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "en die grot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "vir Awraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "as besitting van"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "graf"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "die seuns van Het"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:40.121788162Z",
+  "model": "glm-5.3"
+}

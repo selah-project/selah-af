@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Met pyle en met boog sal ⟨'n man⟩ daarheen kom, want doring en netel sal die hele land wees.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "met pyle"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "en met boog"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sal ⟨'n man⟩ kom"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "doring"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "en netel"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:05.595972102Z",
+  "model": "glm-5.3"
+}

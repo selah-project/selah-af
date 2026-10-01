@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Julle moet ywerig bewaar ⟨את⟩ die gebooie van Jahweh julle Elohim, en sy getuienisse en sy insettinge wat hy julle beveel het.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "ywerig bewaar julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebooie"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "gebooie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "en sy getuienisse"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "en sy insettinge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "hy jou beveel het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:03.445135454Z",
+  "model": "glm-5.3"
+}

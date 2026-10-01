@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En julle moet ⟨את⟩ haar gee aan Elasar, ⟨die⟩ priester, en hy moet ⟨את⟩ haar uitlei buitekant die laer, en ⟨hy⟩ moet ⟨את⟩ haar slag voor sy aangesig.",
+  "tokens": [
+    {
+      "surface": "וונתתם",
+      "gloss": "en julle moet gee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "en hy moet uitlei"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "van die laer"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "en ⟨hy⟩ moet slag"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor sy aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:37.015858053Z",
+  "model": "glm-5.3"
+}

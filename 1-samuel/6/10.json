@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die manne het so gedoen, en twee koeie geneem wat melk gee, en hulle aan die wa gebind, en hulle kalwers ⟨את⟩ in die huis toegesluit.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "koeie"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "wat melk gee"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "en hulle gebind"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "aan die wa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kalwers"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle kalwers"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "toegesluit"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:51.260661437Z",
+  "model": "glm-5.3"
+}

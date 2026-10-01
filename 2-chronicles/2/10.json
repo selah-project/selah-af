@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 2:10",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe sê Guram, die koning van Tsor, in geskrif, en hy stuur dit aan Sjelomo: omdat Jahweh ⟨את⟩ sy volk liefhet, het Hy jou as koning oor hulle gestel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Toe sê"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "Guram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van Tsor"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "in geskrif"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hy stuur"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "omdat ... liefhet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "נתנך",
+      "gloss": "het Hy jou gestel"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "as koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:54:15.848822973Z",
+  "model": "glm-5.3"
+}

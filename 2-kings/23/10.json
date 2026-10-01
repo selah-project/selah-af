@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ die Tofet onrein gemaak wat in die dal van die seuns van Hinnom is, sodat geen man ⟨את⟩ sy seun en ⟨את⟩ sy dogter deur die vuur aan Molég sou laat deurgaan nie.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "En hy het onrein gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tofet"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "die Tofet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "in die dal"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "van Hinnom"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "sou laat deurgaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy dogter"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deur die vuur"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan Molég"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:27.102666984Z",
+  "model": "glm-5.3"
+}

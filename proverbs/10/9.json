@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 10:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Wie in onberispelikheid wandel, wandel veilig, maar wie sy weë krommaak, sal bekend word.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wie wandel"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "in onberispelikheid"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "wandeling veilig"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "ומעקש",
+      "gloss": "maar wie krommaak"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "sal bekend word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:16.131085262Z",
+  "model": "glm-5.3"
+}

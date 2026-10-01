@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Ryk edeles sal uit Mitsrajim kom; Koesj sal sy hande na Elohim laat hardloop.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ryk edeles"
+    },
+    {
+      "surface": "מני",
+      "gloss": "uit"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Koesj"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "sal laat hardloop"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "na Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:58.652013366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 4:21",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Word hulle oortollige nie uit hulle uitgetrek nie? hulle sterwe, en dit nie in wysheid nie.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "word ... nie?"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "uitgetrek"
+    },
+    {
+      "surface": "יתרם",
+      "gloss": "hulle oortollige"
+    },
+    {
+      "surface": "בם",
+      "gloss": "uit hulle"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "hulle sterwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "in wysheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:49.846704332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jahweh het ⟨את⟩ sy woord staanmaak, die wat hy gespreek het; en ek het opgestaan in die plek van Dawid my vader, en ek sit op die troon van Jisraël, soos Jahweh gespreek het; en ek het die huis gebou vir die naam van Jahweh, die Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hy het staanmaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy woord"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hy gespreek het"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "en ek het opgestaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "en ek sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "die troon"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "en ek het gebou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "vir die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:08.184035587Z",
+  "model": "glm-5.3"
+}

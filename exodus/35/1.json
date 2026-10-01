@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En Mosje het ⟨את⟩ die hele vergadering van die seuns van Jisraël byeengeroep en tot hulle gesê: dit is die woorde wat Jahweh beveel het om ⟨את⟩ hulle te doen.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "en hy het byeengeroep"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele vergadering van die seuns van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "tot hulle"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:38.753987232Z",
+  "model": "glm-5.3"
+}

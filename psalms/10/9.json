@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 10:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy lê in die hinderlaag in ⟨die⟩ skuilplek, soos 'n leeu in sy digte struik; hy lê in die hinderlaag om die arme te gryp; hy gryp die arme toe hy hom in sy net insleep.",
+  "tokens": [
+    {
+      "surface": "יארב",
+      "gloss": "lê in die hinderlaag"
+    },
+    {
+      "surface": "במסתר",
+      "gloss": "in die skuilplek"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "soos 'n leeu"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "in sy digte struik"
+    },
+    {
+      "surface": "יארב",
+      "gloss": "lê in die hinderlaag"
+    },
+    {
+      "surface": "לחטוף",
+      "gloss": "om te gryp"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "יחטף",
+      "gloss": "hy gryp"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "במשכו",
+      "gloss": "toe hy hom insleep"
+    },
+    {
+      "surface": "ברשתו",
+      "gloss": "in sy net"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:21.555198102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Hulle is by En-Dor verwoes; hulle was mis vir die grond.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "is verwoes"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "by En"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Dor"
+    },
+    {
+      "surface": "היו",
+      "gloss": "hulle was"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "mis"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "vir die grond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:30.074302575Z",
+  "model": "glm-5.3"
+}

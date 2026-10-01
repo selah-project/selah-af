@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 5:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En dit sal gebeur: as hy skuldig is aan een van hierdie dinge, dan moet hy bely waaraan hy gesondig het.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יאשם",
+      "gloss": "hy skuldig is"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "aan een"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "van hierdie dinge"
+    },
+    {
+      "surface": "והתודה",
+      "gloss": "dan moet hy bely"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waaraan"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hy gesondig het"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aan dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:45.866650249Z",
+  "model": "glm-5.3"
+}

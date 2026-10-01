@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As jy silwer leen aan ⟨את⟩ my volk, ⟨את⟩ die arme wat by jou is — wees nie vir hom soos 'n woekeraar nie; lê geen rente op hom nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "jy leen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die arme"
+    },
+    {
+      "surface": "העני",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "wat by jou is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "soos 'n woekeraar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "lê"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:53.594015706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Die berge het gesmelt voor die aangesig van Jahweh — hierdie Sinai — voor die aangesig van Jahweh, Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "Die berge"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "het gesmelt"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:02.812749636Z",
+  "model": "glm-5.3"
+}

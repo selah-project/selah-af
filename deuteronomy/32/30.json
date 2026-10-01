@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 32:30",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Hoe jaag een ⟨את⟩ duisend na, en twee laat tienduisend vlug? ⟨Is dit⟩ nie omdat hulle Rots hulle verkoop het en Jahweh hulle oorgelewer het nie?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "jaag ... na"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend",
+      "marks": "duisend"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "יניסו",
+      "gloss": "laat vlug"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tienduisend"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "hulle Rots"
+    },
+    {
+      "surface": "מכרם",
+      "gloss": "verkoop het hulle"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "הסגירם",
+      "gloss": "oorgelewer het hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:28.784342770Z",
+  "model": "glm-5.3"
+}

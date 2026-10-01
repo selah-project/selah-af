@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Joktan het ⟨את⟩ Almodad en ⟨את⟩ Sjalef en ⟨את⟩ Chatsarmawet en ⟨את⟩ Jarag verwek.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "En Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjalef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sjalef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chatsarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jarag"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jarag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.208574386Z",
+  "model": "glm-5.3"
+}

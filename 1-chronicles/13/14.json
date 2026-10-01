@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die ark van Elohim het gebly by die huisgesin van Obed-Edom, in sy huis, drie maande; en Jahweh het ⟨את⟩ die huis van Obed-Edom geseën en ⟨את⟩ alles wat hy het.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en het gebly"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huisgesin"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "van Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in sy huis"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "maande"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en het geseën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Obed-Edom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "van Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat hy het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:33.204592875Z",
+  "model": "glm-5.3"
+}

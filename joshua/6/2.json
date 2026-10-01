@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh sê aan Jehosjoea: Sien, ek het in jou hand gegee ⟨את⟩ Jerigo en ⟨את⟩ sy koning, die helde van die krygsmag.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sien"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gegee"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerigo"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerigo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy koning"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "sy koning"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "die helde van"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "die krygsmag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:31.002159987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "My siel klou aan U vas; U regterhand onderhou my.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "klou vas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "aan U"
+    },
+    {
+      "surface": "בי",
+      "gloss": "my"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "onderhou"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "U regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:30.224185371Z",
+  "model": "glm-5.3"
+}

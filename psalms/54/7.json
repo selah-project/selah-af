@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Mag die kwaad terugkeer op my vyande; in ⟨u⟩ trou, roei hulle uit.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "mag terugkeer"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "op my vyande"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in ⟨u⟩ trou"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "roei hulle uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:36.654409637Z",
+  "model": "glm-5.3"
+}

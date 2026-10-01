@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 19:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Wanneer Jahweh jou Elohim ⟨את⟩ die nasies uitroei wie se land Jahweh jou Elohim jou gee, en jy dit in besit neem en in hul stede en in hul huise woon,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "uitroei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nasies"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie se"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie se land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hul land"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "en jy dit in besit neem"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en jy woon"
+    },
+    {
+      "surface": "בעריהם",
+      "gloss": "in hul stede"
+    },
+    {
+      "surface": "ובבתיהם",
+      "gloss": "en in hul huise"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:38.033400165Z",
+  "model": "glm-5.3"
+}

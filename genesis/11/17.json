@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Ewer het geleef nadat hy ⟨את⟩ Peleg verwek het, dertig jaar en vierhonderd jaar, en hy het seuns en dogters verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "en hy het geleef"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ewer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hy verwek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Peleg"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Peleg"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dogters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.246819225Z",
+  "model": "glm-5.3"
+}

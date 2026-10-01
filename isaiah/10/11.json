@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "moet ek nie, soos ek aan Sjomeron en sy afgodjies gedoen het, net so aan Jerusjalajim en sy beelde doen nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "moet ek nie"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "aan Sjomeron"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "en sy afgodjies"
+    },
+    {
+      "surface": "כן",
+      "gloss": "net so"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal ek doen"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "aan Jerusjalajim"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "en sy beelde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:44.859794198Z",
+  "model": "glm-5.3"
+}

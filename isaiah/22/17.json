@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Kyk, Jahweh werp jou heen en weer, 'n heen-en-weer-werping van 'n sterke ⟨man⟩, en hy omhul jou dig.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "werp jou heen en weer"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "'n heen-en-weer-werping"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "sterke man"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "en omhul jou"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "omhul dig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:43.155394496Z",
+  "model": "glm-5.3"
+}

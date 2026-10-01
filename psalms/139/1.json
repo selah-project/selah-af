@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Vir die koorleier. 'n Mizmor van Dawid. Jahweh, U het deurgrond, en ⟨U⟩ ken ⟨my⟩.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "U het my deurgrond"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "en ken"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:24.291492906Z",
+  "model": "glm-5.3"
+}

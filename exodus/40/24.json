@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het ⟨את⟩ die kandelaar in die tent van samekoms geplaas, regoor die tafel, aan die sy van die Misjkan, na die suide.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "geplaas het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kandelaar"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die kandelaar"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "regoorkant"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "die sy"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "na die suide"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:01.089570053Z",
+  "model": "glm-5.3"
+}

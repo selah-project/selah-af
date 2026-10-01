@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En dit het gebeur, toe Jahweh ⟨את⟩ Elia in 'n stormwind na die hemel laat opvaar, dat Elia en Elisa van Gilgal af weg is.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "toe ... laat opvaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "in 'n stormwind"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "weg is"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "en Elisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:47.153429473Z",
+  "model": "glm-5.3"
+}

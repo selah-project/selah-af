@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Sjemoeël het gesê tot die volk: Kom, laat ons gaan na Gilgal en daar die koninkryk vernuwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "laat ons gaan"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Gilgal"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "en laat ons vernuwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "die koninkryk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:38.808747489Z",
+  "model": "glm-5.3"
+}

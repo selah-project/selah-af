@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Elohim verstaan die weg daarvan, en Hy ken ⟨את⟩ die plek daarvan.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "die weg daarvan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plek daarvan"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "die plek daarvan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:19:29.471823238Z",
+  "model": "glm-5.3"
+}

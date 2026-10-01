@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het hul dogters vir hulle as vroue geneem, en hul dogters het hulle aan hul seuns gegee, en hulle het hul gode gedien.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "En hulle het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul dogters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hul dogters"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "as vroue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hul dogters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hul dogters"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "het hulle gegee"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hul seuns"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul gode"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hul gode"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:20.101455062Z",
+  "model": "glm-5.3"
+}

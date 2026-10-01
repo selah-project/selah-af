@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Laat ⟨hulle⟩ saam val in hulle eie nette — ek self, totdat ek deurgaan.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "laat hulle val"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "in sy eie nette"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek self"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ek deurgaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:00.130373546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hul geteldes, vir die stam van Sjim'on: nege en vyftig duisend en drie honderd.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hul geteldes"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir die stam"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Sjim'on"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nege"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:17.829910821Z",
+  "model": "glm-5.3"
+}

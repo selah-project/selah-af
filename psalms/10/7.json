@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Van vloekery is sy mond vol, en van bedrog en onderdrukking; onder sy tongue is moeite en ongeregtigheid.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "vloekery"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sy mond"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "en bedrog"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "onderdrukking"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "sy tong"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeite"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "ongeregtigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.011690170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim het ⟨את⟩ die rib wat Hy van die mens geneem het, tot 'n vrou gebou, en Hy het haar na die mens gebring.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en Hy het gebou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rib"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "die rib"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "Hy geneem het"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "tot 'n vrou"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "en Hy het haar gebring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:31.167274560Z",
+  "model": "glm-5.3"
+}

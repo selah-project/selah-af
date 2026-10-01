@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Want die Naam van Jahweh sal ek aanroep; gee grootheid aan ons Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek aanroep"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "grootheid"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "aan ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:43.042748138Z",
+  "model": "glm-5.3"
+}

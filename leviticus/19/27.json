@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Julle mag nie die rand van julle hoof rond sny nie, en jy mag die rand van jou baard nie beskadig nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "sal julle rond sny"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "van julle hoof"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "beskadig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rand van jou baard"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "die rand"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "van jou baard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:00.299793084Z",
+  "model": "glm-5.3"
+}

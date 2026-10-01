@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Julle wat Jahweh vrees, vertrou op Jahweh; hulle hulp en hulle skild ⟨is⟩ hy.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "Julle wat vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hulle hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hulle skild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:34.664002316Z",
+  "model": "glm-5.3"
+}

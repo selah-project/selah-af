@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Geslag na geslag ⟨is⟩ jou trou; jy het ⟨die⟩ aarde gevestig, en dit staan.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "geslag na"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "jou trou"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "het gevestig"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en dit staan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:22.365186814Z",
+  "model": "glm-5.3"
+}

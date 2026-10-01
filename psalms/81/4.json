@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Blaas ⟨die⟩ sjofar by die nuwemaan, by die volmaan, op die dag van ons fees.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "blaas"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "by die nuwemaan"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "die sjofar"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "by die volmaan"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "van ons fees"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.998492444Z",
+  "model": "glm-5.3"
+}

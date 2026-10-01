@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 39:37",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "⟨את⟩ die menora van suiwer goud, ⟨את⟩ haar lampe, die lampe van die ry-skikking, en ⟨את⟩ al haar gerei, en ⟨את⟩ die olie vir die lig;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die menora van suiwer goud"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "van suiwer goud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar lampe"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "haar lampe"
+    },
+    {
+      "surface": "נרת",
+      "gloss": "die lampe"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "van die ry-skikking"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al haar gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "haar gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die olie vir die lig"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "vir die lig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:16.060466159Z",
+  "model": "glm-5.3"
+}

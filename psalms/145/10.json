@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Jou werke almal sal jou loof, o Jahweh, en jou getroues sal jou seën.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sal jou loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jou werke"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "en jou getroues"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "sal jou seën"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:13.782270180Z",
+  "model": "glm-5.3"
+}

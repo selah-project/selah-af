@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 12:11",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die woorde van wysses ⟨is⟩ soos dorbe, en soos penne vasgeslaan — ⟨dié⟩ van meesters van versamelings; hulle is gegee deur een herder.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "die woorde van"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wysses"
+    },
+    {
+      "surface": "כדרבנות",
+      "gloss": "soos dorbe"
+    },
+    {
+      "surface": "וכמשמרות",
+      "gloss": "en soos penne"
+    },
+    {
+      "surface": "נטועים",
+      "gloss": "vasgeslaan (geplant)"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "meesters van"
+    },
+    {
+      "surface": "אספות",
+      "gloss": "versamelings"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "is gegee"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "deur 'n herder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:43.198128176Z",
+  "model": "glm-5.3"
+}

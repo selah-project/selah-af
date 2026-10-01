@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 4:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Maar nou dat dit ⟨oor⟩ jou kom, word jy moeg; dit tas tot by jou, en jy raak verskrik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨oor⟩ jou"
+    },
+    {
+      "surface": "ותלא",
+      "gloss": "word jy moeg"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "tas"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "tot by jou"
+    },
+    {
+      "surface": "ותבהל",
+      "gloss": "raak jy verskrik"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:03.916810675Z",
+  "model": "glm-5.3"
+}

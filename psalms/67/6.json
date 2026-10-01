@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Die volke loof U, Elohim; die volke loof U, hulle almal.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "loof U"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "loof U"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:45.586101232Z",
+  "model": "glm-5.3"
+}

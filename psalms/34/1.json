@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Van Dawid, toe hy sy gedrag verander het ⟨את⟩ voor Awimeleg, en hy hom weggejaag het en weggegaan het.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "toe hy verander het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy gedrag (טעמו)"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "sy gedrag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimeleg"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "en hy het hom weggejaag"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:29.477229422Z",
+  "model": "glm-5.3"
+}

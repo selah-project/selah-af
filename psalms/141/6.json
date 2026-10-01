@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Hulle rigters word neergewerp aan die kante van die rots, en hulle sal my woorde hoor, want hulle ⟨is⟩ aangenaam.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "word neergewerp"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "aan die kante van"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "die rots"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hulle rigters"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "aangenaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:28.580507839Z",
+  "model": "glm-5.3"
+}

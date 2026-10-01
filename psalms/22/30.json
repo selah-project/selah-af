@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Al die vettes van die aarde sal eet en aanbid; voor hom sal buig almal wat neerdaal na die stof, en selfs ⟨hy⟩ wie se siel nie lewe behou het nie.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en aanbid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "die vettes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "sal buig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "wat neerdaal"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "na die stof"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "en sy siel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lewe behou het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.639056365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Waarom sou ek vrees in dae van kwaad, wanneer ⟨die⟩ ongeregtigheid my op ⟨die⟩ hede omsingel?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "sou ek vrees"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in dae"
+    },
+    {
+      "surface": "רע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "עון",
+      "gloss": "wanneer ⟨die⟩ ongeregtigheid"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "my op ⟨die⟩ hede"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "omsingel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:33.220598180Z",
+  "model": "glm-5.3"
+}

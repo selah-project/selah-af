@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "U laat ons agteruit wyk voor ⟨die⟩ vyand, en ons haters plunder vir húlleself.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "laat U ons terugwyk"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agteruit"
+    },
+    {
+      "surface": "מני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "צר",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "en ons haters"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "plunder"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir húlleself"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:15.838913010Z",
+  "model": "glm-5.3"
+}

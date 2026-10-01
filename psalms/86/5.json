@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Want U, Adonai, is goed en vergewensgesind, en groot van gesed vir almal wat U aanroep.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "en vergewensgesind"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "van gesed"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir almal"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "wat U aanroep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.386883554Z",
+  "model": "glm-5.3"
+}

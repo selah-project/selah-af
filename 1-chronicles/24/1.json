@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En vir die seuns van Aharon ⟨was⟩ hulle afdelings: die seuns van Aharon ⟨was⟩ Nadab en Awihoe, Elazar en Itamar.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "en vir die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "hulle afdelings"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "en Awihoe"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "en Itamar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:52:19.905285757Z",
+  "model": "glm-5.3"
+}

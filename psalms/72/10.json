@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Die konings van Tarsjisj en ⟨die⟩ eilande sal ⟨את⟩ die minga terugbring; die konings van Sjeba en Sewa sal 'n geskenk naderbring.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "die konings van"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Tarsjisj"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "en ⟨die⟩ eilande"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "sal terugbring"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings van"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Sjeba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "en Sewa"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "'n geskenk"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sal naderbring"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:20.293660637Z",
+  "model": "glm-5.3"
+}

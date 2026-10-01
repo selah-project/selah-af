@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Sjaoel het geluister na die stem van Jehonatan, en Sjaoel het gesweer: So waar as Jahweh leef, hy sal nie gedood word nie.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het geluister"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "van Jehonatan"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "en hy het gesweer"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sal hy gedood word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:29.063004290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Elisa het vir hulle gesê: Dit is nie die pad nie, en dit is nie die stad nie; loop agter my aan, dan bring ek ⟨אתכם⟩ na die man wat julle soek. En hy het hulle gebring — ⟨אתם⟩ — Sjomeron toe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "die pad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "loop"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter my aan"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "dan bring ek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "julle soek"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "Sjomeron toe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:56.874202404Z",
+  "model": "glm-5.3"
+}

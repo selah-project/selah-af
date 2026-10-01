@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En nou sal ek haar skande ontbloot ⟨את⟩ voor die oë van haar minnaars, en geen man sal haar uit my hand red nie.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "sal ek ontbloot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar skande"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "haar skande"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor die oë"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "van haar minnaars"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en geen man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "sal haar red"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "uit my hand"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:24.538408221Z",
+  "model": "glm-5.3"
+}

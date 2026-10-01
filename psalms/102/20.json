@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Want ⟨hy⟩ het uitgekyk uit die hoogte van sy heiligdom — Jahweh, uit die hemele na die aarde het ⟨hy⟩ gekyk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "uitgekyk"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "uit die hoogte"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van sy heiligdom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uit die hemele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "gekyk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:34.201909182Z",
+  "model": "glm-5.3"
+}

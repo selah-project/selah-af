@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Julle mag nie agterna gaan aan gode van andere nie, van die gode van die volke wat rondom julle is nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "julle mag gaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agterna"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "van andere"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "van die gode"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "van die volke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "rondom julle is"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:36.491026044Z",
+  "model": "glm-5.3"
+}

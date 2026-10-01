@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 34:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Die aangesig van Jahweh ⟨is⟩ teen die daders van kwaad, om hulle gedagtenis van ⟨die⟩ aarde af te sny.",
+  "tokens": [
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "teen die daders"
+    },
+    {
+      "surface": "רע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "om te sny"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hulle gedagtenis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:30.890346104Z",
+  "model": "glm-5.3"
+}

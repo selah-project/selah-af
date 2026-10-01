@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ek het Jahweh gedurig voor my gestel; want aan my regterhand — ek sal beslis nie wankel nie.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ek het gestel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "aan my regterhand"
+    },
+    {
+      "surface": "בל",
+      "gloss": "beslis nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ek sal wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:29.475693657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En in Sjoesjan ⟨die⟩ burg het die Jehoedieters vyf honderd man gedood en vernietig.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "en in Sjoesjan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "die burg"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "het gedood"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jehoedieters"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "en vernietig"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:06.131939552Z",
+  "model": "glm-5.3"
+}

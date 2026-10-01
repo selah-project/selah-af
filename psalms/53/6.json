@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Daar het hulle verskrik van skrik — daar was geen skrik nie — want Elohim het die gebeente verstrooi van hom wat teen jou leër opslaan; jy het hulle beskaam gemaak, want Elohim het hulle verag.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "het hulle verskrik"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "van skrik"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "skrik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "het verstrooi"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "die gebeente"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "wat teen jou leër opslaan"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "jy het beskaam gemaak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "het hulle verag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.354345677Z",
+  "model": "glm-5.3"
+}

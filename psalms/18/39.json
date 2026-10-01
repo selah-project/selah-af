@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Ek vermaal hulle, en hulle kan nie opstaan nie; hulle val onder my voete.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "Ek vermaal hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kan hulle"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "hulle val"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:17.296786586Z",
+  "model": "glm-5.3"
+}

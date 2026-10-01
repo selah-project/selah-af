@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy het geroep tot Mosje, en Jahweh het met hom gespreek uit die tent van samekoms, en gesê:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en hy het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "uit die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:02.297993960Z",
+  "model": "glm-5.3"
+}

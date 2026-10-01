@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Ek gee jou 'n koning in my toorn, en ⟨ek neem hom weg⟩ in my grimmigheid.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "ek gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "in my toorn"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "en ek neem weg"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "in my grimmigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:04.726598934Z",
+  "model": "glm-5.3"
+}

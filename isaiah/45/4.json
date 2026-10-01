@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Ter wille van my dienaar Jaäkow, en Jisraël my uitverkorene, het ek jou by jou naam geroep, jou met 'n bynaam begaai, maar jy het my nie geken nie.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ter wille van"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "my uitverkorene"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "het ek geroep"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "by jou naam"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "jou met 'n bynaam begaai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "het jy my geken"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:57.963607562Z",
+  "model": "glm-5.3"
+}

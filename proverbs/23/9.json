@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "In die ore van 'n dwaas, spreek nie, want hy sal die insig van jou woorde verag.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "in die ore van"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "hy sal verag"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "die insig"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "van jou woorde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:59.936217487Z",
+  "model": "glm-5.3"
+}

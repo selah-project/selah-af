@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Jahweh, ek het die woning van u huis liefgehad, en die plek van die Misjkan van u eer.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ek het liefgehad"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "die woning"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van u huis"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "en die plek"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "van die Misjkan"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "van u eer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:31.737768327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "My siel bring Hy terug; Hy lei my in paaie van tsedek, ter wille van Sy Naam.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "bring Hy terug"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "lei Hy my"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "in paaie"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "van tsedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Sy Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:06.456368411Z",
+  "model": "glm-5.3"
+}

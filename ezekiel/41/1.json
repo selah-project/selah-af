@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En hy het my na die tempel gebring en ⟨את⟩ die stylepilers gemeet: ses el breed van hierdie kant af, en ses el breed van daardie kant af — die breedte van die tent.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "en hy het my gebring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "die tempel"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "en hy het gemeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stylepilers"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "die stylepilers"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breed"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "van hierdie kant af"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "breed"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "van daardie kant af"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "die breedte"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van die tent"
+    }
+  ],
+  "timestamp": "2026-09-30T22:57:05.158772894Z",
+  "model": "glm-5.3"
+}

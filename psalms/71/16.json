@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Ek sal kom in die kragdade van Adonai Jahweh; ek sal u tsedek gedenk, u alleen.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ek sal kom"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "in die kragdade"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "van Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ek sal gedenk"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "u alleen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:39.196711140Z",
+  "model": "glm-5.3"
+}

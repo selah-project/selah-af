@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Maar ek sal gedurig hoop, en ek sal byvoeg by al u lof.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "sal hoop"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "en ek sal byvoeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "u lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:39.196226681Z",
+  "model": "glm-5.3"
+}

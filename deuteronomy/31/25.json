@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Toe het Mosje ⟨את⟩ die Levi's bevel gegee, die draers van die ark van die verbond van Jahweh, en gesê:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het bevel gegee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Levi's"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Levi's"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "die draers van"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:52.068318322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en ⟨את⟩ Jeuts en ⟨את⟩ Sjagja en ⟨את⟩ Mirmah. Dit was sy seuns, hoofde van vaderhuise.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jeuts"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Jeuts"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjagja"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Sjagja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Mirmah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Mirmah"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofde"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "van vaderhuise"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:39.603876600Z",
+  "model": "glm-5.3"
+}

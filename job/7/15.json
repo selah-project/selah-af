@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 7:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "sodat my siel verwurging verkies, die dood bo my gebeente.",
+  "tokens": [
+    {
+      "surface": "ותבחר",
+      "gloss": "en verkies"
+    },
+    {
+      "surface": "מחנק",
+      "gloss": "verwurging"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "מעצמותי",
+      "gloss": "bo my gebeente"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:39.572712204Z",
+  "model": "glm-5.3"
+}

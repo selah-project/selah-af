@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die las wat Chabaqqoeq die profeet gesien het.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "die las"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Chabaqqoeq"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:30.947854173Z",
+  "model": "glm-5.3"
+}

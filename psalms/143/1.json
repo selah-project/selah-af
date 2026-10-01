@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Van Dawid. Jahweh, hoor my gebed, luister na my smeekbede; in u trou antwoord my, in u tsedek.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n maskiel-psalm is hier מזמור: 'n lied met snarspel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "my smeekbede"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "in u trou"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in u tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.553048779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Omdat hy nie onthou het om gesed te doen nie, maar 'n man, 'n ellendige, en 'n behoeftige, en 'n verslane van hart, agtervolg het om te dood.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "onthou het"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "maar agtervolg het"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "עני",
+      "gloss": "'n ellendige"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en 'n behoeftige"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "en 'n verslane"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "om te dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.854316967Z",
+  "model": "glm-5.3"
+}

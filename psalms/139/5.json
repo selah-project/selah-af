@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Agter en voor het U my omring, en U het U handpalm op my gelê.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "agter"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "het U my omring"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "en U het gelê"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "U handpalm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:09.976167249Z",
+  "model": "glm-5.3"
+}

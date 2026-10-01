@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 13:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Toe sê Awraham vir Lot: mag daar tog nie twis wees tussen my en tussen u, en tussen my herders en tussen u herders nie, want ons ⟨is⟩ manne, broers ⟨is⟩ ons.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Toe sê"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag daar nie"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "twis"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "וביניך",
+      "gloss": "en tussen u"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "my herders"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "u herders"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:22.103612417Z",
+  "model": "glm-5.3"
+}

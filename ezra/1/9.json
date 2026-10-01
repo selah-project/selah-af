@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 1:9",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit is hulle getal: goud-skottels dertig, silwer-skottels duisend, messelaasmesse nege en twintig.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "מספרם",
+      "gloss": "is hulle getal"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "skottels"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אגרטלי",
+      "gloss": "skottels"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "מחלפים",
+      "gloss": "messelaasmesse"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "nege"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:30.592857168Z",
+  "model": "glm-5.3"
+}

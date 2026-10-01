@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Verhef U voetstappe na die ewige puinhope — alles wat die vyand kwaad gedoen het in die heiligdom.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "Verhef"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "U voetstappe"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "na die puinhope"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "kwaad gedoen"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.553846581Z",
+  "model": "glm-5.3"
+}

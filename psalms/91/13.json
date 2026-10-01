@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Op leeu en adder sal jy trap; jongleeu en slang sal jy vertrap.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "leeu"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "en adder"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "sal jy trap"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "sal jy vertrap"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "jongleeu"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "en slang"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:37.148464759Z",
+  "model": "glm-5.3"
+}

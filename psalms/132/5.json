@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "totdat ek 'n plek vind vir Jahweh, wonings vir die Magtige Een van Jaäkow.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ek vind"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "wonings"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "vir die Magtige Een"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:07.603982145Z",
+  "model": "glm-5.3"
+}

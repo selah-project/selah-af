@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Die stem van Jahweh kerf vlamme van vuur uit.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "kerf ... uit"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "vlamme"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:38.229254964Z",
+  "model": "glm-5.3"
+}

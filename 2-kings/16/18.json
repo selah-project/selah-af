@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 16:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En ⟨את⟩ die Sjabbat-afdak wat hulle in die huis gebou het, en ⟨את⟩ die ingang van die koning van buite, het hy weggedraai van die huis van Jahweh weens die koning van Assur.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Sjabbat-afdak"
+    },
+    {
+      "surface": "מיסך",
+      "gloss": "die afdak"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Sjabbat-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "gebou het"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ingang van die koning"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "החיצונה",
+      "gloss": "van buite"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "weggedraai"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "weens"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:44.728077402Z",
+  "model": "glm-5.3"
+}

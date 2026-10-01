@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ hulle gegee in ⟨את⟩ die uitspansel van die hemel om te lig gee oor die aarde",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "in die uitspansel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "om te lig gee"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:28.638387622Z",
+  "model": "glm-5.3"
+}

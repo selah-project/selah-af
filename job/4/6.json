@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "⟨Is⟩ jou ontwyding nie jou vertroue, jou verwagting en die onberispelikheid van jou paaie nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "⟨Is⟩ ... nie"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "jou ontwyding"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "jou vertroue"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "jou verwagting"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "onberispelikheid"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "van jou paaie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:03.917196928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 12:25",
+  "book": "job",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hulle tas in ⟨die⟩ duisternis en nie ⟨in⟩ lig nie, en hy laat hulle wankel soos 'n dronkaard.",
+  "tokens": [
+    {
+      "surface": "ימששו",
+      "gloss": "tas"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "ויתעם",
+      "gloss": "en laat hulle wankel"
+    },
+    {
+      "surface": "כשכור",
+      "gloss": "soos 'n dronkaard"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:59.839031888Z",
+  "model": "glm-5.3"
+}

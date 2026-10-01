@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Jahweh, red my siel van geliegde lippe, van 'n tong van bedrog.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "red"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "van lippe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuen"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "van 'n tong"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.205649393Z",
+  "model": "glm-5.3"
+}

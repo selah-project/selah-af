@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ek het vir my tuine en parktuine gemaak, en ek het daarin bome van allerhande vrug geplant.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ek het gemaak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "tuine"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "en parktuine"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "en ek het geplant"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bome"
+    },
+    {
+      "surface": "כל",
+      "gloss": "allerhande"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrug"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:30.565707573Z",
+  "model": "glm-5.3"
+}

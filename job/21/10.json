@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 21:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Sy bul dek en word nie afgestoot nie; sy koei laat ⟨die kalf⟩ veilig glip uit en verloor nie haar kalf nie.",
+  "tokens": [
+    {
+      "surface": "שורו",
+      "gloss": "sy bul"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יגעל",
+      "gloss": "afgestoot word"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "laat veilig glip uit"
+    },
+    {
+      "surface": "פרתו",
+      "gloss": "sy koei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "haar kalf verloor"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:48.269708112Z",
+  "model": "glm-5.3"
+}

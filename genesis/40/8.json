@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hulle het vir hom gesê: Ons het 'n droom gedroom, maar daar is niemand wat ⟨את⟩ hom uitlê nie. En Josef het vir hulle gesê: Behoort uitleggings nie aan Elohim nie? Vertel dit tog vir my.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "'n droom"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "het ons gedroom"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "wat uitlê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom (die droom)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "behoort ... nie"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "uitleggings"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:37.283825924Z",
+  "model": "glm-5.3"
+}

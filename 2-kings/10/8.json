@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die bode het gekom en dit aan hom meegedeel om te sê: Hulle het die hoofde van die seuns van die koning gebring. En hy het gesê: Sit ⟨את⟩ hulle in twee hope by die ingang van die poort tot die oggend.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en het gekom"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die bode"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en meegedeel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "hulle het gebring"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die hoofde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "sit"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "hope"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "השער",
+      "gloss": "van die poort"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die oggend"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:27.626168769Z",
+  "model": "glm-5.3"
+}

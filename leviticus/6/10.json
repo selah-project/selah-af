@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Nie gebak met suurdeeg nie — hulle deel het ek ⟨את⟩ gegee van my vuuroffers; heilig van heiliges ⟨is⟩ dit, soos die sondoffer en soos die skuldoffer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "gebak word"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "met suurdeeg"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "hulle deel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "van my vuuroffers"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van heiliges"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ dit"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "soos die sondoffer"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "en soos die skuldoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:17.243890002Z",
+  "model": "glm-5.3"
+}

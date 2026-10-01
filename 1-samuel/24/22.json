@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En nou, sweer my by Jahweh: as jy ⟨את⟩ my nageslag na my uitroei, en as jy ⟨את⟩ my naam uit die huis van my vader verdelg.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "sweer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "jy uitroei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my nageslag"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "my nageslag"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "jy verdelg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my naam"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van my vader"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:33.647211861Z",
+  "model": "glm-5.3"
+}

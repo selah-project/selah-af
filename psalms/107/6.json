@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Toe skreeu hulle na Jahweh in hulle benoudheid, en uit hulle benoudhede red hy hulle.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "toe skreeu hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in benoudheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "uit hulle benoudhede"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "red hy hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:33.437358938Z",
+  "model": "glm-5.3"
+}

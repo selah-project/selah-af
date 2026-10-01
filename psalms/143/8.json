@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 143:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Laat my in die môre u gesed hoor, want op U het ek vertrou; laat my die weg ken waarlangs ek sal gaan, want tot U het ek my siel opgehef.",
+  "tokens": [
+    {
+      "surface": "השמיעני",
+      "gloss": "laat my hoor"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek vertrou"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "laat my ken"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ek sal gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "het ek opgehef"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.335109288Z",
+  "model": "glm-5.3"
+}

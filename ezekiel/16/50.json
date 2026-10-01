@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezekiel 16:50",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hulle het hoogmoedig geword en gruwel gedoen voor my aangesig, en Ek het ⟨את⟩ hulle weggeruim soos Ek gesien het.",
+  "tokens": [
+    {
+      "surface": "ותגבהינה",
+      "gloss": "en hulle het hoogmoedig geword"
+    },
+    {
+      "surface": "ותעשינה",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gruwel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor my aangesig"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "en Ek het weggeruim"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (Sedom en haar dogters)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ek gesien het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:31.865141024Z",
+  "model": "glm-5.3"
+}

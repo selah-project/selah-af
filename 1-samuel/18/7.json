@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 18:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die vroue wat gespeel het, het mekaar beantwoord en gesê: Sjaoel het geslaan in sy duisende, en Dawid in sy tienduisende.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "en hulle het mekaar beantwoord"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die vroue"
+    },
+    {
+      "surface": "המשחקות",
+      "gloss": "wat gespeel het"
+    },
+    {
+      "surface": "ותאמרן",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "hy het geslaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "באלפו",
+      "gloss": "in sy duisende"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "en Dawid"
+    },
+    {
+      "surface": "ברבבתיו",
+      "gloss": "in sy tienduisende"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:31.934630442Z",
+  "model": "glm-5.3"
+}

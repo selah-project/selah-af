@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 23:4",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En soos die lig van die môre, as die son opgaan — 'n môre sonder wolke — uit die glans, uit die reën: jong gras uit die aarde.",
+  "tokens": [
+    {
+      "surface": "וכאור",
+      "gloss": "En soos die lig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van die môre"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "as … opgaan"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "'n môre"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "wolke"
+    },
+    {
+      "surface": "מנגה",
+      "gloss": "uit die glans"
+    },
+    {
+      "surface": "ממטר",
+      "gloss": "uit die reën"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "jong gras"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:24.314727759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en die pelikaan, en ⟨את⟩ die aasvoël, en ⟨את⟩ die kormorant",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "en die pelikaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die aasvoël"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "die aasvoël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kormorant"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "die kormorant"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:43.178736324Z",
+  "model": "glm-5.3"
+}

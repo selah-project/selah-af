@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 22:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Is jou kwaad nie groot nie, en ⟨is daar⟩ geen einde aan jou oortredings nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is nie"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "jou kwaad"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "einde"
+    },
+    {
+      "surface": "לעונתיך",
+      "gloss": "aan jou oortredings"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:40.316501887Z",
+  "model": "glm-5.3"
+}

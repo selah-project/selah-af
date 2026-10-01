@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 124:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 124,
+  "translation": "toe sou hulle ons lewend gesluk het, toe hulle toorn teen ons ontvlam ⟨het⟩ —",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "toe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewend"
+    },
+    {
+      "surface": "בלעונו",
+      "gloss": "sou ons gesluk het"
+    },
+    {
+      "surface": "בחרות",
+      "gloss": "in die ontvlam van"
+    },
+    {
+      "surface": "אפם",
+      "gloss": "hulle toorn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "teen ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:16.493011032Z",
+  "model": "glm-5.3"
+}

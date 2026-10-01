@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Van die oudstes af verstaan ek meer, want jou foekoedim het ek bewaar.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Van die oudstes af"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "verstaan ek meer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jou foekoedim"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "het ek bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:25.755035364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 27:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Een ding het ek van ⟨את⟩ Jahweh gevra — ⟨את⟩ dit soek ek: om te woon in die huis van Jahweh al die dae van my lewe, om die welgevalligheid van Jahweh aan te skou en om te ondersoek in sy paleis.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Een ding"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "het ek gevra"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "om te woon in die huis van Jahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "soek ek"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "van my lewe"
+    },
+    {
+      "surface": "לחזות",
+      "gloss": "om aan te skou"
+    },
+    {
+      "surface": "בנעם",
+      "gloss": "die welgevalligheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולבקר",
+      "gloss": "en om te ondersoek"
+    },
+    {
+      "surface": "בהיכלו",
+      "gloss": "in sy paleis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:00.807808009Z",
+  "model": "glm-5.3"
+}

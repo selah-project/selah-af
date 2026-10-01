@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Hy bewaar al sy bene; nie een van hulle word gebreek nie.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "sy bene"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "word gebreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:11.282993370Z",
+  "model": "glm-5.3"
+}

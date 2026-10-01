@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Ek — tot Elohim sal ek roep, en Jahweh sal my red.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek roep"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "sal my red"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:05.362043469Z",
+  "model": "glm-5.3"
+}

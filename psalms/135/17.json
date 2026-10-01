@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Ore het hulle, maar hulle luister nie; ook is daar geen roeag in hulle mond nie.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "ore"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "hulle luister"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "יש",
+      "gloss": ""
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in hulle mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:22.306859237Z",
+  "model": "glm-5.3"
+}

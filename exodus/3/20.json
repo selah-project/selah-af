@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Ek sal my hand ⟨את⟩ uitstrek en Mitsrajim ⟨את⟩ slaan met al my wonders wat Ek in sy midde sal doen, en daarna sal hy julle ⟨את⟩ wegstuur.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En Ek sal uitstrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "en Ek sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "my wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "Ek sal doen"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sy midde"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "sal hy wegstuur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:47.021044593Z",
+  "model": "glm-5.3"
+}

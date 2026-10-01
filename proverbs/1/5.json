@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "'n Wyse ⟨sal⟩ hoor en onderrig vermeerder, en 'n verstandige ⟨sal⟩ stywering verkry.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "sal hoor"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "'n wyse"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en vermeerder"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "onderrig"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "en 'n verstandige"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "stywering"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "verkry"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:33.930283890Z",
+  "model": "glm-5.3"
+}

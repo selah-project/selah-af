@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "dan sal ek self my aangesig ⟨את⟩ wend teen daardie man en teen sy familie, en ek sal hom uitroei en ⟨את⟩ almal wat agter hom aan hoereer om agter die Moleg aan te hoereer, uit die middel van hulle volk.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "dan sal ek … wend"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek self"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my aangesig"
+    },
+    {
+      "surface": "פני",
+      "gloss": "aangesig"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "teen daardie man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "en teen sy familie"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en ek sal uitroei"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "almal"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "wat hoereer"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom aan"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "om aan te hoereer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die Moleg"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "uit die middel van"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "hulle volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:17.738356740Z",
+  "model": "glm-5.3"
+}

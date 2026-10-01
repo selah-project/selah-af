@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 51:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Dan sal ⟨jy⟩ weldra die slagoffers van tsedek verheug, olá en kalieel; dan sal hulle jongbulle op jou altaar laat opgaan.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "sal verheug"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "slagoffers"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "olá"
+    },
+    {
+      "surface": "וכליל",
+      "gloss": "en kalieel"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "sal laat opgaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "jou altaar"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jongbulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:18.797065254Z",
+  "model": "glm-5.3"
+}

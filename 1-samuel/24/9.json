@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 24:9",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Dawid het daarna opgestaan en uit die grot uitgegaan en agter Sjawl geroep, om te sê: my heer, die koning! En toe Sjawl agter hom kyk, het Dawid met sy gesig na die aarde gebuig en hom neergebuig.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "die grot"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "het geroep"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjawl"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויבט",
+      "gloss": "het gekyk"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjawl"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "het gebuig"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "met sy gesig"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na die aarde"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "hom neergebuig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:51.895979435Z",
+  "model": "glm-5.3"
+}

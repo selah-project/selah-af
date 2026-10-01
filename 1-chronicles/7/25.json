@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Refag sy seun, en Resjef, en Telag sy seun, en Tagan sy seun.",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "En Refag"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "en Resjef"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "en Telag"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "en Tagan"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:46:01.177502106Z",
+  "model": "glm-5.3"
+}

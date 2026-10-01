@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Jahweh, red tog! Die koning antwoord ons op die dag wat ons roep.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "red tog"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "antwoord ons"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "wat ons roep"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:05.881530763Z",
+  "model": "glm-5.3"
+}

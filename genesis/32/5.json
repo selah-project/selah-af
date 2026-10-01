@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 32:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En hy het hulle ⟨את⟩ beveel om te sê: So moet julle sê tot my heer, tot Esav: So sê jou dienaar Jaäkow: By Lawan het ek as vreemdeling gebly, en ek het vertoef tot nou toe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het beveel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאמרון",
+      "gloss": "moet julle sê"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "tot my heer"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "tot Esav"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienaar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "het ek as vreemdeling gebly"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en ek het vertoef"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:23.637637516Z",
+  "model": "glm-5.3"
+}

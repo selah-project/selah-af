@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 21:23",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "mag sy lyk nie op die boom oornag nie, want begrawe moet jy hom begrawe op daardie dag, want 'n vloek van Elohim ⟨is⟩ die gehangede; en jy mag nie ⟨את⟩ jou grond onrein maak nie, wat Jahweh jou Elohim aan jou as erfdeel gee.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "mag oornag"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "sy lyk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "begrawe"
+    },
+    {
+      "surface": "תקברנו",
+      "gloss": "moet jy hom begrawe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "vloek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "die gehangede"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "mag jy onrein maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou grond"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "jou grond"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "as erfdeel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:25.607032312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Mag hulle weg duisternis wees en glibberigheid, en 'n boodskapper van Jahweh wat hulle agtervolg.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hulle weg"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "en glibberigheid"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "en 'n boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "wat hulle agtervolg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:31.265451774Z",
+  "model": "glm-5.3"
+}

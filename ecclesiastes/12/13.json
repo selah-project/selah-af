@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die einde van die saak, nadat alles gehoor is: vrees ⟨את⟩ die Elohim en hou ⟨את⟩ sy gebooie, want dit is die geheel van die mens.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van die saak"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "gehoor is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebooie"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "sy gebooie"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "hou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die geheel"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:03.575290867Z",
+  "model": "glm-5.3"
+}

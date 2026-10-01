@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 86:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": " Leer my, Jahweh, U weg; ek sal wandel in U trou; maak my hart een om U naam te vrees.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Leer my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "U weg"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ek sal wandel"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "in U trou"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "maak een"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "om te vrees"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "U naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.431993075Z",
+  "model": "glm-5.3"
+}

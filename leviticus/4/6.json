@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die priester sal ⟨את⟩ sy vinger in die bloed doop en van die bloed sewe keer voor Jahweh spatsel, voor ⟨את⟩ die voorkant van die voorhangsel van die heiligdom.",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "en sal doop"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vinger"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sy vinger"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "in die bloed"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "en spatsel"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ voor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die voorkant"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "van die voorhangsel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:53.107943546Z",
+  "model": "glm-5.3"
+}

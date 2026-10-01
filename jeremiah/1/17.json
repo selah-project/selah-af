@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 1:17",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En jy — omgord jou heupe, en staan op, en spreek tot hulle ⟨את⟩ alles wat ek jou beveel; moenie voor hulle verskrik nie, anders verskrik ek jou voor hulle.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "תאזר",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "jou heupe"
+    },
+    {
+      "surface": "וקמת",
+      "gloss": "en staan op"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "tot hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "verskrik"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "אחתך",
+      "gloss": "verskrik ek jou"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:15.534266912Z",
+  "model": "glm-5.3"
+}

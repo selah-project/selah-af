@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 12:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "want Jahweh sal ⟨את⟩ sy volk nie verlaat nie ter wille van sy groot Naam, want dit het Jahweh behaag om julle ⟨את⟩ vir Hom tot 'n volk te maak.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy Naam"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "behaag het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "tot 'n volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:11.814647246Z",
+  "model": "glm-5.3"
+}

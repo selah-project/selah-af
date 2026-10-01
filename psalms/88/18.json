@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Hulle het my die hele dag soos water omring; saam het hulle my omsingel.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "hulle het my omring"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos water"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "hulle het omsingel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "my"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:11.952812551Z",
+  "model": "glm-5.3"
+}

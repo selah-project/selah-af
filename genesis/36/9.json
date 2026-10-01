@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En dit is die afstammelinge van Esaw, die vader van ⟨die⟩ Edom, in die berg Seïr.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "die afstammelinge"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esaw"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:57.572370485Z",
+  "model": "glm-5.3"
+}

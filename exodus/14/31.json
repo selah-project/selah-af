@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 14:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Jisraël het die groot hand ⟨את⟩ gesien wat Jahweh in Mitsrajim gedoen het, en die volk het Jahweh ⟨את]] gevrees, en hulle het in Jahweh geglo en in Mosje, sy dienaar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die groot hand"
+    },
+    {
+      "surface": "היד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en het gevrees"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמינו",
+      "gloss": "en het geglo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "ובמשה",
+      "gloss": "en in Mosje"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy dienaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:30.981852007Z",
+  "model": "glm-5.3"
+}

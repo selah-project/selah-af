@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "En hy het rus gesien dat dit goed is, en ⟨את⟩ die land dat dit aangenaam is; en hy het sy skouer gebuig om te dra, en het 'n kneg van belasting geword.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "rus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dit goed is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "dit aangenaam is"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en hy het gebuig"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "sy skouer"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "om te dra"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hy het geword"
+    },
+    {
+      "surface": "למס",
+      "gloss": "van belasting"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n kneg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:43.718837999Z",
+  "model": "glm-5.3"
+}

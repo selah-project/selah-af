@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Ek neig my oor na 'n masjal; ek open met die kinor my raaisel.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "Ek neig"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "na 'n masjal"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "my oor"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ek open"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met die kinor"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "my raaisel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:33.220309293Z",
+  "model": "glm-5.3"
+}

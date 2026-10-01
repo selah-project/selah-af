@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hy stuur sy woord en genees hulle, en Hy red hulle uit hulle verwoestinge.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Hy stuur"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "en genees hulle"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "en Hy red"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "hulle uit hulle verwoestinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.162996773Z",
+  "model": "glm-5.3"
+}

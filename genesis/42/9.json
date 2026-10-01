@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 42:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Josef het ⟨את⟩ die drome onthou wat hy oor hulle gedroom het, en hy het vir hulle gesê: Spioene is julle; om ⟨את⟩ die naaktheid van die land te sien, het julle gekom.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "het onthou"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die drome"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "die drome"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "gedroom het"
+    },
+    {
+      "surface": "להם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "is julle"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naaktheid van die land"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "het julle gekom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:21.649610611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 14:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Dawid het aan Elohim gevra en gesê: Moet ek optrek teen die Filistyne, en sal U hulle in my hand gee? En Jahweh het vir hom gesê: Trek op, en Ek sal hulle in jou hand gee.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "En ... het gevra"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "האעלה",
+      "gloss": "Moet ek optrek"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "פלשתיים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "en sal U hulle gee"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in my hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Trek op"
+    },
+    {
+      "surface": "ונתתים",
+      "gloss": "en Ek sal hulle gee"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:36.445539924Z",
+  "model": "glm-5.3"
+}

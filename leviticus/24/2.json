@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 24:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Befieël ⟨את⟩ die kinders van Jisraël, en hulle moet na jou toe bring olyfolie, suiwer, gestamp, vir die lamp, om 'n lig gedurig te laat opgaan.",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Befieël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle moet bring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou toe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "זית",
+      "gloss": "olyf-"
+    },
+    {
+      "surface": "זך",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "gestamp"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "vir die lamp"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "om te laat opgaan"
+    },
+    {
+      "surface": "נר",
+      "gloss": "'n lig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:02.382625387Z",
+  "model": "glm-5.3"
+}

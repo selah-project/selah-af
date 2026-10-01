@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "'n Put het hy gegrawe en dit uitgegrawe, en hy het geval in ⟨die sloot⟩ wat hy gemaak het.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "'n put"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "het gegrawe"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "en dit uitgegrawe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hy het geval"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "in die sloot"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "het hy gemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:11.937227095Z",
+  "model": "glm-5.3"
+}

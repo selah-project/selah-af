@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 105:41",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het die rots geopen, en waters het uitgestort; hulle het in die droë plekke soos 'n rivier geloop.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "geopen het"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "en uitgestort"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hulle het geloop"
+    },
+    {
+      "surface": "בציות",
+      "gloss": "in die droë plekke"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "'n rivier"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:59.099793607Z",
+  "model": "glm-5.3"
+}

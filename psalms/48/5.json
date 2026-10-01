@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Want kyk, die konings het hulle versamel, hulle het saam deurgegaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "het hulle versamel"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "het deurgegaan"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.842109500Z",
+  "model": "glm-5.3"
+}

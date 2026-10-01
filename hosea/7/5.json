@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Die dag van ons koning — die vorste het siek geword van die gloed van wyn; hy het sy hand uitgestrek teen ⟨את⟩ die spotters.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "van ons koning"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "het siek geword"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "die vorste"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "die gloed"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "van wyn"
+    },
+    {
+      "surface": "משך",
+      "gloss": "het uitgestrek"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die spotters"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "die spotters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:46.762112279Z",
+  "model": "glm-5.3"
+}

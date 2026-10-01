@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 37:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En 'n man het hom gevind, en kyk, hy was verdwaal in die veld; en die man het hom gevra en gesê: wat soek jy?",
+  "tokens": [
+    {
+      "surface": "וימצאהו",
+      "gloss": "het hom gevind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "verdwaal"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "וישאלהו",
+      "gloss": "het hom gevra"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "soek jy"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:32.789195333Z",
+  "model": "glm-5.3"
+}

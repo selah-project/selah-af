@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Aand en oggend en middag sal ek kla en murmureer, en hy het my stem gehoor.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Aand"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en oggend"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "en middag"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "sal ek kla"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "en murmureer"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het gehoor"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:05.362380830Z",
+  "model": "glm-5.3"
+}

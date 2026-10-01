@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En by die vrou van jou naaste mag jy jou bedding van saad nie gee om onrein te word daarmee nie.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "mag jy gee"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "jou bedding"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "van saad"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "om onrein te word"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarmee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:56.660835239Z",
+  "model": "glm-5.3"
+}

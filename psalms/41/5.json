@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Ek het gesê: Jahweh, wees my genadig, heel my siel, want ek het teen jou gesondig.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "heel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "het gesondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:59.377545355Z",
+  "model": "glm-5.3"
+}

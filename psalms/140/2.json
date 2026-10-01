@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Ruk my weg, Jahweh, van 'n slegte mens; van 'n man van geweld hou U my bewaak.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "ruk my weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van 'n mens"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "hou U my bewaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:24.268569249Z",
+  "model": "glm-5.3"
+}

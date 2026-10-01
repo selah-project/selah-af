@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Want myne ⟨is⟩ al die diere van die woud, die vee op berge — duisend.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "myne ⟨is⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van die woud"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "op berge"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.392614257Z",
+  "model": "glm-5.3"
+}

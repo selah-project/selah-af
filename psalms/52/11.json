@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Ek sal U loof tot in ewigheid, omdat U dit gedoen het; en ek wag op U naam, want dit is goed voor U getroues.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ek sal U loof"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "U gedoen het"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "en ek wag"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "op U naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dit is goed"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "U getroues"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:25.766614373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Gaan en sê aan my dienaar, aan Dawid: so sê Jahweh: ⟨is dit⟩ jy wat vir My 'n huis sal bou om in te woon?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "⟨is dit⟩ jy"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "sal bou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "בית",
+      "gloss": "'n huis"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "om in te woon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:02.511090686Z",
+  "model": "glm-5.3"
+}

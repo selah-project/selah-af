@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "hy sal drink en sy armoede vergeet, en sy moeite sal hy nie meer onthou nie",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "hy sal drink"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "en vergeet"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "sy armoede"
+    },
+    {
+      "surface": "ויעמלו",
+      "gloss": "en sy moeite"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:16.158040738Z",
+  "model": "glm-5.3"
+}

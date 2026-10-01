@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Elohim, breek hulle tande in hulle mond; die kiestande van jong leeus, skeur uit, Jahweh!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "breek"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "hulle tande"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "in hulle mond"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "die kiestande"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "van jong leeus"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "skeur uit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.896766935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En die oë van siendes sal nie duister word nie, en die ore van hoorders sal toeluister.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "sal duister word"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "die oë van"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "siendes"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "en die ore van"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "hoorders"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "sal toeluister"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:06.516083829Z",
+  "model": "glm-5.3"
+}

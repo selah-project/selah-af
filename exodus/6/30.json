@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Mosje het gesê voor die aangesig van Jahweh: Kyk, ek ⟨is⟩ onbesnede van lippe, en hoe sal Paro na my luister?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... het gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "onbesnede"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "van lippe"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sal ... luister"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:42.157843980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Strek u hande uit uit die hoogte; red my, en bevry my uit groot waters, uit die hand van seuns van ⟨die⟩ vreemde.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "strek uit"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "u hande"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "uit die hoogte"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "en bevry my"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "uit waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "groot\/ baie"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "⟨die⟩ vreemde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.225734762Z",
+  "model": "glm-5.3"
+}

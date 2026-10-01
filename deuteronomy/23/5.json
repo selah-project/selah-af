@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 23:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "weens die saak dat hulle julle nie met brood en met water tegemoet gekom het op die pad toe julle uit Mitsrajim getrek het nie, en omdat hulle teen jou ⟨את⟩ Bilam, seun van Beor, van Petor van Aram Naharajim, gehuur het om jou te vloek.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "weens"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קדמו",
+      "gloss": "tegemoet gekom het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "בלחם",
+      "gloss": "met brood"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "en met water"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "toe julle uitgetrek het"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en omdat"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "gehuur het"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilam"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Beor"
+    },
+    {
+      "surface": "מפתור",
+      "gloss": "van Petor"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "לקללך",
+      "gloss": "om jou te vloek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:02.237306712Z",
+  "model": "glm-5.3"
+}

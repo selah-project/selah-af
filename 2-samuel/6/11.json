@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die ark van Jahweh het gebly in die huis van Obed-Edom die Gittiet drie maande; en Jahweh het ⟨את⟩ Obed-Edom geseën en ⟨את⟩ sy hele huis.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "en het gebly"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "die Gittiet"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "maande"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en het geseën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed-Edom"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Obed"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy hele huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:04.117817626Z",
+  "model": "glm-5.3"
+}

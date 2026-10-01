@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "As jy gaan lê, sal jy nie skrik nie, en jy sal gelê hê en jou slaap sal soet wees",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "jy gaan lê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "sal jy skrik"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "en jy sal gelê hê"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "en sal soet wees"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "jou slaap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:55.250088257Z",
+  "model": "glm-5.3"
+}

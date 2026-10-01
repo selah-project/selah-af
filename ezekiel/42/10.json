@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "In die breedte van die muur van die voorhof, aan die kant van die ooste, teenoor die afgesonderde plek en teenoor die gebou, was kamers.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "in die breedte"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "van die muur"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die voorhof"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "aan die kant van"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "die ooste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die voorkant van"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "die afgesonderde plek"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en teenoor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die voorkant van"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "die gebou"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "kamers"
+    }
+  ],
+  "timestamp": "2026-09-30T22:56:32.756437494Z",
+  "model": "glm-5.3"
+}

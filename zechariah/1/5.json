@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Julle vaders — waar is hulle? En die profete — sal hulle vir ewig lewe?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "jou vaders"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "is hulle"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "en die profete"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "sal lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:13.224093249Z",
+  "model": "glm-5.3"
+}

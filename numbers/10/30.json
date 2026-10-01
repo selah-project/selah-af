@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hy het vir hom gesê: Ek sal nie gaan nie, maar na my land en na my geboortegrond sal ek gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal ek gaan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "my geboortegrond"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal ek gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:34.825501751Z",
+  "model": "glm-5.3"
+}

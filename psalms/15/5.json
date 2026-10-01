@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 15:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Sy silwer het hy nie teen woeker gegee nie, en 'n omkoopgeskenk teen ⟨die⟩ onskuldige het hy nie geneem nie — hy wat hierdie dinge doen, sal nooit wankel nie, tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "כספו",
+      "gloss": "sy silwer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "teen woeker"
+    },
+    {
+      "surface": "ושחד",
+      "gloss": "en 'n omkoopgeskenk"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "onskuldige"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "geneem"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sal wankel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:09.358779342Z",
+  "model": "glm-5.3"
+}

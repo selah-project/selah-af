@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 14:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het gesê tot die hele Gemeinde van die seuns van Jisraël, en gesê: Die land wat ons deurgetrek het om ⟨את⟩ dit te verken, ⟨is⟩ 'n land wat baie, baie goed is.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "Gemeente"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "ons deurgetrek het"
+    },
+    {
+      "surface": "בה",
+      "gloss": "deur dit"
+    },
+    {
+      "surface": "לתור",
+      "gloss": "om te verken"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die land)"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:14.005605590Z",
+  "model": "glm-5.3"
+}

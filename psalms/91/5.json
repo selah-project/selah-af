@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Jy sal nie vrees vir die skrik van die nag nie, vir die pyl wat bedags vlieg nie;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sal jy vrees"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "vir die skrik"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "van die nag"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "vir die pyl"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "wat vlieg"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:39.667598846Z",
+  "model": "glm-5.3"
+}

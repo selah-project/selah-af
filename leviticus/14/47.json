@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy wat in die huis slaap, moet ⟨את⟩ sy klere was; en hy wat in die huis eet, moet ⟨את⟩ sy klere was.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "en hy wat slaap"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "moet was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "en hy wat eet"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "moet was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:25.690663681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En hy het ⟨את⟩ die vyf gordyne afsonderlik verbind, en ⟨את⟩ die ses gordyne afsonderlik.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "en hy het verbind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vyf gordyne"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gordyne"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afsonderlik"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ses gordyne"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "gordyne"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afsonderlik"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:06.091046161Z",
+  "model": "glm-5.3"
+}

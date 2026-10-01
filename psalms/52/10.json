@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Maar ek ⟨is⟩ soos 'n groen olyfboom in die huis van Elohim; ek vertrou op die gesed van Elohim tot in ewigheid en altyd.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Maar ek"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "soos 'n olyfboom"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "groen"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "vertrou ek"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "op die gesed"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:25.766425926Z",
+  "model": "glm-5.3"
+}

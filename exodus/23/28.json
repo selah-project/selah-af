@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Ek sal ⟨את⟩ die horingvoor voor jou uit stuur, en ⟨dit⟩ sal ⟨את⟩ die Giwiet, ⟨את⟩ die Kanaäniet en ⟨את⟩ die Chitet voor jou uit verdrywe.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en Ek sal stuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die horingvoor"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "die horingvoor"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou uit"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "en sal verdrywe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Giwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Giwiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Chitet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Chitet"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "voor jou uit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:29.317459915Z",
+  "model": "glm-5.3"
+}

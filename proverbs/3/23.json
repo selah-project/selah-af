@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Dan sal jy veilig jou weg loop, en jou voet sal nie stamp nie",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sal jy loop"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "jou weg"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "en jou voet"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "sal stamp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:55.249762771Z",
+  "model": "glm-5.3"
+}

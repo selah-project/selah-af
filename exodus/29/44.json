@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Ek sal ⟨את⟩ die tent van samekoms heilig en ⟨את⟩ die altaar; en ⟨את⟩ Aharon en ⟨את⟩ sy seuns sal Ek heilig om vir My priesters te wees.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "En Ek sal heilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tent van samekoms"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "sal Ek heilig"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om priesters"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:37.143688852Z",
+  "model": "glm-5.3"
+}

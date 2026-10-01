@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "U het U regterhand uitgestrek, die aarde het hulle gesluck.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "U het uitgestrek"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "U regterhand"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "het hulle gesluck"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:07.697708582Z",
+  "model": "glm-5.3"
+}

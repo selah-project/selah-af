@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die begeerte van sy hart het U hom gegee, en die versoek van sy lippe het U nie geweer nie. Séla.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "die begeerte"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van sy hart"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "het U gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "en die versoek"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "van sy lippe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "het U geweer"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:54.860063798Z",
+  "model": "glm-5.3"
+}

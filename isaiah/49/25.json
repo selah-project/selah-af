@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Want so sê Jahweh: selfs die gevangene van die magtige word weggevoer, en die buit van die geweldenaar ontkom; en ⟨את⟩ jou stryder sal ek bestry — ek self — en ⟨את⟩ jou seuns sal ek red — ek self.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "gevangene"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "word weggevoer"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "en die buit"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "geweldenaar"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ontkom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou stryder"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "jou stryder"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek self"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "sal ek bestry"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou seuns"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jou seuns"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek self"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "sal ek red"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:14.780877761Z",
+  "model": "glm-5.3"
+}

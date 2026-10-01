@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 13:31",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Toe staan die koning op en skeur ⟨את⟩ sy klere en lê op die aarde; en al sy dienaars staan by, met geskeurde klere.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "toe staan op"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en skeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "en lê"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "staan by"
+    },
+    {
+      "surface": "קרעי",
+      "gloss": "met geskeurde"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "klere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:28.233652210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "oog in plaas van oog, tand in plaas van tand, hand in plaas van hand, voet in plaas van voet.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "שן",
+      "gloss": "tand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaas van"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "voet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:02.892732195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Onthou ⟨את⟩ wat Amalek aan jou gedoen het op die pad toe julle uit Mitsrajim getrek het.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "toe julle getrek het"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:37.775507599Z",
+  "model": "glm-5.3"
+}

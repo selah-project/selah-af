@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "ezra 2:63",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die Tirsjata sê vir hulle dat hulle nie van die allerheiligste mag eet nie, totdat 'n priester opstaan vir ⟨die⟩ Urim en ⟨die⟩ Toemim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "die Tirsjata"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hulle mag eet"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "van die allerheiligste"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van die heilige dinge"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "'n priester"
+    },
+    {
+      "surface": "לאורים",
+      "gloss": "vir die Urim"
+    },
+    {
+      "surface": "ולתמים",
+      "gloss": "en die Toemim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:37:14.683722872Z",
+  "model": "glm-5.3"
+}

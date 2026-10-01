@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 12:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En julle sal oor ⟨את⟩ die Jordaan trek en in die land woon wat Jahweh julle Elohim aan ⟨את⟩ julle as erfdeel gee, en ⟨hy⟩ sal vir julle rus gee van al julle vyande rondom, en julle sal veilig woon.",
+  "tokens": [
+    {
+      "surface": "ועברתם",
+      "gloss": "en julle sal trek oor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en julle sal woon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "מנחיל",
+      "gloss": "as erfdeel gee"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle as erfdeel"
+    },
+    {
+      "surface": "והניח",
+      "gloss": "en ⟨hy⟩ sal rus gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en julle sal woon"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "veilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:59.633070372Z",
+  "model": "glm-5.3"
+}

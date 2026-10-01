@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Neem tog ⟨את⟩ my seën wat vir jou gebring is, want Elohim het my genadig geag, en want daar is vir my alles; en hy het by hom aangedring, en hy het dit geneem.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seën"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "my seën"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "gebring is"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "hy het my genadig geag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en want"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "en hy het aangedring"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het dit geneem"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:41.378417122Z",
+  "model": "glm-5.3"
+}

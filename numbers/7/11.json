@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh het vir Mosje gesê: een owerste per dag, een owerste per dag, sal hulle ⟨את⟩ hulle offergawe bring, vir die inwyding van die altaar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ⟨Hy⟩ het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "een owerste"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dag"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "een owerste"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "per dag"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "sal hulle bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle offergawe"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "hulle offergawe"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "vir die inwyding"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:56.986071788Z",
+  "model": "glm-5.3"
+}

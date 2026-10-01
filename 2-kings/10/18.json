@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 10:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Jehoe het ⟨את⟩ die hele volk bymekaargeskaar en vir hulle gesê: Agab het ⟨את⟩ die Baäl min gedien; Jehoe sal hom baie dien.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "bymekaargeskaar"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baäl"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "die Baäl"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "min"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "sal hom dien"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:38.332324107Z",
+  "model": "glm-5.3"
+}

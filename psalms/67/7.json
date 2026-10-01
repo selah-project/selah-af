@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 67:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Die aarde het haar opbrengs gegee; Elohim, ons Elohim, seën ons.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "haar opbrengs"
+    },
+    {
+      "surface": "יברכנו",
+      "gloss": "seën ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:45.586243580Z",
+  "model": "glm-5.3"
+}

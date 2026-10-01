@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Elohim het vir hom 'n teenstander laat opstaan: ⟨את⟩ Reson, seun van Eljada, wat gevlug het van ⟨את⟩ Hadad-ezer, koning van Tsoba, sy heer.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het laat opstaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "'n teenstander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reson"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "Reson"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eljada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlug het"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadad-ezer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "van Tsoba"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sy heer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:24.547962306Z",
+  "model": "glm-5.3"
+}

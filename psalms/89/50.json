@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Waar is u gesed van ouds, Adonai, wat U aan Dawid gesweer het in u trou?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "waar is"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "het U gesweer"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "in u trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:15.623779351Z",
+  "model": "glm-5.3"
+}

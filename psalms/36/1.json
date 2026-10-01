@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Vir die koorleier; van ⟨die⟩ dienskneg van Jahweh, van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "van ⟨die⟩ dienskneg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.520194341Z",
+  "model": "glm-5.3"
+}

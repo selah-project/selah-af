@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hulle het Elohim Elyon versoek en gerebelleer ⟨את⟩, en sy getuienisse nie bewaar nie.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "het versoek"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "en gerebelleer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim Elyon"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "en sy getuienisse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.642021387Z",
+  "model": "glm-5.3"
+}

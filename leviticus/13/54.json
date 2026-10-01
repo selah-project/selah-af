@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 13:54",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "dan beveel die priester, en hulle was ⟨את⟩ dit waarin die plaag is, en hy sluit dit op sewe dae lank, 'n tweede keer.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "dan beveel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit waarin die plaag is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die plaag"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "en hy sluit op"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "'n tweede keer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:30.129786918Z",
+  "model": "glm-5.3"
+}

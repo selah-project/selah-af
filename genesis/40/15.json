@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 40:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Want gesteel — gesteel is ek uit die land van die Hebreeërs, en ook hier het ek niks gedoen dat hulle ⟨את⟩ my in die put gesit het nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "gesteel"
+    },
+    {
+      "surface": "גנבתי",
+      "gloss": "is ek gesteel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van die Hebreeërs"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "niks"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hulle gesit het"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "in die put"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:42.943845357Z",
+  "model": "glm-5.3"
+}

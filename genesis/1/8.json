@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die uitspansel hemel genoem; en dit was aand en dit was oggend, dag twee.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "aan die uitspansel"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aand"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "oggend"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.309153766Z",
+  "model": "glm-5.3"
+}

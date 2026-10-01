@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 59:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Want ons oortredings het vermeerder voor U, en ons sondes ⟨het⟩ teen ons getuig; want ons oortredings ⟨is⟩ met ons ⟨את⟩, en ons ongeregtighede — ons ken hulle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "het vermeerder"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ons oortredings"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "וחטאותינו",
+      "gloss": "en ons sondes"
+    },
+    {
+      "surface": "ענתה",
+      "gloss": "het getuig"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "teen ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ons oortredings"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "met ons ⟨את⟩",
+      "marks": "ons oortredings"
+    },
+    {
+      "surface": "ועונתינו",
+      "gloss": "en ons ongeregtighede"
+    },
+    {
+      "surface": "ידענום",
+      "gloss": "ons ken hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:48.626258519Z",
+  "model": "glm-5.3"
+}

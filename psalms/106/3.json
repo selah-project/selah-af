@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Hoe gelukkig ⟨is⟩ hulle wat reg bewaar, wat tsedek doen op elke tyd!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hoe gelukkig"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "wat bewaar"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op elke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:44.436532248Z",
+  "model": "glm-5.3"
+}

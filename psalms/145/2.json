@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Elke dag sal ek U seën, en U naam prys vir ewig en altoos.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "sal ek U seën"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "en prys"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "U naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altoos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:24.033197245Z",
+  "model": "glm-5.3"
+}

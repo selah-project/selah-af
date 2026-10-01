@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 45:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En hy het ⟨את⟩ sy broers weggestuur, en hulle het gegaan; en hy het vir hulle gesê: Moenie julle opskud op die weg nie.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het weggestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרגזו",
+      "gloss": "julle opskud (ontstig word)"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:39.503524246Z",
+  "model": "glm-5.3"
+}

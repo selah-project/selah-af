@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Na hierdie dinge, toe die grimmigheid van die koning Agaswerus bedaar het, het hy ⟨את⟩ Wasjti gedink aan, en ⟨את⟩ wat sy gedoen het, en ⟨את⟩ wat oor haar beslis is.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "toe ... bedaar het"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "grimmigheid"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Agaswerus"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "het gedink aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Wasjti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasjti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wat sy gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sy gedoen het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wat oor haar beslis is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "beslis is"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "oor haar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:22.068553680Z",
+  "model": "glm-5.3"
+}

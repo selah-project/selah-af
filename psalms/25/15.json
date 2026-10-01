@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "My oë is gedurig op Jahweh, want hy sal my voete uit die net uitbring.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "sal uitbring"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "uit die net"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.898918539Z",
+  "model": "glm-5.3"
+}

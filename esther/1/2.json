@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "in dié dae, toe koning Agasjwerosj op die troon van sy koninkryk gesit het, wat in Sjoesjan ⟨die⟩ burg is,",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "in die dae"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "dié"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "toe ... gesit het"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Agasjwerosj"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "die troon"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "van sy koninkryk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Sjoesjan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "die burg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.115517397Z",
+  "model": "glm-5.3"
+}

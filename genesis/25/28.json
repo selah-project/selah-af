@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Jitsgak het ⟨את⟩ Esaw liefgehad, want jag ⟨was⟩ in sy mond; en Ribka het ⟨את⟩ Jaäkow liefgehad.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "en het liefgehad"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Esaw"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "jag"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in sy mond"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "en Ribka"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "het liefgehad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:38.736126880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Amasa het gegaan om ⟨את⟩ Jehoeda bymekaar te roep, maar hy het vertoer buite die bestemde tyd wat hy vir hom bepaal het.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasa"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "om bymekaar te roep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "maar hy het vertoer"
+    },
+    {
+      "surface": "מן",
+      "gloss": "buite"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "die bestemde tyd"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "hy vir hom bepaal het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:31.606008461Z",
+  "model": "glm-5.3"
+}

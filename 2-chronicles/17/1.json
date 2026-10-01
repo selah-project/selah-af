@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Jehosjoea sy seun het koning geword onder hom ⟨in sy plek⟩, en hy het hom versterk teenoor Jisraël.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "het koning geword"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "en hy het hom versterk"
+    },
+    {
+      "surface": "על",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:55.736300444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Want kyk, jou vyande grom, en die wat jou haat, het ⟨die⟩ kop gelig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "grom"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "en die wat jou haat"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "het gelig"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:40.479361745Z",
+  "model": "glm-5.3"
+}

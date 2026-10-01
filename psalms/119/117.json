@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 117,
+  "ref": "psalms 119:117",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ondersteun my, en ek sal gered word, en ek sal gedurig op ⟨ jou⟩ verordenings ag gee.",
+  "tokens": [
+    {
+      "surface": "סעדני",
+      "gloss": "ondersteun my"
+    },
+    {
+      "surface": "ואושעה",
+      "gloss": "en ek sal gered word"
+    },
+    {
+      "surface": "ואשעה",
+      "gloss": "en ek sal ag gee"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "op jou verordenings"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:21.570272081Z",
+  "model": "glm-5.3"
+}

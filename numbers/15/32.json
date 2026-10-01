@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 15:32",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die seuns van Jisraël was in die woestyn, en hulle vind 'n man wat hout vergader op die dag van die Sjabbat.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en hulle vind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מקשש",
+      "gloss": "wat vergader"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van die Sjabbat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:43.326665628Z",
+  "model": "glm-5.3"
+}

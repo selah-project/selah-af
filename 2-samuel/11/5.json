@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 11:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die vrou het swanger geword, en sy het gestuur en aan Dawid berig gebring, en gesê: swanger ⟨is⟩ ek.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "en sy het swanger geword"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "en sy het gestuur"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "en berig gebring"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "swanger"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:35.105644824Z",
+  "model": "glm-5.3"
+}

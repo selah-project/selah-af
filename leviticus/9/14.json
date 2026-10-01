@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het ⟨את⟩ die ingewande en ⟨את⟩ die pote gewas, en ⟨dit⟩ laat rook bo-op die brandoffer op die altaar.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "en hy het gewas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingewande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die pote"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "die pote"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en hy het laat rook"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.860190035Z",
+  "model": "glm-5.3"
+}

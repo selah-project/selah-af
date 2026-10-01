@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Ons osse ⟨is⟩ swaar gelaai; geen deurbraak en geen uittog en geen geroep in ons pleine.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "ons osse"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "swaar gelaai"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "deurbraak"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "uittog"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "geroep"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "in ons pleine"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:07.731525566Z",
+  "model": "glm-5.3"
+}

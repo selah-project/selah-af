@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 8:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het dit geslag, en Mosje het ⟨את⟩ die bloed geneem en dit met sy vinger op die horings van die altaar rondom gesit, en die altaar gereinig; en ⟨את⟩ die bloed het hy by die voetstuk van die altaar uitgegiet, en dit geheilig om daaroor versoening te doen.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "geneem"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "gesit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "die horings"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "met sy vinger"
+    },
+    {
+      "surface": "ויחטא",
+      "gloss": "gereinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "uitgegiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "die voetstuk"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "geheilig"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om versoening te doen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daaroor"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:35.882180798Z",
+  "model": "glm-5.3"
+}

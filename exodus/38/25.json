@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 38:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En die silwer van die geteldes van die vergadering: honderd kikkar en duisend en sewehonderd vyf-en-sewentig sjekel, volgens die sjekel van die heiligdom.",
+  "tokens": [
+    {
+      "surface": "וכסף",
+      "gloss": "En die silwer"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "van die geteldes"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "van die vergadering"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kikkar"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "en duisend"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "en sewe"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "en vyf"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "en-sewentig"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sjekel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "volgens die sjekel"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:57.043222916Z",
+  "model": "glm-5.3"
+}

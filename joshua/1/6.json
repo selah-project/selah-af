@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wees sterk en wees dapper, want jy — jy sal ⟨את⟩ hierdie volk die land as erfporsie laat inneem ⟨את⟩, wat ek aan hulle vaders gesweer het om aan hulle te gee.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "wees sterk"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "en wees dapper"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "sal as erfporsie laat inneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ek gesweer het"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "aan hulle vaders"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:33.716183597Z",
+  "model": "glm-5.3"
+}

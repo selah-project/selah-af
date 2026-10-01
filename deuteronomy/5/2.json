@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Jahweh ons Elohim het 'n verbond met ons gesny by Goreb.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "het gesny"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "by Goreb"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:49.668555277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 59:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Oor die sonde van hulle mond, die woord van hulle lippe — laat hulle gevange word in hul hoogmoed; en van vloek en leuenpraat vertel hulle gedurig.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "sonde"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "van hulle mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "van hulle lippe"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "laat hulle gevange word"
+    },
+    {
+      "surface": "בגאונם",
+      "gloss": "in hul hoogmoed"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "en van vloek"
+    },
+    {
+      "surface": "ומכחש",
+      "gloss": "en leuenpraat"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "vertel hulle gedurig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.600356365Z",
+  "model": "glm-5.3"
+}

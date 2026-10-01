@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Mosje het getel soos Jahweh ⟨את⟩ hom beveel het, ⟨את⟩ al die eersgeborenes onder die seuns van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "en hy het getel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle eersgeborenes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "die eersgeborenes"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "onder die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:45.012721417Z",
+  "model": "glm-5.3"
+}

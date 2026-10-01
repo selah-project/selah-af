@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 5:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En nou, bewoner van Jerusjalajim en man van Jehoeda, oordeel tog tussen my en my wingerd.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "bewoner"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "oordeel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "my wingerd"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:48.555750623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Jahweh sal ten volle volbring vir my; Jahweh, U gesed ⟨is⟩ tot in ewigheid; die werke van U hande, moet nie laat val nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "sal ten volle volbring"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "U gesed"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van U hande"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moet nie"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "laat val"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.090909662Z",
+  "model": "glm-5.3"
+}

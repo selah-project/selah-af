@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jegonatan het ⟨את⟩ sy wapentuig gegee aan die jong seun wat hy gehad het, en hy het vir hom gesê: Gaan, bring ⟨dit⟩ na die stad.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jegonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy wapentuig"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy wapentuig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die jong seun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hy gehad het"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "bring"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "na die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:33.441658083Z",
+  "model": "glm-5.3"
+}

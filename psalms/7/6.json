@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 7:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "laat die vyand my siel agtervolg en inhaal, en my lewe trap na ⟨die⟩ aarde toe, en my heerlikheid in die stof laat woon. Sela.",
+  "tokens": [
+    {
+      "surface": "ירדף",
+      "gloss": "agtervolg"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "וישג",
+      "gloss": "en inhaal"
+    },
+    {
+      "surface": "וירמס",
+      "gloss": "en trap"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na ⟨die⟩ aarde toe"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en my heerlikheid"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "in die stof"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "laat woon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:45.474448508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ek het gesê: Ek sal ⟨את⟩ julle nie wei nie — die sterwende mag sterwe, en die weggekonte mag weggekont word, en die oorblywendes mag eet, elkeen ⟨את⟩ die vlees van haar medega.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "sal ek wei"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "die sterwende"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "mag sterwe"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "en die weggekonte"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "mag weggekont word"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "en die oorblywendes"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vlees van haar medega"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "van haar medega"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.476912400Z",
+  "model": "glm-5.3"
+}

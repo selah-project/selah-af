@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Hy wat nasies tug, sal Hy nie bestraf nie? Hy wat ⟨die⟩ mens kennis leer —",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "hy wat tug"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "sal Hy nie"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bestraf"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "hy wat leer"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.921293933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Elisa het gesterf, en hulle het hom begrawe. En bendes van Moab het die land binnegekom by die inkom van die jaar.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "En hy het gesterf"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "en hulle het hom begrawe"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "en bende"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "het binnegekom"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "בא",
+      "gloss": "by die koms"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van die jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:00.622117539Z",
+  "model": "glm-5.3"
+}

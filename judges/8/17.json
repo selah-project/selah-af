@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ die toring van Pnuel het hy afgebreek, en hy het ⟨את⟩ die manne van die stad doodgemaak.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "En ⟨את⟩",
+      "marks": "die toring van Pnuel"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "die toring"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "van Pnuel"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "het hy afgebreek"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "en hy het doodgemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die manne van die stad"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:08.764109437Z",
+  "model": "glm-5.3"
+}

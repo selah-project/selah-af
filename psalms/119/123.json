@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My oë kwyn weg na jou redding en na die woord van jou tsedek.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "My oë"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "kwyn weg"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "na jou redding"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "en na die woord"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van jou tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:42.736141508Z",
+  "model": "glm-5.3"
+}

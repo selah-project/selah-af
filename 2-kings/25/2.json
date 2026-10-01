@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En die stad het in die belegering gekom tot die elfde jaar van koning Tsidkiahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "in die belegering"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "elf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-tiende"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "van koning"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkiahu"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:26.467875664Z",
+  "model": "glm-5.3"
+}

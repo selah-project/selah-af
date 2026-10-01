@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 9:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "'n Pyl wat slag, is hulle tong; bedrog spreek hy; met sy mond spreek hy vrede met ⟨את⟩ sy naaste, en in sy innerlike lê hy 'n hinderlaag.",
+  "tokens": [
+    {
+      "surface": "חץ",
+      "gloss": "'n pyl"
+    },
+    {
+      "surface": "שוחט",
+      "gloss": "wat slag"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "is hulle tong"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek hy"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "met sy mond"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "spreek hy"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "en in sy innerlike"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "lê hy"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "'n hinderlaag"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:17.981643261Z",
+  "model": "glm-5.3"
+}

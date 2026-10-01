@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "en te duur ⟨is⟩ die losprys van hulle siel, en ⟨dit⟩ hou op vir ewig —",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "en te duur"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "losprys"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle siel"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "en dit hou op"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:45.191563481Z",
+  "model": "glm-5.3"
+}

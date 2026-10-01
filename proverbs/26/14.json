@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Die deur draai rond op sy skarnier, en ⟨so draai⟩ die luiaard op sy bed.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "die deur"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "draai rond"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "sy skarnier"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "en die luiaard"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sy bed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:16.401692376Z",
+  "model": "glm-5.3"
+}

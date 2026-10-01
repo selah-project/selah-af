@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Daar ⟨is⟩ 'n geslag wat sy vader vervloek en ⟨את⟩ sy moeder nie seën nie.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "'n geslag"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy moeder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "seën"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:11.615137174Z",
+  "model": "glm-5.3"
+}

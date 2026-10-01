@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En dit het gesê ná ⟨'n⟩ ruk van dae, en die spruit het uitgedroog, want daar was geen reën in die land nie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gesê"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ná ⟨'n⟩ ruk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dae"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "en het uitgedroog"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "die spruit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geen"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "reën"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:23.988902072Z",
+  "model": "glm-5.3"
+}

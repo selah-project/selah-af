@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Toe slegtes my naderkom om ⟨את⟩ my vlees te eet — my teëstanders en my vyande teen my — hulle het gestruikel en geval.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "toe ... naderkom"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "my"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "slegtes"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vlees"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my vlees"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my teëstanders"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "en my vyande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "het gestruikel"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en geval"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:00.806588759Z",
+  "model": "glm-5.3"
+}

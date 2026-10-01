@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Begeer nie sy lekkernye nie, want dit ⟨is⟩ brood van leuens.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "sy lekkernye"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "want dit"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "van leuens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:32.724222166Z",
+  "model": "glm-5.3"
+}

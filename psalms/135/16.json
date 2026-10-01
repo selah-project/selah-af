@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "'n Mond het hulle, maar hulle spreek nie; oë het hulle, maar hulle sien nie.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "'n mond"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hulle spreek"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hulle sien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.829225476Z",
+  "model": "glm-5.3"
+}

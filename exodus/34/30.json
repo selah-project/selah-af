@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Aharon en al die seuns van Jisraël het ⟨את⟩ Mosje gesien, en kyk, die vel van sy gesig het strale uitgestraal, en hulle was bang om naby hom te kom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hulle het gesien"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "strale uitgestraal"
+    },
+    {
+      "surface": "עור",
+      "gloss": "die vel"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "van sy gesig"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en hulle was bang"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "om naby te kom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:20.602438569Z",
+  "model": "glm-5.3"
+}

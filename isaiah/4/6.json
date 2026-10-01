@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 4:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En 'n sooeka sal ⟨wees⟩ tot 'n skaduwee bedags teen die gloed, en tot 'n toevlug en tot 'n skuilplek teen die storm en teen die reën.",
+  "tokens": [
+    {
+      "surface": "וסכה",
+      "gloss": "en 'n sooeka"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לצל",
+      "gloss": "tot 'n skaduwee"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "teen die gloed"
+    },
+    {
+      "surface": "ולמחסה",
+      "gloss": "en tot 'n toevlug"
+    },
+    {
+      "surface": "ולמסתור",
+      "gloss": "en tot 'n skuilplek"
+    },
+    {
+      "surface": "מזרם",
+      "gloss": "teen die storm"
+    },
+    {
+      "surface": "וממטר",
+      "gloss": "en teen die reën"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:48.724263343Z",
+  "model": "glm-5.3"
+}

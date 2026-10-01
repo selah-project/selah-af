@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En julle het nagekom en julle het gestaan onder ⟨die⟩ berg, en die berg het gebrand met vuur tot ⟨in⟩ die hart van die hemel — duisternis, wolk en digte duisternis.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "en julle het nagekom"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "en julle het gestaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "en die berg"
+    },
+    {
+      "surface": "בער",
+      "gloss": "het gebrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "en digte duisternis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:34.507958947Z",
+  "model": "glm-5.3"
+}

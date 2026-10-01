@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Want Jahweh, die Allerhoogste, is vreeswekkend, 'n groot Koning oor die hele aarde.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "die Allerhoogste"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "vreeswekkend"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n Koning"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.765821471Z",
+  "model": "glm-5.3"
+}

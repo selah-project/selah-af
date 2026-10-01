@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ons vel, soos 'n oond, het swart geskroei, vanweë die gloed van hongersnood.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ons vel"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "soos 'n oond"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "het swart geskroei"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "die gloed"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "van hongersnood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:01.732854661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het 'n groot roeag op die see gewerp, en daar was 'n geweldige stormwind op die see, en die skip was op die punt om te vergaan.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "het gewerp"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "'n roeag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "'n groot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "סער",
+      "gloss": "'n stormwind"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "geweldige"
+    },
+    {
+      "surface": "בים",
+      "gloss": "op die see"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "en die skip"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "was op die punt"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "om te vergaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:06.065869463Z",
+  "model": "glm-5.3"
+}

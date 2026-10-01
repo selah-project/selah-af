@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Toe het ek ⟨dit⟩ gesien, ek het ⟨dit⟩ by my hart georden; ek het gesien, ek het tugsiging ontvang.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "toe het ek gesien"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "het georden"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "by my hart"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "ek het ontvang"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugsiging"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:18.716624234Z",
+  "model": "glm-5.3"
+}

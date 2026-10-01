@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 12:12",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Elon die Seboelniet het gesterwe, en ⟨hy⟩ is begrawe in Ajalon, in die land van Seboelon.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "en hy het gesterwe"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "die Seboelniet"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en ⟨hy⟩ is begrawe"
+    },
+    {
+      "surface": "באילון",
+      "gloss": "in Ajalon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land van"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Seboelon"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:27.813709368Z",
+  "model": "glm-5.3"
+}

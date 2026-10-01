@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Kyk, in ongeregtigheid is ek gevorm, en in sonde het my moeder my swanger geword.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "in ongeregtigheid"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "is ek gevorm"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "en in sonde"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "het ... my swanger geword"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:33.059022831Z",
+  "model": "glm-5.3"
+}

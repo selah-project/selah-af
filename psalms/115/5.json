@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "ʼn Mond het hulle, maar hulle praat nie; oë het hulle, maar hulle sien nie —",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "'n mond"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "praat"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oë"
+    },
+    {
+      "surface": "להם",
+      "gloss": "het hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar ... nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:18.877867671Z",
+  "model": "glm-5.3"
+}

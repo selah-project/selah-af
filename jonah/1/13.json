@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jonah 1:13",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die manne het hard geroei om terug te keer na die droë land, maar hulle kon nie, want die see het gegaan en was al hoe stormagtiger teen hulle.",
+  "tokens": [
+    {
+      "surface": "ויחתרו",
+      "gloss": "het hard geroei"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "om terug te bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "die droë land"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "en was stormagtig"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "teen hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:09.942025709Z",
+  "model": "glm-5.3"
+}

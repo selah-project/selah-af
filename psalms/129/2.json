@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 129,
+  "translation": "Baie het hulle my beklem vanaf my jeug, maar hulle kon nie teen my nie",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "het hulle my beklem"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf my jeug"
+    },
+    {
+      "surface": "גם",
+      "gloss": "maar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:31.216673923Z",
+  "model": "glm-5.3"
+}

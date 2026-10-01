@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want die aarde sal gevul word om ⟨את⟩ die glorie van Jahweh te ken, soos waters wat die see bedek.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "sal gevul word"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die glorie van Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glorie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos waters"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:33.191392908Z",
+  "model": "glm-5.3"
+}

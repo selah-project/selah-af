@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 28:18",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Hy wat onberispelik wandel, gered ⟨word⟩; maar hy wat krom ⟨is⟩ in sy weë, val in een ⟨slag⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "hy wat wandel"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onberispelik"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "gered word"
+    },
+    {
+      "surface": "ונעקש",
+      "gloss": "maar krom"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "in weë"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "val"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "in een"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:29.605003684Z",
+  "model": "glm-5.3"
+}

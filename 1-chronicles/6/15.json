@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Sjimea sy seun, Chaggia sy seun, Asaja sy seun.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Sjimea"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Chaggia"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Asaja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:53.448757190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "want so is my deur die woord van Jahweh gebied, met die woorde: Jy mag geen brood eet nie en geen water drink nie, en jy mag nie terugkeer op die pad waarlangs jy gekom het nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "is gebied"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "deur die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "jy mag eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "jy mag drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "jy mag terugkeer"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "jy gekom het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:36.330022560Z",
+  "model": "glm-5.3"
+}

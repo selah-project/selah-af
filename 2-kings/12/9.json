@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die priesters het ingestem om geen silwer te neem van ⟨את⟩ die volk nie, en om die ⟨את⟩ skeure van die huis nie te herstel nie.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "en hulle het ingestem"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om nie"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "te neem"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "en om nie"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "te herstel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skeure"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "skeure"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:00.671768931Z",
+  "model": "glm-5.3"
+}

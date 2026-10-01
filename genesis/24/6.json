@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Awraham sê vir hom: Waak oor jouself, dat jy ⟨את⟩ my seun nie daarheen laat terugkeer nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "waak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "oor jouself"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat ... nie"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "jy laat terugkeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:57.236718816Z",
+  "model": "glm-5.3"
+}

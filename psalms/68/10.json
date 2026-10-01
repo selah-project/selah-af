@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "'n Reën van vrywillige gawes skud U uit, o Elohim; U erfenis, toe sy verslae ⟨was⟩, het U bevestig.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "'n reën"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "van vrywillige gawes"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "skud U uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "U erfenis"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "toe sy verslae was"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "het U bevestig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:18.206166451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jahweh sal aan hulle doen soos hy aan Sigon en Og, konings van die Emoriet, en aan hulle land gedoen het — hy wat hulle ⟨את⟩ verdelg het.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en sal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "aan Sigon"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "en aan Og"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konings van"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriet"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "en aan hulle land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "verdelg het"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (Sigon en Og en hulle land)"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:54.888799733Z",
+  "model": "glm-5.3"
+}

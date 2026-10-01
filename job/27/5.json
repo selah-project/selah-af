@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 27:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Verre van my — dat ek julle regverdig sou verklaar ⟨את⟩; tot ek sterwe, sal ek my onberispelikheid nie van my wegneem nie.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "verre"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van my"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אצדיק",
+      "gloss": "regverdig sou verklaar"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אגוע",
+      "gloss": "ek sterwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "wegneem"
+    },
+    {
+      "surface": "תמתי",
+      "gloss": "my onberispelikheid"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:19:58.998423478Z",
+  "model": "glm-5.3"
+}

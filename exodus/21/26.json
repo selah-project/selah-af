@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 21:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En as 'n man ⟨את⟩ die oog van sy slaaf of ⟨את⟩ die oog van sy slavin slaan en ⟨dit⟩ verwoes, laat hy hom vry uitgaan as vergoeding vir sy oog.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en as"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "slaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "van sy slaaf"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oog"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "van sy slavin"
+    },
+    {
+      "surface": "ושחתה",
+      "gloss": "en verwoes ⟨dit⟩"
+    },
+    {
+      "surface": "לחפשי",
+      "gloss": "vry"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "laat hy hom uitgaan"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "as vergoeding vir"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "sy oog"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:04.704418847Z",
+  "model": "glm-5.3"
+}

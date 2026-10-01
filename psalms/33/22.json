@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Mag u gesed, Jahweh, oor ons wees, soos ons op U gewag het.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag ... wees"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "het ons gewag"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:12.584025345Z",
+  "model": "glm-5.3"
+}

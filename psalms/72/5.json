@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Hulle sal U vrees solank as die son ⟨is⟩, en voor die maan, geslag lank, geslagte deur.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "sal hulle U vrees"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "die maan"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "geslagte deur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.959825918Z",
+  "model": "glm-5.3"
+}

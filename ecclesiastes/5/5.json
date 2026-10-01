@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 5:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Moet ⟨את⟩ jou mond nie gee om ⟨את⟩ jou vlees te laat sondig nie, en moenie sê voor die boodskapper dat dit ⟨is⟩ 'n vergissing nie — waarom sou Elohim oor jou stem kwaad word en ⟨את⟩ die werk van jou hande verongeluk?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou mond"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "לחטיא",
+      "gloss": "om te laat sondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vlees"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jou vlees"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die boodskapper"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שגגה",
+      "gloss": "'n vergissing"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit ⟨is⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יקצף",
+      "gloss": "kwaad sou word"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "jou stem"
+    },
+    {
+      "surface": "וחבל",
+      "gloss": "en verongeluk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die werk"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van jou hande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:01.263604859Z",
+  "model": "glm-5.3"
+}

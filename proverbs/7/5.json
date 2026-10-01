@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "om jou te bewaar van ⟨die⟩ vreemde vrou, van ⟨die⟩ onbekende vrou wat haar woorde gladgestryk het.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "om jou te bewaar"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "van ⟨die⟩ vrou"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "van ⟨die⟩ onbekende vrou"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "haar woorde"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "het gladgestryk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:33:00.921366738Z",
+  "model": "glm-5.3"
+}

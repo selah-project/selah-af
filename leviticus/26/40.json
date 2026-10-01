@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En hulle sal hulle ongeregtigheid ⟨את⟩ bely, en die ongeregtigheid ⟨את⟩ van hulle vaders: hulle ontrou waarmee hulle teen My ontrou gepleeg het, en ook dat hulle in teëstand met My gewandel het.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "en hulle sal bely"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hulle ongeregtigheid"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ongeregtigheid van hulle vaders"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die ongeregtigheid"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "in hulle ontrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "hulle ontrou gepleeg het"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen My"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hulle gewandel het"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met My"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "in teëstand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:42.728122138Z",
+  "model": "glm-5.3"
+}

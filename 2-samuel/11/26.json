@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die vrou van Uría hoor dat Uría haar man gesterf het, en sy rou-klag oor haar man.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou van"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gesterf het"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "haar man"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "en sy rou-klag"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "haar man"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:22.172724978Z",
+  "model": "glm-5.3"
+}

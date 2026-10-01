@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "dan sal Ek ⟨את⟩ julle laat woon in hierdie plek, in die land wat Ek aan julle vaders gegee het, van ⟨die⟩ ewigheid af en tot ⟨in die⟩ ewigheid.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "dan sal Ek laat woon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "in hierdie plek"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie plek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Ek gegee het"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "aan julle vaders"
+    },
+    {
+      "surface": "למן",
+      "gloss": "van"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:29:54.137022011Z",
+  "model": "glm-5.3"
+}

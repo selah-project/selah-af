@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Die edeles van ⟨die⟩ volke is versamel ⟨by⟩ die volk van die Elohim van Awraham, want aan Elohim behoort die skilde van die aarde — hoog verhewe ⟨is Hy⟩.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "die edeles"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "van die volke"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "is versamel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Awraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "die skilde"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "verhewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.372812347Z",
+  "model": "glm-5.3"
+}

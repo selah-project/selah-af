@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 30:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "dan sal Jahweh jou Elohim ⟨את⟩ jou lot doen omkeer en jou barmhartig betoon, en hy sal terugkeer en jou versamel uit al die volke waarheen Jahweh jou Elohim jou verstrooi het daarheen.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "dan sal … doen omkeer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou lot"
+    },
+    {
+      "surface": "שבותך",
+      "gloss": "jou lot"
+    },
+    {
+      "surface": "ורחמך",
+      "gloss": "en jou barmhartig betoon"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en hy sal terugkeer"
+    },
+    {
+      "surface": "וקבצך",
+      "gloss": "en jou versamel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "הפיצך",
+      "gloss": "jou verstrooi het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:54.854213413Z",
+  "model": "glm-5.3"
+}

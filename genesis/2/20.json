@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die mens het name gegee aan al die vee en aan die voëls van die hemel en aan al die diere van die veld; maar vir die mens is daar geen helper wat by hom pas gevind nie.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "En hy het genoem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan al"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "ולעוף",
+      "gloss": "en aan die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan al"
+    },
+    {
+      "surface": "חית",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "ולאדם",
+      "gloss": "maar vir die mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "is gevind"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "'n helper"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "wat by hom pas"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:49.618529685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Toe Jisraël 'n kind was, het Ek hom liefgehad, en uit Mitsrajim het Ek my seun geroep.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "toe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n kind"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "het Ek hom liefgehad"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "en uit Mitsrajim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "het Ek geroep"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "my seun"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:21.498667333Z",
+  "model": "glm-5.3"
+}

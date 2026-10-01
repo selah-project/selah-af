@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 29:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "en hulle minga: fynmeel gemeng in die olie, drie esrontjies vir die bul, twee esrontjies vir die ram,",
+  "tokens": [
+    {
+      "surface": "ומנחתם",
+      "gloss": "en hulle minga"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fynmeel"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "gemeng"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "in die olie"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "esrontjies"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "vir die bul"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "esrontjies"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "vir die ram"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:35.675622276Z",
+  "model": "glm-5.3"
+}

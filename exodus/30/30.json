@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En ⟨את⟩ Aharon en ⟨את⟩ sy seuns moet jy salf, en jy moet ⟨את⟩ hulle heilig om priesters vir My te wees.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "moet jy salf"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en jy moet heilig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (Aharon en sy seuns)"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om priester te wees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:06.502567997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 5:13",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En al hierdie is niks werd aan my nie, elke keer as ek ⟨את⟩ Mordegai die Jood sien sit in die poort van die koning nie.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "is niks"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "weerd"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "keer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordegai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "die Jood"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "sit"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:30.349884180Z",
+  "model": "glm-5.3"
+}

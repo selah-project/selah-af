@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "om die stem van danksegging te laat hoor, en om al u wonders te vertel.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "om te laat hoor"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "die stem van"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "danksegging"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "en om te vertel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "u wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:31.737453317Z",
+  "model": "glm-5.3"
+}

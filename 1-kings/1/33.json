@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 1:33",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning sê vir hulle: Neem met julle ⟨את⟩ die dienaars van julle heer, en laat ⟨את⟩ Sjlomo my seun ryg op die muileselin wat aan my behoort, en bring ⟨את⟩ hom af na Gigon.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dienaars van julle heer"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars van"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "julle heer"
+    },
+    {
+      "surface": "והרכבתם",
+      "gloss": "en laat ryg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjlomo my seun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjlomo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הפרדה",
+      "gloss": "die muileselin"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my behoort"
+    },
+    {
+      "surface": "והורדתם",
+      "gloss": "en bring af"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "Gigon"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:56.324027374Z",
+  "model": "glm-5.3"
+}

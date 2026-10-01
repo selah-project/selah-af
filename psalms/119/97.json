@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Hoe lief het ek jou Tora! Die hele dag is dit my besinning.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Hoe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "lief het ek"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "jou Tora"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "my besinning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:25.754300369Z",
+  "model": "glm-5.3"
+}

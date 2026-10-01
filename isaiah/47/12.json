@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 47:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Staan tog met jou besweringe en met die menigte van jou towerye, waarin jy jou van jou jeug af vermoei het; miskien sal jy kan baat vind, miskien sal jy kan verskrik.",
+  "tokens": [
+    {
+      "surface": "עמדי",
+      "gloss": "staan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "בחבריך",
+      "gloss": "met jou besweringe"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "en met die menigte"
+    },
+    {
+      "surface": "כשפיך",
+      "gloss": "van jou towerye"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "jy jou vermoei het"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "van jou jeug af"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "miskien"
+    },
+    {
+      "surface": "תוכלי",
+      "gloss": "sal jy kan"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "baat vind"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "miskien"
+    },
+    {
+      "surface": "תערוצי",
+      "gloss": "verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:58.403119134Z",
+  "model": "glm-5.3"
+}

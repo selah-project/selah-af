@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "psalms 119:74",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Dié wat jou vrees, sal my sien en bly wees, omdat ek op jou woord gewag het.",
+  "tokens": [
+    {
+      "surface": "יראיך",
+      "gloss": "Dié wat jou vrees"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "sal my sien"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en bly wees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "op jou woord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ek gewag het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.229758831Z",
+  "model": "glm-5.3"
+}

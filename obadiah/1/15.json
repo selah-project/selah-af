@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "obadiah 1:15",
+  "book": "obadiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Want naby is die dag van Jahweh oor al die nasies; soos jy gedoen het, sal aan jou gedoen word; jou vergelding sal op jou hoof terugkeer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "naby is"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jy gedoen het"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal gedoen word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "jou vergelding"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "בראשך",
+      "gloss": "op jou hoof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:03:39.858765757Z",
+  "model": "glm-5.3"
+}

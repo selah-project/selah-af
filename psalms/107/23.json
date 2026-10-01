@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hulle wat daal af na die see in skepe, wat werk doen in groot waters —",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "hulle wat daal af"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na die see"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "in skepe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": " groot"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:13.735628166Z",
+  "model": "glm-5.3"
+}

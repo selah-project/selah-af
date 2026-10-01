@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Vir alles 'n bestemde tyd, en 'n tyd vir elke begeerte onder die hemel:",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "vir alles"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "'n bestemde tyd"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir elke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "begeerte"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.110895525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Om tsedek en reg te doen is vir Jahweh verkies bo ⟨'n⟩ slagoffer.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "om ... te doen"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "verkies"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "bo ⟨'n⟩ slagoffer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:37.067548695Z",
+  "model": "glm-5.3"
+}

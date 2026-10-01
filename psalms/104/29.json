@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 104:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Verberg U u aangesig, word hulle verskrik; neem U hulle roeag weg, sterf hulle, en na hulle stof keer hulle terug.",
+  "tokens": [
+    {
+      "surface": "תסתיר",
+      "gloss": "verberg U"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "יבהלון",
+      "gloss": "word hulle verskrik"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "neem U weg"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "hulle roeag"
+    },
+    {
+      "surface": "יגועון",
+      "gloss": "sterf hulle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "hulle stof"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "keer hulle terug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.350125210Z",
+  "model": "glm-5.3"
+}

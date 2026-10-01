@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Vir die koorleier, van Dawid, 'n maskiel.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n maskiel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.398023599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Volgens die wet — wat ⟨moet gedoen word⟩ met koningin Wasjti, omdat sy nie ⟨את⟩ die bevel van koning Agasweros by die hand van die eunugs gedoen het nie?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "volgens die wet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨moet gedoen word⟩"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "met koningin"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "Wasjti"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bevel"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "die bevel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "Agasweros"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "by die hand"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "van die eunugs"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:36.840701643Z",
+  "model": "glm-5.3"
+}

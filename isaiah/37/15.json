@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Chiskia het tot Jahweh gebid en gesê:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "En ... gebid"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Chiskia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:49.442965485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En hy het ⟨את⟩ die drae van sittimhout gemaak en het ⟨אתם⟩ met koper oorgetrek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die drae"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die drae"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en het oorgetrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hulle (die drae)"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "met koper"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:39.552954732Z",
+  "model": "glm-5.3"
+}

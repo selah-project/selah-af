@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 130:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "My siel ⟨is⟩ vir Adonai, meer as die wagters vir die môre, wagters vir die môre.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "vir Adonai"
+    },
+    {
+      "surface": "משמרים",
+      "gloss": "meer as die wagters"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vir die môre"
+    },
+    {
+      "surface": "שמרים",
+      "gloss": "wagters"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "vir die môre"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:12.582292108Z",
+  "model": "glm-5.3"
+}

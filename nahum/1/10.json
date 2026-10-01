@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Want terwyl hulle soos verweefde doringdorre ⟨is⟩, en soos hulle dronk gedrink het van hulle drank, is hulle verteer soos strooi, droog, volkome.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עד",
+      "gloss": "terwyl"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "doringdorre"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "verweefde"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "en van hulle drank"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "dronk gedrink"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "is hulle verteer"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "soos strooi"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "droog"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "volkome"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:43.829631874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Mag hulle smarte vermenigvuldig word — hulle wat gehaas het agter ⟨'n ander god⟩ aan; hul drankoffers van bloed sal ek nie uitgiet nie, en hul name sal ek nie ⟨את⟩ op my lippe neem nie.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "mag vermenigvuldig word"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "hulle smarte"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "agter 'n ander"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "hulle wat gehaas het"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "sal ek uitgiet"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "hul drankoffers"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van bloed"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "sal ek neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul name"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hul name"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lippe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:39.752111869Z",
+  "model": "glm-5.3"
+}

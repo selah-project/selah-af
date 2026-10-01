@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Hoor, Elohim, my stem in my klage; van die vrees van ⟨die⟩ vyand af bewaar ⟨U⟩ my lewe.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "in my klage"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "van die vrees"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bewaar ⟨U⟩"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:00.722391839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Ek was my hande in onskuld, en ek gaan rondom ⟨את⟩ u altar, Jahweh.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "ek was"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "in onskuld"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my hande"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "en ek gaan rondom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u altar"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "u altar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:31.736908720Z",
+  "model": "glm-5.3"
+}

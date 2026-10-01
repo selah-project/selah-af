@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ al sy vet sal hy daarvan nader bring: ⟨את⟩ die vetstert en ⟨את⟩ die vet wat ⟨את⟩ die ingewande bedek,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "sy vet"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "sal hy nader bring"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vetstert"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "die vetstert"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "wat bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingewande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:21.027165427Z",
+  "model": "glm-5.3"
+}

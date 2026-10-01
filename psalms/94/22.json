@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "En Jahweh was vir my 'n hoë vesting, en my Elohim 'n rots van my toevlug.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en was"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "'n hoë vesting"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en my Elohim"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "'n rots"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "van my toevlug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.238966364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 29:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En julle sal My ⟨את⟩ aanroep en gaan en tot My bid, en ek sal na julle luister.",
+  "tokens": [
+    {
+      "surface": "וקראתם",
+      "gloss": "en julle sal aanroep"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "My"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "והתפללתם",
+      "gloss": "en bid"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot My"
+    },
+    {
+      "surface": "ושמעתי",
+      "gloss": "en ek sal luister"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na julle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:38:25.806654318Z",
+  "model": "glm-5.3"
+}

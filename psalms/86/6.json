@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Luister, Jahweh, na my gebed, en skuif U ⟨die⟩ oor na die stem van my smeekinge.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "na my gebed"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "en skuif die oor"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "na die stem"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "van my smeekinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.387114958Z",
+  "model": "glm-5.3"
+}

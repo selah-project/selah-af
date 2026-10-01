@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en ⟨את⟩ die onderstelle het hy gemaak, en ⟨את⟩ die wasbakke het hy gemaak, op die onderstelle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die onderstelle"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "die onderstelle"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wasbakke"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "die wasbakke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "die onderstelle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:15.237372726Z",
+  "model": "glm-5.3"
+}

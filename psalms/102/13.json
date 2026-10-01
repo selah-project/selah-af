@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Maar u, Jahweh, sit ⟨vir⟩ ewig ⟨troon⟩, en u gedenking vir geslag en geslag.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sit ⟨troon⟩"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "en u gedenking"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:27.437333801Z",
+  "model": "glm-5.3"
+}

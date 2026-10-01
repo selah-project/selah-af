@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Mosje het gesê: Laat my tog omdraai dat ek ⟨את⟩ hierdie groot gesig aanskou — waarom brand die struik nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "laat my omdraai"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "dat ek aanskou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie groot gesig"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "die gesig"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "brand"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "die struik"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:37.976570408Z",
+  "model": "glm-5.3"
+}

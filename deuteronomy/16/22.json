@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En jy mag vir jou geen gedenksteen oprig wat Jahweh jou Elohim haat nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "jy mag oprig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "gedenksteen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:08.650065715Z",
+  "model": "glm-5.3"
+}

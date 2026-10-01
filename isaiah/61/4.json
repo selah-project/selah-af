@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 61:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "En hulle sal die ou puinhope bou, die verlatenhede van voortye sal hulle oprig, en hulle sal die verwoeste stede herstel, verlatenhede van geslag tot geslag.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "En hulle sal bou"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "puinhope"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ou \/ van voortye"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "verlatenhede"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "van voortye"
+    },
+    {
+      "surface": "יקוממו",
+      "gloss": "sal hulle oprig"
+    },
+    {
+      "surface": "וחדשו",
+      "gloss": "en hulle sal herstel"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "stede"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "verwoeste"
+    },
+    {
+      "surface": "שממות",
+      "gloss": "verlatenhede"
+    },
+    {
+      "surface": "דור",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "tot geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:45.833033993Z",
+  "model": "glm-5.3"
+}

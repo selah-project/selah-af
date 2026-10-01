@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En ⟨את⟩ die huise van Jerusjalajim het julle getel, en die huise het julle afgebreek om die muur te versterk.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die huise van Jerusjalajim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "die huise"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "het julle getel"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "en julle het afgebreek"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die huise"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "om te versterk"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "die muur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:52.841050951Z",
+  "model": "glm-5.3"
+}

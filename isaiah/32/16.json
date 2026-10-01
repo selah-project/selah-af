@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En reg sal woon in die wildernis, en tsedek sal bly in die karmel.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "en sal woon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die wildernis"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "in die karmel"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sal bly"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:53.510812470Z",
+  "model": "glm-5.3"
+}

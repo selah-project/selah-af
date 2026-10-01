@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 10:12",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en die Sidoniërs en Amalek en Maön het julle ⟨אתכם⟩ ingedruk, en julle het tot my geroep, en ek het julle ⟨אתכם⟩ uit hulle hand gered?",
+  "tokens": [
+    {
+      "surface": "וצידונים",
+      "gloss": "en die Sidoniërs"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "en Amalek"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "en Maön"
+    },
+    {
+      "surface": "לחצו",
+      "gloss": "het ingedruk"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ותצעקו",
+      "gloss": "en julle het geroep"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot my"
+    },
+    {
+      "surface": "ואושיעה",
+      "gloss": "en ek het gered"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨אתכם⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "uit hulle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:22.347431396Z",
+  "model": "glm-5.3"
+}

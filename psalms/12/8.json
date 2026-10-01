@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "U, Jahweh, sal hulle bewaar; U sal ⟨ons⟩ beskerm van hierdie geslag vir ewig.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "sal hulle bewaar"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "sal ⟨ons⟩ beskerm"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "hierdie geslag"
+    },
+    {
+      "surface": "זו",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.638714045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "⟨Die⟩ hoof van my omringers — mag die onheil van hulle lippe hulle self oordek.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "van my omringers"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "van hulle lippe"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "dek dit hulle toe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.693218287Z",
+  "model": "glm-5.3"
+}

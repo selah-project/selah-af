@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het hom gedra en hom na sy moeder gebring, en hy het op haar knieë gesit tot die middag, en hy het gesterwe.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "en hy het hom gedra"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "en hom gebring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het gesit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "haar knieë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "die middag"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hy het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:22.102711588Z",
+  "model": "glm-5.3"
+}

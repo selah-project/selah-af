@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 100,
+  "translation": "'n Mizmor van dankbetuiging. Juig vir Jahweh, die hele aarde.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Mizmor"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "van dankbetuiging"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:42.988303790Z",
+  "model": "glm-5.3"
+}

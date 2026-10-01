@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En julle moet my gebooie hou en hulle doen; ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "En julle moet hou"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (my gebooie)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.325938134Z",
+  "model": "glm-5.3"
+}

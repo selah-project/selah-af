@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 22:30",
+  "book": "job",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Hy red ⟨die⟩ nié-on skuldige, en hy word gered deur ⟨die⟩ reinheid van jou hande.",
+  "tokens": [
+    {
+      "surface": "ימלט",
+      "gloss": "hy red"
+    },
+    {
+      "surface": "אי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "skuldige"
+    },
+    {
+      "surface": "ונמלט",
+      "gloss": "en hy word gered"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "deur die reinheid"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "van jou hande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:39.707526972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 3:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "want vir ⟨את⟩ die een wat Jahweh liefhet, dié bestraf hy, en soos 'n vader 'n seun vir ⟨את⟩ wie hy behaag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "vir ⟨את⟩",
+      "marks": "die een wat Jahweh liefhet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die een wat"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "bestraf hy"
+    },
+    {
+      "surface": "וכאב",
+      "gloss": "en soos 'n vader"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "vir wie hy behaag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:12.148129213Z",
+  "model": "glm-5.3"
+}

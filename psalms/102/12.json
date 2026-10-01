@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "My dae ⟨is⟩ soos 'n uitgestrekte skaduwee, en ek ⟨is⟩ soos gras verdor.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "soos 'n skaduwee"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "uitgestrekte"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "soos gras"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "verdor"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:23.254666756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hy wat graan terughou, hom sal ⟨die⟩ volk vervloek, maar seën ⟨kom⟩ op die hoof van hom wat graan verkoop.",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "hy wat terughou"
+    },
+    {
+      "surface": "בר",
+      "gloss": "graan"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "sal hom vervloek"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "volk"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "maar seën"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "op die hoof"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "van hom wat graan verkoop"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:14.201365979Z",
+  "model": "glm-5.3"
+}

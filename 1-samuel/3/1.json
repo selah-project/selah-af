@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die seun Sjemoeël het Jahweh ⟨את⟩ bedien voor Eli, en die woord van Jahweh was kosbaar in daardie dae — ⟨ daar was ⟩ geen visioen wat deurbreek nie.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "en die seun"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "het bedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "kosbaar"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in dae"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "visioen"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "deurbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:03.934120392Z",
+  "model": "glm-5.3"
+}

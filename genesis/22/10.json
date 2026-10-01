@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Awraham steek ⟨את⟩ sy hand uit en neem ⟨את⟩ die mes om ⟨את⟩ sy seun te slag.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "steek uit"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mes"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "die mes"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "te slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:08.808364959Z",
+  "model": "glm-5.3"
+}

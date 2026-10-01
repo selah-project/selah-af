@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Want gebod op gebod, gebod op gebod, lyn op lyn, lyn op lyn, 'n bietjie daar, 'n bietjie daar.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צו",
+      "gloss": "gebod"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "op gebod"
+    },
+    {
+      "surface": "צו",
+      "gloss": "gebod"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "op gebod"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lyn"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "op lyn"
+    },
+    {
+      "surface": "קו",
+      "gloss": "lyn"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "op lyn"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "'n bietjie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "'n bietjie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:22.438910446Z",
+  "model": "glm-5.3"
+}

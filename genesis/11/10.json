@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Dit ⟨is⟩ die geslagte van Sjem. Sjem was 'n seun van honderd jaar en hy het ⟨את⟩ Arpagsjad verwek, twee jaar na die vloed.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "die geslagte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Arpagsjad"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Arpagsjad"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "twee jaar"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "na"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "die vloed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:31.929173409Z",
+  "model": "glm-5.3"
+}

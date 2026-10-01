@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 2:31",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Kyk, dae kom dat Ek ⟨את⟩ jou arm sal afkap, en ⟨את⟩ die arm van die huis van jou vader, sodat daar geen ou man in jou huis sal wees nie.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kom"
+    },
+    {
+      "surface": "וגדעתי",
+      "gloss": "dat Ek sal afkap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou arm"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou arm"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die arm van die huis van jou vader"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "die arm van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "מהיות",
+      "gloss": "sodat daar nie sal wees"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "ou man"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jou huis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:05.079777076Z",
+  "model": "glm-5.3"
+}

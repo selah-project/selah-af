@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 27:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En nou sal my hoof verhoog word bo my vyande wat my rondom omring; en ek sal in sy tente offers van gejubel offer; ek sal sing, ja, ek will speel vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "sal verhoog word"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my hoof"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "wat my rondom omring"
+    },
+    {
+      "surface": "ואזבחה",
+      "gloss": "en ek sal offer"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "in sy tente"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "offers"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "van gejubel"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ek sal sing"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ja, ek will speel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:46.745906772Z",
+  "model": "glm-5.3"
+}

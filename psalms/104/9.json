@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "‘n Grens het U gestel — hulle sal dit nie oorgaan nie, hulle sal nie terugkeer om ⟨את⟩ die aarde te bedek nie.",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "‘n grens"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "het U gestel"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "sal hulle oorgaan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "sal hulle terugkeer"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "om te bedek"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:12.763702596Z",
+  "model": "glm-5.3"
+}

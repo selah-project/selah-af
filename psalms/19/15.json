@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Mag die woorde van my mond en die oordenking van my hart ⟨wees⟩ tot welbehae voor u aangesig, Jahweh, my rots en my losser",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "tot welbehae"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van my mond"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "en die oordenking"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "van my hart"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "en my losser"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:19.240137143Z",
+  "model": "glm-5.3"
+}

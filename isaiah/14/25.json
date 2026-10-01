@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 14:25",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "om Assjoer in my land te verbreek, en op my berge hom te vertrap; dan sal sy juk van hulle af wyk, en sy las van hulle skouer af wegwijk.",
+  "tokens": [
+    {
+      "surface": "לשבר",
+      "gloss": "om te verbreek"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjoer"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "in my land"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "my berge"
+    },
+    {
+      "surface": "אבוסנו",
+      "gloss": "hom te vertrap"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "dan sal wyk"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "van hulle af"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "sy juk"
+    },
+    {
+      "surface": "וסבלו",
+      "gloss": "en sy las"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "hulle skouer"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "wegwijk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:48.383169322Z",
+  "model": "glm-5.3"
+}

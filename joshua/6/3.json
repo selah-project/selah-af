@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En julle sal ⟨את⟩ die stad omring, al die krygsmanne, om ⟨את⟩ die stad trek een keer; so moet jy doen ses dae.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "En julle sal omring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "die oorlog"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "om trek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "keer"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ses"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:31.002341659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 3:4",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Want baie dae sal die seuns van Jisraël sit ⟨sonder⟩ 'n koning en ⟨sonder⟩ 'n vors, en ⟨sonder⟩ slagoffer, en ⟨sonder⟩ gedenkpilaar, en ⟨sonder⟩ efod en terafim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sal ... sit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is nie ... nie"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "שר",
+      "gloss": "vors"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "slagoffer"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "gedenkpilaar"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "efod"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "terafim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:33.237513013Z",
+  "model": "glm-5.3"
+}

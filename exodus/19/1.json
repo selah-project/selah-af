@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 19:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "In die derde maand van die uittrek van die kinders van Jisraël uit die land van Mitsrajim, op hierdie dag het hulle die woestyn Sinai binnegekom.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "die derde"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "van die uittrek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het hulle binnegekom"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinai"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:15.132614002Z",
+  "model": "glm-5.3"
+}

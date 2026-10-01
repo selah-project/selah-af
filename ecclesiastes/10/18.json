@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Deur luiheid sak die dak in, en deur slapheid van hande drup die huis.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "Deur luiheid"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "sak in"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "die dak"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "en deur slapheid"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "van hande"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "drup"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:36.991159004Z",
+  "model": "glm-5.3"
+}

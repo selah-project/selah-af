@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 1:16",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek sal my oordele met hulle ⟨את⟩ uitspreek oor al hulle kwaad, dat hulle my verlaat het en wierook gebrand het aan ander gode en hulleself neergebuig het vir die werke van hulle hande.",
+  "tokens": [
+    {
+      "surface": "ודברתי",
+      "gloss": "en ek sal uitspreek"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my oordele"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "hulle kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "hulle my verlaat het"
+    },
+    {
+      "surface": "ויקטרו",
+      "gloss": "en wierook gebrand het"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hulleself neergebuig het"
+    },
+    {
+      "surface": "למעשי",
+      "gloss": "vir die werke"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "van hulle hande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:44.638730358Z",
+  "model": "glm-5.3"
+}

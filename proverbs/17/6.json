@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "⟨Die⟩ kroon van die oues ⟨is⟩ kinders van kinders, en ⟨die⟩ praal van kinders ⟨is⟩ hulle vaders.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "kroon"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "van die oues"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders van"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "en ⟨die⟩ praal"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "van kinders"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "hulle vaders"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:40.864746579Z",
+  "model": "glm-5.3"
+}

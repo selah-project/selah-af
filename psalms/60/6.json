@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "U het aan die wat U vrees 'n banier gegee om te wapper ter wille van die waarheid. Sela.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "U het gegee"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "aan die wat U vrees"
+    },
+    {
+      "surface": "נס",
+      "gloss": "'n banier"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "om te wapper"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "die waarheid"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:44.201362523Z",
+  "model": "glm-5.3"
+}

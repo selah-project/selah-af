@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 20:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En 'n man wat ⟨את⟩ die vrou van sy broer neem — dit is onreinheid; die naaktheid van sy broer het hy ontbloot; kinderloos sal hulle wees.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van sy broer"
+    },
+    {
+      "surface": "נדה",
+      "gloss": "onreinheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit ⟨is⟩"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van sy broer"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "het hy ontbloot"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "kinderloos"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:06.268009829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En toe ek ⟨את⟩ hierdie woord hoor, het ek ⟨את⟩ my kleed en my mantel geskeur, en ek het die hare van my hoof en van my baard uitgetrek, en ek het gesit, verslae.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "en toe ek hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "het ek geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my kleed en my mantel"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "my kleed"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "en my mantel"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "en ek het uitgetrek"
+    },
+    {
+      "surface": "משער",
+      "gloss": "die hare van"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my hoof"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "en my baard"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "en ek het gesit"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "verslae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:39:41.575780091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Vervloek is hy wat 'n omkoopgeskenk neem om 'n siel te slaan, bloed van 'n onskuldige — en die hele volk sal sê: Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "'n omkoopgeskenk"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "om te slaan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "'n siel"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "van 'n onskuldige"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:47.110368784Z",
+  "model": "glm-5.3"
+}

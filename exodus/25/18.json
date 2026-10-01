@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy sal twee keroewiem van goud maak; van gekapte werk sal jy ⟨את⟩ hulle maak, aan die twee endes van die kaporet.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "keroewiem"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "van gekapte werk"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "keroewiem"
+    },
+    {
+      "surface": "משני",
+      "gloss": "aan die twee"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "endes"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "van die kaporet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:43.803919772Z",
+  "model": "glm-5.3"
+}

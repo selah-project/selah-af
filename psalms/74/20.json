@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Sien die verbond aan, want die duistere plekke van die aarde is vol woonplekke van geweld.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Sien aan"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "die verbond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "die duistere plekke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "woonplekke"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:45.388968104Z",
+  "model": "glm-5.3"
+}

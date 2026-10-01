@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "'n Koning deur reg laat die land staan; maar 'n man van offerskeidings breek dit af.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "deur reg"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "laat staan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "maar 'n man"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "offerskeidings"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "breek dit af"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:06.617695990Z",
+  "model": "glm-5.3"
+}

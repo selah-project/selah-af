@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Ek sal jou woorde antwoord, en ⟨את⟩ jou metgeselle saam met jou.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "sal ek jou antwoord"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou metgeselle"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "jou metgeselle"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "saam met jou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:21:51.038211209Z",
+  "model": "glm-5.3"
+}

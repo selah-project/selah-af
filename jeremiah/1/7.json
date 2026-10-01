@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 1:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Maar Jahweh het vir my gesê: Moenie sê 'n seun nog is ek nie, want na alles wat ek jou stuur, sal jy gaan, en ⟨את⟩ alles wat ek jou beveel, sal jy spreek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maar hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n seun nog"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "ek jou stuur"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sal jy gaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat ek jou beveel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ek jou beveel"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sal jy spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:19.620636703Z",
+  "model": "glm-5.3"
+}

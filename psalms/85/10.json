@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Verseker, naby aan diegene wat hom vrees, is sy redding — sodat kavod in ons land kan woon.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "verseker"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "naby"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "aan diegene wat hom vrees"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "sy redding"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kavod"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in ons land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.009932816Z",
+  "model": "glm-5.3"
+}

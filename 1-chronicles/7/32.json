@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Chewer het ⟨את⟩ Jaflet verwek, en ⟨את⟩ Sjomer, en ⟨את⟩ Chotam, en ⟨את⟩ Sjoea, hul suster.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "En Chewer"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaflet"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Jaflet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjomer"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Sjomer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chotam"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Chotam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjoea"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Sjoea"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "hul suster"
+    }
+  ],
+  "timestamp": "2026-10-01T00:46:36.994925774Z",
+  "model": "glm-5.3"
+}

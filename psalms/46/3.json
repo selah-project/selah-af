@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Daarom sal ons nie vrees in die verander van ⟨die⟩ aarde nie, en in die wankel van berge binne die hart van seë nie.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "sal ons vrees"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "in die verander"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "en in die wankel"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "binne die hart"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van seë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:07.890386342Z",
+  "model": "glm-5.3"
+}

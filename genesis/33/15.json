@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 33:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Esav sê: Laat my tog van die volk wat ⟨את⟩ by my is by jou laat aanbly. En hy sê: Hoekom dit? Mag ek genade vind in die oë van my heer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אציגה",
+      "gloss": "laat ek laat aanbly"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "die volk wat by my is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "mag ek vind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:46.690527331Z",
+  "model": "glm-5.3"
+}

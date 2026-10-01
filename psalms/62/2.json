@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Slegs tot Elohim ⟨is⟩ my siel stil; van Hom ⟨kom⟩ my redding.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van Hom"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "my redding"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:20.215227147Z",
+  "model": "glm-5.3"
+}

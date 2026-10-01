@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy moet ⟨את⟩ sy klere uittrek en ander klere aantrek, en ⟨את⟩ die as uithou buitekant die kamp, na 'n ⟨suiwere⟩ plek toe.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "en moet uittrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "en aantrek"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "klere"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "en uithou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die as"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "die as"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suiwer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:54.305058389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Die man, die heer van die land, het hard met ⟨את⟩ ons gepraat en ons as spioene van ⟨את⟩ die land behandel.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "die heer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "met ⟨את⟩ ons"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het ons behandel as"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons",
+      "marks": "as spioene van die land"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "spioene"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:22.753243554Z",
+  "model": "glm-5.3"
+}

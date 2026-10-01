@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En ⟨את⟩ sy seuns sal jy nader bring, en jy sal ⟨את⟩ hulle beklee met rompe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "nader bring"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "beklee"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "rompe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:09.004418210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Moenie wees soos ⟨die⟩ perd, soos ⟨die⟩ muil, sonder verstand — met toom en teuel, sy tooi, om hulle in te toom, anders kom hulle nie naby aan jou nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "wees"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "soos ⟨die⟩ perd"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "soos ⟨die⟩ muil"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "verstand"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "met toom"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "en teuel"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "sy tooi"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "om hulle in te toom"
+    },
+    {
+      "surface": "בל",
+      "gloss": "anders nie"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "kom naby"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:23.911877999Z",
+  "model": "glm-5.3"
+}

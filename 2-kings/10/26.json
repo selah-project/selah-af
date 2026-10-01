@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle het ⟨את⟩ die stadskolomme van die huis van die Baäl uitgebring en dit verbrand.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "En hulle het uitgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stadskolomme"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "die stadskolomme"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van die Baäl"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "en dit verbrand"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:17.909792806Z",
+  "model": "glm-5.3"
+}

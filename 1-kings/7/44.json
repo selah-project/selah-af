@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "en ⟨את⟩ die een see, en ⟨את⟩ die twaalf beeste onder die see",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die een see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die twaalf beeste"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die beeste"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(twee- en tien)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:32.135783670Z",
+  "model": "glm-5.3"
+}

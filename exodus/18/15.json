@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Mosje het vir sy skoonvader gesê: Omdat die volk na my toe kom om Elohim te raadpleeg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "vir sy skoonvader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "om te raadpleeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:02.235381674Z",
+  "model": "glm-5.3"
+}

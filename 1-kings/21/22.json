@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 21:22",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en ek sal ⟨את⟩ jou huis maak soos die huis van Jerobeam, seun van Newat, en soos die huis van Basja, seun van Agia, ooreenkomstig die toorn waarmee jy geprikkel het en ⟨את⟩ Jisraël laat sondig het.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en sal ek maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou huis"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jou huis"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "soos die huis"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Newat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "en soos die huis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Agia"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ooreenkomstig"
+    },
+    {
+      "surface": "הכעס",
+      "gloss": "die toorn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "הכעסת",
+      "gloss": "jy geprikkel het"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "en laat sondig het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:49.176475422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "'n Tuin toegesluit is my suster, my bruid; 'n fontein toegesluit, 'n bron verseël.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "'n tuin"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "toegesluit"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my suster"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "my bruid"
+    },
+    {
+      "surface": "גל",
+      "gloss": "'n fontein"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "toegesluit"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "'n bron"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "verseël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:29.076869249Z",
+  "model": "glm-5.3"
+}

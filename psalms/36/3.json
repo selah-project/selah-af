@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Want dit het glad geword in sy oë, om sy skuld te vind, om te haat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "het glad geword"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "dit (vir hom)"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "om te vind"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sy skuld"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "om te haat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.521086986Z",
+  "model": "glm-5.3"
+}

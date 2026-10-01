@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 131,
+  "translation": "Mag Jisraël op Jahweh wag, van nou af en tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Mag ... wag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nou af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:09.898621809Z",
+  "model": "glm-5.3"
+}

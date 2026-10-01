@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Hulle keer terug in die aand; hulle grom soos 'n hond en gaan rondom die stad.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "hulle keer terug"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "hulle grom"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "soos 'n hond"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "en gaan rondom"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:08.464378955Z",
+  "model": "glm-5.3"
+}

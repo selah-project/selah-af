@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Jahweh het gesê: Wie sal ⟨את⟩ Agab verlei, sodat hy optrek en val in Ramot-Gilad? En die een het gesê só, en die ander het gesê só.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "sal verlei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agab"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "sodat hy optrek"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en val"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "in Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gilad"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "זה",
+      "gloss": "die een"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "só"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "en die ander"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "só"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:42.612715965Z",
+  "model": "glm-5.3"
+}

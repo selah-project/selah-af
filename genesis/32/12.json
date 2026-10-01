@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 32:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Red my tog uit die hand van my broer, uit die hand van Esav, want ek vrees ⟨את⟩ hom, dat hy nie sal kom en my slaan nie — moeder saam met kinders.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "van my broer"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "van Esav"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Esav)"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat nie"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hy sal kom"
+    },
+    {
+      "surface": "והכני",
+      "gloss": "en my slaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "moeder"
+    },
+    {
+      "surface": "על",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:16.148953053Z",
+  "model": "glm-5.3"
+}

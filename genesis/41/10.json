@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Paro was toornig oor sy dienaars, en hy het my gegee in bewaring in die huis van die owerste van die slagters, my en die owerste van die bakkers.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "was toornig"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my in bewaring"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "in bewaring"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "שר",
+      "gloss": "van die owerste"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "van die slagters"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "die owerste van die bakkers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die owerste van die bakkers"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "van die bakkers"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:48.197753270Z",
+  "model": "glm-5.3"
+}

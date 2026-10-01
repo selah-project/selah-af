@@ -1,0 +1,187 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 16:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En koning Agas het hom beveel — dit was ⟨את⟩ Uría die priester — om te sê: op die groot altaar moet jy ⟨את⟩ die brandoffer van die môre en ⟨את⟩ die minga van die aand en ⟨את⟩ die brandoffer van die koning en ⟨את⟩ sy minga en ⟨את⟩ die brandoffer van die hele volk van die land, asook hul minga en hul drankoffers, laat opgaan in rook; en al die bloed van brandoffer en al die bloed van slagoffer moet jy daarop sprei; en die koperaltaar sal vir my wees om te raadpleeg.",
+  "tokens": [
+    {
+      "surface": "ויצוהו",
+      "gloss": "En het hom beveel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Agas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Uría"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uría"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "die groot"
+    },
+    {
+      "surface": "הקטר",
+      "gloss": "moet jy laat opgaan in rook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van die môre"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die minga"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "van die aand"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy minga"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "sy minga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "en hul minga"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "en hul drankoffers"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "van brandoffer"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "van slagoffer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "תזרק",
+      "gloss": "moet jy sprei"
+    },
+    {
+      "surface": "ומזבח",
+      "gloss": "en die altaar"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "om te raadpleeg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:39.535817784Z",
+  "model": "glm-5.3"
+}

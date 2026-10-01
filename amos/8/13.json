@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 8:13",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "In dié dag sal die mooi jongmeisies en die jongmanne van dors beswyk.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in dié dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "תתעלפנה",
+      "gloss": "sal beswyk"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "die jongmeisies"
+    },
+    {
+      "surface": "היפות",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "והבחורים",
+      "gloss": "en die jongmanne"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "van dors"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:49.465270755Z",
+  "model": "glm-5.3"
+}

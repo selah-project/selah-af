@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Dink aan ons, Jahweh, wat ons oorgekom het; kyk en sien ⟨את⟩ ons smaad.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Dink aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "oorgekom het"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons smaad"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ons smaad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:06.719272411Z",
+  "model": "glm-5.3"
+}

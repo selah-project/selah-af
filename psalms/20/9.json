@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Hulle het die knie gebuig en gevall; maar ons het opgestaan en ons regop gehou.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "het die knie gebuig"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en geval"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "maar ons"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "en ons regop gehou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:05.881283579Z",
+  "model": "glm-5.3"
+}

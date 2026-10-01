@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh Elohim het ⟨את⟩ die mens geneem en hom in die tuin van Eden laat woon om dit te bewerk en dit te bewaar.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "het hom laat woon"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "in die tuin"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "om dit te bewerk"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "en dit te bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.302056547Z",
+  "model": "glm-5.3"
+}

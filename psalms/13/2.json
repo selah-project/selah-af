@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Hoe lank, Jahweh, sal U my heeltemal vergeet? Hoe lank sal U ⟨את⟩ U aangesig vir my verberg?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "sal U my vergeet"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "heeltemal"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "sal U verberg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "U aangesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "U aangesig"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.070534346Z",
+  "model": "glm-5.3"
+}

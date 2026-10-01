@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 44:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Kyk, al sy metgeselle sal beskaamd word, en die ambagsmanne, hulle ⟨is⟩ uit mense; mag hulle almal vergader word, laat hulle staan — hulle sal verskrik, hulle saam beskaamd word.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חבריו",
+      "gloss": "sy metgeselle"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sal beskaamd word"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "en die ambagsmanne"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "uit mense"
+    },
+    {
+      "surface": "יתקבצו",
+      "gloss": "mag vergader word"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "laat hulle staan"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "hulle sal verskrik"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "hulle beskaamd word"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:20.782961665Z",
+  "model": "glm-5.3"
+}

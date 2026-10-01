@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "En verberg u aangesig nie vir u kneg nie, want dit is benoud met my — haas u, antwoord my.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "en ... nie"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "vir u kneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צר",
+      "gloss": "dit is benoud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haas u"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:53.623363881Z",
+  "model": "glm-5.3"
+}

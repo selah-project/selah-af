@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Maar Rut sê: Druk my nie om jou te verlaat, om van agter jou terug te keer nie; want waarheen jy gaan, sal ek gaan, en waar jy vernag, sal ek vernag; jou volk ⟨is⟩ my volk, en jou Elohim ⟨is⟩ my Elohim.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "toe sê sy"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Rut"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "druk my"
+    },
+    {
+      "surface": "בי",
+      "gloss": "my"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "om jou te verlaat"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "om terug te keer"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "van agter jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "jy gaan"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal ek gaan"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "en waar"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "jy vernag"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "sal ek vernag"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "en jou Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:57.520651617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Onthou ⟨את⟩ wat Jahweh jou Elohim aan Mirjam gedoen het op die pad, toe julle uit Mitsrajim getrek het.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "aan Mirjam"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "toe julle getrek het"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:42.160103945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Wederspannig was julle met Jahweh van die dag af dat ek julle ⟨את⟩ leer ken het.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Wederspannig"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "was julle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "van die dag af"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "dat ek leer ken het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "leer ken"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:46.111591536Z",
+  "model": "glm-5.3"
+}

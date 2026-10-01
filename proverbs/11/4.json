@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Rykdom help nie in die dag van grimmigheid nie, en tsedek red van die dood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "help"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rykdom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in die dag"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "van grimmigheid"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "red"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:15.058633319Z",
+  "model": "glm-5.3"
+}

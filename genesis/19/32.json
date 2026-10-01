@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Kom, laat ons ons pa ⟨את⟩ wyn laat drink en met hom lê, dat ons uit ons pa nageslag laat lewe.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "laat ons ... laat drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons pa"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ons pa"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "en met hom lê"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "dat ons laat lewe"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "uit ons pa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:42.494941661Z",
+  "model": "glm-5.3"
+}

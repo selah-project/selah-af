@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Ons voete het gestaan in jou poorte, Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "gestaan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "het"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ons voete"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "in jou poorte"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:17.091537368Z",
+  "model": "glm-5.3"
+}

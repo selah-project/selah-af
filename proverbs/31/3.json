@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Gee nie jou krag aan vroue nie, en jou wese aan dié wat konings uitwis nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "aan vroue"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "jou krag"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "en jou wese"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "aan dié wat uitwis"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "konings"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:06.155815042Z",
+  "model": "glm-5.3"
+}

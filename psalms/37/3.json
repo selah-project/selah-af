@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Vertrou op Jahweh en doen goed; woon in die land en wei op trou.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woon"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "en wei op"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.780458724Z",
+  "model": "glm-5.3"
+}

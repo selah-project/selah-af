@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Toue van Sjeol het my omring, strikke van die dood het my tegemoet gekom.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "toue"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjeol"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "het my omring"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "het my tegemoet gekom"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "strikke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:38.214863594Z",
+  "model": "glm-5.3"
+}

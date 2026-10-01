@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "U het ⟨את⟩ die verbond van U dienaar ontheilig, U het sy kroon tot op die aarde geskend.",
+  "tokens": [
+    {
+      "surface": "נארתה",
+      "gloss": "het ontheilig"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van U dienaar"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "het geskend"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tot op die aarde"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "sy kroon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.798450633Z",
+  "model": "glm-5.3"
+}

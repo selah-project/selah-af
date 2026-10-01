@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 1:2",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy sê: Jahweh brul uit Tsjion en uit Jerusjalajim gee hy sy stem; en die weivelde van die herders treur, en die kruin van die Karmel verdor.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "uit Tsjion"
+    },
+    {
+      "surface": "ישאג",
+      "gloss": "brul"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "en uit Jerusjalajim"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee hy"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sy stem"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "en ... treur"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "die weivelde"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "van die herders"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "en ... verdor"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kruin"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "van die Karmel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:02:33.592754217Z",
+  "model": "glm-5.3"
+}

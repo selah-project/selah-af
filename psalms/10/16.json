@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Jahweh ⟨is⟩ koning vir ewig en altoos; ⟨die⟩ nasies het omgekom uit sy land.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altoos"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "het omgekom"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit sy land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:25.890245398Z",
+  "model": "glm-5.3"
+}

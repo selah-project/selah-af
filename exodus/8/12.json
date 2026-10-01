@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jahweh het vir Mosje gesê: Sê vir Aharon: Strek ⟨את⟩ jou staf uit en slaan ⟨את⟩ die stof van die aarde, en dit sal luise word in die hele land van Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "strek uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou staf"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "jou staf"
+    },
+    {
+      "surface": "והך",
+      "gloss": "en slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stof van die aarde"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "die stof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal word"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "luise"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:05.484296520Z",
+  "model": "glm-5.3"
+}

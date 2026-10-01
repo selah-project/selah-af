@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die Filistyn het aan Dawid gesê: Kom na my toe, dan sal ek ⟨את⟩ jou vlees gee aan die voëls van die hemel en aan die diere van die veld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "dan sal ek gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vlees"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "jou vlees"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "aan die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "en aan die diere"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:13.519555446Z",
+  "model": "glm-5.3"
+}

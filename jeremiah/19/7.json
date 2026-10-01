@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 19:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En ek sal die raad van Jehoeda en Jerusjalajim in hierdie plek nietig maak, en ek sal hulle laat val deur die swaard voor hulle vyande en deur die hand van die wat hulle lewe soek; en ek sal hulle ⟨את⟩ lyke gee as voedsel vir die voëls van die hemel en vir die diere van die aarde.",
+  "tokens": [
+    {
+      "surface": "ובקתי",
+      "gloss": "en ek sal nietig maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die raad"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "die raad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jerusjalajim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והפלתים",
+      "gloss": "en ek sal hulle laat val"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deur die swaard"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en deur die hand"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "van die wat soek"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle lewe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle lyke"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "hulle lyke"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "as voedsel"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "vir die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "en vir die diere"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:22.351392778Z",
+  "model": "glm-5.3"
+}

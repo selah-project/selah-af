@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het aan die satan gesê: Van waar kom jy? En die satan het Jahweh geantwoord ⟨את⟩ en gesê: Van rondswerf op die aarde en van wandel daarop.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "die satan"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kom jy"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "en geantwoord"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "die satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "van rondswerf"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "en van wandel"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:41.743576457Z",
+  "model": "glm-5.3"
+}

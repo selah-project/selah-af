@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Ek sal wees soos dou vir Jisraël; hy sal bloei soos ⟨die⟩ sjosjanna, en sy wortels sal uitslaan soos ⟨die⟩ Lewanon.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "sal ek wees"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "soos dou"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "sal hy bloei"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "soos ⟨die⟩ sjosjanna"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en sal uitslaan"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "sy wortels"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "soos ⟨die⟩ Lewanon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:22.699724894Z",
+  "model": "glm-5.3"
+}

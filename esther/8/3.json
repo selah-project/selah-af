@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Ester het weer gepraat voor die koning, en sy het by sy voete geval, en sy het gehuil en hom gesmeek om ⟨את⟩ die kwaad van Haman die Agagiet weg te laat gaan, en ⟨את⟩ sy plan wat hy teen die Jode beraam het.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "weer"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "gepraat"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "geval"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "by"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "gehuil"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "gesmeek"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om weg te laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kwaad van Haman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "המן",
+      "gloss": "van Haman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "die Agagiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy plan"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "sy plan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "beraam het"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jode"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:33.878521216Z",
+  "model": "glm-5.3"
+}

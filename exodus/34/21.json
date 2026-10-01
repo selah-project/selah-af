@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Ses dae sal jy werk, en op ⟨die⟩ sewende dag sal jy Sjabbat hou; in ploeëtyd en in oestyd sal jy Sjabbat hou.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Ses"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "sal jy werk"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op ⟨die⟩ dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "sal jy Sjabbat hou"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "in ploeëtyd"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "en in oestyd"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "sal jy Sjabbat hou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:01.333883850Z",
+  "model": "glm-5.3"
+}

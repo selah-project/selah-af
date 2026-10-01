@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Nag, die man van die grond, het begin en 'n wingerd geplant.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Nag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "en geplant"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "'n wingerd"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:35.581199080Z",
+  "model": "glm-5.3"
+}

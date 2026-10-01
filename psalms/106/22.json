@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "wonders in die land van Gam, verskriklike dade op die see van Soef.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Gam"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "verskriklike dade"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van Soef"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.608605428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezekiel 23:38",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Nóg dit het hulle My aangedoen: hulle het ⟨את⟩ My heiligdom onrein gemaak op daardie dag, en ⟨את⟩ My Sjabbatte het hulle ontheilig.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "nóg"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "het hulle gedoen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "My"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "het onrein gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My heiligdom"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "My heiligdom"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "My Sjabbatte"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "My Sjabbatte"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "het hulle ontheilig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:51:24.546449881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Jahweh — in sy heilige paleis; Jahweh — in die hemel ⟨is⟩ sy troon. Sy oë sien, sy ooglidde toets die mensekinders.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in sy paleis"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sy troon"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "sy ooglidde"
+    },
+    {
+      "surface": "יבחנu",
+      "gloss": "toets"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:02.230514641Z",
+  "model": "glm-5.3"
+}

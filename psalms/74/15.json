@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "U het fontein en spruit laat opbars; u het strome, ⟨die⟩ eeuestande, laat opdroog.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "het laat opbars"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "fontein"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "en spruit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "het laat opdroog"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "strome"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "⟨die⟩ eeuestande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:49.854141397Z",
+  "model": "glm-5.3"
+}

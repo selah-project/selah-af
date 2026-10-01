@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 44:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En hy het gesê: Ook nou, soos julle woorde, so ⟨is⟩ dit; by wie dit gevind word, hy sal my dienaar word, en julle sal onskuldig wees.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "כדבריכם",
+      "gloss": "soos julle woorde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩ dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "by wie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevind word"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "die beker wat by hom gevind word"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n dienaar"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "onskuldig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:39.169830071Z",
+  "model": "glm-5.3"
+}

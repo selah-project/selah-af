@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 16:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "'n heilige linenhemd sal hy aantrek, en linenbroeke sal op sy vlees wees, en met 'n linengordel sal hy hom omgord, en met 'n lintulband sal hy hom omwind; heilike klere is hulle, en hy sal sy vlees in die water was ⟨את⟩ en hulle aantrek.",
+  "tokens": [
+    {
+      "surface": "כתנת",
+      "gloss": "linenhemd"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "ילבש",
+      "gloss": "sal hy aantrek"
+    },
+    {
+      "surface": "ומכנסי",
+      "gloss": "en linenbroeke"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy vlees"
+    },
+    {
+      "surface": "ובאבנט",
+      "gloss": "en met 'n linengordel"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יחגר",
+      "gloss": "sal hy omgord"
+    },
+    {
+      "surface": "ובמצנפת",
+      "gloss": "en met 'n lintulband"
+    },
+    {
+      "surface": "בד",
+      "gloss": "linen"
+    },
+    {
+      "surface": "יצנף",
+      "gloss": "sal hy omwind"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klere"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "הם",
+      "gloss": "is hulle"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "en hy sal was"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in die water"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy vlees"
+    },
+    {
+      "surface": "ולבשם",
+      "gloss": "en hulle aantrek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:40.301381905Z",
+  "model": "glm-5.3"
+}

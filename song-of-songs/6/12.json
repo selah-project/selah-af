@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Ek het ⟨ dit nie geweet nie; my siel het my gemaak ⟨tot⟩ strydwaens van my edele volk.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "het ek geweet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "het my gemaak"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "strydwaens"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van my volk"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "edel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:55.676131639Z",
+  "model": "glm-5.3"
+}

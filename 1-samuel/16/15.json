@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die dienaars van Sjaúl het vir hom gesê: Kyk tog, 'n slegte roeag van Elohim verskrik jou.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "'n roeag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "verskrik jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:26.723677698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Hoor die woord van Jahweh, huis van Jaäkow, en al die families van die huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "die families"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:22.086030943Z",
+  "model": "glm-5.3"
+}

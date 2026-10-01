@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Wanneer die regverdiges juig, ⟨is daar⟩ groot heerlikheid, maar wanneer die goddeloses opstaan, word 'n mens weggesteek.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "wanneer ... juig"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "heerlikheid"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "maar wanneer ... opstaan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "word weggesteek"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "'n mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:57.040158202Z",
+  "model": "glm-5.3"
+}

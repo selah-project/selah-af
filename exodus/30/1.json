@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 30:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En jy sal 'n altaar maak vir die rook van reukwerk; van akasiahout sal jy ⟨את⟩ dit maak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "מקטר",
+      "gloss": "vir die rook"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "van reukwerk"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "van acacia's"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.639610988Z",
+  "model": "glm-5.3"
+}

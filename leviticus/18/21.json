@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En van jou nageslag moet jy nie gee om ⟨את⟩ deur te laat gaan vir die Moleg nie, en jy moet die naam van jou Elohim nie ontheilig nie — ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "en van jou nageslag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet jy gee"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "om deur te laat gaan"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vir die Moleg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:54.322604119Z",
+  "model": "glm-5.3"
+}

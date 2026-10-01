@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 51:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Dit goed in jou welbehae met ⟨את⟩ Tsijon; bou die mure van Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Dit goed"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "in jou welbehae"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsijon"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "die mure"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:34.586335705Z",
+  "model": "glm-5.3"
+}

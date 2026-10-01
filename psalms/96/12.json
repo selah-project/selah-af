@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Die veld sal spring van vreugde en alles wat daarin ⟨is⟩; dan sal al die bome van die woud juig",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "sal spring van vreugde"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sal juig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "die bome van"
+    },
+    {
+      "surface": "יער",
+      "gloss": "die woud"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:22.720218625Z",
+  "model": "glm-5.3"
+}

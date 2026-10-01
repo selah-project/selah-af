@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Dawid het ⟨dit⟩ gehoor, en hy het ⟨את⟩ Joab en ⟨את⟩ die hele leër van die helde gestuur.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en het gehoor"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die hele leër van die helde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leër"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "van die helde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:36.518744200Z",
+  "model": "glm-5.3"
+}

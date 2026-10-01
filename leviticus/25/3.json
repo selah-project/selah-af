@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Ses jaar moet jy jou saailand saai, en ses jaar moet jy jou wingerd snoei, en jy moet ⟨את⟩ sy opbrengs insamel.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Ses"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "moet jy saai"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "jou saailand"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "moet jy snoei"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "jou wingerd"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en jy moet insamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy opbrengs"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "sy opbrengs"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:00.608036571Z",
+  "model": "glm-5.3"
+}

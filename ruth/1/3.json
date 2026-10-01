@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elimeleg, die man van Naömie, het gesterwe, en sy het oorgebly, sy en haar twee seuns.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "Elimeleg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "van Naömie"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "het oorgebly"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en haar twee"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "seuns"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:54.425576695Z",
+  "model": "glm-5.3"
+}

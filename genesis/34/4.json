@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Sjegem het met Gamor sy vader gesê: Neem vir my ⟨את⟩ hierdie jongmeisie as vrou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjegem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Gamor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie jongmeisie"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "hierdie jongmeisie"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:33.697830800Z",
+  "model": "glm-5.3"
+}

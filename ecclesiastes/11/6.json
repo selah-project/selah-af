@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "In die môre saai ⟨את⟩ jou saad, en in die aand laat jou hand nie rus nie; want jy weet nie of dit of dat sal slaag nie, hierdie of dat, en as altwee — soos een ⟨is hulle⟩ goed.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou saad"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou saad"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "en in die aand"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "laat rus"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "jy nie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "אי",
+      "gloss": "of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "sal slaag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "altwee"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "soos een"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:22.362337049Z",
+  "model": "glm-5.3"
+}

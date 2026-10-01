@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh sê vir die Satan: Kyk, hy ⟨is⟩ in jou hand — alleen ⟨את⟩ sy lewe moet jy bewaar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "die Satan"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Kyk, hy"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lewe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy lewe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "moet jy bewaar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:29.691107572Z",
+  "model": "glm-5.3"
+}

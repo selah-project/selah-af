@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Skoon van ligging, ⟨is⟩ ⟨dit⟩ die vreugde van die hele aarde: ⟨die⟩ berg Tsijon, die uiterste van die noorde, die stad van die groot Koning.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Skoon"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "van ligging"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "die vreugde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "die uiterste"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "van die noorde"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die Koning"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:56.426909989Z",
+  "model": "glm-5.3"
+}

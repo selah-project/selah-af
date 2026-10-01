@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Hoe groot ⟨is⟩ u werke, Jahweh; hoe diep ⟨is⟩ u gedagtes!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "groot ⟨is⟩"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "u werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "diep ⟨is⟩"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "u gedagtes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:49.475414698Z",
+  "model": "glm-5.3"
+}

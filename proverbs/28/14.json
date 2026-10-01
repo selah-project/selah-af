@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 28:14",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Gelukkig die mens wat gedurig vrees; maar wie sy hart verhard, sal in onheil val.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "ומקשה",
+      "gloss": "maar verhard"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sal val"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in onheil"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:43.021020023Z",
+  "model": "glm-5.3"
+}

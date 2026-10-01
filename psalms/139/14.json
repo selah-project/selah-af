@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Ek loof U, want vreeswekkend wonders is ek gemaak; u werke is wonders, en my siel ken dit baie goed.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ek loof U"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "vreeswekkend"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "wonders is ek gemaak"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "u werke"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "en my siel"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ken"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:29.279830397Z",
+  "model": "glm-5.3"
+}

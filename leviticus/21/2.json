@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "behalwe vir sy bloedverwant wat naby hom is: vir sy moeder en vir sy vader en vir sy seun en vir sy dogter en vir sy broer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "vir sy bloedverwant"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "wat naby is"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "vir sy moeder"
+    },
+    {
+      "surface": "וולאביו",
+      "gloss": "en vir sy vader"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "en vir sy seun"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "en vir sy dogter"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "en vir sy broer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:19.782160485Z",
+  "model": "glm-5.3"
+}

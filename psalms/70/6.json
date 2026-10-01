@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Maar ek ⟨is⟩ arm en noodsaaklik; Elohim, haas u na my; my helper en my redder ⟨is⟩ u; Jahweh, moenie vertoef nie!",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en noodsaaklik"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haas u"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "my helper"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en my redder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "vertoef nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:11.214670519Z",
+  "model": "glm-5.3"
+}

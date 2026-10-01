@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "en ⟨את⟩ al die konings van Arab en ⟨את⟩ al die konings van die gemengde ⟨mense⟩ wat in die woestyn woon",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die konings van Arab"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings van"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Arab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die konings van die gemengde mense"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings van"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die gemengde"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "wat woon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:39.684190950Z",
+  "model": "glm-5.3"
+}

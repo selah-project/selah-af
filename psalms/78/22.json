@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "want hulle het nie in Elohim geglo nie, en nie op sy heil vertrou nie;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "het geglo"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "op sy heil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:56.277448071Z",
+  "model": "glm-5.3"
+}

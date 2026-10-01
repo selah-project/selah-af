@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 59:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Dood hulle nie, anders vergeet my volk ⟨dit⟩; laat hulle ronddwaal deur U krag, en bring hulle neer, ons skild, Adonai.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "Dood hulle"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "הניעמו",
+      "gloss": "laat hulle ronddwaal"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "deur U krag"
+    },
+    {
+      "surface": "והורידמו",
+      "gloss": "en bring hulle neer"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "ons skild"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.033567946Z",
+  "model": "glm-5.3"
+}

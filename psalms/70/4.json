@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Mag hulle terugkeer weens ⟨die⟩ vergelding van hul skuamte, die wat sê: heag! heag!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mag hulle terugkeer"
+    },
+    {
+      "surface": "על",
+      "gloss": "weens"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨die⟩ vergelding"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "van hul skuamte"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "die wat sê"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heag!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "heag!"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:56.251058550Z",
+  "model": "glm-5.3"
+}

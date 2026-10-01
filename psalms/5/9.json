@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 5:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Jahweh, lei my in u tsedek, ter wille van my teëstanders; maak u weg gelyk voor my aangesig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "lei my"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in u tsedek"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "my teëstanders"
+    },
+    {
+      "surface": "הושר",
+      "gloss": "maak gelyk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "u weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:10.532853294Z",
+  "model": "glm-5.3"
+}

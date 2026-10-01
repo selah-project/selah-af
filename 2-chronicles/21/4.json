@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 21:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Jehoram het opgestaan oor die koninkryk van sy vader, en hy het hom versterk, en hy het ⟨את⟩ al sy broers met die swaard gedood, en ook van die owerstes van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en hy het opgestaan"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Jehoram"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "die koninkryk van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "en hy het hom versterk"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "en hy het gedood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy broers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "van die owerstes van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:36.863764899Z",
+  "model": "glm-5.3"
+}

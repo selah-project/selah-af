@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "sy brood berei sy in die somer klaar, in die oesgaar versamel sy haar voedsel.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "berei klaar"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "in die somer"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "haar brood"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "versamel sy"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "in die oesgaar"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "haar voedsel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:46.397174295Z",
+  "model": "glm-5.3"
+}

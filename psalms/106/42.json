@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 106:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle vyande het hulle onderduk, en hulle is verneder onder hulle hand.",
+  "tokens": [
+    {
+      "surface": "וילחצום",
+      "gloss": "en hulle het hulle onderduk"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "ויכנעו",
+      "gloss": "en hulle is verneder"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:24.127056948Z",
+  "model": "glm-5.3"
+}

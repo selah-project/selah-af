@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Dubbeldenkers het ek gehaat, en jou Tora het ek liefgehad.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "dubbeldenkers"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "het ek gehaat"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en jou Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "het ek liefgehad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:32.831753825Z",
+  "model": "glm-5.3"
+}

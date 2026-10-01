@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jahweh het ⟨aan⟩ Mosje en ⟨aan⟩ Aharon gespreek by ⟨die⟩ berg Hor, aan die grens van die land Edom, en gesê:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨aan⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en ⟨aan⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "by ⟨die⟩ berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die grens"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:52.422874407Z",
+  "model": "glm-5.3"
+}

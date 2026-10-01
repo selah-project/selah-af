@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ die Patrusim, en ⟨את⟩ die Kaslugim — uit hulle het die Filistyne uitgegaan — en ⟨את⟩ die Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "die Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kaslugim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "die Kaslugim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uit wie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "die Kaftorim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:51.515706569Z",
+  "model": "glm-5.3"
+}

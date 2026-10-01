@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Die wilde diere en alle vee, kruipende diere en gevleuelde voëls,",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "die wilde diere"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "vee"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kruipende diere"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "en voëls"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "gevleuelde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:09.022216363Z",
+  "model": "glm-5.3"
+}

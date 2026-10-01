@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Dawid het gestuur en na die vrou gevra, en ⟨hy⟩ het gesê: Is dit nie Bat-Sjewa, die dogter van Eljam, die vrou van Uría die Hetiet nie?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en … het gestuur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "en gevra"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "na die vrou"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en ⟨hy⟩ het gesê"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is dit nie … nie"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sjewa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "van Eljam"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "van Uría"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hetiet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:16.526103659Z",
+  "model": "glm-5.3"
+}

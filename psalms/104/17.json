@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "waar ⟨die⟩ voëls nes; die ooievaar — die sipresse ⟨is⟩ haar huis.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "voëls"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "nes"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "die ooievaar"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "die sipresse"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "haar huis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:31.711566553Z",
+  "model": "glm-5.3"
+}

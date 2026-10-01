@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en hulle moet nie ingaan om te sien, selfs ⟨vir⟩ 'n oomblik, ⟨את⟩ die heilige, en ⟨hulle⟩ sterf nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hulle moet ingaan"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "selfs 'n oomblik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heilige"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "die heilige"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "en hulle sterf"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:09.562393273Z",
+  "model": "glm-5.3"
+}

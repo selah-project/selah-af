@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Al die diere van die veld, kom om te eet — al die diere van die woud.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "in die woud"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:25.536052808Z",
+  "model": "glm-5.3"
+}

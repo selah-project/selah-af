@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En Sjaul het Jahweh geraadpleeg, maar Jahweh het hom nie geantwoord nie — ook nie in drome nie, ook nie deur die Urim nie, ook nie deur profete nie.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "geraadpleeg het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "hom geantwoord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook nie"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "in drome"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook nie"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "deur die Urim"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook nie"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "deur profete"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:49.106090543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het ⟨את⟩ die oorgordyn van die opening van die Misjkan geplaas.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die oorgordyn van die opening"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "oorgordyn"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "van die opening"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "van die Misjkan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:03.221324577Z",
+  "model": "glm-5.3"
+}

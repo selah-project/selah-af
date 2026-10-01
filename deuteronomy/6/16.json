@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Julle mag ⟨את⟩ Jahweh julle Elohim nie op die proef stel nie, soos julle ⟨hom⟩ by Massa op die proef gestel het.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "julle mag op die proef stel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh julle Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "julle op die proef gestel het"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "by Massa"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:36.491367177Z",
+  "model": "glm-5.3"
+}

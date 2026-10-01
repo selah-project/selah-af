@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 24:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En sy haas en sy giet haar kruik leeg in die trog, en sy hardloop weer na die put om te skep, en sy skep vir al sy kamels.",
+  "tokens": [
+    {
+      "surface": "ותמהר",
+      "gloss": "en sy haas"
+    },
+    {
+      "surface": "ותער",
+      "gloss": "en sy giet leeg"
+    },
+    {
+      "surface": "כדה",
+      "gloss": "haar kruik"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "השקת",
+      "gloss": "die trog"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "en sy hardloop"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "die put"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "om te skep"
+    },
+    {
+      "surface": "ותשאב",
+      "gloss": "en sy skep"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "גמליו",
+      "gloss": "sy kamels"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:52.213845002Z",
+  "model": "glm-5.3"
+}

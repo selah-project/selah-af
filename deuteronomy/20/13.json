@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 20:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jahweh jou Elohim sal ⟨את⟩ dit in jou hand gee, en jy sal elke manlike daarvan met die mond van die swaard slaan.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "en sal gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "en jy sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elke manlike"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכורה",
+      "gloss": "manlike"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die mond"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:39.889274454Z",
+  "model": "glm-5.3"
+}

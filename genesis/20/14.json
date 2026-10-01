@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Awimeleg het kleinvee en beeste geneem, en slawe en slavinne, en aan Awraham gegee; en hy het hom ⟨את⟩ Sara sy vrou teruggegee.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "En hy het geneem"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimeleg"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en beeste"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "en slawe"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "en slavinne"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het teruggegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:27.792749587Z",
+  "model": "glm-5.3"
+}

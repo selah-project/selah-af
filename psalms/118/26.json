@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 118:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Geseënd is hy wat kom in die naam van Jahweh; ons seën julle uit die huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "die wat kom"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברכנוכם",
+      "gloss": "ons seën julle"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.193072850Z",
+  "model": "glm-5.3"
+}

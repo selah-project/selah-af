@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Mosje het tot Jahweh uitgeroep en gesê: El, ek bid, genees haar tog, ek bid.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "het uitgeroep"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ek bid"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "genees"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog, ek bid"
+    },
+    {
+      "surface": "לה",
+      "gloss": "haar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:59.081311815Z",
+  "model": "glm-5.3"
+}

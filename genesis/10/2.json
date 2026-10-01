@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die seuns van Jafet: Gomer en Magog en Madai en Jawan en Tuwal en Mesjeg en Tiras.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Die seuns"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "van Jafet"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Gomer"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "en Magog"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "en Madai"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "en Jawan"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "en Tuwal"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "en Mesjeg"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "en Tiras"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:00.391090224Z",
+  "model": "glm-5.3"
+}

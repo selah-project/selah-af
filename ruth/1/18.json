@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 1:18",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy het gesien dat sy vasberade ⟨is⟩ om ⟨את⟩ saam met haar te gaan, en sy het opgehou om met haar te praat.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en sy het gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מתאמצת",
+      "gloss": "vasberade"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "saam met haar"
+    },
+    {
+      "surface": "ותחדל",
+      "gloss": "en sy het opgehou"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te praat"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "met haar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:24.561154632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Ek sal U Naam vertel aan my broers, in die middel van ⟨die⟩ vergadering sal ek U loof.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ek sal vertel"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "U Naam"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "aan my broers"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "sal ek U loof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:41.590220061Z",
+  "model": "glm-5.3"
+}

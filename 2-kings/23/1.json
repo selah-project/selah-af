@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 23:1",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En die koning het gestuur, en hulle het by hom versamel al die oudstes van Jehoeda en van Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "en hulle het versamel"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en van Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:49.329216023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hulle het vir Mosje gesê: Spreek jy met ons, en ons sal luister; maar mag Elohim nie met ons spreek nie, anders sterf ons.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En hulle het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "en ons sal luister"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar moenie ... nie"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "sterf ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:13.902194640Z",
+  "model": "glm-5.3"
+}

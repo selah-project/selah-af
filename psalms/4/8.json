@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "U het blydskap in my hart gegee, meer as toe hulle koring en hulle mos vermeerder het.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "U het gegee"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "blydskap"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in my hart"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "meer as toe"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hulle koring"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "en hulle mos"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "vermeerder het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.332569916Z",
+  "model": "glm-5.3"
+}

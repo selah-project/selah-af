@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Aan jou behoort ek — red my, want jou voorskrifte het ek nagevorsoek.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jou voorskrifte"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "het ek nagevorsoek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:10.841044105Z",
+  "model": "glm-5.3"
+}

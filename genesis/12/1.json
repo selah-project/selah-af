@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het aan Awram gesê: Gaan vir jou uit jou land, en uit jou geboortestreek, en uit die huis van jou vader, na ⟨die⟩ land wat ek jou sal wys.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "uit jou land"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "en uit jou geboortestreek"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "en uit die huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "ek jou sal wys"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:12.652955811Z",
+  "model": "glm-5.3"
+}

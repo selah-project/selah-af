@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 26:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal My tot julle wend, en Ek sal julle vrugbaar maak, en Ek sal julle vermenigvuldig, en Ek sal My verbond ⟨את⟩ met julle oprig.",
+  "tokens": [
+    {
+      "surface": "ופניתי",
+      "gloss": "Ek sal My wend"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "tot julle"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "vrugbaar maak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle (voorwerp van vrugbaar maak)"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "vermenigvuldig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle (voorwerp van vermenigvuldig)"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "My verbond"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:17.703427419Z",
+  "model": "glm-5.3"
+}

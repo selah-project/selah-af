@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 14:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het hom geseën en gesê: Geseënd ⟨is⟩ Awram deur El Eljon, besitter van hemel en aarde.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "en hy het hom geseën"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "deur El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Eljon"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "besitter"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:18.488281161Z",
+  "model": "glm-5.3"
+}

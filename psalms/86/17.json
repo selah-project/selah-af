@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 86:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Doen met my 'n teken vir goed, en laat my haters dit sien en beskaam word, want U, Jahweh, het my gehelp en my getroos.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Doen"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "אות",
+      "gloss": "'n teken"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "vir goed"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en laat ... sien"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "my haters"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en beskaam word"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עזרתני",
+      "gloss": "het my gehelp"
+    },
+    {
+      "surface": "ונחמתני",
+      "gloss": "en my getroos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:05.404405944Z",
+  "model": "glm-5.3"
+}

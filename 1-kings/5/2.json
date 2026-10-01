@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die brood van Sjelomo vir een dag was dertig kor meelblom en sestig kor gemaalde meel.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit was"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vir een dag"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "meelblom"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "en sestig"
+    },
+    {
+      "surface": "כר",
+      "gloss": "kor"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "gemaalde meel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:20.049214636Z",
+  "model": "glm-5.3"
+}

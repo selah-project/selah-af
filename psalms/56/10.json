@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "Dan sal my vyande agtertoe terugkeer in ⟨die⟩ dag dat ek roep; dit weet ek, dat Elohim vir my ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agtertoe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in ⟨die⟩ dag"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "dat ek roep"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weet ek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.226441593Z",
+  "model": "glm-5.3"
+}

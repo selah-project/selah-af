@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "'n Rivier — sy strome verbly die stad van Elohim, die heiligste van die Misjkan-plekke van Elijon.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "'n rivier"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "sy strome"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "verbly"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "die heiligste"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Misjkan-plekke"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "van Elijon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.107239710Z",
+  "model": "glm-5.3"
+}

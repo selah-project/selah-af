@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 28:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Jahweh sal ⟨את⟩ met jou ⟨את⟩ die seën beveel in jou skure en in alles wat jou hand uitstuur, en ⟨hy⟩ sal jou seën in die land wat Jahweh jou Elohim jou gee.",
+  "tokens": [
+    {
+      "surface": "יצו",
+      "gloss": "sal beveel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ met jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seën"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "באסמיך",
+      "gloss": "in jou skure"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in alles"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "wat uitstuur"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "en hy sal jou seën"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "jou gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:56.076567925Z",
+  "model": "glm-5.3"
+}

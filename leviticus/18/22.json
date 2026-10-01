@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En met ⟨את⟩ 'n man mag jy nie lê ⟨soos⟩ die lêery van 'n vrou nie — 'n gruwel is dit.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "'n man"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "mag jy lê"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "die lêery"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "van 'n vrou"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "'n gruwel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:54.322884764Z",
+  "model": "glm-5.3"
+}

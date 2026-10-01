@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "die hert, en die gasel, en die jagmoer, en die dieako, en die disjon, en die teo, en die zasjer.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "die hert"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "en die gasel"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "en die jagmoer"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "en die dieako"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "en die disjon"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "en die teo"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "en die zasjer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:40.985801290Z",
+  "model": "glm-5.3"
+}

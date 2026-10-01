@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 26:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Naak ⟨is⟩ Sjeol voor Hom, en daar ⟨is⟩ geen bedekking vir Abaddon nie.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "naak"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeol"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "voor Hom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "bedekking"
+    },
+    {
+      "surface": "לאבדון",
+      "gloss": "vir Abaddon"
+    }
+  ],
+  "timestamp": "2026-10-01T00:19:55.127270564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En die draer van sy wapens het gesien dat Sjauloel dood was, en hy het ook self op sy swaard geval en gesterwe saam met hom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "draer"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "van sy wapens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood was"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hy het geval"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy self"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sy swaard"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en gesterwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:59.781978928Z",
+  "model": "glm-5.3"
+}

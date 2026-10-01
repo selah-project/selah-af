@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Bakbakkar, Geresj en Galal, en Mattanja seun van Miga, seun van Sikri, seun van Asaf.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "En Bakbakkar"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Geresj"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "en Galal"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "en Mattanja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Miga"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Sikri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asaf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:46:57.017462837Z",
+  "model": "glm-5.3"
+}

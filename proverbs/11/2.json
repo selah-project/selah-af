@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Kom hoogmoed, dan kom smaad; en met ⟨את⟩ die ootmoediges ⟨is⟩ wysheid.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "hoogmoed"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "dan kom"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ootmoediges"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "die ootmoediges"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:15.058200194Z",
+  "model": "glm-5.3"
+}

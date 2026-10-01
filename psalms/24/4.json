@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Skoon van hande en suiwer van hart, wat nie ⟨את⟩ sy siel na nietigheid gedra het nie, en nie bedrieglik gesweer het nie.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "skoon"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "van hande"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "en suiwer"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "gedra het"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "na nietigheid"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "sy siel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gesweer het"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "bedrieglik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:41.903445890Z",
+  "model": "glm-5.3"
+}

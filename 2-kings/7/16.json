@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die volk het uitgegaan en ⟨את⟩ die kamp van Aram geplunder, en een sea fynmeel was vir 'n sjekel, en twee seë gars vir 'n sjekel, volgens die woord van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "en geplunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kamp van Aram"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "een sea"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "fynmeel"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "vir 'n sjekel"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "en twee seë"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "gars"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "vir 'n sjekel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:00.756923948Z",
+  "model": "glm-5.3"
+}

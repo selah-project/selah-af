@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En hulle het ⟨את⟩ sy wapenrusting in die huis van Asjtarot gesit, en ⟨את⟩ sy lyk aan die muur van Bet-Sjan vasgemaak.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "en hulle het gesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy wapenrusting"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy wapenrusting"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "van Asjtarot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy lyk"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "sy lyk"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "het vasgemaak"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "aan die muur"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van Bet"
+    },
+    {
+      "surface": "שן",
+      "gloss": "-Sjan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:52.320410835Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "'n Maskil van Asaf. Elohim staan in ⟨die⟩ vergadering van El; in die midde van ⟨die⟩ gode spreek Hy reg.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "staan"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "in ⟨die⟩ vergadering van"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "in die midde van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨die⟩ gode"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "spreek Hy reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.660130556Z",
+  "model": "glm-5.3"
+}

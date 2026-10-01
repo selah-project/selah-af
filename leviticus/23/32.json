@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Sjabbat van sjabbaton is dit vir julle, en julle sal ⟨את⟩ jul siele kwel; op die negende van die maand, in die aand, van aand tot aand sal julle jul Sjabbat hou.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Sjabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "van sjabbaton"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "en julle sal kwel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jul siele"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jul siele"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "op die negende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "van aand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "aand"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "sal julle hou"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "jul Sjabbat"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:48.544051502Z",
+  "model": "glm-5.3"
+}

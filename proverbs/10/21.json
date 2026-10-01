@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die lippe van die regverdige wei baie, maar dwase sterf aan gebrek aan hart.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "lippe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "wei"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "maar dwase"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "aan gebrek"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "sterf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:17.461064778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Net die hoogtes is nie verwyder nie; die volk het nog steeds geslag en wierook gebrand op die hoogtes.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die hoogtes"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "is verwyder"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog steeds"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "het geslag"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "en wierook gebrand"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op die hoogtes"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:35.799550220Z",
+  "model": "glm-5.3"
+}

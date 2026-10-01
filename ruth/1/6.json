@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 1:6",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe staan sy op met haar skoondogters en sy keer terug uit die velde van Moab, want sy het in die veld van Moab gehoor dat Jahweh ⟨את⟩ sy volk besoek het om aan hulle brood te gee.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "toe staan sy op"
+    },
+    {
+      "surface": "היא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "וכלתיה",
+      "gloss": "met haar skoondogters"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "en sy keer terug"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "uit die velde"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "besoek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:37.563398836Z",
+  "model": "glm-5.3"
+}

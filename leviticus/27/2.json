@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Spreek met die seuns van Jisraël en sê vir hulle: 'n man, as hy 'n buitengewone gelofte aflê — na jou skatting van siele ⟨is dit⟩ vir Jahweh:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê vir hulle"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "'n buitengewone aflê"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "gelofte"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "na jou skatting"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "siel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:53.962103857Z",
+  "model": "glm-5.3"
+}

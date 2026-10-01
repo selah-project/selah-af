@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En jy moet ⟨את⟩ die gebooie van Jahweh jou Elohim hou, om in sy weë te loop en ⟨את⟩ hom te vrees.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "en jy moet hou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebooie van Jahweh jou Elohim"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die gebooie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te loop"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "in sy weë"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "en te vrees"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:35.471472856Z",
+  "model": "glm-5.3"
+}

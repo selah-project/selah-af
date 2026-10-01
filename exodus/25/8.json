@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hulle sal vir My 'n heiligdom maak, en Ek sal in hulle midde woon",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "en hulle sal maak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "'n heiligdom"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "en Ek sal woon"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hulle midde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:37.512898724Z",
+  "model": "glm-5.3"
+}

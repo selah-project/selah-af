@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 19:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy het ⟨את⟩ Eljakim, wat oor die huis ⟨gestel is⟩, gestuur, en Sebnah die skrywer, en ⟨את⟩ die oudstes van die priesters, toegekleed met sakke, na Jesjajahoe die profeet, seun van Amots.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "en Sebnah"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die skrywer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die oudstes van die priesters"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudstes"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "van die priesters"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "toegekleed"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "met sakke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahoe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:15.967628982Z",
+  "model": "glm-5.3"
+}

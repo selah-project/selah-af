@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 17:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Die kruik meelbloem het nie opgeraak nie, en die oliekruik het nie tekortgekom nie, volgens die woord van Jahweh wat hy deur die hand van Elia gespreek het.",
+  "tokens": [
+    {
+      "surface": "כד",
+      "gloss": "die kruik"
+    },
+    {
+      "surface": "הקמח",
+      "gloss": "meelbloem"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "het opgeraak"
+    },
+    {
+      "surface": "וצפחת",
+      "gloss": "en die oliekruik"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "het tekortgekom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ge_spreek het"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "van Elia"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:07.116752477Z",
+  "model": "glm-5.3"
+}

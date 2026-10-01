@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Rondom loop die goddelose oral rond — soos veragting verhwee word onder die seuns van die mens.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "loop oral rond"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "soos verhewe word"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "veragting"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "onder die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:08.155276428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Losgekoop het ⟨hy⟩ in vrede my siel van ⟨die stryd⟩ naby my, want met baie was hulle by my.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "losgekoop het"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "van ⟨die stryd⟩ naby"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "met baie"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:05.362684246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 55:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Want soos die reën en die sneeu van die hemel neerkom en nie daarheen terugkeer nie, behalwe as ⟨hy⟩ ⟨את⟩ die aarde deurspek en haar laat voortbring en laat uitbot, en saad gee aan die saaier en brood aan die eter —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "neerkom"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "die reën"
+    },
+    {
+      "surface": "והשלג",
+      "gloss": "en die sneeu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "terugkeer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "הרוה",
+      "gloss": "deurspek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "והולידה",
+      "gloss": "en haar laat voortbring"
+    },
+    {
+      "surface": "והצמיחה",
+      "gloss": "en laat uitbot"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saad"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "aan die saaier"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "aan die eter"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:50.910778492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "En hy het hulle wingerd geslaan en hulle vyeboom, en die bome van hulle gebied verbreek.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "hulle wingerd"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "en hulle vyeboom"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "en verbreek"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "die bome"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "van hulle gebied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.199942318Z",
+  "model": "glm-5.3"
+}

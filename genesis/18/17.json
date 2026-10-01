@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jahweh het gesê: Sal ek vir Awraham verberg wat ek besig is om te doen?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh het"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "Sal ek verberg"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "vir Awraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "besig is om te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:16.303243733Z",
+  "model": "glm-5.3"
+}

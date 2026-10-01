@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 10:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "U hande het my gevorm en my gemaak, heeltemal rondom — en u sluk my in!",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "u hande"
+    },
+    {
+      "surface": "עצבוני",
+      "gloss": "het my gevorm"
+    },
+    {
+      "surface": "ויעשוני",
+      "gloss": "en my gemaak"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "heeltemal"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ותבלעני",
+      "gloss": "en u sluk my in"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:13.314147897Z",
+  "model": "glm-5.3"
+}

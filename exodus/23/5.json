@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "As jy die esel van hom wat jou haat sien lê onder sy las, en jy sal ophou om dit vir hom te help — help dit tog saam met hom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "jy sien"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "die esel"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "van hom wat jou haat"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "lê"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "sy las"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "en jy sal ophou"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "om te help"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "help"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "jy sal help"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:50.855136477Z",
+  "model": "glm-5.3"
+}

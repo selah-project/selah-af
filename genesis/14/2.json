@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 14:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "hulle het oorlog gemaak teen ⟨את⟩ Bera, koning van Sedom, en ⟨את⟩ Birsa, koning van Amora, Sjinab, koning van Adma, en Sjem'eber, koning van Tsebojim, en die koning van Bela — dit is Tsoar.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "hulle het gemaak"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bera"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "Bera"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Birsa"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "Birsa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "שנאב",
+      "gloss": "Sjinab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "Adma"
+    },
+    {
+      "surface": "ושמאבר",
+      "gloss": "en Sjem'eber"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "צביים",
+      "gloss": "Tsebojim"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en die koning van"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Bela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:15.503804291Z",
+  "model": "glm-5.3"
+}

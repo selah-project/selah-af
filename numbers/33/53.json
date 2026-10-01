@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 33:53",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En julle sal ⟨את⟩ die land in besit neem en daarin woon, want aan julle het Ek ⟨את⟩ die land gegee om dit ⟨את⟩ in besit te neem.",
+  "tokens": [
+    {
+      "surface": "והורשתם",
+      "gloss": "en julle sal in besit neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en julle sal woon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het Ek gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om in besit te neem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die land)"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:57.922568456Z",
+  "model": "glm-5.3"
+}

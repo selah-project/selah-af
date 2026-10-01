@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "U het my bekendes ver van my verwyder, U het my vir hulle tot gruwels gemaak, opgesluit — en ek kan nie uitgaan nie.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "U het ver verwyder"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "my bekendes"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "U het my gemaak"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "tot gruwels"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "opgesluit"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "kan ek uitgaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:14.481447139Z",
+  "model": "glm-5.3"
+}

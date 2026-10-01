@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 25:9",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Daarom, kyk, ek open ⟨את⟩ die skouer van Moab van die stede af, van sy stede, van sy uiterste punt — die praal van die land: Bet-ha-Jesjimot, Baäl-Meön en Kirjatajim.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, ek"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "open"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skouer van Moab"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "die skouer"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "מהערים",
+      "gloss": "van die stede af"
+    },
+    {
+      "surface": "מעריו",
+      "gloss": "van sy stede"
+    },
+    {
+      "surface": "מקצהו",
+      "gloss": "van sy uiterste punt"
+    },
+    {
+      "surface": "צבי",
+      "gloss": "die praal"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "הישימת",
+      "gloss": "-ha-Jesjimot"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Baäl-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-Meön"
+    },
+    {
+      "surface": "וקריתמה",
+      "gloss": "en Kirjatajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:51:18.155511133Z",
+  "model": "glm-5.3"
+}

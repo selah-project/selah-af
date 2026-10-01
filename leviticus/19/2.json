@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Praat met die hele vergadering van die kinders van Jisraël en sê vir hulle: Heilig moet julle wees, want heilig ⟨is⟩ ek, Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "praat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "moet julle wees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "joue Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:37.962122295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 44:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Is dit nie dít waaruit my heer drink nie, en dámee nágas hy nágas daarmee? Julle het kwaad gedoen in wat julle gedoen het.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Is dit nie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dít"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waaruit"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "drink"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en dáarmee"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nágas"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "hy nágas"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "het julle kwaad gedoen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "in wat"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "julle gedoen het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:04.483932344Z",
+  "model": "glm-5.3"
+}

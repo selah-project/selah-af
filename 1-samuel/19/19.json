@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En dit is aan Sjaoel berig, gesê: Kyk, Dawid ⟨is⟩ in Najot in Rama.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en dit is berig"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "in Najot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:59.622790765Z",
+  "model": "glm-5.3"
+}

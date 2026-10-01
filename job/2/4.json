@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die satan antwoord ⟨את⟩ Jahweh en sê: Vel vir vel, ja, alles wat 'n man het, sal hy gee vir sy lewe.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hy antwoord"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "die satan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "עור",
+      "gloss": "vel"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "vir"
+    },
+    {
+      "surface": "עור",
+      "gloss": "vel"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja, alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan 'n man"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sal hy gee"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "vir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy lewe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:39.888287645Z",
+  "model": "glm-5.3"
+}

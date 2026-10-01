@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 14:22",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Hy het ⟨את⟩ Eilat gebou en dit aan Jehoeda teruggebring nadat die koning met sy vaders gaan lê het.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eilat"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "Eilat"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "en dit teruggebring"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "die lê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:22.551588094Z",
+  "model": "glm-5.3"
+}

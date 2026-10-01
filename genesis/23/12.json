@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Awraham het hom neergebuig voor die volk van die land.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "en hy het neergebuig"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:59.626515724Z",
+  "model": "glm-5.3"
+}

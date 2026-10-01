@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 8:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het van die olie van die salwing op die hoof van Aharon gegiet, en ⟨את⟩ hom gesalf, om hom te heilig.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "en hy het gegiet"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "van die olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salwing"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "en hy het gesalf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "om hom te heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:27.438153014Z",
+  "model": "glm-5.3"
+}

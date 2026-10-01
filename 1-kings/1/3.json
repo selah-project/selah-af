@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 1:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle het 'n mooi jong meisie gesoek in die hele gebied van Jisraël, en hulle het ⟨את⟩ Awisjag die Sunammitiese gevind, en hulle het ⟨את⟩ haar na die koning gebring.",
+  "tokens": [
+    {
+      "surface": "ויבקשו",
+      "gloss": "En hulle het gesoek"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "'n jong meisie"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "gebied"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en hulle het gevind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awisjag die Sunammitiese"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Awisjag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "die Sunammitiese"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "na die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:48.821765214Z",
+  "model": "glm-5.3"
+}

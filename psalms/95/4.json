@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Wie se hand die dieptes van die aarde ⟨vashou⟩, en aan wie die hoogtes van die berge behoort.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "se hand"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "die dieptes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "en die hoogtes"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "van die berge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "behoort aan hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:32.741907691Z",
+  "model": "glm-5.3"
+}

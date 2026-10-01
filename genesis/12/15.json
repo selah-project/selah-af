@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die offisiere van Paro het ⟨את⟩ haar gesien en ⟨את⟩ haar by Paro geprys, en die vrou is geneem ⟨in⟩ die huis van Paro.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "offisiere"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "en geprys"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en is geneem"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:43.787180037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Gaan en versamel ⟨את⟩ die ouderlinge van Jisraël, en sê vir hulle: Jahweh, die Elohim van julle vadere, het aan my verskyn — die Elohim van Awraham, Jitsgak en Jaäkow — met die woord: Ek het julle sekerlik besoek, en ⟨את⟩ wat aan julle gedoen is in Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "en versamel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ouderlinge van Jisraël"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die ouderlinge van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "julle vadere"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "het verskyn"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "en Jaäkow"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woord"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "het ek besoek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat aan julle gedoen is in Mitsrajim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "wat gedoen is"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:46.149491759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "tsedek bewaar die weg van die volmaakte, maar goddeloosheid ondermyn die sonde.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "תם",
+      "gloss": "van die volmaakte"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "maar goddeloosheid"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ondermyn"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "die sonde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:30.630609391Z",
+  "model": "glm-5.3"
+}

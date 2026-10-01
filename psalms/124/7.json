@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 124,
+  "translation": "Ons siel ⟨is⟩ ontsnap soos 'n voël uit die strik van die vangers; die strik ⟨is⟩ gebreek, en ons ⟨het⟩ ontsnap.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ons siel"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "soos 'n voël"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "ontsnap"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "uit die strik"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "van vangers"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "die strik"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "gebreek"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en ons"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "het ontsnap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:23.589975949Z",
+  "model": "glm-5.3"
+}

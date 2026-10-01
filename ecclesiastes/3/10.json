@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Ek het ⟨את⟩ die taak gesien wat Elohim aan die mensekinders gegee het om daarin besig te wees.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die taak"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "die taak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee het"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die kinders van"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "om besig te wees"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.335736431Z",
+  "model": "glm-5.3"
+}

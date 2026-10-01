@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 42:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "en ⟨את⟩ julle jongste broer moet julle na my toe bring, sodat julle worte bevestig word en julle nie sterf nie. En hulle het so gedoen.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle jongste broer"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "julle broer"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "die jongste"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "moet julle bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "ויאמנו",
+      "gloss": "en bevestig word"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "julle woorde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תמותו",
+      "gloss": "sal julle sterf nie"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:44.716784088Z",
+  "model": "glm-5.3"
+}

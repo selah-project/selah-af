@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want wysheid sal in jou hart kom en kennis sal jou siel behaag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "in jou hart"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "sal behaag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:50.421602413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 13:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Amnon het aan Tamar gesê: Bring die voedsel ⟨die⟩ kamer in, dat ek uit jou hand kan eet. En Tamar het ⟨את⟩ die koekies wat sy gemaak het geneem en vir Amnon haar broer in die kamer gebring.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "הביאי",
+      "gloss": "bring"
+    },
+    {
+      "surface": "הבריה",
+      "gloss": "die voedsel"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "⟨die⟩ kamer"
+    },
+    {
+      "surface": "ואברה",
+      "gloss": "dat ek kan eet"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jou hand"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "en sy het geneem"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koekies"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "die koekies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "sy gemaak het"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en gebring"
+    },
+    {
+      "surface": "לאמנון",
+      "gloss": "vir Amnon"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "haar broer"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "in die kamer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:23.335511813Z",
+  "model": "glm-5.3"
+}

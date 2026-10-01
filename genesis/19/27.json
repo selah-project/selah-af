@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 19:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Awraham het vroeg in die oggend gegaan na die plek waar hy daar gestaan het voor ⟨את⟩ die aangesig van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "en hy het vroeg gegaan"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die oggend"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "hy gestaan het"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:33.317104103Z",
+  "model": "glm-5.3"
+}

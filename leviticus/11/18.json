@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ die tinsjemet en ⟨את⟩ die kaät en ⟨את⟩ die ragam",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die tinsjemet"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "die tinsjemet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kaät"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "die kaät"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ragam"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "die ragam"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:47.550560541Z",
+  "model": "glm-5.3"
+}

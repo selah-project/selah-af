@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "En kyk, julle oë sien ⟨dit⟩, en die oë van my broer Binjamin, dat dit my mond ⟨is⟩ wat met julle praat.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "julle oë"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "sien"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "en die oë van"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wat praat"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "met julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:41.496215745Z",
+  "model": "glm-5.3"
+}

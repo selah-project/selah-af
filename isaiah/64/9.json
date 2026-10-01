@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Jou heilige stede het wildernis geword, Tsion het wildernis geword, Jerusjalajim ⟨'n⟩ verwoesting.",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "stede"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "jou heilige"
+    },
+    {
+      "surface": "היו",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wildernis"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsion"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wildernis"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "verwoesting"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:44.707749057Z",
+  "model": "glm-5.3"
+}

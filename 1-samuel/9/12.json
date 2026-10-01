@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hulle antwoord hulle ⟨את⟩ en sê: Hy is; kyk, hy is voor jou; haas jou nou, want vandag kom hy in die stad, want die volk het vandag 'n slagoffer op die hoogte.",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "En hulle antwoord"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (Sjawoel en sy jongman)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Hy is"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "haas jou"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "'n slagoffer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "op die hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:20.504087138Z",
+  "model": "glm-5.3"
+}

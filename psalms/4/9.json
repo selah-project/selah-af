@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "In vrede sal ek tesame neerlê en slaap, want U, Jahweh, alleen, ⟨⟨in⟩⟩ veiligheid laat my woon.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "sal ek neerlê"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "en slaap"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in veiligheid"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "laat my woon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:58.429396489Z",
+  "model": "glm-5.3"
+}

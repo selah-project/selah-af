@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 33:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Reguit ⟨is⟩ my hart se woorde, en kennis van my lippe word helder gepraat.",
+  "tokens": [
+    {
+      "surface": "ישר",
+      "gloss": "Reguit"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "en kennis"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "van my lippe"
+    },
+    {
+      "surface": "ברור",
+      "gloss": "helder"
+    },
+    {
+      "surface": "מללו",
+      "gloss": "word gepraat"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:50.673317227Z",
+  "model": "glm-5.3"
+}

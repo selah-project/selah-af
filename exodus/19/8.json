@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 19:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die hele volk het eendragtig geantwoord en gesê: Alles wat Jahweh gespreek het, sal ons doen. En Mosje het ⟨את⟩ die woorde van die volk na Jahweh teruggebring.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "het geantwoord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "eendragtig"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sal ons doen"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "het teruggebring"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van die volk"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:49.441674361Z",
+  "model": "glm-5.3"
+}

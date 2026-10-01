@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Elohim ⟨is⟩ in haar midde — sy sal nie wankel nie; Elohim sal haar help by die aanbreek van die oggend.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in haar midde"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sal wankel"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "sal haar help"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "by die aanbreek"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "van die oggend"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.107900812Z",
+  "model": "glm-5.3"
+}

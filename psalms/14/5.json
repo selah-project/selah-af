@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Daar het hulle ⟨'n⟩ skrik gevrees, want Elohim ⟨is⟩ in die geslag van die regverdige.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Daar"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "het hulle gevrees"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "skrik"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "in die geslag"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:51.884945678Z",
+  "model": "glm-5.3"
+}

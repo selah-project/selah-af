@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Agi, seun van Awdiël, seun van Goeni, hoof van die huis van hulle vaders.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Agi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Awdiël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Goeni"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hulle vaders"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:56.127520364Z",
+  "model": "glm-5.3"
+}

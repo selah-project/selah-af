@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 5:22",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Giram het na Sjelomo gestuur om te sê: Ek het gehoor ⟨את⟩ dit wat jy na my gestuur het; ek sal doen ⟨את⟩ al jou begeerte met sedershout en met sipreshout.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Giram"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ek het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit wat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "jy gestuur het"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al jou begeerte"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חפצך",
+      "gloss": "jou begeerte"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "met hout van"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seders"
+    },
+    {
+      "surface": "ובעצי",
+      "gloss": "en met hout van"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "sipresse"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:43.199358570Z",
+  "model": "glm-5.3"
+}

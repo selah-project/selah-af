@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 20:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "In die jaar van die koms van die Tartan na Asjdod, toe Sargon, koning van Asjjoer, ⟨את⟩ hom gestuur het, en hy teen Asjdod geveg en dit gevange geneem het —",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "in die jaar van"
+    },
+    {
+      "surface": "בא",
+      "gloss": "die koms"
+    },
+    {
+      "surface": "תרתן",
+      "gloss": "die Tartan"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "na Asjdod"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "toe ... gestuur het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Sargon)"
+    },
+    {
+      "surface": "סרגון",
+      "gloss": "Sargon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asjjoer"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "en hy geveg het"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "teen Asjdod"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "en dit gevange geneem"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:12.668470872Z",
+  "model": "glm-5.3"
+}

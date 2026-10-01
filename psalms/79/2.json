@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Hulle het ⟨את⟩ die lyke van jou diensknegte as voedsel gegee aan die voëls van die hemel, die vlees van jou getroues aan die wilde dier van die aarde.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "hulle het gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lyke"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "die lyke"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "van jou diensknegte"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "as voedsel"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "aan die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "die vlees"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "van jou getroues"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "aan die wilde dier"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:55.052907982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 20:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En julle moet ⟨את⟩ my insettinge bewaar en ⟨את⟩ hulle doen; ek ⟨is⟩ Jahweh wat julle heilig.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my insettinge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wat julle heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:17.738965176Z",
+  "model": "glm-5.3"
+}

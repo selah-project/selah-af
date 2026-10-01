@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En só het Sjimi gesê terwyl hy vloek: Gaan uit, gaan uit, man van die bloed en man van Belíal!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "en só"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Sjimi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "terwyl hy vloek"
+    },
+    {
+      "surface": "צא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "צא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en man"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "van Belíal"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:22.875805340Z",
+  "model": "glm-5.3"
+}

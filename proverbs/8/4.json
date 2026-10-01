@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Tot julle, o manne, roep ek, en my stem ⟨is⟩ tot die seuns van die mens",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "tot julle"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "o manne"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "en my stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.062892959Z",
+  "model": "glm-5.3"
+}

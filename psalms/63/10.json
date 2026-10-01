@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "En hulle soek my siel ⟨om⟩ ⟨dit⟩ te verwoes; hulle sal ingaan in die dieptes van die aarde.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "om te verwoes"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "soek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hulle sal ingaan"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "in die dieptes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:30.224631204Z",
+  "model": "glm-5.3"
+}

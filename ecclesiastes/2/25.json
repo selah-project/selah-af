@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want wie sal eet, en wie sal geniet, buite om van my?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "sal geniet"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "buite om"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:09.124297730Z",
+  "model": "glm-5.3"
+}

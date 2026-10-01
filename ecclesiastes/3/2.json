@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Tyd om gebore te word, en 'n tyd om te sterwe; 'n tyd om te plant, en 'n tyd om ⟨dit wat⟩ geplant is, uit te trek;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "om gebore te word"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "למות",
+      "gloss": "om te sterwe"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "om te plant"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "om uit te trek"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "geplant is"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.111115051Z",
+  "model": "glm-5.3"
+}

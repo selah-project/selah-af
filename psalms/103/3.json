@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Hy wat al jou ongeregtighede vergewe, wat al jou siektes genees.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "hy wat vergewe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "jou ongeregtighede"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "wat genees"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "jou siektes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.607195964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Ek sal ⟨את⟩ die huis van Agab maak soos die huis van Jerobeam seun van Nebat, en soos die huis van Baäsa seun van Ahía.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Agab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "soos die huis"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "van Nebat"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "en soos die huis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "van Baäsa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "van Ahía"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:32.552834768Z",
+  "model": "glm-5.3"
+}

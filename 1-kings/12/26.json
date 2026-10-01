@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 12:26",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jarobeam het in sy hart gesê: Nou sal die koninkryk terugkeer na die huis van Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jarobeam"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "in sy hart"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na die huis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:04.288106128Z",
+  "model": "glm-5.3"
+}

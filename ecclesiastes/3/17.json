@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Ek het in my hart gesê: ⟨את⟩ die regverdige en ⟨את⟩ die goddelose — Elohim sal oordeel, want daar ⟨is⟩ ’n tyd vir elke begeerte en oor elke daad daar.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "in my hart"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die regverdige"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die goddelose"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "sal oordeel"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir elke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "begeerte"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "daad"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:50.286262579Z",
+  "model": "glm-5.3"
+}

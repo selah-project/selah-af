@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 24:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die koning het gesê aan Joab, die bevelhebber van die leër wat by hom ⟨was⟩: Gaan tog deur al die stamme van Jisraël, van Dan af tot by Berseba, en tel die volk, dat ek die getal van die volk kan weet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bevelhebber"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "by hom ⟨את⟩"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "deurgaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "deur al"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "die stamme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "af tot by"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "seba"
+    },
+    {
+      "surface": "ופקדו",
+      "gloss": "en tel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וידעתי",
+      "gloss": "dat ek kan weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die getal van die volk"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die getal"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:48.415898337Z",
+  "model": "glm-5.3"
+}

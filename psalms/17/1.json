@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "'n Gebed van Dawid. Hoor, Jahweh, tsedek; spits ⟨die oor⟩ na my geroep; luister na my gebed — sonder lippe van bedrog.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "'n Gebed"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "spits ⟨die oor⟩"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "na my geroep"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "luister"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "na my gebed"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "lippe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.558108035Z",
+  "model": "glm-5.3"
+}

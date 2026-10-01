@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Voorwaar, ek weet dat dit so is — maar hoe kan 'n sterflike tsedek wees by El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "maar hoe"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "tsedek kan wees"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n sterflike"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:36.181910638Z",
+  "model": "glm-5.3"
+}

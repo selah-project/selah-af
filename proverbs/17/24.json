@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "⟨את⟩ Die aangesig van die verstandige ⟨is⟩ wysheid, maar die oë van die gek ⟨is⟩ aan die einde van die aarde.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van die verstandige"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "die verstandige"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "maar die oë van"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "die gek"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "aan die einde van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:30.784790468Z",
+  "model": "glm-5.3"
+}

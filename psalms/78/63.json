@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Vuur het sy jong manne opgevreet, en sy jong vroue is nie met bruilofsang geloof nie.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "sy jong manne"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "het opgevreet"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "en sy jong vroue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "is geloof (met bruilofsang)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.056025914Z",
+  "model": "glm-5.3"
+}

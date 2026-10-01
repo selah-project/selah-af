@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh sal 'n hoë vesting wees vir die verdrukkte, 'n hoë vesting vir tye in benoudheid.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en Hy sal wees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "'n hoë vesting"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "vir die verdrukkte"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "'n hoë vesting"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "vir tye"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "in benoudheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:32.031334852Z",
+  "model": "glm-5.3"
+}

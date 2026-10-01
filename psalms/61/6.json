@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "Want U, Elohim, het my geloftes gehoor; U het die erfenis gegee ⟨aan⟩ dié wat u naam vrees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "my geloftes"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "U het gegee"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "die erfenis"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "dié wat vrees"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:54.000584095Z",
+  "model": "glm-5.3"
+}

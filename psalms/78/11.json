@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hulle het sy dade vergeet en sy wonders wat hy hulle gewys het.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "en hulle het vergeet"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "sy dade"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en sy wonders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "hy hulle gewys het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:52.670349710Z",
+  "model": "glm-5.3"
+}

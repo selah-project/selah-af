@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 14:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Nie met ⟨את⟩ hulle in begrafenis verenig nie, want jou land het jy verwoes, jou volk het jy gedood; die nageslag van kwaaddoeners sal nie vir ewig genoem word nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תחד",
+      "gloss": "verenig word"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die konings van die nasies)"
+    },
+    {
+      "surface": "בקבורה",
+      "gloss": "in begrafenis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "jou land"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "het jy verwoes"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "het jy gedood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "genoem word"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "die nageslag"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:54.607576791Z",
+  "model": "glm-5.3"
+}

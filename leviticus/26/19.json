@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Ek sal ⟨את⟩ die trots van julle krag verbreek, en ek sal ⟨את⟩ julle hemel soos yster maak en ⟨את⟩ julle land soos koper.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "Ek sal verbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die trots van julle krag"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "die trots"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "van julle krag"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle hemel"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "julle hemel"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "soos yster"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "julle land"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "julle land"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "soos koper"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:43.337821354Z",
+  "model": "glm-5.3"
+}

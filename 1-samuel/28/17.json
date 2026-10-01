@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 28:17",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En Jahweh het vir ⟨hom⟩ gedoen soos Hy deur my hand gespreek het, en Jahweh het ⟨את⟩ die koninkryk uit jou hand geskeur en dit aan jou naaste gegee, aan Dawid.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "deur my hand"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "en geskeur het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koninkryk"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jou hand"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "en gegee"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "aan jou naaste"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:20.983348712Z",
+  "model": "glm-5.3"
+}

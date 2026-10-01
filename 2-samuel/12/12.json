@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "want jy het dit in die verborgenheid gedoen, maar ék sal ⟨את⟩ hierdie ding doen teenoor die hele Jisraël en teenoor die son.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die verborgenheid"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ék"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "en teenoor"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:41.474704103Z",
+  "model": "glm-5.3"
+}

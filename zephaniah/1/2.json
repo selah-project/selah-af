@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wegruim — wegruim sal ek alles van die aangesig van die aarde af, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "wegruim"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "wegruim sal ek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:02.813687864Z",
+  "model": "glm-5.3"
+}

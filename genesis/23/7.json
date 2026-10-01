@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Toe staan Awraham op en buig hom voor die volk van die land, voor die seuns van Het.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "toe staan ... op"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "en buig hom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "voor die volk van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "voor die seuns van"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:19.223521436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "dat jy ⟨את⟩ my seuns geslag en hulle oorgegee het om hulle deur te laat gaan ⟨את⟩ vir hulle",
+  "tokens": [
+    {
+      "surface": "ותשחטי",
+      "gloss": "en jy het geslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seuns"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seuns"
+    },
+    {
+      "surface": "ותתנים",
+      "gloss": "en jy het hulle gegee"
+    },
+    {
+      "surface": "בהעביר",
+      "gloss": "om deur te laat gaan"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "vir hulle"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:44.946053840Z",
+  "model": "glm-5.3"
+}

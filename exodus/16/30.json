@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die volk het gerus op die sewende dag.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "En … gerus"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "sewende"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:13.288683601Z",
+  "model": "glm-5.3"
+}

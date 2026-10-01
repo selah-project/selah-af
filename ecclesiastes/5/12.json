@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Daar is 'n sieklike kwaad wat ek gesien het onder die son: rykdom bewaar vir sy eienaar tot sy kwaad.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "sieklike"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "wat ek gesien het"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rykdom"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "vir sy eienaar"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "tot sy kwaad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:42.904744670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Dawid sê vir hom: Jou bloed ⟨is⟩ op jou kop, want jou mond self het teen jou getuig deur te sê: Ek het die ⟨את⟩ gesalfde van Jahweh gedood.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "jou bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "jou kop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "het getuig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "het gedood"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gesalfde van Jahweh"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "gesalfde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:56.199682070Z",
+  "model": "glm-5.3"
+}

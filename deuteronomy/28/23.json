@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En jou hemel wat oor jou hoof ⟨is⟩, sal koper wees, en die aarde wat onder jou ⟨is⟩, yster.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "en ... sal wees"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "jou hemel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "jou hoof"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "onder jou"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yster"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:19.593768034Z",
+  "model": "glm-5.3"
+}

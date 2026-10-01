@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 17:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Wie die arme bespot, smaat hy wat hom gemaak het; wie oor ⟨'n⟩ ramp bly is, sal nie vrygespreek word nie.",
+  "tokens": [
+    {
+      "surface": "לעג",
+      "gloss": "bespot"
+    },
+    {
+      "surface": "לרש",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "smaat"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "hy wat hom gemaak het"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "bly is"
+    },
+    {
+      "surface": "לאיד",
+      "gloss": "oor ⟨'n⟩ ramp"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "vrygespreek word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:40.864518388Z",
+  "model": "glm-5.3"
+}

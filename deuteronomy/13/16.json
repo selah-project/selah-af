@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Slaend moet jy ⟨את⟩ die inwoners van daardie stad slaan met die skerpte van die swaard; wy dit aan die ban — dit en ⟨את⟩ alles wat daarin is en ⟨את⟩ sy vee, met die skerpte van die swaard.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "slaend"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "moet jy slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die inwoners van daardie stad"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die inwoners"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die skerpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "wy aan die ban"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat daarin is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vee"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "sy vee"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "met die skerpte"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:16.772511070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 124,
+  "translation": "as Jahweh nie vir ons ⟨was⟩ toe die mens teen ons opgestaan het nie —",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "as ... nie ... nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "in die opstaan van"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "teen ons"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:16.491832860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Sy weë staan vas te alle tye; hoog bo hom uit is jou regte, ver van hom af; al sy teëstanders — hy blaas teen hulle.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "staan vas"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te"
+    },
+    {
+      "surface": "עת",
+      "gloss": "alle tye"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hoog bo"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jou regte"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "ver van hom af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "sy teëstanders"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "hy blaas"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "teen hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.011030814Z",
+  "model": "glm-5.3"
+}

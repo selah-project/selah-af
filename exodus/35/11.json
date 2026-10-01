@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "⟨את⟩ die Misjkan, ⟨את⟩ sy tente en ⟨את⟩ sy bedekking, ⟨את⟩ sy klasse en ⟨את⟩ sy planke, ⟨את⟩ sy dwarsbalke, ⟨את⟩ sy pilare en ⟨את⟩ sy voetstukke;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy tente"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sy tente"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy bedekking"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "sy bedekking"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klasse"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "sy klasse"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy planke"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "sy planke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dwarsbalke"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sy dwarsbalke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy pilare"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "sy pilare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy voetstukke"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sy voetstukke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:38.084356796Z",
+  "model": "glm-5.3"
+}

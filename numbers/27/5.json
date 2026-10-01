@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Mosje het ⟨את⟩ hulle regsbeslissing voor Jahweh gebring",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "gebring het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle regsbeslissing"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "hulle regsbeslissing"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:42.031681296Z",
+  "model": "glm-5.3"
+}

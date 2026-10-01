@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Deur die voorspoed van tsediekim juig ⟨die⟩ stad, en by die ondergang van die resjaïm ⟨is daar⟩ gejuig.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "deur die voorspoed"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van tsediekim"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "juig"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "stad"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "en by die ondergang"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die resjaïm"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "gejuig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:36.254501666Z",
+  "model": "glm-5.3"
+}

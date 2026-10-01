@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek sal jou aan my verloof in getrouheid, en jy sal ⟨את⟩ Jahweh ken.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "en ek sal jou verloof"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in getrouheid"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "en jy sal ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:28.322690100Z",
+  "model": "glm-5.3"
+}

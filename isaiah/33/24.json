@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 33:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En geen bewoner sal sê: ek is siek nie; die volk wat daarin woon, ⟨is⟩ met sy ongeregtigheid gedra — vergeewe.",
+  "tokens": [
+    {
+      "surface": "ובל",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "bewoner"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "ek is siek"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wat woon"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "is gedra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongeregtigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:04.567463190Z",
+  "model": "glm-5.3"
+}

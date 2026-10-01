@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Vir die koorleier, op ⟨die⟩ Negilot, 'n psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleider"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Negilot"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:26.159712801Z",
+  "model": "glm-5.3"
+}

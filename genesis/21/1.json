@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Jahweh het Sara besoek soos Hy gesê het, en Jahweh het vir Sara gedoen soos Hy gespreek het.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "En Jahweh"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "het besoek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en het gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "vir Sara"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:23.403390830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 2:10",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek het jul ⟨את⟩ uit die land van Mitsrajim laat opgaan, en julle veertig jaar deur die woestyn laat trek, om ⟨את⟩ die land van die Emoriet in besit te neem.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "het ek laat opgaan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ jul",
+      "marks": "julle"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "en ek het laat trek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "deur die woestyn"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om in besit te neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land van die Emoriet"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van die Emoriet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:31.721760176Z",
+  "model": "glm-5.3"
+}

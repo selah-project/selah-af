@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "'n Altaar van aarde moet jy vir my maak, en daarop moet jy ⟨את⟩ jou brandoffers en ⟨את⟩ jou vrede-offers offer, ⟨את⟩ jou kleinvee en ⟨את⟩ jou beeste; op elke plek waar ek my ⟨את⟩ Naam laat gedenk, sal ek na jou toe kom en jou seën.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy maak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "en jy moet offer"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou brandoffers"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "jou brandoffers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou vrede-offers"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "jou vrede-offers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou kleinvee"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "jou kleinvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou beeste"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "jou beeste"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "op elke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ek laat gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my Naam"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sal ek kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "en jou seën"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:38.911729783Z",
+  "model": "glm-5.3"
+}

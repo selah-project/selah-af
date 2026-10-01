@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Arpagsjad het gelewe vyf en dertig jaar en hy het ⟨את⟩ Sjelag verwek.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "en Arpagsjad"
+    },
+    {
+      "surface": "חי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjelag"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Sjelag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:31.929566927Z",
+  "model": "glm-5.3"
+}

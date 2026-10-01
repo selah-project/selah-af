@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Op die derde dag het Awraham ⟨את⟩ sy oë opgelig en ⟨את⟩ die plek van ver af gesien.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "die derde"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "het opgelig"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy oë"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plek"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van ver af"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:44.401356641Z",
+  "model": "glm-5.3"
+}

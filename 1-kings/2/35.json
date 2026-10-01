@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 2:35",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die koning het Benajahu, seun van Jehojada, in sy plek oor die leër aangestel ⟨את⟩, en Tsadok die priester het die koning in die plek van Ewjatar aangestel ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en het aangestel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Benajahu"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benajahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "van Jehojada"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "die leër"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Tsadok die priester"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Tsadok"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het aangestel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "van Ewjatar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:02.627975457Z",
+  "model": "glm-5.3"
+}

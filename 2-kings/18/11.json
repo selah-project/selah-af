@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 18:11",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die koning van Assur het Jisraël ⟨את⟩ weggevoer na Assur en hulle laat woon in Chalgag en in Cgawor, die rivier van Gosan, en in die stede van die Mede.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "en het weggevoer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "na Assur"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en hulle laat woon"
+    },
+    {
+      "surface": "בחלח",
+      "gloss": "in Chalgag"
+    },
+    {
+      "surface": "ובחבור",
+      "gloss": "en in Cgawor"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "die rivier"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "van Gosan"
+    },
+    {
+      "surface": "וערי",
+      "gloss": "en in die stede"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "van die Mede"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:17.841978062Z",
+  "model": "glm-5.3"
+}

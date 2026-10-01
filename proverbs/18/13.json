@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Wie 'n woord antwoord voordat hy ⟨dit⟩ hoor — dit is dwaasheid vir hom en skande.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "hy hoor"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "dwaasheid"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "en skande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:19.380599913Z",
+  "model": "glm-5.3"
+}

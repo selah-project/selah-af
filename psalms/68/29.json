@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 68:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Jou Elohim het jou krag beveel; vertoon krag, Elohim, dit wat U vir ons bewerk het.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "jou krag"
+    },
+    {
+      "surface": "עוזה",
+      "gloss": "vertoon krag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dit"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "het U bewerk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:58.651076019Z",
+  "model": "glm-5.3"
+}

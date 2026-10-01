@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 24:18",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hulle het ⟨את⟩ die huis van Jahweh, die Elohim van hulle vaders, verlaat en ⟨את⟩ die Asjerim en ⟨את⟩ die afgodsbeelde gedien; en daar was toorn oor Jehoeda en Jerusjalajim oor hierdie hulle skuld.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "en hulle het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjerim"
+    },
+    {
+      "surface": "האשרim",
+      "gloss": "die Asjerim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die afgodsbeelde"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "die afgodsbeelde"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "על",
+      "gloss": "oór"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jerusjalajim"
+    },
+    {
+      "surface": "באשמתם",
+      "gloss": "oór hulle skuld"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:58.331405208Z",
+  "model": "glm-5.3"
+}

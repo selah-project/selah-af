@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 10:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "dat U my ongeregtigheid soek en na my sonde vra?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "soek U"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "my ongeregtigheid"
+    },
+    {
+      "surface": "ולחטאתי",
+      "gloss": "en na my sonde"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "vra U"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:13.313826393Z",
+  "model": "glm-5.3"
+}

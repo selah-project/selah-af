@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "om die weldaad van u uitverkorenes te sien, om te jubel in die vreugde van u nasie, om te roem saam met u erfenis.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "die weldaad van"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "u uitverkorenes"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "om te jubel"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "in die vreugde van"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "u nasie"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "om te roem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "u erfenis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:21.144298944Z",
+  "model": "glm-5.3"
+}

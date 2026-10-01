@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Ons sal juig in jou redding, en in die naam van ons Elohim sal ons ⟨'n vaandel⟩ oprig; mag Jahweh al jou versoeke vervul.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "sal ons juig"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "in jou redding"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "en in die naam"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van ons Elohim"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "sal ons vaandel oprig"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "mag Hy vervul"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "jou versoeke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.292515878Z",
+  "model": "glm-5.3"
+}

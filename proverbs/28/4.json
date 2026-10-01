@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Hulle wat die Tora verlaat, loof die goddelose; maar hulle wat die Tora bewaar, ontbrand teen hulle.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Hulle wat verlaat"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "loof"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "maar hulle wat bewaar"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "ontbrand"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teen hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:28.575224050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "vyf van julle sal honderd agtervolg, en honderd van julle sal tienduisend agtervolg; en julle vyande sal voor julle val □deur die swaard.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "sal agtervolg"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "van julle"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "van julle"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "tienduisend"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "sal agtervolg"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en hulle sal val"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "□deur die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:14.816178735Z",
+  "model": "glm-5.3"
+}

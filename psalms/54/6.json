@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Kyk, Elohim ⟨is⟩ my helper; Adonai ⟨is⟩ by dié wat my lewe ondersteun.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "by dié wat ondersteun"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:36.653796800Z",
+  "model": "glm-5.3"
+}

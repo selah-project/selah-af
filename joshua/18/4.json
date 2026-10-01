@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 18:4",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Gee vir julle drie manne per stam, en ek sal hulle stuur, en hulle moet opstaan en deur die land loop en ⟨את⟩ haar beskryf volgens hulle erfdeel, en hulle moet na my toe kom.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "per stam"
+    },
+    {
+      "surface": "ואשלחם",
+      "gloss": "en ek sal hulle stuur"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "en hulle moet opstaan"
+    },
+    {
+      "surface": "ויתהלכו",
+      "gloss": "en loop"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "deur die land"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "en beskryf"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ haar",
+      "marks": "die land"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "hulle erfdeel"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle moet kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:54.232330734Z",
+  "model": "glm-5.3"
+}

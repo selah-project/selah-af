@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Al die konings van die aarde sal U loof, Jahweh, want hulle het die woorde van u mond gehoor.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sal U loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van u mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:40.272941643Z",
+  "model": "glm-5.3"
+}

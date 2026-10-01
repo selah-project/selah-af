@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 19:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Het ⟨את⟩ hulle gered die gode van die nasies wat my vaders verwoes het — ⟨את⟩ Gozan en ⟨את⟩ Charan en Retsef en die seuns van Eden, wat in Telassar ⟨is⟩?",
+  "tokens": [
+    {
+      "surface": "ההצילו",
+      "gloss": "Het gered"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "die gode van die nasies"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "verwoes het"
+    },
+    {
+      "surface": "אבותי",
+      "gloss": "my vaders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gozan"
+    },
+    {
+      "surface": "גוזן",
+      "gloss": "Gozan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Charan"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Charan"
+    },
+    {
+      "surface": "ורצף",
+      "gloss": "en Retsef"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בתלאשר",
+      "gloss": "in Telassar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:27.286310330Z",
+  "model": "glm-5.3"
+}

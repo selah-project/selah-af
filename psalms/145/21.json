@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Die lof van Jahweh sal my mond spreek, en laat alle vlees sy heilige naam seën, vir ewig en tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "die lof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sal spreek"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en laat seën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:58.134164286Z",
+  "model": "glm-5.3"
+}

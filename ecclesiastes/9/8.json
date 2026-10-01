@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Laat jou klere te alle tye wit wees, en laat olie op jou hoof nie ontbreek nie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "te alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tye"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "wees"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "jou klere"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "wit"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "en olie"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "jou hoof"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "laat ontbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:54.317264034Z",
+  "model": "glm-5.3"
+}

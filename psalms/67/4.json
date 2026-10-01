@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Volke sal U loof, o Elohim; al die volke sal U loof.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "sal U loof"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "sal U loof"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "al hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.533264852Z",
+  "model": "glm-5.3"
+}

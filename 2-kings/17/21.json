@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 17:21",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Want Israel is geskeur van ⟨die⟩ huis van Dawid af, en hulle het ⟨את⟩ Jerobeam seun van Newat koning gemaak, en Jerobeam het ⟨את⟩ Israel van agter Jahweh weg gedrywe en hulle 'n groot sonde laat doen.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קרע",
+      "gloss": "geskeur"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en hulle het koning gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerobeam"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Newat"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "en hy het gedrywe"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Jerobeam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van agter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והחטיאם",
+      "gloss": "en hulle laat sonde doen"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "'n sonde"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:36.654638550Z",
+  "model": "glm-5.3"
+}

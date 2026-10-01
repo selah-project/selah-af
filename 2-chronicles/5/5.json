@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 5:5",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hulle het ⟨את⟩ die ark opgebring, en ⟨את⟩ die tent van ontmoeting, en ⟨את⟩ al die gerei van die heiligheid wat in die tent was — hulle het ⟨את⟩ hulle opgebring, die priesters, die Leviëtiese priesters.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het opgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tent van ontmoeting"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die gerei van die heiligheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die gerei"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligheid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "hulle het opgebring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "die priesters, die Leviëtiese priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Leviëtiese priesters"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:25.884516467Z",
+  "model": "glm-5.3"
+}

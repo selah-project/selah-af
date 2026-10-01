@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Las van Tsor. Huil, skepe van Tarsjisj, want ⟨dit⟩ is verwoes, sonder huis, sonder intoog; uit die land van Kittim is dit aan hulle geopenbaar.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "las"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van Tsor"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "huil"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "skepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "van Tarsjisj"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "is verwoes"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van ⟨die⟩ huis"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "van intoog"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit ⟨die⟩ land"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "van Kittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "is geopenbaar"
+    },
+    {
+      "surface": "למו",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:15.229146745Z",
+  "model": "glm-5.3"
+}

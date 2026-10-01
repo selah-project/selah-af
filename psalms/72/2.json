@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Hy sal u volk oordeel in tsedek, en u armes in reg.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hy sal oordeel"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "in tsedek"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "en u armes"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.533910925Z",
+  "model": "glm-5.3"
+}

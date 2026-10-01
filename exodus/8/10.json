@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hulle het hulle op hope gestapel, hoop ná hoop, en die aarde het begin stink.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "en hulle het gestapel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle (die hope)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hoop ná hoop"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "hoop ná hoop"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "en het begin stink"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:05.483839791Z",
+  "model": "glm-5.3"
+}

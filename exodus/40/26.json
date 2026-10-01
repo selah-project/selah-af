@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het ⟨את⟩ die goue altaar geplaas in die tent van samekoms, voor die voorhangsel.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goue altaar"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altaar"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goue"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "die voorhangsel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:03.221040858Z",
+  "model": "glm-5.3"
+}

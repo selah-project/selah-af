@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy sê: laat my tog ⟨את⟩ uwe heerlikheid sien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "laat my sien"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uwe heerlikheid"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "uwe heerlikheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:21.869090756Z",
+  "model": "glm-5.3"
+}

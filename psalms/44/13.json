@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "U verkoop ⟨u⟩ volk vir geen wins nie, en u het nie vermeerder deur hulle prys nie.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "verkoop U"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "vir geen"
+    },
+    {
+      "surface": "הון",
+      "gloss": "wins"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "het U vermeerder"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "deur hulle prys"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.664181325Z",
+  "model": "glm-5.3"
+}

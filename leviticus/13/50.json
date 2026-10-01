@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die priester moet die plaag aanskou, en die voorwerp met die plaag sewe dae toesluit.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "En aanskou"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plaag"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die plaag"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en toesluit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plaag"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die voorwerp met die plaag"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:13.376244132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Joab het geveg teen Rabba van die kinders van Ammon, en hy het ⟨את⟩ die stad van die koningskap gevange geneem.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "en hy het geveg"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "teen Rabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en hy het gevange geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad van die koningskap"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "van die koningskap"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:22.597818159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 40:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Verdor ⟨is⟩ die gras, verwelk die bloei, maar die woord van onse Elohim staan vir ewig.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "verdor ⟨is⟩"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "die gras"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "verwelk"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "die bloei"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "maar die woord"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onse Elohim"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "staan"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.211259053Z",
+  "model": "glm-5.3"
+}

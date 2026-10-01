@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En 'n man, as hy ⟨את⟩ sy huis as heilig vir Jahweh afsonder, dan sal die priester dit waardeer, tussen goed en tussen sleg; soos die priester dit ⟨את⟩ waardeer, so sal dit staan.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "afsonder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "as heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "dan sal die priester dit waardeer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sleg"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "sal waardeer"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "die priester se waardering"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sal dit staan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:57.872994639Z",
+  "model": "glm-5.3"
+}

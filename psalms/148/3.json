@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Loof Hom, son en maan; loof Hom, al die sterre van lig.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "son"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en maan"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "die sterre"
+    },
+    {
+      "surface": "אור",
+      "gloss": "van lig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:30.499986012Z",
+  "model": "glm-5.3"
+}

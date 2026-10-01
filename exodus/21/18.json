@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En as mans gelykstry en 'n man ⟨את⟩ sy naaste met 'n klip of met 'n vuis slaan, en hy nie sterf nie maar op die bed val —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en-as"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "gelykstry"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "mans"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en-slaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n-man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy-naaste"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "met-'n-klip"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "met-'n-vuis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en-nie"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sterf-hy"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "en-val"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "op-die-bed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:44.408844944Z",
+  "model": "glm-5.3"
+}

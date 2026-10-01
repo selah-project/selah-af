@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En julle saad en julle wingerde sal hy tiende, en gee aan sy hofdienaars en aan sy dienaars.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "en julle saad"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "en julle wingerde"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "sal hy tiende"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "aan sy hofdienaars"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "en aan sy dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:59.673358142Z",
+  "model": "glm-5.3"
+}

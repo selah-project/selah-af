@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 42:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Ek ⟨is⟩ Jahweh — dit ⟨is⟩ my Naam; en my eer sal ek aan 'n ander nie gee nie, en my lof aan die gesnede beelde nie.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my Naam"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en my eer"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "aan 'n ander"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sal ek gee"
+    },
+    {
+      "surface": "ותהלתי",
+      "gloss": "en my lof"
+    },
+    {
+      "surface": "לפסילים",
+      "gloss": "aan die gesnede beelde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:39.715086142Z",
+  "model": "glm-5.3"
+}

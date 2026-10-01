@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "U laat hom heers oor die werke van U hande; alles het U onder sy voete gestel.",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "U laat hom heers"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "oor die werke"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van U hande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "het U gestel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:19.205814713Z",
+  "model": "glm-5.3"
+}

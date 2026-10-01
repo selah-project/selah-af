@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die koning sê vir die vrou: Gaan na jou huis toe, en ek sal bevel gee oor jou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "na jou huis"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "sal bevel gee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oor jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:19.275022582Z",
+  "model": "glm-5.3"
+}

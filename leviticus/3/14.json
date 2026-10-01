@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 3:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy bring van dit naby as sy offerande, 'n vuuroffer vir Jahweh: ⟨את⟩ die vet wat die ingewande bedek, en ⟨את⟩ al die vet wat op die ingewande is.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "en hy bring naby"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van dit"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sy offerande"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuuroffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "wat bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingewande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die vet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:38.103636037Z",
+  "model": "glm-5.3"
+}

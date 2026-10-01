@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Toe Efraim gepraat het, ⟨was daar⟩ bewing; hy het homself in Jisraël verhef, maar hy het in die Baäl geskuldig en het gesterwe.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "toe ... gepraat het"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "bewing"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "het homself verhef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "en het geskuldig"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "in die Baäl"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:14.563752318Z",
+  "model": "glm-5.3"
+}

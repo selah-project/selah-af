@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester neem ⟨את⟩ die lam van die skuldoffer en ⟨את⟩ die log olie, en die priester swaai hulle ⟨את⟩ as swingoffer voor Jahweh.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en hy neem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lam"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "die lam"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "van die skuldoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die log olie"
+    },
+    {
+      "surface": "לג",
+      "gloss": "die log"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "en hy swaai"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "as swingoffer"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:58.556894419Z",
+  "model": "glm-5.3"
+}

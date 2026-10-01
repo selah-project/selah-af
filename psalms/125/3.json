@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 125,
+  "translation": "Want die staf van die goddelose sal nie rus op die lot van die regverdiges nie, sodat die regverdiges nie hulle hande na ongeregtigheid uitsteek nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "sal rus"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "staf"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "lot"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "van die regverdiges"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "sal uitsteek"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "na ongeregtigheid"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:42.542332236Z",
+  "model": "glm-5.3"
+}

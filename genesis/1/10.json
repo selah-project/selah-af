@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het die droë ⟨אֶרֶץ⟩ aarde genoem, en die vergadering van die waters het Hy seë genoem; en Elohim het gesien dat dit goed ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "die droë"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "en die vergadering van"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "het Hy genoem"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "seë"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:17.962376864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Toe het hulle gou gehandel en elke man ⟨את⟩ sy sak op die aarde laat afsak, en elke man het sy sak oopgemaak.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "toe het hulle gou gehandel"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "en laat afsak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy sak"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sy sak"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "en hulle het oopgemaak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "sy sak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:39.169974514Z",
+  "model": "glm-5.3"
+}

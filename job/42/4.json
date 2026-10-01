@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Luister tog, en ek sal spreek; ek sal U vra, en laat U my weet.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sal spreek"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ek sal U vra"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "laat U my weet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:06.169171314Z",
+  "model": "glm-5.3"
+}

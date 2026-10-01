@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 8:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het gesê: Geseënd ⟨is⟩ Jahweh, die Elohim van Jisraël, wat met sy mond met ⟨את⟩ Dawid my vader gespreek en met sy hand vervul het, deur te sê:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "met sy mond"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid my vader"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "en met sy hand"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vervul het"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:23.931890590Z",
+  "model": "glm-5.3"
+}

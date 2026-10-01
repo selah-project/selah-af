@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy sal ⟨את⟩ sy skuldoffer na Jahweh bring, by die ingang van die tent van samekoms: 'n ram as skuldoffer.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "en hy sal bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy skuldoffer"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "sy skuldoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "na Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "איל",
+      "gloss": "'n ram"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "as skuldoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:06.395373124Z",
+  "model": "glm-5.3"
+}

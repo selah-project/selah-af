@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Byna het hulle my op die aarde vernietig, maar ek het u voorskrifte nie verlaat nie.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "byna"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "het hulle my vernietig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "het ek verlaat"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "u voorskrifte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:37.164881264Z",
+  "model": "glm-5.3"
+}

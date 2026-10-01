@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die owerste van die vaderhuis van die families van die Kehatiete ⟨is⟩ Elitsafan, die seun van Ussiël.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "En die owerste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אב",
+      "gloss": "van die vader"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "van die families"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "van die Kehatiete"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "van Ussiël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:51.238155665Z",
+  "model": "glm-5.3"
+}

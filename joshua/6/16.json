@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En dit het gebeur by die sewende keer, toe die priesters in die sjofars gestoot het, dat Jehosjoea tot die volk gesê het: Juig! want Jahweh het aan julle ⟨את⟩ die stad gegee.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "by die keer"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sewende"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "het gestoot"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "in die sjofars"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:20.726114179Z",
+  "model": "glm-5.3"
+}

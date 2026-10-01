@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 1:23",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Keer terug by my bestraffing — kyk, ek stort my roeag vir julle uit, ek maak my woorde aan ⟨את⟩ julle bekend.",
+  "tokens": [
+    {
+      "surface": "תשובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לתוכחתי",
+      "gloss": "by my bestraffing"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "stort ek uit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ek maak bekend"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:46.764501145Z",
+  "model": "glm-5.3"
+}

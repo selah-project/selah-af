@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Mag my leer drup soos die reën, mag my woorde vloei soos die dou, soos reënbuie op die jong gras en soos druppels op die kruid.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "mag drup"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "soos die reën"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "my leer"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "mag vloei"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "soos die dou"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "soos reënbuie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "die jong gras"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "en soos druppels"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "die kruid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:43.042566047Z",
+  "model": "glm-5.3"
+}

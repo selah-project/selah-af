@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Jahweh ken ⟨die⟩ gedagtes van ⟨die⟩ mens, dat hulle nietigheid ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "gedagtes"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nietigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.921570667Z",
+  "model": "glm-5.3"
+}

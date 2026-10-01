@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezra 3:1",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die sewende maand het gekom, en die seuns van Jisraël ⟨was⟩ in die stede; toe het die volk hul versamel soos een man na Jerusjalajim toe.",
+  "tokens": [
+    {
+      "surface": "ויגע",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "die maand"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "in die stede"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "toe het hul versamel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "soos een man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:38:04.351354957Z",
+  "model": "glm-5.3"
+}

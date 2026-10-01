@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 18:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En ná dit so het Dawid ⟨את⟩ die Filistyne geslaan en hulle onderwerp, en ⟨את⟩ Gat en sy dogters uit die hand van die Filistyne geneem.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "כן",
+      "gloss": "dit so"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "toe … geslaan"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "en hulle onderwerp"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gat"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "en sy dogters"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:36.795648189Z",
+  "model": "glm-5.3"
+}

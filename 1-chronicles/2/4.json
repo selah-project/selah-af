@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Tamar, sy skoondogter, het vir hom ⟨את⟩ Perets en ⟨את⟩ Serag gebaar. Al die seuns van Jehoeda was vyf.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "En Tamar"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "sy skoondogter"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Serag"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Serag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Al"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:11.279887454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Hy wat⟩ genees die gebrokenes van hart, en verbind hulle smarte.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "genees"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "die gebrokenes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "en verbind"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "hulle smarte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:34.293828441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 25:24",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En sy het by sy voete geval en gesê: Op my, my heer, op my die ongeregtigheid; en laat tog jou slavin in jou ore spreek, en hoor ⟨את⟩ die woorde van jou slavin.",
+  "tokens": [
+    {
+      "surface": "ותפל",
+      "gloss": "geval"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "בי",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אני",
+      "gloss": "my"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "העון",
+      "gloss": "die ongeregtigheid"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jou slavin"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "in jou ore"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "en hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jou slavin"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:55.936798512Z",
+  "model": "glm-5.3"
+}

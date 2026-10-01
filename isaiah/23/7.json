@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 23:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Is hierdie vir julle ⟨die⟩ jubelende ⟨stad⟩, wie se oorsprong uit dae van voortyd ⟨is⟩? Haar eie voete dra haar ver weg om as bywoner te woon.",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "jubelende"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "uit dae van"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "voortyd"
+    },
+    {
+      "surface": "קדמתה",
+      "gloss": "haar oorsprong"
+    },
+    {
+      "surface": "יבלוה",
+      "gloss": "dra"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "haar eie voete"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ver weg"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "om as bywoner te woon"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:06.001563567Z",
+  "model": "glm-5.3"
+}

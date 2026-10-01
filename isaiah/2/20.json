@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Op daardie dag sal die mens weggooi ⟨את⟩ sy afgode van silwer en ⟨את⟩ sy afgode van goud wat hulle vir hom gemaak het om voor te buig — vir die moliere en vir die vlermuise.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "sal weggooi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy afgode van silwer"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sy afgode"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "van silwer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy afgode van goud"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "sy afgode"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "hulle gemaak het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "om voor te buig"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "vir die moliere"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "van die gate"
+    },
+    {
+      "surface": "ולעטלפים",
+      "gloss": "en vir die vlermuise"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:59.301522906Z",
+  "model": "glm-5.3"
+}

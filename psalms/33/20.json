@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Ons lewe het op Jahweh gewag; hy ⟨is⟩ ons hulp en ons skild.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "ons lewe"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "het gewag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "ons hulp"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "en ons skild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:34.659146109Z",
+  "model": "glm-5.3"
+}

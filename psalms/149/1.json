@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Loof Jah! Sing vir Jahweh 'n nuwe lied, sy lof in ⟨die⟩ vergadering van gesindes.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in ⟨die⟩ vergadering"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "van gesindes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.047358258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 135:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Sigon, koning van ⟨die⟩ Emoriete, en Og, koning van ⟨die⟩ Basjan, en al die koninkryke van Kenaan;",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Sigon"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van die Emoriete"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "en Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van die Basjan"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "van Kenaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.894301713Z",
+  "model": "glm-5.3"
+}

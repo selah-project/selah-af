@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 11:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "tot 'n maand dae lank, totdat dit uit julle neusgatte uitkom en dit vir julle 'n gruwel word; omdat julle ⟨את⟩ Jahweh wat in julle midde ⟨is⟩, verag het en voor Hom gehuil het deur te sê: Waarom het ons uit Mitsrajim uitgegaan?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "'n maand"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uitkom"
+    },
+    {
+      "surface": "מאפכם",
+      "gloss": "uit julle neusgatte"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "לזרא",
+      "gloss": "'n gruwel"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מאסתם",
+      "gloss": "julle verag het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in julle midde"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "en gehuil het"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor Hom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יצאנו",
+      "gloss": "het ons uitgegaan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:07.329498756Z",
+  "model": "glm-5.3"
+}

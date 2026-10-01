@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 2:5",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Stut my met ⟨die⟩ koek van rosyne, verkwik my met appels, want ek is siek van liefde.",
+  "tokens": [
+    {
+      "surface": "סמכוני",
+      "gloss": "stut my"
+    },
+    {
+      "surface": "באשישות",
+      "gloss": "met koek van rosyne"
+    },
+    {
+      "surface": "רפדוני",
+      "gloss": "verkwik my"
+    },
+    {
+      "surface": "בתפוחים",
+      "gloss": "met appels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חולת",
+      "gloss": "siek"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "van liefde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:02.388634161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 6:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning het ⟨את⟩ sy gesig gedraai, en ⟨את⟩ die hele vergadering van Jisraël geseën — en die hele vergadering van Jisraël het gestaan.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "en hy het gedraai"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy gesig"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy gesig"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en hy het geseën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele vergadering van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "het gestaan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:12.767149003Z",
+  "model": "glm-5.3"
+}

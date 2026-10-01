@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 8:6",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning het die vrou gevra, en sy het hom vertel. Toe gee die koning vir haar een eunug, met die opdrag: bring terug ⟨את⟩ alles wat hare is, en ⟨את⟩ al die opbrengs van die veld, van die dag af dat sy ⟨את⟩ die land verlaat het, tot nou toe.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "het gevra"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "ותספר",
+      "gloss": "het vertel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "Toe gee"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "eunug"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die opdrag"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לה",
+      "gloss": "hare is"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al die opbrengs van die veld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "die opbrengs"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "van die dag af"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "sy verlaat het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou toe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:46.605722915Z",
+  "model": "glm-5.3"
+}

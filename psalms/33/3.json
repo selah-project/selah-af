@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Sing vir Hom 'n nuwe lied; speel mooi, met 'n trompetgeskal.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "speel mooi"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "(op die snare)"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "met 'n trompetgeskal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:42.367007106Z",
+  "model": "glm-5.3"
+}

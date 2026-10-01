@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "en ek het aan jou gegee ⟨את⟩ die huis van jou heer, en ⟨את⟩ die vroue van jou heer in jou skoot, en ek het aan jou gegee ⟨את⟩ die huis van Jisraël en Jehoeda; en as dit te min was, sou ek bygevoeg het vir jou so-en-so.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek het gegee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van jou heer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van jou heer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vroue van jou heer"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "die vroue"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "van jou heer"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "in jou skoot"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek het gegee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël en Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en Jehoeda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "te min"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "sou ek bygevoeg het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "so-en-so"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "en so-en-so"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:58.645872982Z",
+  "model": "glm-5.3"
+}

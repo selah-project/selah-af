@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 44:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "U — U hand het nasies verdryf en hulle ⟨hulle⟩ geplant; U het volke verbrysel en hulle uitgestuur.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "U hand"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "הורשת",
+      "gloss": "het verdrywe"
+    },
+    {
+      "surface": "ותטעם",
+      "gloss": "en hulle geplant"
+    },
+    {
+      "surface": "תרע",
+      "gloss": "het verbrysel"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "ותשלחם",
+      "gloss": "en hulle uitgestuur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.170126857Z",
+  "model": "glm-5.3"
+}

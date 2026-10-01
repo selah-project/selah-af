@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Slegs die bloed mag julle nie eet nie; op die aarde moet jy dit uitgiet soos water.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "moet jy uitgiet"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "soos water"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:32.848678061Z",
+  "model": "glm-5.3"
+}

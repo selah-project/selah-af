@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal julle hoogtes verwoes, en Ek sal julle sonpilare uitroei, en Ek sal julle lyke lê op die lyke van julle afgodsbeelde, en My siel sal julle verfoei.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "en Ek sal verwoes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle hoogtes"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "julle hoogtes"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en Ek sal uitroei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle sonpilare"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "julle sonpilare"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle lyke"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "julle lyke"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "die lyke"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "van julle afgodsbeelde"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "en sal verfoei"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "My siel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:41.917258833Z",
+  "model": "glm-5.3"
+}

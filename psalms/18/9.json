@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Rook het opgegaan in sy neusgate, en vuur uit sy mond het verteer; gloeiende kole het daaruit gebrand.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "het opgegaan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "rook"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in sy neusgate"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "en vuur"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "uit sy mond"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "het verteer"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "gloeiende kole"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "het gebrand"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daaruit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.678788885Z",
+  "model": "glm-5.3"
+}

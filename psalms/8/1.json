@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Vir die koorleier, op die Gittit; 'n psalm van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "die Gittit"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:58.677463261Z",
+  "model": "glm-5.3"
+}

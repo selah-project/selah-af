@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Ek, ék ⟨is⟩ dit wat julle troos; wie ⟨is⟩ jy, dat jy 'n mens vrees wat sal sterf, en 'n seun van Adam wat soos gras gegee word?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ék"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "wat julle troos"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jy"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "dat jy vrees"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "'n mens"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "wat sal sterf"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "en 'n seun van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "soos gras"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "gegee word"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:36.085956239Z",
+  "model": "glm-5.3"
+}

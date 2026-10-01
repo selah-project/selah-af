@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "want daar is geen boeie in hulle dood nie, en hulle liggaam ⟨is⟩ gesond.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "boeie"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "in hulle dood"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "en gesond"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "hulle liggaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:10.967571955Z",
+  "model": "glm-5.3"
+}

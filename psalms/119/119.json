@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Soos slaak het jy al die goddeloses van die aarde laat ophou; daarom het ek jou getuienis liefgehad.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "soos slaak"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "het jy laat ophou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "het ek liefgehad"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "jou getuienis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:21.570784266Z",
+  "model": "glm-5.3"
+}

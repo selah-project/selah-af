@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "My volk, wat het ek aan jou gedoen? Waarin het ek jou vermoei? Antwoord My!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "My volk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "waarin"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "het ek jou vermoei"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Antwoord"
+    },
+    {
+      "surface": "בי",
+      "gloss": "My"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:18.369537301Z",
+  "model": "glm-5.3"
+}

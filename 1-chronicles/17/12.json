@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Hy sal vir my 'n huis bou, en ek sal ⟨את⟩ sy troon bevestig tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "sal bou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בית",
+      "gloss": "'n huis"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "en ek sal bevestig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy troon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sy troon"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:22.473216474Z",
+  "model": "glm-5.3"
+}

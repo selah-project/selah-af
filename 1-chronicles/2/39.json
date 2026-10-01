@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en Azarja het ⟨את⟩ Gelets verwek, en Gelets het ⟨את⟩ Elasa verwek.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gelets"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Gelets"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "en Gelets"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasa"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Elasa"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:08.085765801Z",
+  "model": "glm-5.3"
+}

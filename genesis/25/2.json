@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En sy het vir hom gebaar ⟨את⟩ Simran en ⟨את⟩ Joksjan en ⟨את⟩ Medan en ⟨את⟩ Midjan en ⟨את⟩ Jisjbak en ⟨את⟩ Suag.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en gebaar"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Simran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Simran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Joksjan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Joksjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Medan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Medan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jisjbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Jisjbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Suag"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Suag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:44.517204658Z",
+  "model": "glm-5.3"
+}

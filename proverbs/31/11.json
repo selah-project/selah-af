@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Die hart van haar man vertrou op haar, en aan buit sal hy nie ontbreek nie.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "בה",
+      "gloss": "op haar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "van haar man"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "en aan buit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "sal ontbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:51.812908464Z",
+  "model": "glm-5.3"
+}

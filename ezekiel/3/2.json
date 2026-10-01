@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Toe maak ek ⟨את⟩ my mond oop, en Hy het my ⟨את⟩ hierdie rol laat eet.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Toe maak ek oop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my mond"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "en Hy het my laat eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie rol"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "die rol"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:48.651019592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 1:14",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Kyk, terwyl jy nog daar met die koning praat, sal ek ná jou inkom en ⟨את⟩ jou worte voltooi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "nog"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "praat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "sal inkom"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ná jou"
+    },
+    {
+      "surface": "ומלאתי",
+      "gloss": "en sal voltooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou worte"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jou worte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:45.104799197Z",
+  "model": "glm-5.3"
+}

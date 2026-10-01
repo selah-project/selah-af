@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "En hy het Jisraël uit hulle midde uitgebring, want vir ewig duur sy gesed.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hy het uitgebring"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "uit hulle midde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "duur sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.972139911Z",
+  "model": "glm-5.3"
+}

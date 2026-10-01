@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "sodat Ek ⟨את⟩ die huis van Jisraël kan gryp in hulle hart, wat ⟨hulle⟩ van My af vervreem het deur hulle afgode — hulle almal.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "kan gryp"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hulle hart"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "vervreem het"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van My af"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "deur hulle afgode"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    }
+  ],
+  "timestamp": "2026-09-30T22:49:14.711312640Z",
+  "model": "glm-5.3"
+}

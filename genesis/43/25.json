@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En hulle het ⟨את⟩ die geskenk gereedgemaak teen die koms van Josef by die middag, want hulle het gehoor dat hulle daar brood sou eet.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "het gereedgemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geskenk"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die geskenk"
+    },
+    {
+      "surface": "עד",
+      "gloss": "teen"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "die koms"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "by die middag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sou eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:10.823732988Z",
+  "model": "glm-5.3"
+}

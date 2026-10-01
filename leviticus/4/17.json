@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die priester sal sy vinger in die bloed doop en sewe maal spreek voor Jahweh, ⟨את⟩ die aangesig van die voorhangsel",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "en sal doop"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "sy vinger"
+    },
+    {
+      "surface": "מן",
+      "gloss": "in"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "male"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van die voorhangsel"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "van die voorhangsel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:09.566384061Z",
+  "model": "glm-5.3"
+}

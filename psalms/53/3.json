@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 53:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Elohim het uit die hemele neergekyk oor die seuns van die mens om te sien of daar 'n verstandige is, een wat ⟨את⟩ Elohim soek.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uit die hemele"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "het neergekyk"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "היש",
+      "gloss": "of daar is"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n verstandige"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.839552301Z",
+  "model": "glm-5.3"
+}

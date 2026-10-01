@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joel 2:9",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "In die stad storm hulle, op die muur hardloop hulle, in die huise klim hulle op, by die vensters kom hulle in soos 'n dief.",
+  "tokens": [
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "storm hulle"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "op die muur"
+    },
+    {
+      "surface": "ירצון",
+      "gloss": "hardloop hulle"
+    },
+    {
+      "surface": "בבתים",
+      "gloss": "in die huise"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "klim hulle op"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "by"
+    },
+    {
+      "surface": "החלונים",
+      "gloss": "die vensters"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "kom hulle in"
+    },
+    {
+      "surface": "כגנב",
+      "gloss": "soos 'n dief"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:39.038190435Z",
+  "model": "glm-5.3"
+}

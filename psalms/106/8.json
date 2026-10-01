@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Maar hy het hulle gered ter wille van sy naam, om ⟨את⟩ sy mag bekend te maak.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "Maar hy het hulle gered"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "om bekend te maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy mag"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "sy mag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:21.145109728Z",
+  "model": "glm-5.3"
+}

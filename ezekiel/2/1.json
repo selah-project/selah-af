@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Hy het vir my gesê: seun van die mens, staan op jou voete, en Ek sal met jou ⟨את⟩ spreek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Hy het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "jou voete"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "en Ek sal spreek"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:45:34.833761986Z",
+  "model": "glm-5.3"
+}

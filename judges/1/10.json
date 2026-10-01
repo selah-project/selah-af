@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jehoeda het gegaan teen die Kanaäniet wat in Gevron woon — en die naam van Gevron was vroeër Kirjat-Arba — en hulle het geslaan ⟨את⟩ Sjesjai en ⟨את⟩ Agiman en ⟨את⟩ Talmai.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "wat woon"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Gevron"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en die naam van"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Gevron"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "vroeër"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjesjai"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "Sjesjai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Agiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "Agiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Talmai"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Talmai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:37.462957654Z",
+  "model": "glm-5.3"
+}

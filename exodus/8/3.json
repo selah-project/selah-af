@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die towenaars het net so met hulle geheime kuns gedoen, en hulle het ⟨את⟩ die paddas oor die land van Mitsrajim laat opkom.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "net so"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "die towenaars"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "met hulle geheime kuns"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het laat opkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die paddas"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "die paddas"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:47.695463567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 5:17",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die Filistyne het gehoor dat hulle ⟨את⟩ Dawid gesalf het as koning oor Jisraël, en al die Filistyne het opgetrek om ⟨את⟩ Dawid te soek; en Dawid het ⟨dit⟩ gehoor en het afgegaan na die vesting.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "het gehoord"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "hulle gesalf het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "het afgegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המצודה",
+      "gloss": "die vesting"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:24.346453716Z",
+  "model": "glm-5.3"
+}

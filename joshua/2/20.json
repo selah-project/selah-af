@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En as jy hierdie ⟨את⟩ ons woord verkondig, dan ⟨is⟩ ons onskuldig aan jou eed wat jy ons laat sweer het.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "jy verkondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ons woord"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "ons woord"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "dan is ons"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "onskuldig"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "aan jou eed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "jy ons laat sweer het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:21.736615077Z",
+  "model": "glm-5.3"
+}

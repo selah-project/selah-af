@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "En hulle moet ⟨את⟩ die lam en ⟨את⟩ die minga en ⟨את⟩ die olie maak, môre na môre — 'n voortdurende brandoffer.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "En hulle moet maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die lam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die minga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "na môre"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "voortdurende"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:26.922769049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en die gecko, en die monitor, en die akkedis, en die sandakkedis, en die kamelejon;",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "en die gecko"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "en die monitor"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "en die akkedis"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "en die sandakkedis"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "en die kamelejon"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:05.270418044Z",
+  "model": "glm-5.3"
+}

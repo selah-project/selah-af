@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Jehosjoea het ⟨את⟩ die volk weggestuur, elkeen na sy erfdeel.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het weggestuur"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "na sy erfdeel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:23.600423040Z",
+  "model": "glm-5.3"
+}

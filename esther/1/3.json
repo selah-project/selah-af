@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 1:3",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "in die derde jaar van sy regering, dat hy 'n banket gemaak het vir al sy vorste en sy dienaars: die mag van Paras en Madai, die partemie en die vorste van die provinsies, voor hom;",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "in die jaar"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "van sy regering"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "dat hy gemaak het"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "'n banket"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sy vorste"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "en sy dienaars"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "die mag"
+    },
+    {
+      "surface": "פרס",
+      "gloss": "van Paras"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "en Madai"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "die partemie"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en die vorste"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "van die provinsies"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.115695784Z",
+  "model": "glm-5.3"
+}

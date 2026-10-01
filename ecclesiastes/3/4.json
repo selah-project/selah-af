@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Tyd om te huil, en 'n tyd om te lag; 'n tyd om rou te bedryf, en 'n tyd om te dans;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "om te huil"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "om te lag"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "om rou te bedryf"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "om te dans"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.111390315Z",
+  "model": "glm-5.3"
+}

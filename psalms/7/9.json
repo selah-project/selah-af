@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Jahweh sal ⟨die⟩ volke oordeel; oordeel my, Jahweh, volgens my tsedek en volgens my onberispelikheid wat op my rus.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sal oordeel"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "oordeel my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "volgens my tsedek"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "en volgens my onberispelikheid"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:06.306925565Z",
+  "model": "glm-5.3"
+}

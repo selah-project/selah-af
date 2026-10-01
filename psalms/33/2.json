@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Loof Jahweh met die liar; met die nevel van tien snare speel vir Hom.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met die liar"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "met die nevel"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "van tien snare"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:42.366736588Z",
+  "model": "glm-5.3"
+}

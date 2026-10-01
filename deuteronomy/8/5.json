@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En jy moet weet met jou hart, dat soos 'n man ⟨את⟩ sy seun tugtig, Jahweh jou Elohim jou tugtig.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "en jy moet weet"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "jou hart"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "tugtig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seun"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "jou tugtig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:35.471182920Z",
+  "model": "glm-5.3"
+}

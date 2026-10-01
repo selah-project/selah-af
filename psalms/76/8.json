@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "U, verskriklik is U; en wie sal staan voor U, van toe af van ⟨die⟩ toorn van U neus?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "verskriklik"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "sal staan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "van toe af"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "van U toorn (neus)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:39.512537331Z",
+  "model": "glm-5.3"
+}

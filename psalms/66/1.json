@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Vir die koormeester. 'n Lied, 'n psalm. Juig tot Elohim, die hele aarde.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koormeester"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.752110312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Want my oortredinge ken ek, en my sonde ⟨is⟩ gedurig voor my.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "my oortredinge"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "en my sonde"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:33.055567359Z",
+  "model": "glm-5.3"
+}

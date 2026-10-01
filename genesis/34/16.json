@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "dan gee ons ⟨את⟩ ons dogters aan julle, en ⟨את⟩ julle dogters neem ons vir ons; en ons woon ⟨את⟩ by julle en ons word een volk.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "dan gee ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons dogters"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "ons dogters"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "julle dogters"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "julle dogters"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "neem ons"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "en ons woon"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ by julle"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "en ons word"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "een volk"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:26.155717542Z",
+  "model": "glm-5.3"
+}

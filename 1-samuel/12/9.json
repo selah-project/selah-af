@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle het Jahweh hulle Elohim vergeet, en hy het hulle verkoop in die hand van Sisera, die bevelvoerder van die leër van Gatsor, en in die hand van die Filistyne, en in die hand van die koning van Moab, en hulle het teen hulle oorlog gevoer.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "en hulle het vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "en hy het verkoop"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Sisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "bevelvoerder"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "leër"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Gatsor"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en in die hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyne"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en in die hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "en hulle het oorlog gevoer"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teen hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:42.392511730Z",
+  "model": "glm-5.3"
+}

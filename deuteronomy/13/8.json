@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 13:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "van die gode van die volke wat rondom julle ⟨is⟩, die wat naby jou ⟨is⟩ of die wat ver van jou af ⟨is⟩, van die een end van die aarde tot by die end van die aarde —",
+  "tokens": [
+    {
+      "surface": "מאלהי",
+      "gloss": "van die gode"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "van die volke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "סביבתיכם",
+      "gloss": "rondom julle"
+    },
+    {
+      "surface": "הקרבים",
+      "gloss": "die wat naby"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "הרחקים",
+      "gloss": "die wat ver"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van jou af"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van die end"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "die end"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:53.483723147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En julle moet ⟨את⟩ my wagting bewaar om nie enige van die gebruike van die gruwels wat voor julle gedoen is te doen nie, en julle moet julle nie deur hulle onrein maak nie; ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "En julle moet bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my wagting"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "my wagting"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om nie"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "te doen"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "van die gebruike"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "van die gruwels"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gedoen is"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "moet onrein word"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "deur hulle"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:41.758651841Z",
+  "model": "glm-5.3"
+}

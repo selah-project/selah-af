@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "⟨את⟩ die ark en ⟨את⟩ sy draagstokke, ⟨את⟩ die versoendeksel en ⟨את⟩ die voorhangsel van die afskerming;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy draagstokke"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sy draagstokke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die versoendeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoendeksel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voorhangsel van die afskerming"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "die voorhangsel"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "van die afskerming"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:38.085073705Z",
+  "model": "glm-5.3"
+}

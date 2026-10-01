@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "En u ⟨is⟩ hoog tot in ewigheid, Jahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en u"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:34.808737979Z",
+  "model": "glm-5.3"
+}

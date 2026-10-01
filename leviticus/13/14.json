@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Maar op die dag dat lewende vlees in hom gesien word, is hy onrein.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "maar op die dag"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "dat gesien word"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "is hy onrein"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:21.202598688Z",
+  "model": "glm-5.3"
+}

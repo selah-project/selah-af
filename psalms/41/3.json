@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Jahweh bewaar hom en laat hom lewe; hy ⟨is⟩ gelukkig op ⟨die⟩ aarde, en gee hom nie oor aan die begeerte van sy vyande nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "bewaar hom"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "en laat hom lewe"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "hy is gelukkig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תתנהu",
+      "gloss": "gegee hom nie"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "aan die begeerte"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "van sy vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:52.779634324Z",
+  "model": "glm-5.3"
+}

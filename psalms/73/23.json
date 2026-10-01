@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Maar ek is gedurig by U; U het my regterhand vasgehou.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by U"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "U het ... vasgehou"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "my ... hand"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "regter"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:11.431017078Z",
+  "model": "glm-5.3"
+}

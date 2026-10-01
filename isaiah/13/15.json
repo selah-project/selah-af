@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Elkeen wat gevind word, sal deursteek word; en elkeen wat gevang word, sal deur die swaard val.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Elkeen"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "wat gevind word"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "sal deursteek word"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "wat gevang word"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sal val"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deur die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:26.535587256Z",
+  "model": "glm-5.3"
+}

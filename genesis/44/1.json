@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 44:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En hy het ⟨את⟩ die een wat oor sy huis was, beveel deur te sê: Vul ⟨את⟩ die sakke van die manne met kos, soveel as hulle kan dra, en sit die silwer van elkeen in die opening van sy sak.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een wat oor sy huis was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sakke van die manne"
+    },
+    {
+      "surface": "אמתחת",
+      "gloss": "die sakke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "van die manne"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "met kos"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soveel as"
+    },
+    {
+      "surface": "יוכלון",
+      "gloss": "hulle kan"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "dra"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "en sit"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van elkeen"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in die opening"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "van sy sak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:28.420253954Z",
+  "model": "glm-5.3"
+}

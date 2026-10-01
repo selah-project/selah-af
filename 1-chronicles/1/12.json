@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ die Patrusim, en ⟨את⟩ die Kaslugim — uit wie die Filistyne uitgegaan het — en ⟨את⟩ die Kaftorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Patrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "die Patrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kaslugim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "die Kaslugim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uit wie"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "uitgegaan het"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kaftorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "die Kaftorim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.689547196Z",
+  "model": "glm-5.3"
+}

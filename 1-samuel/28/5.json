@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En Sjaul het ⟨את⟩ die leër van die Filistyne gesien, en hy was bevrees, en sy hart het baie gebewe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die leër"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "leër"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "bevrees was"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "gebewe het"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:49.105801657Z",
+  "model": "glm-5.3"
+}

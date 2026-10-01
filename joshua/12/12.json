@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "die koning van Eglon, een; die koning van Geser, een;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Eglon"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Geser"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:16.988508638Z",
+  "model": "glm-5.3"
+}

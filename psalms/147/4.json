@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Hy wat⟩ die getal van die sterre tel, aan almal roep ⟨hy⟩ name toe.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "tel"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die getal"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "van die sterre"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "aan almal"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "roep toe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:34.294026037Z",
+  "model": "glm-5.3"
+}

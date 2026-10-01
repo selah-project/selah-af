@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die woord van Jahweh wat tot Joël gebeur het, seun van Petuël.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "gebeur het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Joël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Petuël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:06.661987236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Van u gebooie het ek nie afgewyk nie, want U het my geleer.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "van u gebooie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "het ek afgewyk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "het my geleer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:10.671263316Z",
+  "model": "glm-5.3"
+}

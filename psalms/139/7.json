@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Waarheen sal ek gaan van U roeag af, en waarheen sal ek van U aangesig wegvlug?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal ek gaan"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "van U roeag"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "en waarheen"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "van U aangesig"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "sal ek wegvlug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:09.976792516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 6:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ die volk het Jehosjoea bevel gegee en gesê: Julle sal nie skreeu nie, en ⟨את⟩ julle stem nie laat hoor nie, en geen woord sal uit julle mond uitgaan nie, tot op die dag dat ek vir julle sê: Skreeu! — dan sal julle skreeu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het bevel gegee"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "sal julle skreeu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשמיעו",
+      "gloss": "sal julle laat hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle stem"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "julle stem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sal uitgaan"
+    },
+    {
+      "surface": "מפיכם",
+      "gloss": "uit julle mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "dat ek sê"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "skreeu"
+    },
+    {
+      "surface": "והריעתם",
+      "gloss": "dan sal julle skreeu"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:49.318193949Z",
+  "model": "glm-5.3"
+}

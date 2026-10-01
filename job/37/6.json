@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want aan die sneeu sê hy: Wees op die aarde; en aan die reënbui, en aan die reënbuie van sy mag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "aan die sneeu"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê hy"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Wees"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "en die reënbui"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "reën"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "en die reënbui"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "reënbuie"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "van sy mag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:21:40.090261940Z",
+  "model": "glm-5.3"
+}

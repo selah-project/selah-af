@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "⟨את⟩ Jahweh jou Elohim sal jy vrees, en ⟨את⟩ hom sal jy dien, en in sy naam sal jy sweer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "sal jy vrees"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩ hom"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "sal jy dien"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "en in sy naam"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "sal jy sweer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:36.490709427Z",
+  "model": "glm-5.3"
+}

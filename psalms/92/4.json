@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Op tiensnare en op 'n newel, op higgajon met die kinor.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "tiensnare"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "en op"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "'n newel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "higgajon"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met die kinor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.535142375Z",
+  "model": "glm-5.3"
+}

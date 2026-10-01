@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 13:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Want hy het vir Jehoagas nie 'n volk oorgelaat nie, behalwe vyftig ruiters en tien strydwaens en tienduisend voetsoldate, want die koning van Aram het hulle vernietig en hulle gemaak soos stof om te dors.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "hy het oorgelaat"
+    },
+    {
+      "surface": "ליהואחז",
+      "gloss": "vir Jehoagas"
+    },
+    {
+      "surface": "עם",
+      "gloss": "'n volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ruiters"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "strydwaens"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "en tien"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "voetsoldate"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אבדם",
+      "gloss": "hy het hulle vernietig"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "en het hulle gemaak"
+    },
+    {
+      "surface": "כעפר",
+      "gloss": "soos stof"
+    },
+    {
+      "surface": "לדש",
+      "gloss": "om te dors"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:52.960066025Z",
+  "model": "glm-5.3"
+}

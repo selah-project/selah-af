@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hy wat 'n put graaf, daarin sal hy val; en hy wat 'n muur deurbreek, 'n slang sal hom byt.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "hy wat graaf"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "'n put"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sal hy val"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "en hy wat deurbreek"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "'n muur"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "sal byt hom"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "'n slang"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:20.103235866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Ek sal 'n sterflike skaarser maak as fyn goud, en 'n mens as die goud van Ofir.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ek sal skaarser maak"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n sterflike"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "as fyn goud"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en 'n mens"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "as die goud"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "van Ofir"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:08.021179259Z",
+  "model": "glm-5.3"
+}

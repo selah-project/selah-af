@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 6:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het ⟨את⟩ die sygebou teen die hele huis gebou, vyf el hoog, en dit het ⟨את⟩ die huis vashou met sederhoutbome.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sygebou"
+    },
+    {
+      "surface": "היצוע",
+      "gloss": "die sygebou"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "ויאחז",
+      "gloss": "en dit het vashou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "met hout van"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sederhoutbome"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:21.926497418Z",
+  "model": "glm-5.3"
+}

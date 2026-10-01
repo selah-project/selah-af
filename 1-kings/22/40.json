@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 22:40",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Agab het met sy vaders gaan lê, en Agazjahoe sy seun het in sy plek geregeer.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "en hy het gaan lê"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en hy het geregeer"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Agazjahoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:19.976580229Z",
+  "model": "glm-5.3"
+}

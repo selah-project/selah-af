@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 22:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die koning van Jisraël het aan sy dienaars gesê: Weet julle dat Ramot in Giléad aan ons behoort, en ons bly stil en neem ⟨את⟩ haar nie uit die hand van die koning van Aram nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "weet julle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramot"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "in Giléad"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en ons"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "bly stil"
+    },
+    {
+      "surface": "מקחת",
+      "gloss": "van om te neem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (Ramot in Giléad)"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:27.202731337Z",
+  "model": "glm-5.3"
+}

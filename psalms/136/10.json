@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Aan hom wat Mitsrajim geslaan het in hulle eersgeborenes, want vir ewig duur sy gesed.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "aan hom wat geslaan het"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "in hulle eersgeborenes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "duur sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.971832796Z",
+  "model": "glm-5.3"
+}

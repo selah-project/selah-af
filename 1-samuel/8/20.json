@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "sodat ook ons soos al die nasies kan wees, en ons koning ons kan oordeel en voor ons uit kan trek en ⟨את⟩ ons oorloë kan veg.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "sodat ons kan wees"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "soos al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "en ons kan oordeel"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "ons koning"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en kan uittrek"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "voor ons uit"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "en kan veg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons oorloë"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "ons oorloë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:58.323557596Z",
+  "model": "glm-5.3"
+}

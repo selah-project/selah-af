@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "dan gee ek bevel aan ⟨את⟩ my seën vir julle in die sesde jaar, en dit maak ⟨את⟩ die opbrengs vir drie jaar.",
+  "tokens": [
+    {
+      "surface": "וצויתי",
+      "gloss": "dan gee ek bevel aan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my seën"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "my seën"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "in die jaar"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "die sesde"
+    },
+    {
+      "surface": "ועשת",
+      "gloss": "en dit maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die opbrengs"
+    },
+    {
+      "surface": "התבואה",
+      "gloss": "die opbrengs"
+    },
+    {
+      "surface": "לשלש",
+      "gloss": "vir drie"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:22.109292961Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Neem ⟨את⟩ die Levi's uit die midde van die seuns van Jisraël, en jy sal hulle reinig ⟨אתם⟩.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Levi's"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Levi's"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit die midde van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "en jy sal reinig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:50.012554249Z",
+  "model": "glm-5.3"
+}

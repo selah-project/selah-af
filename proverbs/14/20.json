@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Selfs sy naaste haat die arme, en die wat die ryke liefhet ⟨is⟩ baie.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "רש",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "en die wat liefhet"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "die ryke"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:43.873111991Z",
+  "model": "glm-5.3"
+}

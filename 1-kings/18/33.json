@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het ⟨את⟩ die hout gerangskik, en ⟨את⟩ die bul in stukke gesny, en dit op die hout gelê.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "gerangskik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hout"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "in stukke gesny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:55.760452513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 20:5",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En die manne van Gibea het teen my opgestaan en die huis gedurende die nag teen my omsingel; my het hulle voorgeneem om te dood, en my byvrou het hulle verneder, en sy het gesterwe.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Gibea"
+    },
+    {
+      "surface": "ויסבו",
+      "gloss": "en het omsingel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "gedurende die nag"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "het voorgeneem"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "om te dood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my byvrou"
+    },
+    {
+      "surface": "פילגשי",
+      "gloss": "my byvrou"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "het verneder"
+    },
+    {
+      "surface": "ותמת",
+      "gloss": "en sy het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:09.771505053Z",
+  "model": "glm-5.3"
+}

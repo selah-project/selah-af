@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "In die benoudheid het jy geroep, en Ek het jou gerěd; Ek antwoord jou in die skuiling van die donder; Ek toets jou by die waters van Meriwa. Sela.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "in die benoudheid"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "het jy geroep"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "en Ek het jou gered"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "Ek antwoord jou"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die skuiling"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "van die donder"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "Ek toets jou"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "מי",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "van Meriwa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:50.524654179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "⟨את⟩ die Keniet en ⟨את⟩ die Kenissiet en ⟨את⟩ die Kedmoniet",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Keniet"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "die Keniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kenissiet"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "die Kenissiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kedmoniet"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "die Kedmoniet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:18.622620264Z",
+  "model": "glm-5.3"
+}

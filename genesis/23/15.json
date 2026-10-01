@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "My heer, luister na my: grond van vierhonderd sjekels silver — wat is dit tussen my en u? Begraf dan ⟨את⟩ jou dooie.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "luister na my"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "grond"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sjekels"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silver"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen u"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou dooie"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "jou dooie"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "begraaf"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:18.500215141Z",
+  "model": "glm-5.3"
+}

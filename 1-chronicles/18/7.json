@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Dawid het ⟨את⟩ die skilde van goud geneem wat op die dienaars van Hadadézer was, en hulle na Jerusjalajim gebring.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skilde van goud"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "skilde"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "van Hadadézer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "het hulle gebring"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:23.694386826Z",
+  "model": "glm-5.3"
+}

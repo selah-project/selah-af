@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Ek, Ek het Efrajim leer loop, Ek het hulle by hulle arms geneem; maar hulle het nie geweet dat Ek hulle genees het nie.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "en Ek"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "het Ek leer loop"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "het hulle geneem"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "hulle arms"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "het hulle geweet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "Ek hulle genees het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:21.499946164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Vir die koorleier; al-tasjet («Moenie vernietig nie»); van Dawid; 'n migtam; toe Sjaoel gestuur het en hulle ⟨את⟩ die huis bewaak het om hom dood te maak.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "אל",
+      "gloss": "al-tasjet (Moenie vernietig nie)"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "moenie vernietig nie"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "'n migtam"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "toe … gestuur het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "en hulle het bewaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hom dood te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.444187126Z",
+  "model": "glm-5.3"
+}

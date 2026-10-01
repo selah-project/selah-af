@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 13:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die priester sal kyk, en daar is: die uitslag het in die vel gesprei, dan sal die priester hom onrein verklaar — melaatsheid is dit.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "sal kyk"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en daar is"
+    },
+    {
+      "surface": "פשתה",
+      "gloss": "het gesprei"
+    },
+    {
+      "surface": "המספחת",
+      "gloss": "die uitslag"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "in die vel"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "sal hom onrein verklaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "melaatsheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:48.745340048Z",
+  "model": "glm-5.3"
+}

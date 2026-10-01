@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 126,
+  "translation": "Gaan hy, hy gaan en huil, hy dra die saad sak; kom hy, hy kom met gejubel, hy dra sy gerfde.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gaan hy"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "hy gaan"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "en huil"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hy dra"
+    },
+    {
+      "surface": "משך",
+      "gloss": "die saad sak"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "die saad"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom hy"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hy kom"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "met gejubel"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "hy dra"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "sy gerfde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:08.578837879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 102:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "om die Naam van Jahweh in Tsijon te verkondig, en sy lof in Jerusjalajim;",
+  "tokens": [
+    {
+      "surface": "לספר",
+      "gloss": "om te verkondig"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsijon"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "en sy lof"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:16.125027845Z",
+  "model": "glm-5.3"
+}

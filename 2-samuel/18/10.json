@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 18:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En 'n man het dit gesien en aan Joab berig, en hy het gesê: Kyk, ek het ⟨את⟩ Absalom sien hang in die terpentynboom.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en berig"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "aan Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "תלוי",
+      "gloss": "hang"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "in die terpentynboom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:44.053002577Z",
+  "model": "glm-5.3"
+}

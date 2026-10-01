@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "'n Man, 'n man uit die huis van Jisraël wat 'n os of 'n lam of 'n bok slag in die laer, of wat buite die laer slag:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slag"
+    },
+    {
+      "surface": "שור",
+      "gloss": "'n os"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "'n lam"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "עז",
+      "gloss": "'n bok"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in die laer"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slag"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die laer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:28.824585348Z",
+  "model": "glm-5.3"
+}

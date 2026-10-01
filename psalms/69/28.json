@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Lê ons kwaad op hulle kwaad, en laat hulle nie in jou tsedek kom nie.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "lê … op"
+    },
+    {
+      "surface": "עון",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "hulle kwaad"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "hulle kom"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in jou tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:47.919124294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Staan op en gaan af na die huis van die pottebakker, en daar sal Ek jou ⟨את⟩ my woorde laat hoor.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "en gaan af"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "van die pottebakker"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en daar"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "sal Ek jou laat hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:19.281029207Z",
+  "model": "glm-5.3"
+}

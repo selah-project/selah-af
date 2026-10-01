@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En nou — doen dit, want Jahweh het ⟨את⟩ Dawid gespreek, om te sê: deur die hand van Dawid my dienaar sal Ek red ⟨את⟩ my volk Jisraël uit die hand van die Filistyne en uit die hand van al hulle vyande.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "doen"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "sal red"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk Jisraël"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hulle vyande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:30.331560051Z",
+  "model": "glm-5.3"
+}

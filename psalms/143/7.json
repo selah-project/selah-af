@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Maak haas, antwoord my, Jahweh; my roeag vergaan; verberg u aangesig nie van my nie, anders word ek soos die wat in die put afdaal.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "maak haas"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "anders word ek soos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "afdaal"
+    },
+    {
+      "surface": "בור",
+      "gloss": "in die put"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.334877117Z",
+  "model": "glm-5.3"
+}

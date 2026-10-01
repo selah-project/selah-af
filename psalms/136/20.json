@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "en Og, koning van ⟨die⟩ Basan, want tot in ewigheid ⟨is⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "en Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van die Basan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:04.256983176Z",
+  "model": "glm-5.3"
+}

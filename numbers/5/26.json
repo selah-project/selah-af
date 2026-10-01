@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 5:26",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die priester gryp 'n handvol uit die minga, ⟨את⟩ haar gedenkdeel, en laat dit op die altaar rook, en daarna laat hy ⟨את⟩ die vrou ⟨את⟩ die water drink.",
+  "tokens": [
+    {
+      "surface": "וקמץ",
+      "gloss": "en hy gryp 'n handvol"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar gedenkdeel"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "haar gedenkdeel"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en laat rook"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "ישקה",
+      "gloss": "laat hy drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:17.650180094Z",
+  "model": "glm-5.3"
+}

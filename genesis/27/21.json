@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Jitsgak het vir Jaäkow gesê: Kom tog nader, en laat ek jou betas, my seun — ⟨is⟩ jy dit, my seun Esaw, of nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "kom nader"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "en laat ek jou betas"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:28.840968533Z",
+  "model": "glm-5.3"
+}

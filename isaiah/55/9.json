@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Want soos die hemel hoër is as die aarde, so is my weë hoër as julle weë, en my gedagtes as julle gedagtes.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hoër is"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "as die aarde"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "hoër is"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "as julle weë"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "en my gedagtes"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "as julle gedagtes"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:50.910383647Z",
+  "model": "glm-5.3"
+}

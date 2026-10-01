@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Nagson het ⟨את⟩ Salma verwek, en Salma het ⟨את⟩ Boas verwek.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "En Nagson"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Salma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "en Salma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boas"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.698390880Z",
+  "model": "glm-5.3"
+}

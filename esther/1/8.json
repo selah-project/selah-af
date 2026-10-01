@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die drinkery was volgens voorskrif — daar was geen dwang nie, want so het die koning oor al die hoofde van sy huis bepaal: om te doen volgens die wense van elkeen en elkeen.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "en die drinkery"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "volgens voorskrif"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar was geen"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "dwang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "het bepaal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die hoofde"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van sy huis"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "volgens die wense"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van elkeen"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:32.654225732Z",
+  "model": "glm-5.3"
+}

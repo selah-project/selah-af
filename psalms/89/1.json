@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "'n Masgiel, van Eitan die Esragiet.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "'n Masgiel"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "van Eitan"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "die Esragiet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:42.244242065Z",
+  "model": "glm-5.3"
+}

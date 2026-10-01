@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En die leër van die Kasdiete het die koning agtervolg en hom ingehaal in die vlaktes van Jerigo; en al sy troepe is van hom verstrooi.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "het agtervolg"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "die leër"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van die Kasdiete"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "agter"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "en het ingehaal"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in die vlaktes"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "van Jerigo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "sy troepe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "is verstrooi"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:07.075481137Z",
+  "model": "glm-5.3"
+}

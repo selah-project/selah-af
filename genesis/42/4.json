@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Maar ⟨את⟩ Binjamin, die broer van Joséf, het Jaäkow nie met ⟨את⟩ sy broers gestuur nie, want hy het gesê: dat daar nie 'n ongeluk hom ontmoet nie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Binjamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "Binjamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die broer van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "hy het gesê"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat nie"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "hom ontmoet"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "'n ongeluk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:09.834606744Z",
+  "model": "glm-5.3"
+}

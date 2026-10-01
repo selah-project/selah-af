@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En dit het gebeur: as Mosje sy hand opgelig het, dan het Jisraël die oorhand gekry; en as hy sy hand laat sak het, dan het Amalek die oorhand gekry.",
+  "tokens": [
+    {
+      "surface": "ו היה",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "as"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "opgelig het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dan het … die oorhand gekry"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en as"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "laat rus het"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "dan het … die oorhand gekry"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:23.786892504Z",
+  "model": "glm-5.3"
+}

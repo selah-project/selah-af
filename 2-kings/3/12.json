@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jehosjafat het gesê: Die woord van Jahweh ⟨את⟩ is by hom. Toe het die koning van Jisraël en Jehosjafat en die koning van Edom by hom afgekom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjafat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "die woord van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "en hulle het afgekom"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "en Jehosjafat"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en die koning van"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:55.588275023Z",
+  "model": "glm-5.3"
+}

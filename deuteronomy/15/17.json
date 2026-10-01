@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 15:17",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En jy moet ⟨את⟩ die deurslagpen neem en dit deur sy oor en in die deur sit, en hy sal vir jou 'n dienskneg vir ewig wees; ook aan jou slavin moet jy net so doen.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy moet neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die deurslagpen"
+    },
+    {
+      "surface": "המרצע",
+      "gloss": "die deurslagpen"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "en sit"
+    },
+    {
+      "surface": "באזנו",
+      "gloss": "deur sy oor"
+    },
+    {
+      "surface": "ובדלת",
+      "gloss": "en in die deur"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en hy sal wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n dienskneg"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לאמתך",
+      "gloss": "aan jou slavin"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "כן",
+      "gloss": "net so"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:11.841348630Z",
+  "model": "glm-5.3"
+}

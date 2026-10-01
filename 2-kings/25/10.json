@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En ⟨את⟩ die mure van Jerusjalajim rondom het die hele leër van die Kasdiem afgebreek, dié ⟨wat by⟩ die rab van die slagters ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die mure"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "die mure"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "het hulle afgebreek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "leër"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "van die Kasdiem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dié ⟨wat by⟩"
+    },
+    {
+      "surface": "רב",
+      "gloss": "rab"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van die slagters ⟨was⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:53.292838395Z",
+  "model": "glm-5.3"
+}

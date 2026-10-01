@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "Mag ek vertoef in u tent tot in ewigheid, mag ek skuil in die skuiling van u vleuels. Sela.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "mag ek vertoef"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "in u tent"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "mag ek skuil"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die skuiling"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van u vleuels"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:54.000317699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Dit ⟨is⟩ goed om Jahweh te dank en om te sing tot u Naam, Elyon.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te dank"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "en om te sing"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "tot u Naam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.534790765Z",
+  "model": "glm-5.3"
+}

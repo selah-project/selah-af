@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ die ram sal jy in sy stukke sny, en jy sal sy ingewande en sy pote was, en jy sal dit op sy stukke en op sy kop lê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "sal jy in stukke sny"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in sy stukke"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "en jy sal was"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sy ingewande"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "en sy pote"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal lê"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "sy stukke"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy kop"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:02.356471081Z",
+  "model": "glm-5.3"
+}

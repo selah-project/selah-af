@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 119:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Kleef aan die stof het my siel; maak my lewend volgens u woord.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "kleef"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "aan die stof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak my lewend"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "volgens u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:59.918305813Z",
+  "model": "glm-5.3"
+}

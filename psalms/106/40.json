@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 106:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En die neus van Jahweh het gegloei teen sy volk, en ⟨hy⟩ het ⟨את⟩ sy erfenis verfoei.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "het gegloei"
+    },
+    {
+      "surface": "אף",
+      "gloss": "die neus\/toorn van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "teen sy volk"
+    },
+    {
+      "surface": "ויתעב",
+      "gloss": "en hy het verfoei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy erfenis"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sy erfenis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.316033034Z",
+  "model": "glm-5.3"
+}

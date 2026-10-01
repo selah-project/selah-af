@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Van die geweld teen die armes, van die gesug van die behoeftiges — nú sal Ek opstaan, sê Jahweh; Ek sal hom in veiligheid stel teen hom wat na hom snoef.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "van die geweld"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "teen die armes"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "van die gesug"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "van die behoeftiges"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nú"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "sal Ek opstaan"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "sal Ek stel"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "in veiligheid"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "wat snoef"
+    },
+    {
+      "surface": "לו",
+      "gloss": "na hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.638308862Z",
+  "model": "glm-5.3"
+}

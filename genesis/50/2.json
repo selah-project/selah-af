@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 50:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En Josef het ⟨את⟩ sy dienaars beveel — ⟨את⟩ die geneeskundiges — om ⟨את⟩ sy pa te balsem; en die geneeskundiges het ⟨את⟩ Jisraël gebalsem.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het beveel"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy dienaars"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geneeskundiges"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "die geneeskundiges"
+    },
+    {
+      "surface": "לחנט",
+      "gloss": "om te balsem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy pa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy pa"
+    },
+    {
+      "surface": "ויחנטו",
+      "gloss": "en hulle het gebalsem"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "die geneeskundiges"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:33.565473702Z",
+  "model": "glm-5.3"
+}

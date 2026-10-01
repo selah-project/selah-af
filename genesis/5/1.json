@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 5:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Dit ⟨is⟩ die boek van die geslagte van Adam: op die dag dat Elohim Adam geskep het, in die gelykenis van Elohim het hy ⟨את⟩ hom gemaak.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "die boek"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "van die geslagte"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van Adam"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "geskep het"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "בדמות",
+      "gloss": "in die gelykenis"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:09.484497907Z",
+  "model": "glm-5.3"
+}

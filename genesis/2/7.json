@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe het Jahweh Elohim ⟨את⟩ die mens geform uit stof van die grond, en het in sy neusgate die asem van die lewe geblaas; en die mens het 'n lewende siel geword.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "toe ... geform"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "stof"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die grond"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "geblaas"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "in sy neusgate"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "asem"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "van die lewe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "geword"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "'n siel"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.044560751Z",
+  "model": "glm-5.3"
+}

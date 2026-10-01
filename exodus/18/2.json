@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jetro, die skoonpa van Mosje, het ⟨את⟩ Tsipora, die vrou van Mosje, geneem, ná haar wegstuur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "die skoonpa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsipora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ná"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "haar wegstuur"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:26.522657197Z",
+  "model": "glm-5.3"
+}

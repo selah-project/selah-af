@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 19:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Aan my vel en aan my vlees kleef my been, en ek het ontsnap met die vel van my tande.",
+  "tokens": [
+    {
+      "surface": "בעורי",
+      "gloss": "aan my vel"
+    },
+    {
+      "surface": "ובבשרי",
+      "gloss": "en aan my vlees"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "kleef"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my been"
+    },
+    {
+      "surface": "ואתמלטה",
+      "gloss": "en ek het ontsnap"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "met die vel"
+    },
+    {
+      "surface": "שני",
+      "gloss": "van my tande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:44.176899370Z",
+  "model": "glm-5.3"
+}

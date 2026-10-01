@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 7:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Jy sal ⟨את⟩ alles spreek wat ek jou beveel, en Aharon jou broer sal met Paro spreek, en hy sal ⟨את⟩ die seuns van Jisraël uit sy land laat gaan.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "sal jy spreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אצוך",
+      "gloss": "ek jou beveel"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "אחיק",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sal spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "en hy sal laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit sy land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:46.509240672Z",
+  "model": "glm-5.3"
+}

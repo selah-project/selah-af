@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "en dit vir Jaäkow laat staan het as 'n verordening, vir Jisraël as 'n verbond vir ewig,",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "en dit laat staan het"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "vir Jaäkow"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "as 'n verordening"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:04.923460261Z",
+  "model": "glm-5.3"
+}

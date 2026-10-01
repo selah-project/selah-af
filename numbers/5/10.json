@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En 'n man — ⟨את⟩ sy heilige dinge — aan hom sal hulle wees; wat 'n man ook aan die priester gee, aan hom sal dit wees.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy heilige dinge"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "sy heilige dinge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "aan die priester"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:38.141433266Z",
+  "model": "glm-5.3"
+}

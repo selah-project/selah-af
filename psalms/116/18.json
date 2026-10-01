@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "My geloftes aan Jahweh sal ek betaal, tog, in die teenwoordigheid van sy hele volk.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "my geloftes"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "sal ek betaal"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "in die teenwoordigheid"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:32.751114895Z",
+  "model": "glm-5.3"
+}

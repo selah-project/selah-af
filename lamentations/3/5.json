@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Hy het teen my gebou en my omring met gif en moeite.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "hy het gebou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "en omring"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "gif"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "en moeite"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:48.708055182Z",
+  "model": "glm-5.3"
+}

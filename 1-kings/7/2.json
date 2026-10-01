@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 7:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En hy het ⟨את⟩ die huis van die woud van die Libanon gebou: honderd ama ⟨was⟩ die lengte daarvan, en vyftig ama ⟨was⟩ die breedte daarvan, en dertig ama ⟨was⟩ die hoogte daarvan, op vier rye sedersuile, en sederbalke op ⟨die⟩ suile.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "En hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van die woud van die Libanon"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van die woud"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "van die Libanon"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "die lengte daarvan"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "die breedte daarvan"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ama"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "die hoogte daarvan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rye"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "suile"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "van seder"
+    },
+    {
+      "surface": "וכרתות",
+      "gloss": "en balke"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "van seder"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "die suile"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:58.057808219Z",
+  "model": "glm-5.3"
+}

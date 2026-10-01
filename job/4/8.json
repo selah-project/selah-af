@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 4:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Soos ek gesien het: die wat onheil omploeg en moeite saai, maai dit in.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ek gesien het"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "die wat ... omploeg"
+    },
+    {
+      "surface": "און",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "en die wat saai"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "moeite"
+    },
+    {
+      "surface": "יקצרהו",
+      "gloss": "maai dit in"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:03.917533031Z",
+  "model": "glm-5.3"
+}

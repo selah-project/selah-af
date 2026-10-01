@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Nie oor jou slagoffers sal Ek jou `<את>` `<die>` `<fout>` wys nie, en jou brandoffers ⟨is⟩ gedurig voor My.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "jou slagoffers"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "sal Ek jou ... wys"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "en jou brandoffers"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "voor My"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:36.064718338Z",
+  "model": "glm-5.3"
+}

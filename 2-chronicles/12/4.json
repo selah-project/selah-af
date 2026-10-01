@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het ⟨את⟩ die versterkte stede wat aan Jehoeda behoort het, ingeneem, en hy het gekom tot by Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "en hy het ingeneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die versterkte stede wat aan Jehoeda behoort het"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "versterkte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda behoort het"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:52.481145402Z",
+  "model": "glm-5.3"
+}

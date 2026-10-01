@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 131,
+  "translation": "Lied van die trappies, van Dawid. Jahweh, my hart was nie hoogmoedig nie, en my oë was nie verhef nie, en ek het nie rondgeloop in groot dinge en in wonders bo my vermoë nie.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die trappies"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "was hoogmoedig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "was verhef"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "het ek rondgeloop"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "in groot dinge"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "en in wonders"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bo my vermoë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:09.896922722Z",
+  "model": "glm-5.3"
+}

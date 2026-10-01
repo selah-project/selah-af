@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 109:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "My knieë het geswyk van die vas, en my vlees het vet ontbeer.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "My knieë"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "het geswyk"
+    },
+    {
+      "surface": "מצום",
+      "gloss": "van die vas"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "en my vlees"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "het ontbeer"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "vet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:34.675166152Z",
+  "model": "glm-5.3"
+}

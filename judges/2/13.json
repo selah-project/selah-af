@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 2:13",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hulle het ⟨את⟩ Jahweh verlaat en hulle diens bewys aan Baäl en aan die Asjtarot.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "en hulle het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het diens bewys"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "aan Baäl"
+    },
+    {
+      "surface": "ולעשתרות",
+      "gloss": "en aan die Asjtarot"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:42.126642741Z",
+  "model": "glm-5.3"
+}

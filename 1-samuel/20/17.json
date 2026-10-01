@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 20:17",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jehonatan het bygevoeg om ⟨את⟩ Dawid te laat sweer in sy liefde vir hom, want met die liefde van sy siel het hy hom liefgehad.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "en hy het bygevoeg"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "להשביע",
+      "gloss": "om te laat sweer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "in sy liefde"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Dawid)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "die liefde"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van sy siel"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "het hy hom liefgehad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:05.533543219Z",
+  "model": "glm-5.3"
+}

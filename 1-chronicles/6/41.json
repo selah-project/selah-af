@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨את⟩ die veld van die stad en ⟨את⟩ sy voorstede het hulle aan Kaleb, seun van Jefunne, gegee.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die veld"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "veld"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy voorstede"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "sy voorstede"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan Kaleb"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Jefunne"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:46.992074020Z",
+  "model": "glm-5.3"
+}

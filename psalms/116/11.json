@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Ek, ek het gesê in my haastigheid: elke mens ⟨is⟩ 'n leuenaar.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "in my haastigheid"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "'n leuenaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:33.758600166Z",
+  "model": "glm-5.3"
+}

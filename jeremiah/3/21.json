@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "’n Stem word gehoor op die kaal hoogtes, geween, smeekinge van die seuns van Jisraël, want hulle het ⟨את⟩ hulle weg kromgemaak, hulle het ⟨את⟩ Jahweh hulle Elohim vergeet.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "’n Stem"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "die kaal hoogtes"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "word gehoor"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "geween"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "smeekinge"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "het kromgemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle weg"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "hulle weg"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "hulle het vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh hulle Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:36.264168533Z",
+  "model": "glm-5.3"
+}

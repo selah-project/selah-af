@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ná hom het Jaïr, die Gileadiet, opgestaan; en hy het ⟨את⟩ Jisraël gerig twee-en-twintig ⟨jaar⟩ lank.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ná hom"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Jaïr"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "die Gileadiet"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "het gerig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twee-en-twintig"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "twee-en-twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "⟨jaar⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:32.162906541Z",
+  "model": "glm-5.3"
+}

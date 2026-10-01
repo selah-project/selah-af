@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Laat my lippe lof uitstort, want u leer my u insettinge.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "laat ... uitstort"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "my lippe"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "u leer my"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:28.218127873Z",
+  "model": "glm-5.3"
+}

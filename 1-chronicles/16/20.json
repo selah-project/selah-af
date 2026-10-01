@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "en hulle het rondgetrek van nasie na nasie, en van een koninkryk na 'n ander volk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "en hulle het rondgetrek"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "van nasie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "en van koninkryk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:08.244925605Z",
+  "model": "glm-5.3"
+}

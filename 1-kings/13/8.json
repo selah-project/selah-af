@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En die man van die Elohim het gesê tot die koning: as jy my ⟨את⟩ die helfte van jou huis sou gee, sou ek nie met jou ingaan nie, en ek sou nie brood eet nie en nie water drink in hierdie plek nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "jy sou gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die helfte van jou huis"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "die helfte"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van jou huis"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "sou ek ingaan"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "sou ek eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "sou ek drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:54.384421313Z",
+  "model": "glm-5.3"
+}

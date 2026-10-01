@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "en hy sal homself skeer, maar ⟨את⟩ die skurfplek sal hy nie skeer nie, en die priester sal ⟨את⟩ die skurfplek sewe dae afsluit, 'n tweede keer.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "en hy sal homself skeer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die skurfplek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "die skurfplek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "sal hy skeer"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "en sal afsluit"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skurfplek"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "die skurfplek"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "'n tweede keer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:43.462776935Z",
+  "model": "glm-5.3"
+}

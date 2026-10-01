@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wees nie onder wynsuipers nie, onder vleesvreters, vir húlle nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "Wees"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "onder wynsuipers"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "onder vleesvrete"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:05.223362897Z",
+  "model": "glm-5.3"
+}

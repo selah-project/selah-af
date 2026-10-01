@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Juig vir Jahweh, die hele aarde; breek uit en jubel en sing.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Juig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "breek uit"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "en jubel"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "en sing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:32.217071216Z",
+  "model": "glm-5.3"
+}

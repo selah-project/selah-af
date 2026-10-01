@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die wildes van die aarde gemaak volgens hulle soort, en ⟨את⟩ die vee volgens sy soort, en ⟨את⟩ alles wat kruip op die aarde-grond volgens sy soort; en Elohim het gesien dat dit goed ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en het gemaak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wildes van die aarde"
+    },
+    {
+      "surface": "חית",
+      "gloss": "die wildes"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "volgens hulle soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vee"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "volgens sy soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles wat kruip"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wat kruip"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "op die aarde-grond"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "volgens sy soort"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:03.853811532Z",
+  "model": "glm-5.3"
+}

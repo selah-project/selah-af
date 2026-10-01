@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Toe stuur die koning om ⟨את⟩ Agimelek seun van Agitub, die priester, te roep, en ⟨את⟩ die hele huis van sy vader, die priesters wat in Nob was; en hulle het almal na die koning gekom.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Toe stuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "om te roep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Agimelek"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Agimelek"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "van Agitub"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hele huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "in Nob"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "almal"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:51.210932157Z",
+  "model": "glm-5.3"
+}

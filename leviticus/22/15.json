@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 22:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En hulle mag nie ontheilig ⟨את⟩ die heilige gawes van die kinders van Jisraël nie, ⟨את⟩ wat hulle aan Jahweh offer nie —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "mag hulle ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heilige gawes van die kinders van Jisraël"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "die heilige gawes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat hulle aan Jahweh offer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ירימו",
+      "gloss": "hulle offer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:52.830841410Z",
+  "model": "glm-5.3"
+}

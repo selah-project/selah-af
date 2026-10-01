@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Dawid het gesê tot Awiatar die priester, seun van Agimeleg: Bring naby, tog, vir my die efod. En Awiatar het die efod naby gebring ⟨את⟩ vir Dawid.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awiatar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Agameleg"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "bring naby"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "die efod"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "en hy het naby gebring"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Awiatar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "die efod"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:27.290928485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 9:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want al het ek tsedek gedoen, ek sal nie antwoord nie; vir my Regter sal ek smeek.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "al"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "het ek tsedek gedoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ek sal antwoord"
+    },
+    {
+      "surface": "למשפטי",
+      "gloss": "vir my Regter"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "sal ek smeek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:13.389740911Z",
+  "model": "glm-5.3"
+}

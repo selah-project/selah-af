@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En ⟨hy⟩ het in my mond 'n nuwe lied gesit, 'n loflied vir ons Elohim; baie sal dit sien en vreest, en op Jahweh vertrou.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en ⟨hy⟩ het gesit"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in my mond"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "'n loflied"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "vir ons Elohim"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en vreest"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "en vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.398581387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "In weivelde van jong grass lê Hy my neer; by water van rus lei Hy my.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "in weivelde"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "van jong gras"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "lê Hy my neer"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "מי",
+      "gloss": "water"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "van rus"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "lei Hy my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:06.455863207Z",
+  "model": "glm-5.3"
+}

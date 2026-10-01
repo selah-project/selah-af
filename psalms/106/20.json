@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het ⟨את⟩ hulle heerlikheid verruil vir die gedaante van 'n os wat gras eet.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "en hulle het verruil"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle heerlikheid"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "hulle heerlikheid"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "vir die gedaante"
+    },
+    {
+      "surface": "שור",
+      "gloss": "'n os"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wat eet"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.077281857Z",
+  "model": "glm-5.3"
+}

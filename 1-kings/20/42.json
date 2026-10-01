@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 20:42",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hy sê vir hom: So sê Jahweh: Omdat jy ⟨את⟩ die man van my ban uit jou hand laat gaan het, sal jou lewe in die plek van sy lewe wees, en jou volk in die plek van sy volk.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "jy het laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "van my ban"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit jou hand"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou lewe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy lewe"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "en jou volk"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:33.963584785Z",
+  "model": "glm-5.3"
+}

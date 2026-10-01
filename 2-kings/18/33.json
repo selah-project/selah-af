@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Het die gode van die nasies ooit ge-red, elkeen ⟨את⟩ sy land, uit die hand van die koning van Assur?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "oit"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ge-red"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gode"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:30.361847311Z",
+  "model": "glm-5.3"
+}

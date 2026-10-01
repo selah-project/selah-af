@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 99:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Jahweh het geregeer — volke sidder; ⟨hy wat⟩ troon op die keroewe — ⟨die⟩ aarde bewe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het geregeer"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "sidder"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "troon"
+    },
+    {
+      "surface": "כרובים",
+      "gloss": "keroewe"
+    },
+    {
+      "surface": "תנוט",
+      "gloss": "bewe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:34.175181313Z",
+  "model": "glm-5.3"
+}

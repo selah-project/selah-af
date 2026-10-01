@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 68:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Skryf mag toe aan Elohim — oor Jisraël is Sy majesteit, en Sy mag in die wolke.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Skryf ... toe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "mag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "גאותו",
+      "gloss": "is Sy majesteit"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "en Sy mag"
+    },
+    {
+      "surface": "בשחקים",
+      "gloss": "in die wolke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:26.640351524Z",
+  "model": "glm-5.3"
+}

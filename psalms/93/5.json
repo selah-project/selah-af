@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 93,
+  "translation": "Jou getuienisse is baie betroubaar ⟨vir⟩ jou huis pas heiligheid, o Jahweh, tot in die lengte van dae.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "Jou getuienisse"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "is baie betroubaar"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "vir jou huis"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pas"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "tot in die lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dae"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:09.047915211Z",
+  "model": "glm-5.3"
+}

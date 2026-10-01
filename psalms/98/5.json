@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Bespeel vir Jahweh met ⟨die⟩ kinor, met kinor en ⟨die⟩ stem van ⟨'n⟩ sang.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Bespeel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met ⟨die⟩ kinor"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "met kinor"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en ⟨die⟩ stem"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "van ⟨'n⟩ sang"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.970313256Z",
+  "model": "glm-5.3"
+}

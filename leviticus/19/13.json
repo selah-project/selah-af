@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Jy mag jou naaste nie onderdruk nie, en jy mag nie beroof nie; die loon van 'n huurling mag by ⟨את⟩ jou nie oornag bly tot die môre nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "onderdruk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou naaste"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "jou naaste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "berowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "oornag bly"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "loon"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "van 'n huurling"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die môre"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:01.813928870Z",
+  "model": "glm-5.3"
+}

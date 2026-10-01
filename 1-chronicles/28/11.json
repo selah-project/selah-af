@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 28:11",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En Dawid het aan Sjelomo, sy seun, ⟨את⟩ die model gegee van die portiek en ⟨את⟩ sy sale en sy skathuise en sy bo-kamers en sy binnekamers, en van die huis van die versoendeksel —",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "En hy het gegee"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "aan Sjelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die model van die portiek"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "die model"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "van die portiek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy sale"
+    },
+    {
+      "surface": "בתיו",
+      "gloss": "sy sale"
+    },
+    {
+      "surface": "וגנזכיו",
+      "gloss": "en sy skathuise"
+    },
+    {
+      "surface": "ועליתיו",
+      "gloss": "en sy bo-kamers"
+    },
+    {
+      "surface": "וחדריו",
+      "gloss": "en sy kamers"
+    },
+    {
+      "surface": "הפנימים",
+      "gloss": "die binneste"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "van die versoendeksel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:53:19.909212334Z",
+  "model": "glm-5.3"
+}

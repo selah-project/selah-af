@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Ek sal U dank in 'n groot vergadering, onder 'n magtige volk sal ek U loof.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ek sal U dank"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in 'n vergadering"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder 'n volk"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "sal ek U loof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:39.055126362Z",
+  "model": "glm-5.3"
+}

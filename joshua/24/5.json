@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En ek het ⟨את⟩ Mosje en ⟨את⟩ Aharon gestuur, en ek het ⟨את⟩ Mitsrajim getref, soos ek in sy midde gedoen het, en daarna het ek ⟨את⟩ julle uitgebring.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "en ek het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "en ek het getref"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sy midde"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "het ek uitgebring"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:02.783859796Z",
+  "model": "glm-5.3"
+}

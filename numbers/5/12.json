@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Spreek met die seuns van Jisraël en sê vir hulle: as 'n man, 'n man, se vrou afdwaal en teen hom ontrou handel, deur ontrou",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "afdwaal"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "se vrou"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "en ontrou handel"
+    },
+    {
+      "surface": "בו",
+      "gloss": "teen hom"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "deur ontrou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:38.141730394Z",
+  "model": "glm-5.3"
+}

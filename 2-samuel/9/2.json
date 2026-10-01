@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En vir die huis van Sjawoel ⟨was⟩ 'n slaaf, en sy naam ⟨was⟩ Tsiba; en hulle het hom na Dawid toe geroep, en die koning het vir hom gesê: ⟨Is⟩ jy Tsiba? En hy het gesê: u slaaf.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "en vir die huis van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjawoel"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n slaaf"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "en sy naam"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "en hulle het geroep"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u slaaf"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:02.261415152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Beter is die einde van 'n saak as sy begin; beter 'n lankmoedige roeag as 'n hoë roeag.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Beter"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "van 'n saak"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "as sy begin"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "'n lankmoedige"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "'n hoë"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:56.728314862Z",
+  "model": "glm-5.3"
+}

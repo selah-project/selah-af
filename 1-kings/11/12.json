@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Net nie in jou dae nie — ter wille van Dawid, jou vader; uit die hand van jou seun sal ek dit skeur.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Net"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "in jou dae"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "sal ek dit skeur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:13.945731512Z",
+  "model": "glm-5.3"
+}

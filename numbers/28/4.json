@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "⟨את⟩ die een lam moet jy berei in die oggend, en ⟨את⟩ die tweede lam moet jy berei tussen die aandtye.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die lam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy berei"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die oggend"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die tweede lam"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "die lam"
+    },
+    {
+      "surface": "השני",
+      "gloss": "tweede"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "moet jy berei"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die aandtye"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:33.732233261Z",
+  "model": "glm-5.3"
+}

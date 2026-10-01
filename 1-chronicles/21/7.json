@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En dit was kwaad in die oë van ⟨die⟩ Elohim oor hierdie ding, en Hy het ⟨את⟩ Jisraël geslaan.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "was kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hierdie ding",
+      "marks": ""
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:20.790297649Z",
+  "model": "glm-5.3"
+}

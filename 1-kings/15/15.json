@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En hy het ⟨את⟩ die geheiligdes van sy vader en ⟨את⟩ sy eie geheiligdes in die huis van Jahweh gebring — silwer en goud en voorwerpe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geheiligdes van sy vader"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "die geheiligdes"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "en sy eie geheiligdes"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "en voorwerpe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:39.885450104Z",
+  "model": "glm-5.3"
+}

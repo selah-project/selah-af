@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "In die heiligheid van die heiliges moet jy dit eet; elke manlike mag ⟨את⟩ eet; heilig sal dit vir jou wees.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "In die heiligheid"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "van die heiliges"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "moet jy dit eet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlike"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die hoogs-heilige voedsel)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:01.152207302Z",
+  "model": "glm-5.3"
+}

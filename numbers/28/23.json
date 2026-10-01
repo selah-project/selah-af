@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Behalwe die brandoffer van die môre, wat vir die voortdurende brandoffer ⟨is⟩, sal julle ⟨את⟩ hierdie maak.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van die môre"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "vir die brandoffer"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "voortdurende"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "sal julle maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:19.529859086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "My stappe het vasgehou aan jou spore; my voetstappe het glad nie gewankel nie.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "het vasgehou"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "my stappe"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "aan jou spore"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "gewankel"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "my voetstappe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:46.662713791Z",
+  "model": "glm-5.3"
+}

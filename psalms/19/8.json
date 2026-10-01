@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Die Tora van Jahweh is volmaak, dit bring die siel terug; die getuienis van Jahweh is betroubaar, dit maak die eenvoudige wys.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "volmaak"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "dit bring terug"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "betroubaar"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "dit maak wys"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "die eenvoudige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:48.625650381Z",
+  "model": "glm-5.3"
+}

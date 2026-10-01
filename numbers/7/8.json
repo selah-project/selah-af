@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 7:8",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En ⟨את⟩ vier waens en ⟨את⟩ agt beeste het hy aan die seuns van Merari gegee, volgens hulle diens, onder die hand van Itamar, seun van Aharon die priester.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "vier waens"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "waens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "agt beeste"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "agt"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "beeste"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hulle diens"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "onder die hand"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:30.307154785Z",
+  "model": "glm-5.3"
+}

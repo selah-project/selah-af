@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Jahweh, U lê vrede vir ons vas, want ook al ons dade het U vir ons gewerk.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "U lê ... vas"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "ons dade"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "het U gewerk"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:42.584387937Z",
+  "model": "glm-5.3"
+}

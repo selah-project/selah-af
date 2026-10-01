@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "want julle weet ⟨את⟩ wat ons in die land van Mitsrajim gewoon het, en ⟨את⟩ wat ons deurgegaan het deur die middel van die nasies wat julle deurgegaan het",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ons gewoon het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ons gewoon het"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wat ons deurgegaan het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "ons deurgegaan het"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "deur die middel van"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "julle deurgegaan het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:27.131777763Z",
+  "model": "glm-5.3"
+}

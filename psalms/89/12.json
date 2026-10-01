@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Van U ⟨is⟩ die hemel, ook van U ⟨is⟩ die aarde; die wêreld en sy volheid — U het hulle gegrondves.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "en sy volheid"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "het gegrondves"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.908276411Z",
+  "model": "glm-5.3"
+}

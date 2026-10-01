@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 25:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Volgens alles wat ek ⟨את⟩ jou wys — ⟨את⟩ die voorbeeld van die Misjkan en ⟨את⟩ die voorbeeld van al sy gereedskap — so moet julle maak.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "wys"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorbeeld van die Misjkan"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "die voorbeeld"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voorbeeld van al sy gereedskap"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "die voorbeeld"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:16.603393721Z",
+  "model": "glm-5.3"
+}

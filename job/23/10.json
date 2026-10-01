@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Want hy ken die weg by my; as hy my toets, sal ek soos goud uitkom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hy ken"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "as hy my toets"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "soos goud"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "sal ek uitkom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:25.592065635Z",
+  "model": "glm-5.3"
+}

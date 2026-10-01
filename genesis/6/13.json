@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Elohim het vir Noag gesê: Die einde van alle vlees het voor my gekom, want die aarde is vol geweld deur hulle toedoen; en kyk, ek vernietig hulle tesame met ⟨את⟩ die aarde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "vir Noag"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "deur hulle toedoen"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "en kyk, ek"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "vernietig hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:51.053956967Z",
+  "model": "glm-5.3"
+}

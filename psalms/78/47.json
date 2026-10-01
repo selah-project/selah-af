@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hy het hulle wingerde met hael gedood, en hulle wildevye-bome met ysbrand.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Hy het gedood"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "met hael"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "hulle wingerde"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "en hulle wildevye-bome"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "met ysbrand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:33.498630312Z",
+  "model": "glm-5.3"
+}

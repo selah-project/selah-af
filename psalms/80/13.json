@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Waarom het U haar heinings deurbreek, sodat almal wat op die weg verbygaan, haar afpluk?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "het U deurbreek"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "haar heinings"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "en haar afpluk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "wat verbygaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.335295670Z",
+  "model": "glm-5.3"
+}

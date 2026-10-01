@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 5:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Sy ongeregtighede vang hom, ⟨את⟩ die goddelose, en in die toue van sy sonde word hy vasgehou",
+  "tokens": [
+    {
+      "surface": "עוונותיו",
+      "gloss": "Sy ongeregtighede"
+    },
+    {
+      "surface": "ילכדנו",
+      "gloss": "vang hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goddelose"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ובחבלי",
+      "gloss": "en in die toue van"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sy sonde"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "word hy vasgehou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:57.681842297Z",
+  "model": "glm-5.3"
+}

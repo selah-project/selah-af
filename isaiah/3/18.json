@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "In dié dag sal Adonai ⟨את⟩ die pronk van die enkelbelletjies wegneem, en die kopbande, en die maantjies,",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "in die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "sal wegneem"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die pronk"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "die pronk"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "van die enkelbelletjies"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "en die kopbande"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "en die maantjies"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:54.870556615Z",
+  "model": "glm-5.3"
+}

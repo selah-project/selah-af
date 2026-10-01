@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "behalwe ⟨wat gekom het⟩ van die rondreisende manne en die handel van die handelaars, en van al die konings van die gemengde volk en die stadhouers van die land.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "van die manne"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "wat rondreis"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "en die handel"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "van die handelaars"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "van die gemengde volk"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "en die stadhouers"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:17.529698930Z",
+  "model": "glm-5.3"
+}

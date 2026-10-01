@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 19:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy sal ⟨את⟩ die koei voor sy oë verbrand; ⟨את⟩ haar vel en ⟨את⟩ haar vlees en ⟨את⟩ haar bloed, op haar mis, sal hy verbrand.",
+  "tokens": [
+    {
+      "surface": "ושרף",
+      "gloss": "en hy sal verbrand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koei"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "die koei"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "voor sy oë"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar vel"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "haar vel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar vlees"
+    },
+    {
+      "surface": "בשרה",
+      "gloss": "haar vlees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar bloed"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "haar bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "haar mis"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sal hy verbrand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:34.636687134Z",
+  "model": "glm-5.3"
+}

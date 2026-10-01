@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 102:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "om die kerming van die gevangene te hoor, om die seuns van die dood los te maak;",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "om te hoor"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "kerming"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "gevangene"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "om los te maak"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:16.124535074Z",
+  "model": "glm-5.3"
+}

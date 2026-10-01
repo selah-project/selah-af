@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Ek sal juig en bly wees in U gesed, want U het ⟨את⟩ my ellende gesien; U het die benoudhede van my siel geken.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "ek sal juig"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "en bly wees"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "in U gesed"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "U het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my ellende"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "my ellende"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "U het geken"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "die benoudhede"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "van my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:57.485365330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "en hulle het ⟨את⟩ hulle gode in die vuur gegooi, want ⟨hulle is⟩ nie gode nie, maar die werk van mensehande, hout en klip; en hulle het hulle vernietig.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "en hulle het gegooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gode"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle gode"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨hulle is⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van hande"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en klip"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "en hulle het hulle vernietig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:28.418653379Z",
+  "model": "glm-5.3"
+}

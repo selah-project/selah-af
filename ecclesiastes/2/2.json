@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Van gelag het ek gesê: ⟨dit is⟩ dolheid; en van vreugde: wat doen dit?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "van gelag"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "het ek gesê"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "dolheid"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "en van vreugde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:31.697597426Z",
+  "model": "glm-5.3"
+}

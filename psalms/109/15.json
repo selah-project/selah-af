@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag ⟨hulle⟩ gedurig voor Jahweh wees, sodat hy hulle gedenkteken van die aarde af uitroei.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "sodat hy uitroei"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "van die aarde af"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hulle gedenkteken"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.854101910Z",
+  "model": "glm-5.3"
+}

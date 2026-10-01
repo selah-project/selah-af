@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "want jou dienaar het 'n gelofte afgelê toe ek in Gesjor in Aram gewoon het, en gesê: As Jahweh my heeltemal laat terugkeer na Jerusjalajim, dan sal ek ⟨את⟩ Jahweh dien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "'n gelofte"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "afgelê"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienaar"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "toe ek gewoon het"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "in Gesjor"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "in Aram"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "heeltemal"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "laat terugkeer my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "dan sal ek dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:42.558884484Z",
+  "model": "glm-5.3"
+}

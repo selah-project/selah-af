@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 145,
+  "ref": "psalms 119:145",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het geroep met my hele hart — antwoord my, o Jahweh; u chukim sal ek bewaar.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ek het geroep"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met hele"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u chukim"
+    },
+    {
+      "surface": "אצרה",
+      "gloss": "sal ek bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:14.719494488Z",
+  "model": "glm-5.3"
+}

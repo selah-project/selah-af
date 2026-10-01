@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Mag hulle verwoes word as vergelding van hulle skande, hulle wat vir my sê: Aha, aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "mag hulle verwoes word"
+    },
+    {
+      "surface": "על",
+      "gloss": "as"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "vergelding van"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "hulle skande"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "hulle wat sê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:55.830584098Z",
+  "model": "glm-5.3"
+}

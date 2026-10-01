@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy sal wees soos 'n boom geplant aan strome water, wat sy vrug gee in sy tyd, en sy blaar verdor nie — en alles wat hy doen, sal voorspoedig wees.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En hy sal wees"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "soos 'n boom"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "geplant"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "strome"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "sy vrug"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "in sy tyd"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "en sy blaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "verdor"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "hy doen"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "sal voorspoedig wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:52.155433426Z",
+  "model": "glm-5.3"
+}

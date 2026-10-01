@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die seuns van Merari, na hulle families, na die huis van hulle vaders, sal jy ⟨את⟩ hulle tel.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Die seuns van"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Merari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "na hulle families"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "na die huis"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "sal jy tel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die seuns van Merari)"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:10.065299466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "wat ons gehoor het en leer ken het, en wat ons vaders ons vertel het.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ons gehoor het"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "en leer ken het"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "en ons vaders"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vertel het"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:00.718889637Z",
+  "model": "glm-5.3"
+}

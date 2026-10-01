@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 21:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "O my gedorsdes, en seun van my dorsvloer — wat ek gehoor het van ⟨את⟩ Jahweh Tsewaot, die Elohim van Jisraël, het ek aan julle verkondig.",
+  "tokens": [
+    {
+      "surface": "מדשתי",
+      "gloss": "my gedorsdes"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "en seun"
+    },
+    {
+      "surface": "גרני",
+      "gloss": "van my dorsvloer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ek gehoor het"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh Tsewaot, die Elohim van Jisraël"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "het ek verkondig"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:24.885349960Z",
+  "model": "glm-5.3"
+}

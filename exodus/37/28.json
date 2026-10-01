@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hy het ⟨את⟩ die stange gemaak van sittimhout en hulle ⟨את⟩ met goud oorgetrek.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stange"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "die stange"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "hout van"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "en hy het oorgetrek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "hulle ⟨את⟩",
+      "marks": "hulle (die stange)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:33.815649944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "'n Getroue getuie sal nie lieg nie, en 'n vals getuie blaas leuens uit.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "'n getuie"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "getroue"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "sal lieg"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "en blaas uit"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "leuens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "'n getuie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vals"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:30.480008017Z",
+  "model": "glm-5.3"
+}

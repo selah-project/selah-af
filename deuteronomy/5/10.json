@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "en gesed doen aan duisende — vir die wat My liefhet en vir die wat My gebooie bewaar.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "aan duisende"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "vir die wat My liefhet"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "en vir die wat bewaar"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "sy gebooie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:28.865219203Z",
+  "model": "glm-5.3"
+}

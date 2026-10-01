@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Aan die voorsinger, oor ⟨die wys van⟩ Ajélet hasjagar — 'n mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die voorsinger"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "hinde"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "van die dageraad"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:03.357112037Z",
+  "model": "glm-5.3"
+}

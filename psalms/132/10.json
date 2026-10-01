@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Ter wille van Dawid, jou dienaar, moenie die aangesig van jou gesalfde wegdraai nie.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienaar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "wegdraai"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "van jou gesalfde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.710857301Z",
+  "model": "glm-5.3"
+}

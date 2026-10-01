@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 2:19",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Ek neem ⟨את⟩ die name van die Baälim uit haar mond weg, en hulle word nie meer met hulle naam gedink nie.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "en Ek neem weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die name van die Baälim"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die name"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "van die Baälim"
+    },
+    {
+      "surface": "מפיה",
+      "gloss": "uit haar mond"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יזכרו",
+      "gloss": "word hulle gedink"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "בשמם",
+      "gloss": "met hulle naam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:32.886108559Z",
+  "model": "glm-5.3"
+}

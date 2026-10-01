@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die pries­ter wat reinig, sal die man wat gereinig word, en ⟨את⟩ hulle, laat staan voor Jahweh, by die ingang van die tent van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "en laat staan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wat reinig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man wat gereinig word"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "wat gereinig word"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en ⟨את⟩ hulle",
+      "marks": "hulle — die man en die offers"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:03.364884482Z",
+  "model": "glm-5.3"
+}

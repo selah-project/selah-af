@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh het met my gesê en gespreek:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gespreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:33.678294268Z",
+  "model": "glm-5.3"
+}

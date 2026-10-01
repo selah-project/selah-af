@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "So jaag hulle met u stormwind na, en verskrik hulle met u dwarrelstorm.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "jaag hulle na"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "met u stormwind"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "en met u dwarrelstorm"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "verskrik hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:33.879920031Z",
+  "model": "glm-5.3"
+}

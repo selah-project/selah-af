@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 3:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "My stem roep ek uit tot Jahweh, en hy antwoord my van sy heilige berg. Sela.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek uit"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "en hy antwoord my"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "van ⟨die⟩ berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.715411184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Kyk, Hy het die rots geslaan en waters het gestroom, beke het oorstroom — kan Hy ook brood gee? Sal Hy vleis vir sy volk berei?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "Hy het geslaan"
+    },
+    {
+      "surface": "צור",
+      "gloss": "die rots"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "en waters het gestroom"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "ויחלים",
+      "gloss": "en beke"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "het oorstroom"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan Hy"
+    },
+    {
+      "surface": "תת",
+      "gloss": "gee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "sal"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "berei"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "vleis"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "vir sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:48.070974588Z",
+  "model": "glm-5.3"
+}

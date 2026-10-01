@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Want ek weet dat Jahweh groot ⟨is⟩, en ons Adonai bo alle gode.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "en ons Adonai"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo alle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:24.256631439Z",
+  "model": "glm-5.3"
+}

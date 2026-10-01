@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Toe seën Jehosjoea hom, en hy het ⟨את⟩ Chevron gegee aan Kalew, seun van Jefunne, as erfdeel.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "Toe seën hom"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chevron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chevron"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan Kalew"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "van Jefunne"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "as erfdeel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:20.633519532Z",
+  "model": "glm-5.3"
+}

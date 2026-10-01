@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy het die stad rondom gebou, van die Millo af tot rondom toe; en Joab het ⟨את⟩ die res van die stad herstel.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "die Millo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "en Joab"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "het herstel (laat lewe)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die res van die stad"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "die res van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:47:00.763049887Z",
+  "model": "glm-5.3"
+}

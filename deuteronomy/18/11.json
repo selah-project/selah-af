@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "enigeen wat 'n beswering opsê, die gees van 'n dooie raadpleeg, 'n kenner vra, of die dodes ondervra.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "enigeen wat 'n beswering opsê"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "beswering"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "raadpleeg"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "die gees van 'n dooie"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "'n kenner"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "ondervra"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "המתים",
+      "gloss": "die dodes"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:18.322211309Z",
+  "model": "glm-5.3"
+}

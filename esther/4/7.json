@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Mordegai vertel hom ⟨את⟩ alles wat hom oorgekom het, en ⟨את⟩ die presiese bedrag van die silwer wat Haman gesê het om te weeg vir die skatte van die koning, teen die Jode, om hulle te verdelg.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "En vertel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat hom oorgekom het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "hom oorgekom het"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die presiese bedrag van die silwer"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "die presiese bedrag"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "van die silwer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "om te weeg"
+    },
+    {
+      "surface": "על",
+      "gloss": "vir"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "die skatte"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "teen die Jode"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "om hulle te verdelg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:06.142014093Z",
+  "model": "glm-5.3"
+}

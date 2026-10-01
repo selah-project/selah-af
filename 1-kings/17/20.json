@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 17:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En hy het geroep tot Jahweh en gesê: Jahweh, my Elohim, het U ook kwaad aangedoen aan die weduwee by wie ek as vreemdeling woon, om ⟨את⟩ haar seun te laat sterf?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האלמנה",
+      "gloss": "die weduwee"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "by wie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "as vreemdeling woon"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "by haar"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "kwaad aangedoen"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "om te laat sterf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar seun"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "haar seun"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:14.844514557Z",
+  "model": "glm-5.3"
+}

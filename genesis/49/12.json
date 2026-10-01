@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Donker glinster die oë ⟨van⟩ wyn, en wit die tande ⟨van⟩ melk.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "donker glinster"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "die oë"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "van wyn"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "en wit"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "die tande"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "van melk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:50.928729211Z",
+  "model": "glm-5.3"
+}

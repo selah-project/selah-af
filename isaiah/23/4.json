@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 23:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Skaam jou, Tsidon, want die see het gespreek, die vesting van die see, en gesê: Ek het nie gearbei nie en nie gebaar nie, en ek het nie jong manne grootgemaak nie, jonkvroue het ek nie grootgebring nie.",
+  "tokens": [
+    {
+      "surface": "בושי",
+      "gloss": "skaam jou"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Tsidon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "die vesting"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חלתי",
+      "gloss": "het ek gearbei"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "het ek gebaar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "het ek grootgemaak"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "jong manne"
+    },
+    {
+      "surface": "רוממתי",
+      "gloss": "het ek grootgebring"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "jonkvroue"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:15.230588317Z",
+  "model": "glm-5.3"
+}

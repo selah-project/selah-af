@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-kings 10:35",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Jegoe het met sy vaders gaan lê, en hulle het ⟨את⟩ hom in Someron begrawe; en Jegoagaz, sy seun, het in sy plek geregeer.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "het gaan lê"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jegoe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Jegoe)"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Someron"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "het geregeer"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jegoagaz"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:15.779577331Z",
+  "model": "glm-5.3"
+}

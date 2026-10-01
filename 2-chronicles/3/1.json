@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 3:1",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Sjelomo het begin bou ⟨את⟩ die huis van Jahweh in Jerusjalajim, op die berg Moria, wat vir Dawid sy vader verskyn het, op die plek wat Dawd voorberei het, op die dorsvloer van Arnan die Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "het begin"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "המוריה",
+      "gloss": "Moria"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "verskyn het"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "voorberei het"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "op die plek"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בגרן",
+      "gloss": "op die dorsvloer"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "van Arnan"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "die Jebusiet"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:34.564308987Z",
+  "model": "glm-5.3"
+}

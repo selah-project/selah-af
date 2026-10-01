@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoelank, Jahweh, roep ek om hulp en U hoor nie? Ek skreeu na U: geweld! en U red nie?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoelank"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "roep ek om hulp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "U hoor"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ek skreeu"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "U red"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:30.948104785Z",
+  "model": "glm-5.3"
+}

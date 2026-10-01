@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 122,
+  "ref": "psalms 119:122",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Tree as borg vir jou dienskneg tot die goeie; mag die vermeteles my nie onderdruk nie.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Tree as borg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "vir jou dienskneg"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "tot die goeie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag ... nie"
+    },
+    {
+      "surface": "יעשקני",
+      "gloss": "onderdruk my"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "die vermeteles"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:42.735463718Z",
+  "model": "glm-5.3"
+}

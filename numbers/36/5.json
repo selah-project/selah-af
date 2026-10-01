@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 36:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En Mosje het ⟨את⟩ die seuns van Jisraël bevel gegee volgens die mond van Jahweh, om te sê: Soos die stam van die seuns van Josef spreek, ⟨is⟩ reg.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het bevel gegee"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "על",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "כן",
+      "gloss": "soos"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die stam van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "spreek, ⟨is⟩ reg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:30.109130377Z",
+  "model": "glm-5.3"
+}

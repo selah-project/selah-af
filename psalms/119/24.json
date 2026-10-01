@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ja, u getuienisse ⟨is⟩ my verlustiging, die manne van my raad.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ja"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "my verlustiging"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "my raad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.163282567Z",
+  "model": "glm-5.3"
+}

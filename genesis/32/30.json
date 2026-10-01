@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Jaäkow het gevra en gesê: Deel tog jou naam mee. En hy het gesê: Waarom vra jy dan na my naam? En hy het hom ⟨את⟩ daar geseën.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "En hy het gevra"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Deel mee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "vra jy"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "na my naam"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "En hy het geseën"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:03.275412185Z",
+  "model": "glm-5.3"
+}

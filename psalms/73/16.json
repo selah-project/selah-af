@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Toe ek dit bedink om te weet, was dit 'n pyniging in my oë.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "toe ek bedink"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te weet"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "'n pyniging"
+    },
+    {
+      "surface": "היא",
+      "gloss": "was dit"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in my oë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:20.959339267Z",
+  "model": "glm-5.3"
+}

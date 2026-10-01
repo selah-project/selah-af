@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "U kroon die jaar met u goedheid, en u spore drup vet af.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "U kroon"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "die jaar"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "met u goedheid"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "en u spore"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "drup af"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "vet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:35.860591011Z",
+  "model": "glm-5.3"
+}

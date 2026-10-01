@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag daar vir hom niemand wees wat gesed uittrek, en mag daar niemand wees wat sy weeskinders genade bewys.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mag daar nie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "משך",
+      "gloss": "wat uittrek"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en mag daar nie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "wat genade bewys"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "aan sy weeskinders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.590128560Z",
+  "model": "glm-5.3"
+}

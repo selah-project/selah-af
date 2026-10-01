@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 15:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "My krag en my lied is Jah, en hy het vir my tot redding geword; dié ⟨is⟩ my El, en ek sal hom verheerlik; die Elohim van my vader, en ek sal hom verhoog.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "en my lied"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en hy het geword"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "tot redding"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "ואנוהו",
+      "gloss": "en ek sal hom verheerlik"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "וארממנהו",
+      "gloss": "en ek sal hom verhoog"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:02.502880780Z",
+  "model": "glm-5.3"
+}

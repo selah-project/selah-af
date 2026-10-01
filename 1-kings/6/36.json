@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het ⟨את⟩ die binnehof gebou: drie rye gegroeide klip en 'n ry gekapte sederhout",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die binnehof"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die hof"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "binnen-"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "rye"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "gegroeide klip"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "en 'n ry"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "gekapte"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "sederhout"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:35.153536680Z",
+  "model": "glm-5.3"
+}

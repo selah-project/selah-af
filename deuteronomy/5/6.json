@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ek ⟨is⟩ Jahweh jou Elohim, wat jou uitgebring het uit die land van Mitsrajim, uit die huis van slawe.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "jou uitgebring het"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slawe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:28.819707286Z",
+  "model": "glm-5.3"
+}

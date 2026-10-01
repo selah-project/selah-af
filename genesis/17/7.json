@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 17:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Ek sal ⟨את⟩ my verbond oprig tussen My en tussen jou en tussen jou nageslag ná jou, vir hulle geslagte, as 'n ewige verbond, om vir jou tot Elohim te wees en vir jou nageslag ná jou.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "en Ek sal oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen My"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen jou"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ná jou"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "vir hulle geslagte"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "as 'n verbond"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "om te wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "en vir jou nageslag"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ná jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:22.988256517Z",
+  "model": "glm-5.3"
+}

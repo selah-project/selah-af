@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Toe Jehosjoea ⟨את⟩ die klank van die volk in sy gejuig hoor, sê ⟨hy⟩ vir Mosje: ⟨Die⟩ klank van oorlog ⟨is⟩ in die laer!",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "in sy gejuig"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "קול",
+      "gloss": "klank"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "van oorlog"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in die laer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:03.863262552Z",
+  "model": "glm-5.3"
+}

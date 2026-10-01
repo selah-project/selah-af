@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hulle laat al die diere van die veld drink; die wilde-esels stil hulle dors.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "hulle laat drink"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "breek"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "die wilde-esels"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "hulle dors"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:12.764228055Z",
+  "model": "glm-5.3"
+}

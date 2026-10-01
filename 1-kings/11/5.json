@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 11:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Sjelomo het agter Asjtera gevolg, ⟨die⟩ god van ⟨die⟩ Sidoniers, en agter Milkom, ⟨die⟩ gruwel van ⟨die⟩ Ammoniete.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "het gevolg"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "עשתרת",
+      "gloss": "Asjtera"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "god"
+    },
+    {
+      "surface": "צדנים",
+      "gloss": "Sidoniers"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en agter"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Milkom"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "gruwel"
+    },
+    {
+      "surface": "עמנים",
+      "gloss": "Ammoniete"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:10.150749124Z",
+  "model": "glm-5.3"
+}

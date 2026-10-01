@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Hulle sal nie in die land van Jahweh woon nie, en Efrajim sal na Mitsrajim terugkeer, en in Assjoer sal hulle onrein ⟨kos⟩ eet.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sal hulle woon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en sal terugkeer"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "na Mitsrajim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "en in Assjoer"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein ⟨kos⟩"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal hulle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:51.860145438Z",
+  "model": "glm-5.3"
+}

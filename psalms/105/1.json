@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Loof Jahweh, roep aan in sy Naam, maak bekend onder die volke sy dade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "roep aan"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "in sy Naam"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "maak bekend"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "sy dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:11.225891337Z",
+  "model": "glm-5.3"
+}

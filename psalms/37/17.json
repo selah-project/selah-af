@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Want die arms van die goddeloses sal gebreek word, en ⟨die⟩ steun van die regverdiges ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "die arms"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sal gebreek word"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "en ⟨die⟩ steun van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:21.640375436Z",
+  "model": "glm-5.3"
+}

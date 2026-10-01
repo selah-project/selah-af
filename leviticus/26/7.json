@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "en julle sal ⟨את⟩ julle vyande agtervolg, en hulle sal voor julle val □deur die swaard.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "en julle sal agtervolg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle vyande"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "en hulle sal val"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "□deur die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:14.816034501Z",
+  "model": "glm-5.3"
+}

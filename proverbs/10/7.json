@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die gedenk aan die regverdige ⟨is⟩ tot seën, maar die naam van die goddelose sal verrot.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Die gedenk"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "aan die regverdige"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "tot seën"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "maar die naam"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "sal verrot"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:14.995731159Z",
+  "model": "glm-5.3"
+}

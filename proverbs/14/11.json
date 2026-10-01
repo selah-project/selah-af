@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die huis van die goddeloses ⟨sal⟩ verwoes word, en die tent van die opregtes ⟨sal⟩ uitbot.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Die huis"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "verwoes word"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "en die tent"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van die opregtes"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "uitbot"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:42.760049136Z",
+  "model": "glm-5.3"
+}

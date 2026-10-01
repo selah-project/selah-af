@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-samuel 25:33",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En geseënd is jou insig, en geseënd ⟨את⟩, wat my vandag weerhou het om in bloed in te gaan en om my hand vir my terug te hou.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "en geseënd"
+    },
+    {
+      "surface": "טעמך",
+      "gloss": "jou insig"
+    },
+    {
+      "surface": "וברוכה",
+      "gloss": "en geseënd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jy, wat my weerhou het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כלתני",
+      "gloss": "my weerhou het"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie dag"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "om in te gaan"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "in bloed"
+    },
+    {
+      "surface": "והשע",
+      "gloss": "en terug te hou"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:24.375559555Z",
+  "model": "glm-5.3"
+}

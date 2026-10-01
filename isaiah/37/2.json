@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hy het ⟨את⟩ Eljakim, dié oor ⟨die⟩ huis, en ⟨את⟩ Sjevna die skrywer en ⟨את⟩ die oudstes van die priesters, bedek met rouklere, gestuur na Jesajawoe, seun van Amots, die profeet.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Eljakim"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "Eljakim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dié"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjevna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Sjevna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "die skrywer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die oudstes"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "van die priesters"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "met rouklere"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesajawoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:18.153988359Z",
+  "model": "glm-5.3"
+}

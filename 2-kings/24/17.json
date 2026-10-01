@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die koning van Babel het ⟨את⟩ Matanja, sy oom, in sy plek koning gemaak, en ⟨את⟩ sy naam verander in Tsidkijahoe.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "het koning gemaak"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Matanja"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "Matanja"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "sy oom"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en verander"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Tsidkijahoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:46.869141351Z",
+  "model": "glm-5.3"
+}

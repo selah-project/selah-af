@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "As jy sê in jou hart: Hierdie nasies ⟨is⟩ meer as ek — hoe sal ek hulle kan verdryf?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "As"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "jy sê"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in jou hart"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "meer"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "as ek"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "sal ek kan"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "hulle verdryf"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:42.175161690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "U het ons tot 'n twis gesit vir ons bure, en ons vyande spot met ⟨hulle⟩.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "U het ons gesit"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "tot 'n twis"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vir ons bure"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "en ons vyande"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "spot"
+    },
+    {
+      "surface": "למו",
+      "gloss": "met ⟨hulle⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:42.796504323Z",
+  "model": "glm-5.3"
+}

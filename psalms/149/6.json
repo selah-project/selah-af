@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "Verheffings van El ⟨is⟩ in hulle kele, en 'n swaard met twee snykante in hulle hand.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "verheffings"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "in hulle kele"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "en 'n swaard"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "met twee snykante"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hulle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:27.480443158Z",
+  "model": "glm-5.3"
+}

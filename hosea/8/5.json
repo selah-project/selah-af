@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Verwerp is jou kalf, o Shomeron; my toorn is ontvlam teen hulle — hoe lank sal hulle nie rein kan wees nie?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "verwerp is"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "jou kalf"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "o Shomeron"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ontvlam is"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "my toorn"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "—"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "sal ... kan wees"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "rein"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:52.431861968Z",
+  "model": "glm-5.3"
+}

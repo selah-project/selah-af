@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Selfs die man van my sjalom, op wie ek vertrou het, wat my brood eet, het teen my die hak verhef.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "van my sjalom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "op wie"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ek vertrou het"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "my brood"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "die hak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:36.868914969Z",
+  "model": "glm-5.3"
+}

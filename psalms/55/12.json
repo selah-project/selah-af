@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Rampspoed ⟨is⟩ in sy midde, en verdrukking en bedrog wyk nie van sy strate nie.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rampspoed"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "in sy midde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "wyk"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "van sy strate"
+    },
+    {
+      "surface": "תך",
+      "gloss": "verdrukking"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "en bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.786438547Z",
+  "model": "glm-5.3"
+}

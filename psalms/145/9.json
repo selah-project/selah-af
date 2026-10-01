@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Goed ⟨is⟩ Jahweh vir almal, en sy ontfermings ⟨is⟩ oor al sy werke.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir almal"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "en sy ontfermings"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sy werke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:13.781920038Z",
+  "model": "glm-5.3"
+}

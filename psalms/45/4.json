@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Omgord jou swaard op ⟨die⟩ dy, magtige — jou majesteit en jou praal!",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Omgord"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "jou swaard"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "dy"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "jou majesteit"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "en jou praal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:11.043524511Z",
+  "model": "glm-5.3"
+}

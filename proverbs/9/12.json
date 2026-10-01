@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "As jy wys was, was jy vir jouself wys; en as jy gespot het, sal jy dit alleen dra.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "jy wys was"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "was jy wys"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jouself"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "en as jy gespot het"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "sal jy dra"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:48.751067540Z",
+  "model": "glm-5.3"
+}

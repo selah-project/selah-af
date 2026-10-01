@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die volk het hulle versprei oor die hele land Mitsrajim om stoppels bymekaar te maak in plaats van strooi.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "en het hulle versprei"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "om bymekaar te maak"
+    },
+    {
+      "surface": "קש",
+      "gloss": "stoppels"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "in plaats van strooi"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:54.381058403Z",
+  "model": "glm-5.3"
+}

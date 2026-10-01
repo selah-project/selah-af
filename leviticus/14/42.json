@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle neem ander stene en bring hulle in onder in die plek van die stene, en ander pleister neem hy en hy smeer ⟨את⟩ die huis.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "en hulle neem"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stene"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ander"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "en hulle bring in"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder in die plek van"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die stene"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "en pleister"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ander"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neem hy"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "en hy smeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:54.362162352Z",
+  "model": "glm-5.3"
+}

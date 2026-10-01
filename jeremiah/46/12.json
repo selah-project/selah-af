@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 46:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Die nasies het jou smaad gehoor, en jou geskreeu het ⟨die⟩ land vervul; want held het teen held gestruikel, saam het hulle geval, hulle altwee saam.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Die nasies"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "jou smaad"
+    },
+    {
+      "surface": "וצוחתך",
+      "gloss": "en jou geskreeu"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "het vervul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "held"
+    },
+    {
+      "surface": "בגבור",
+      "gloss": "teen held"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "het gestruikel"
+    },
+    {
+      "surface": "יחדיו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het hulle geval"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hulle altwee"
+    }
+  ],
+  "timestamp": "2026-09-30T22:42:03.865976641Z",
+  "model": "glm-5.3"
+}

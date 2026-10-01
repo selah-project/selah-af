@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hy het gesê: Spreek tog namens my met Shelomo ⟨die⟩ koning, want hy sal ⟨את⟩ jou aangesig nie afwys nie, dat hy aan my ⟨את⟩ Awisjag ⟨die⟩ Sunamitiese as vrou mag gee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "met Shelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "sal afwys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou aangesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou aangesig"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en dat hy gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awisjag"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "Awisjag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "die Sunamitiese"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:48.218935499Z",
+  "model": "glm-5.3"
+}

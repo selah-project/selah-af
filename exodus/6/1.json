@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh sê vir Mosje: Nou sal jy sien wat ek aan Paro sal doen, want met 'n sterke hand sal hy hulle laat gaan, en met 'n sterke hand sal hy hulle uit sy land verdrywe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "sal jy sien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ek sal doen"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "aan Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "met 'n hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "sal hy hulle laat gaan"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "en met 'n hand"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "sterke"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "sal hy hulle verdrywe"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "uit sy land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:19.583666873Z",
+  "model": "glm-5.3"
+}

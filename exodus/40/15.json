@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 40:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal hulle salf soos jy hulle vader gesalf het, en hulle sal vir My as priesters dien, en hul salwing sal vir hulle wees tot 'n ewige priesterskap vir hulle geslagte.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "sal jy salf"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "gesalf het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle vader"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hulle vader"
+    },
+    {
+      "surface": "וכהנו",
+      "gloss": "as priesters dien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "להית",
+      "gloss": "om te wees"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "משחתם",
+      "gloss": "hul salwing"
+    },
+    {
+      "surface": "לכהנת",
+      "gloss": "tot priesterskap"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "vir hulle geslagte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:09.005164385Z",
+  "model": "glm-5.3"
+}

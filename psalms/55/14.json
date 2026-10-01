@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Maar u — 'n mens, my gelyke, my vertroude en my bekende.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Maar u"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n mens"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "my gelyke"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "my vertroude"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "en my bekende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.851506472Z",
+  "model": "glm-5.3"
+}

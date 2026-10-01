@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 3:2",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het gedoen wat kwaad is in die oë van Jahweh — net nie soos sy vader en soos sy moeder nie — en hy het ⟨את⟩ die gedenksteen van die Baäl weggedoen wat sy vader gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויעשה",
+      "gloss": "En hy het gedoen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כאביו",
+      "gloss": "soos sy vader"
+    },
+    {
+      "surface": "וכאמו",
+      "gloss": "en soos sy moeder"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "en hy het weggedoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gedenksteen van die Baäl"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "die gedenksteen"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van die Baäl"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:56.528427418Z",
+  "model": "glm-5.3"
+}

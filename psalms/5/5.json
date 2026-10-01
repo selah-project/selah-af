@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Want U is nie 'n El wat behae het in onreg nie; die kwaad sal nie by U vertoef nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae het"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "in onreg"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "sal by U vertoef"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:19.916119773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Dawid het ⟨את⟩ al die kleinvee en die beeste geneem; hulle het hulle voor daardie vee aan gedryf, en hulle het gesê: Dit is Dawid se buit.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die kleinvee en die beeste"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "en die beeste"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "het gedryf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "buit"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:32.284038106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "van die diere, die rein ⟨diere⟩, en van die diere wat nie rein ⟨is⟩ nie, en van die voëls, en van alles wat kruip op die aarde.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "die rein ⟨diere⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die diere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "nie"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "rein ⟨is⟩"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en van alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "kruip"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:25.570737129Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En Rabsake het teruggekeer en ⟨את⟩ die koning van Assur gevind terwyl hy veg teen Libna, want hy het gehoor dat hy van Lagis weggetrek het.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die hoof-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "sake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en gevind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning van Assur"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "veg"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "weggetrek het"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "van Lagis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:59.483930861Z",
+  "model": "glm-5.3"
+}

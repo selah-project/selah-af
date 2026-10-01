@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Jahweh het vir Mosje gesê: Gaan na Paro toe, want ek het sy hart swaar gemaak en ⟨את⟩ die hart van sy dienaars, sodat ek hierdie tekens van my in sy midde kan stel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "het swaar gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hart van sy dienaars"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "van sy dienaars"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ek kan stel"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "my tekens"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sy midde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:43.436955014Z",
+  "model": "glm-5.3"
+}

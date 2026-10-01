@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "In die eerste maand, op die veertien ⟨van die maand⟩, tussen die aandtye — ⟨is⟩ die Pesag aan Jahweh.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "In die eerste maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op die veertien"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-tien"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die aandtye"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "die Pesag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:44.345209644Z",
+  "model": "glm-5.3"
+}

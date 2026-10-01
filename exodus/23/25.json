@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En julle sal ⟨את⟩ Jahweh julle Elohim dien, en ⟨hy⟩ sal ⟨את⟩ jou brood seën en ⟨את⟩ jou water; en Ek sal siekte uit jou midde verwyder.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "en julle sal dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en sal seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou brood"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "jou brood"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "jou water"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "jou water"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "en Ek sal verwyder"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "siekte"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit jou midde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:29.316390977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hierdie ding het tot sonde geword, en die volk het voor die een uit gegaan, tot by Dan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het geword"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hierdie ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "tot sonde"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.609275663Z",
+  "model": "glm-5.3"
+}

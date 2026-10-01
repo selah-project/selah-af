@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Staan op, Elohim, oordeel ⟨את⟩ die aarde, want U sal al die nasies as erfdeel besit.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "oordeel"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨את⟩ die aarde",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "sal as erfdeel besit"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:52.036887298Z",
+  "model": "glm-5.3"
+}

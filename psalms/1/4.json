@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Nie so ⟨is⟩ die goddelose nie, maar soos kaf wat die roeag wegstu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "soos kaf"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "die ... wegstu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:52.155665248Z",
+  "model": "glm-5.3"
+}

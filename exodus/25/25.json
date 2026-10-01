@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 25:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En jy sal vir dit 'n rand van 'n handbreed rondom maak, en jy sal 'n krans van goud vir sy rand rondom maak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir dit"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "'n rand"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "van 'n handbreed"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "זר",
+      "gloss": "'n krans"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "למסגרתו",
+      "gloss": "vir sy rand"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:11.384757625Z",
+  "model": "glm-5.3"
+}

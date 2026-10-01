@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Goed is U en U doen goed; leer my u verordeninge.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Goed"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is U"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "en U doen goed"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u verordeninge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:14.050410548Z",
+  "model": "glm-5.3"
+}

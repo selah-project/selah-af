@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle het ⟨את⟩ die ark van Jahweh op die wa gesit, en ⟨את⟩ die kissie en ⟨את⟩ die goue muise en ⟨את⟩ die beelde van hulle geswelle.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "en hulle het gesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "die wa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kissie"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "die kissie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die goue muise"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "die muise"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die beelde van hulle geswelle"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "die beelde"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "van hulle geswelle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:51.260884249Z",
+  "model": "glm-5.3"
+}

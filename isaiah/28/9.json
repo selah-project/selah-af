@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "⟨את⟩ wie sal hy kennis leer, en ⟨את⟩ wie sal hy ⟨die⟩ boodskap laat verstaan? ⟨Aan⟩ die wat gespeen is van die melk, die wat weggehaal is van die bors?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "sal hy leer"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "laat hy verstaan"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "boodskap"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "die wat gespeen is"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "van die melk"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "die wat weggehaal is"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "van die bors"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:22.438367525Z",
+  "model": "glm-5.3"
+}

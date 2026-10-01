@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 63:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "En die koning sal hom verheug in Elohim; elkeen wat by Hom sweer, sal roem; want die mond van die leuensprekers zal toegesluit word.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "sal hom verheug"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "sal roem"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "הנשבע",
+      "gloss": "wat sweer"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by Hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יסכר",
+      "gloss": "zal toegesluit word"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "דוברי",
+      "gloss": "van die sprekers"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:30.225181180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 20:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Wie kan sê: Ek het my hart rein gemaak, ek ⟨is⟩ rein van my sonde?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kan sê"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ek het ... rein gemaak"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "טהרתי",
+      "gloss": "ek ⟨is⟩ rein"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "van my sonde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:13.036369903Z",
+  "model": "glm-5.3"
+}

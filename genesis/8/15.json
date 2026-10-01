@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Elohim het met Noag gespreek en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "En het gespreek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noag"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:24.750834933Z",
+  "model": "glm-5.3"
+}

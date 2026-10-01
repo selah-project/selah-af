@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Laat my smeeking voor u aangesig kom; volgens u uitspraak red my.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "laat ... kom"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "my smeeking"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor u aangesig"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "volgens u uitspraak"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "red my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:28.217946132Z",
+  "model": "glm-5.3"
+}

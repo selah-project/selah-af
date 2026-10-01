@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "en jou skure sal gevul word met oorvloed, en met mos jou parskuipe sal oorstroom.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "en ... sal gevul word"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "jou skure"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "met oorvloed"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "en met mos"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "jou parskuipe"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "sal oorstroom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:12.147787384Z",
+  "model": "glm-5.3"
+}

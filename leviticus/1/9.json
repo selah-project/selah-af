@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 1:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy ingewande en sy pote moet hy in die water was, en die priester moet ⟨את⟩ die geheel op die altaar laat opsmeer, 'n brandoffer, 'n vuuroffer, 'n geruik van rus vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "וקרבו",
+      "gloss": "en sy ingewande"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "en sy pote"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "moet hy was"
+    },
+    {
+      "surface": "במים",
+      "gloss": "in die water"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "en laat opsmeer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geheel"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die geheel"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "brandoffer"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vuuroffer"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "'n geruik"
+    },
+    {
+      "surface": "ניחוח",
+      "gloss": "van rus"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:44.967063128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "maar met ⟨את⟩ die wat hier by ons staan vandag voor Jahweh ons Elohim, en met ⟨את⟩ die wat nie hier by ons is vandag nie",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wat hier by ons staan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "is"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "by ons"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die wat nie hier by ons is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "nie is nie"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "by ons"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:27.131519678Z",
+  "model": "glm-5.3"
+}

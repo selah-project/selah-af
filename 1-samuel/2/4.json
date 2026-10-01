@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Boë van helde ⟨is⟩ verbrysel, en die gestruikeldes het ⟨hulleself⟩ met krag omgord.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "boë"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "van helde"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "⟨is⟩ verbrysel"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "en die gestruikeldes"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "het omgord"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "met krag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:24.222540028Z",
+  "model": "glm-5.3"
+}

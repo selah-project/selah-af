@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "'n Gruwel vir Jahweh ⟨is⟩ die kromhartiges, maar sy welbehae ⟨is⟩ die onberispelikes van weg.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "'n gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "die krom-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hartiges"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "maar sy welbehae"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "die onberispelikes"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "van weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:12.799222586Z",
+  "model": "glm-5.3"
+}

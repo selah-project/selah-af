@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "My seun, moenie in die weg saam met ⟨את⟩ hulle gaan nie; weerhou jou voet van hul paaie.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "saam met hulle"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "weerhou"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jou voet"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "van hul paaie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:49.929194987Z",
+  "model": "glm-5.3"
+}

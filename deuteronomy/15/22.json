@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 15:22",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Binne jou poorte mag jy dit eet; die onreine en die reine ⟨sal dit eet⟩ net so, soos die tsewi en soos die ajiel.",
+  "tokens": [
+    {
+      "surface": "בשעריך",
+      "gloss": "Binne jou poorte"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mag jy dit eet"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "die onreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "en die reine"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "net so \/ samen"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "soos die tsewi"
+    },
+    {
+      "surface": "וכאיל",
+      "gloss": "en soos die ajiel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:39.927326848Z",
+  "model": "glm-5.3"
+}

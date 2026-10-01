@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "⟨את⟩ die hele woord wat ek julle beveel, ⟨את⟩ dit moet julle hou om te doen; jy mag daar niks byvoeg nie en niks daarvan aftrek nie.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele woord"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle hou"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "mag byvoeg"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "aftrek"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:33.121456264Z",
+  "model": "glm-5.3"
+}

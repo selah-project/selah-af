@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Elíhoe het gewag om ⟨את⟩ Ijob met woorde ⟨te spreek⟩, omdat hulle ouer as hy was in dae.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "En Elíhoe"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "het gewag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ijob"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijob"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "met woorde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ouer"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as hy"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "in dae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:21:04.735534958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Teen jou volk smee hulle in die verborgenheid 'n listige plan, en hulle beraadslaag teen die wat U wegsteek ⟨verborge⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Teen"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "smeer hulle listig"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "in die verborgenheid"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "en hulle beraadslaag"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "die wat U wegsteek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:40.479598526Z",
+  "model": "glm-5.3"
+}

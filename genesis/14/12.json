@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het ⟨את⟩ Lot geneem, seun van die broer van Awram, en ⟨את⟩ sy besitting, en ⟨hulle⟩ het weggegaan — hy het in Sodom gewoon.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy besitting"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "sy besitting"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "van die broer"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "van Awram"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en het weggegaan"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "het gewoon"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "in Sodom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:59.645130275Z",
+  "model": "glm-5.3"
+}

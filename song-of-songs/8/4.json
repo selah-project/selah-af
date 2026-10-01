@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Ek het julle besweer, dogters van Jerusjalajim: hoekom wil julle wakker maak, en hoekom die liefde opwek, totdat sy wil?",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ek het besweer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "wil julle wakker maak"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en hoekom"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "opwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die liefde"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "die liefde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "sy wil"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:19.954918364Z",
+  "model": "glm-5.3"
+}

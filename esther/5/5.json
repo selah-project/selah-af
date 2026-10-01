@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 5:5",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die koning sê: Haas julle ⟨את⟩ Haman om ⟨את⟩ die woord van Ester te doen. En die koning en Haman het gekom na die banket wat Ester gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "haas julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Haman"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord van Ester"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "van Ester"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en ... het gekom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "die banket"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.312617378Z",
+  "model": "glm-5.3"
+}

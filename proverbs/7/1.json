@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "My seun, bewaar my woorde, en my gebooie — berg hulle ⟨את⟩ by jou.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en my gebooie"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "berg op"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou",
+      "marks": "my gebooie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.959694081Z",
+  "model": "glm-5.3"
+}

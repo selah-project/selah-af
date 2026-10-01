@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Vir die koormeester, oor Sjoesjan-Edoet, 'n miktam van Dawid, om te leer.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vir die koormeester"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Sjoesjan"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Edoet"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "'n miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "om te leer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.364518061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Sjemoeël het ⟨את⟩ die volk na Jahweh toe geroep in ⟨die⟩ Mitspa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na … toe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "in die Mitspa"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:39.047072255Z",
+  "model": "glm-5.3"
+}

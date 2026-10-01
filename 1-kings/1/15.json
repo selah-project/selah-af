@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Bat-Sewa het by die koning in die kamer ingegaan — en die koning was baie oud — en Abisag die Sunamitiese het ⟨את⟩ die koning gedien.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "het ingegaan"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Bat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sewa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "in die kamer"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "en Abisag"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "die Sunamitiese"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:45.105328148Z",
+  "model": "glm-5.3"
+}

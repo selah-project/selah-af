@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 28:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Verlos u volk, en seën u erfdeel; en wei hulle, en dra hulle ⟨את⟩ tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Verlos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u volk"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u erfdeel"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "u erfdeel"
+    },
+    {
+      "surface": "וּרְעֵם",
+      "gloss": "en wei hulle"
+    },
+    {
+      "surface": "וְנַשְּׂאֵם",
+      "gloss": "en dra hulle"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הָעוֹלָם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:17.159591323Z",
+  "model": "glm-5.3"
+}

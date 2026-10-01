@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Soos Jahweh ⟨את⟩ Mosje beveel het, so het die dogters van Tselofegad gedoen.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "van Tselofegad"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:12.777920065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 27:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En jy sal dit vir jou vader inbring, en hy sal eet, sodat hy jou seën voor sy dood.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "en jy sal inbring"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "vir jou vader"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en hy sal eet"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "hy jou seën"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "sy dood"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:43.707556319Z",
+  "model": "glm-5.3"
+}

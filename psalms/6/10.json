@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Jahweh het my smeeking gehoor; Jahweh sal my gebed aanneem.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "my smeeking"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal aanneem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:45.853475242Z",
+  "model": "glm-5.3"
+}

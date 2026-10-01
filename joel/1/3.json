@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Vertel dit aan julle seuns, en julle seuns aan hulle seuns, en hulle seuns aan 'n volgende geslag.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "aan julle seuns"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "en julle seuns"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hulle seuns"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "en hulle seuns"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "aan 'n geslag"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "volgende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:06.662595326Z",
+  "model": "glm-5.3"
+}

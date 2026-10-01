@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 37:28",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En die nasies sal weet dat ek Jahweh ⟨is⟩, wat ⟨את⟩ Jisraël heilig, deurdat my heiligdom in hulle midde is, vir ewig.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en die nasies sal weet"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "deurdat ... is"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "my heiligdom"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hulle midde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:51.994224444Z",
+  "model": "glm-5.3"
+}

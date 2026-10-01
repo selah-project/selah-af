@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "⟨dan⟩ ⟨sal⟩ ek oortreders u weë leer, en sondigers sal na u terugkeer.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "⟨sal⟩ ek leer"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "oortreders"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "u weë"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "en sondigers"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na u"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "sal terugkeer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:18.337324433Z",
+  "model": "glm-5.3"
+}

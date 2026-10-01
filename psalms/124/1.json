@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 124,
+  "translation": "Lied van die opgangs, van Dawid. As Jahweh nie vir ons ⟨was⟩ nie — laat Jisraël nou sê —",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangs"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "לולי",
+      "gloss": "as ... nie ... nie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "laat ... sê"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:16.491113440Z",
+  "model": "glm-5.3"
+}

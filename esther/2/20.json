@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ester was nie aan die vertel van haar geboorteland en ⟨את⟩ haar volk nie, soos Mordegai haar beveel het; en ⟨את⟩ die bevel van Mordegai het Ester gedoen soos sy ⟨was⟩ by hom in sy sorg ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "was nie"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "aan die vertel"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "haar geboorteland"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar volk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "haar volk"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die bevel van Mordegai"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "die bevel"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "van Mordegai"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sy was"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "in sy sorg"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:10.660475746Z",
+  "model": "glm-5.3"
+}

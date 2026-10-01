@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die seën van Jahweh — dit maak ryk, en ⟨hy⟩ voeg geen smart daarmee saam nie.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "maak ryk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "voeg saam"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "smart"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "daarmee"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:17.461518230Z",
+  "model": "glm-5.3"
+}

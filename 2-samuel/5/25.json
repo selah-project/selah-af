@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Dawid het so gedoen soos Jahweh hom beveel het, en hy het ⟨את⟩ die Filistyne geslaan, van Gewa af tot by jou koms na Gezer.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hom beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "van Gewa af"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "באך",
+      "gloss": "jou koms"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:43.682087555Z",
+  "model": "glm-5.3"
+}

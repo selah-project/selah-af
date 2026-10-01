@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Paro het gesien dat daar verligting was, en hy het ⟨את⟩ sy hart swaar gemaak en nie na hulle geluister nie, soos Jahweh gespreek het.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "verligting"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "en het swaar gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hart"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "geluister"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na hulle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:05.484053663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Aminadab het ⟨את⟩ Nagsjon verwek, en Nagsjon het ⟨את⟩ Salma verwek.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "en Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nagsjon"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nagsjon"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "en Nagsjon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Salma"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Salma"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:40.095856782Z",
+  "model": "glm-5.3"
+}

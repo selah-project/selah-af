@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Geseënd ⟨is⟩ Jahweh, want hy het die stem van my smekings gehoor.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hy het gehoor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van my smekings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:49.903532892Z",
+  "model": "glm-5.3"
+}

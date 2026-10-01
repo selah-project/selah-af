@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die vrou het swanger geword en 'n seun gebaar; en sy het hom gesien, dat hy goed was, en sy het hom drie mane lank weggesteek.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "het swanger geword"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "weggesteek hom"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "mane"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:39.623466408Z",
+  "model": "glm-5.3"
+}

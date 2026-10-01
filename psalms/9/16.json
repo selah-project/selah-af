@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Gesink het die nasies in die kuil wat hulle gemaak het; in die net wat hulle weggesteek het, is hulle voet gevang.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "gesink het"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "in die kuil"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "wat hulle gemaak het"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "in die net"
+    },
+    {
+      "surface": "זו",
+      "gloss": "dié"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "wat hulle weggesteek het"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "is gevang"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "hulle voet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:43.949286345Z",
+  "model": "glm-5.3"
+}

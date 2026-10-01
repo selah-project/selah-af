@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 8:7",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En julle moet opstaan uit die hinderlaag en die stad ⟨את⟩ in besit neem, en Jahweh julle Elohim sal haar in julle hand gee.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "En julle"
+    },
+    {
+      "surface": "תקמו",
+      "gloss": "moet opstaan"
+    },
+    {
+      "surface": "מהאורב",
+      "gloss": "uit die hinderlaag"
+    },
+    {
+      "surface": "והורשתם",
+      "gloss": "en in besit neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "en sal gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in julle hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:20.186425995Z",
+  "model": "glm-5.3"
+}

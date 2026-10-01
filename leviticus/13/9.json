@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Wanneer 'n plaag van tsaraat in 'n mens is, sal hy na die priester gebring word.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "'n plaag"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "tsaraat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "is"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "in 'n mens"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "sal hy gebring word"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:41.061324330Z",
+  "model": "glm-5.3"
+}

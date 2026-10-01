@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jahweh het met Mosje en met Aharon gepraat om vir hulle te sê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:03.545933390Z",
+  "model": "glm-5.3"
+}

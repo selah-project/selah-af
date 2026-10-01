@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En hy sê vir hulle: Ek sien ⟨את⟩ die aangesig van julle vader, dat dit nie meer na my is soos eergister en gister nie; en die Elohim van my vader was met my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "להן",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ek sien"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van julle vader"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "van julle vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "dit is nie"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "soos eergister"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "en gister"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en die Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van my vader"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "met my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:57.375227049Z",
+  "model": "glm-5.3"
+}

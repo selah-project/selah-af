@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Want Jahweh ken ⟨die⟩ weg van regverdiges, en ⟨die⟩ weg van goddeloses sal vergaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨die⟩ weg van"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en ⟨die⟩ weg van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sal vergaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:01.636450968Z",
+  "model": "glm-5.3"
+}

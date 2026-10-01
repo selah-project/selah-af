@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die koning en Haman het gekom om te drink by Ester die koningin.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "om te drink"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "die koningin"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:12.640036875Z",
+  "model": "glm-5.3"
+}

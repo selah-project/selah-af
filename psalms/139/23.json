@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Deursoek my, El, en ken my hart; toets my en ken my gedagtes;",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "deursoek my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "en ken"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "toets my"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "en ken"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "my gedagtes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:11.191659672Z",
+  "model": "glm-5.3"
+}

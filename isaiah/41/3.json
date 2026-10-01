@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Hy jaag hulle na, trek in vrede verby — 'n pad met sy voete kom hy nie.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "hy jaag hulle na"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "trek verby"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "'n pad"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "met sy voete"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kom hy"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:32.892601364Z",
+  "model": "glm-5.3"
+}

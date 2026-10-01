@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 9:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het ⟨את⟩ die brandoffer geslag, en die seuns van Aharon het ⟨את⟩ die bloed na hom toe gebring, en hy het dit rondom op die altaar gesprinkel.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "en hy het geslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "na hom toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "ויזרקהו",
+      "gloss": "en hy het dit gesprinkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.765940801Z",
+  "model": "glm-5.3"
+}

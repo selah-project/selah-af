@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Wolk en donkerheid ⟨is⟩ rondom Hom; tsedek en reg ⟨is⟩ die grondslag van sy troon.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "wolk"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "en donkerheid"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "rondom Hom"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "grondslag"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "van sy troon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.383154885Z",
+  "model": "glm-5.3"
+}

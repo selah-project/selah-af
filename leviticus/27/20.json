@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En as hy ⟨את⟩ die veld nie loskoop nie, of as hy ⟨את⟩ die veld aan 'n ander man verkoop het, kan dit nie meer losgekoop word nie.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "hy loskoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die veld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of as"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "hy verkoop het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die veld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan 'n man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "losgekoop word"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nie meer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:03.781141121Z",
+  "model": "glm-5.3"
+}

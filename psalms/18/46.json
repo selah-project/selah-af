@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Seuns van die vreemde verdor, en kom bevend uit hul vestings.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van die vreemde"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "verdor"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "en kom bevend"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "uit hul vestings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.390615926Z",
+  "model": "glm-5.3"
+}

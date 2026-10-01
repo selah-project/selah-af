@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 4:22",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "dan moet julle ⟨את⟩ julle seuns laat weet en sê: Op droë grond het Jisraël hierdie Jarden oorgesteek",
+  "tokens": [
+    {
+      "surface": "והודעתם",
+      "gloss": "dan moet julle laat weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle seuns"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "julle seuns"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "op droë grond"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "het oorgesteek"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie Jarden"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:40.788788622Z",
+  "model": "glm-5.3"
+}

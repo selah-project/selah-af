@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En 'n man uit die huis van Levi het gegaan en ⟨את⟩ 'n dogter van Levi geneem.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n dogter van Levi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'n dogter"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Levi"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:39.622816831Z",
+  "model": "glm-5.3"
+}

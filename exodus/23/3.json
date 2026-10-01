@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "en ⟨die⟩ geringe moet jy nie begunstig in sy geding nie.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "en ⟨die⟩ geringe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "moet jy begunstig"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "in sy geding"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:35.861262086Z",
+  "model": "glm-5.3"
+}

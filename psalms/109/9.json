@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Mag sy seuns wees weeskinders, en sy vrou 'n weduwee.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "weeskinders"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en sy vrou"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "'n weduwee"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.589524802Z",
+  "model": "glm-5.3"
+}

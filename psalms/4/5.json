@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Bewe en sondig nie; sê in julle hart, op julle bed, en wees stil. Séla.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Bewe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "sondig"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "in julle hart"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "julle bed"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "en wees stil"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.331834230Z",
+  "model": "glm-5.3"
+}

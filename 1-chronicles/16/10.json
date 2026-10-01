@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Roem in sy heilige naam; die hart van die wat Jahweh soek, laat dit vrolik wees.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Roem"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in ... naam"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "laat dit vrolik wees"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "van die wat ... soek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:35.494767010Z",
+  "model": "glm-5.3"
+}

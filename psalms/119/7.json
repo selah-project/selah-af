@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 119:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek sal jou loof met opregtheid van hart as ek leer ⟨את⟩ die regte van jou tsedek.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ek sal jou loof"
+    },
+    {
+      "surface": "בישר",
+      "gloss": "met opregtheid"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "as ek leer"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "die regte"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "van jou tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.176996215Z",
+  "model": "glm-5.3"
+}

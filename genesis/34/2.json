@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Sjegem, die seun van Gamor die Giwiet, die vors van die land, het haar gesien; en hy het haar geneem en by haar gelê en haar verneder.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Sjegem"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Gamor"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Giwiet"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "die vors"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "by haar gelê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "haar verneder"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:33.697415281Z",
+  "model": "glm-5.3"
+}

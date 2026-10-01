@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Jahweh ken die dae van die onberispelikes, en hulle erfdeel sal vir ewig wees.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "van die onberispelikes"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "en hulle erfdeel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:21.640825390Z",
+  "model": "glm-5.3"
+}

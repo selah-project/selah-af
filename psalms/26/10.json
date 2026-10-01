@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "in wie se hande ⟨is⟩ 'n skandelike plan, en hulle regterhand ⟨is⟩ vol omkoopgeld",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "in wie se"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "hande"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "'n skandelike plan"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "en hulle regterhand"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vol"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "omkoopgeld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.325836947Z",
+  "model": "glm-5.3"
+}

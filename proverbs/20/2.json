@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 20:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Soos die gebrul van 'n jong leeu, so ⟨is⟩ die verskrikking van 'n koning; hy wat hom toorn ontsteek, sondig teen sy eie siel.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "gebrul"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "soos 'n jong leeu"
+    },
+    {
+      "surface": "אימת",
+      "gloss": "die verskrikking"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van 'n koning"
+    },
+    {
+      "surface": "מתעברו",
+      "gloss": "hom toorn laat ontvlam"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "sondig"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "teen sy eie siel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:21.709274208Z",
+  "model": "glm-5.3"
+}

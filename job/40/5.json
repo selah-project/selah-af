@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Eenmaal het ek gespreek, en ek antwoord nie; en tweemaal, en ek voeg nie by nie.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "eenmaal"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "het ek gespreek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ek antwoord"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en tweemaal"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ek voeg by"
+    }
+  ],
+  "timestamp": "2026-10-01T00:22:26.766021126Z",
+  "model": "glm-5.3"
+}

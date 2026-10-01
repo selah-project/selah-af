@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 5:8",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ek het julle besweer, ⟨את⟩ julle, dogters van Jerusjalajim: as julle ⟨את⟩ my geliefde vind, wat sal julle hom vertel? — dat ek siek is van liefde.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "ek het julle besweer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle, dogters van Jerusjalajim"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "julle vind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my geliefde"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my geliefde"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "sal julle vertel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "שחולת",
+      "gloss": "siek"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "van liefde"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:25.801882089Z",
+  "model": "glm-5.3"
+}

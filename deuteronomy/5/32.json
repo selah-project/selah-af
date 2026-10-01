@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En jul moet dit nauwlettend hou om te doen soos Jahweh jul Elohim jul beveel het ⟨את⟩ jul; jul moet nie afwyk regs of links nie.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en jul moet hou"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "jul"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "jul moet afwyk"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "regs"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "of links"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:35.622889087Z",
+  "model": "glm-5.3"
+}

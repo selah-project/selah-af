@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "die koning van Livna, een; die koning van Adoellam, een;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "van Livna"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "van Adoellam"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:14.502844737Z",
+  "model": "glm-5.3"
+}

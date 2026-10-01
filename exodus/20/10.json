@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "en die sewende dag ⟨is⟩ 'n Sjabbat vir Jahweh jou Elohim: jy mag geen werk doen nie — jy, en jou seun, en jou dogter, jou dienskneg, en jou diensmaagd, en jou vee, en die vreemdeling wat in jou poorte ⟨is⟩ —",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "en die dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "sewende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "Sjabbat"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "mag jy doen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "en jou seun"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "en jou dogter"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienskneg"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "en jou diensmaagd"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "en jou vee"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "en jou vreemdeling"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "in jou poorte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:16.601963232Z",
+  "model": "glm-5.3"
+}

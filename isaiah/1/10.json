@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoor die woord van Jahweh, owerstes van Sedom; luister na die Tora van ons Elohim, volk van Gamora!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "owerstes"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "van Sedom"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "luister"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "na die Tora"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van ons Elohim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "van Gamora"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:13.451389964Z",
+  "model": "glm-5.3"
+}

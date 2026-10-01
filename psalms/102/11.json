@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Vanwee u grimmigheid en u toorn, want u het my opgelig en my neergegooi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "vanwee"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "u grimmigheid"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "en u toorn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "u het my opgelig"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "en my neergegooi"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:23.254504644Z",
+  "model": "glm-5.3"
+}

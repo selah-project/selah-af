@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "ek sê van Jahweh: my toevlug en my vesting, my Elohim, in Hom vertrou ek.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ek sê"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "my toevlug"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en my vesting"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "vertrou ek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:00.243170447Z",
+  "model": "glm-5.3"
+}

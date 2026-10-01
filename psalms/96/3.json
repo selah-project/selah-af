@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Vertel onder die nasies sy heerlikheid, onder al die volke sy wonders.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy heerlikheid"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "sy wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:53.293757458Z",
+  "model": "glm-5.3"
+}

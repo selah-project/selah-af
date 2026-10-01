@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "die berge styg op, die valleie daal af — na die plek wat U vir hulle bepaal het.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "styg op"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "die valleie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "זה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "U bepaal het"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.174137397Z",
+  "model": "glm-5.3"
+}

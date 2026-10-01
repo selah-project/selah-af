@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Mag die sondaars verdwyn van ⟨die⟩ aarde af, en mag die goddeloses nie meer daar wees nie. Seën, my siel, ⟨את⟩ Jahweh; loof Jah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "mag verdwyn"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "die sondaars"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "en die goddeloses"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nie meer daar wees nie"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "seën"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:01.308557401Z",
+  "model": "glm-5.3"
+}

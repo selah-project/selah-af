@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Moenie ⟨את⟩ jou diensmeisie hou vir 'n dogter van Belíajal nie; want uit die oorvloed van my klage en my verbittering het ek gepraat tot nou toe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "hou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou diensmeisie"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "jou diensmeisie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'n dogter"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "van Belíajal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "uit die oorvloed"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "van my klage"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "en my verbittering"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "het ek gepraat"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "nou toe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:03.589319199Z",
+  "model": "glm-5.3"
+}

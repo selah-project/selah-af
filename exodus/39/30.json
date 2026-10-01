@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 39:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En hulle het ⟨את⟩ die plaat van die heilige kroon gemaak, van suiwer goud, en daarop geskryf 'n skrif van seëlgraveerwerk: heilig vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "En hulle het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plaat van die heilige kroon"
+    },
+    {
+      "surface": "ציץ",
+      "gloss": "die plaat"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "van die kroon"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "suiwer"
+    },
+    {
+      "surface": "ויכתבו",
+      "gloss": "en geskryf"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "'n skrif"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "graveerwerk"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "van 'n seël"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:22.549869851Z",
+  "model": "glm-5.3"
+}

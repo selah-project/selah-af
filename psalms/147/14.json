@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "⟨Hy⟩ wat vrede aan jou grens stel, jou versadig met die vet van koring.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "wat stel"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "aan jou grens"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "van koring"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "jou versadig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:16.579498929Z",
+  "model": "glm-5.3"
+}

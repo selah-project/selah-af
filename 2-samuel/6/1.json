@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Dawid het weer bymekaargebring ⟨את⟩ al die uitverkorenes in Jisraël, dertig duisend.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "het weer bymekaargebring"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die uitverkorenes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "die uitverkorenes"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:05.330686529Z",
+  "model": "glm-5.3"
+}

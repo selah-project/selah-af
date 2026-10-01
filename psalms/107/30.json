@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "En hulle is bly omdat dit bedaar het, en Hy bring hulle na die hawe van hulle begeerte.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "en hulle is bly"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "dit bedaar het"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "en Hy bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "die hawe"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "van hulle begeerte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.725963942Z",
+  "model": "glm-5.3"
+}

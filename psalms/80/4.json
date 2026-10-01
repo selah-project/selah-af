@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 80:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Elohim, laat ons terugkeer, en laat jou aangesig skyn, en ons word gered.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "laat ons terugkeer"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "en laat skyn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou aangesig"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en ons word gered"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:57.458604351Z",
+  "model": "glm-5.3"
+}

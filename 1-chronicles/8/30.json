@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En sy seun, die eersgeborene, was Abdon, en Sur, en Kisj, en Baäl, en Nadab.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "en sy seun"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Abdon"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "en Sur"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "en Kisj"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "en Baäl"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "en Nadab"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:59.054373642Z",
+  "model": "glm-5.3"
+}

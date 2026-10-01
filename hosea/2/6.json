@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En oor ⟨את⟩ haar seuns sal Ek geen ontferming betoon nie, want kinders van hoerery is hulle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "haar seuns"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "haar seuns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "sal Ek ontferm"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "van hoerery"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:15.206601503Z",
+  "model": "glm-5.3"
+}

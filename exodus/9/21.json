@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy wat nie sy hart gerig het op ⟨את⟩ die woord van Jahweh nie, het ⟨את⟩ sy diensknegte en ⟨את⟩ sy vee in die veld gelaat.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "En hy wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gerig"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "het gelaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy diensknegte"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy diensknegte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vee"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "sy vee"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:59.184313019Z",
+  "model": "glm-5.3"
+}

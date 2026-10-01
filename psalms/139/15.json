@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "My gestalte was nie verborge van U nie, toe ek gemaak is in ⟨die⟩ verborgene, toe ek geweef is in die onderste dele van die aarde.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "was verborge"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my gestalte"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gemaak is"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "in die verborgene"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ek geweef is"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "in die onderste dele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:29.280130807Z",
+  "model": "glm-5.3"
+}

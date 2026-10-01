@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Want as hulle val, sal die een ⟨את⟩ sy metgesel oprig; en as die een val en daar ⟨is⟩ nie 'n tweede om hom op te rig nie —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "hulle val"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "sal oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy metgesel"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "sy metgesel"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "en as"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "val"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar ⟨is⟩ nie"
+    },
+    {
+      "surface": "שני",
+      "gloss": "'n tweede"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "om hom op te rig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:23.215903632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En al die owerstes en al die volk het bly geword, en hulle het gebring en in die kis gegooi, totdat ⟨dit⟩ vol was.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "het bly geword"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "gegooi"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "in die kis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "vol was"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:05.376977002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 11:14",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hulle sal op die skouer van die Filistyne afswewe weswaarts; saam sal hulle die seuns van die ooste plunder — Edom en Moab, ⟨die⟩ uitstrekking van hulle hand, en die seuns van Ammon hulle onderdane.",
+  "tokens": [
+    {
+      "surface": "ועפו",
+      "gloss": "En hulle sal afswewe"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "op die skouer"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "weswaarts"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "יבזו",
+      "gloss": "sal hulle plunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van die ooste"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van die ooste"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "ומואב",
+      "gloss": "en Moab"
+    },
+    {
+      "surface": "משלוח",
+      "gloss": "uitstrekking"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "van hulle hand"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "משמעתם",
+      "gloss": "hulle onderdane"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:59.405341906Z",
+  "model": "glm-5.3"
+}

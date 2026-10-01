@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy het gekom tot voor die poort van die koning, want daar was nie om in te kom na die poort van die koning met 'n sak as kleding nie.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "שער",
+      "gloss": "die poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar was nie"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om in te kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "die poort"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "met … as kleding"
+    },
+    {
+      "surface": "שק",
+      "gloss": "'n sak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:50.423789038Z",
+  "model": "glm-5.3"
+}

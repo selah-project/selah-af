@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "om aan te kondig dat Jahweh reguit is, my rots, en geen onreg ⟨is⟩ in hom nie.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "om aan te kondig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reguit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:28.040081285Z",
+  "model": "glm-5.3"
+}

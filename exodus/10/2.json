@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en sodat jy in die ore van jou seun en van die seun van jou seun kan vertel ⟨את⟩ wat ek met Mitsrajim gedoen het, en ⟨את⟩ my tekens wat ek in hulle gestel het, en julle sal weet dat ek Jahweh ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "en sodat"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "jy kan vertel"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die ore"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "en van die seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat ek met Mitsrajim gedoen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "met Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my tekens"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "my tekens"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ek gestel het"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en julle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:43.437420404Z",
+  "model": "glm-5.3"
+}

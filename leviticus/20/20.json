@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En 'n man wat met ⟨את⟩ sy tante sal lê — die naaktheid van sy oom het hy ontbloot — hulle sonde sal hulle dra; kinderloos sal hulle sterwe.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "En 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy tante"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "sy tante"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "van sy oom"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "het hy ontbloot"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "hulle sonde"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "sal hulle dra"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "kinderloos"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "sal hulle sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:56.348273616Z",
+  "model": "glm-5.3"
+}

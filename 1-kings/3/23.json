@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die koning sê: Hierdie sê: dié ⟨is⟩ my seun, die lewende een, en jou seun ⟨is⟩ die dode een; en hierdie sê: Nee, maar jou seun ⟨is⟩ die dode een, en my seun ⟨is⟩ die lewende een.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en die koning sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "החי",
+      "gloss": "die lewende een"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "en jou seun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "die dode een"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "en hierdie"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nee"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "המת",
+      "gloss": "die dode een"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en my seun"
+    },
+    {
+      "surface": "החי",
+      "gloss": "die lewende een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:16.809683742Z",
+  "model": "glm-5.3"
+}

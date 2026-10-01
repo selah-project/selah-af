@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 37:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Toe sê Jehoeda aan sy broers: Wat baat dit dat ons ⟨את⟩ ons broer doodmaak en ⟨את⟩ sy bloed toemaak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Toe sê"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "baat dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נהרג",
+      "gloss": "doodmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons broer"
+    },
+    {
+      "surface": "אחינו",
+      "gloss": "ons broer"
+    },
+    {
+      "surface": "וכסינו",
+      "gloss": "en toemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:11.561535853Z",
+  "model": "glm-5.3"
+}

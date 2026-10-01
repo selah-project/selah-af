@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Met ⟨u⟩ arm het U u volk verlos, die seuns van Jaäkow en Josef. Sela.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "het U verlos"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "met arm"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "en Josef"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:36.011990933Z",
+  "model": "glm-5.3"
+}

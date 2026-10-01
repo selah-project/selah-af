@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 20:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Dawid het gevlug uit Nawot in Rama, en hy het gekom en voor Jehonatan gesê: Wat het ek gedoen? Wat is my ongeregtigheid, en wat my sonde voor jou vader, dat hy ⟨את⟩ my siel soek?",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "en hy het gevlug"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מנוות",
+      "gloss": "uit Nawot"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "my ongeregtigheid"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "my sonde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my siel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:12.778095308Z",
+  "model": "glm-5.3"
+}

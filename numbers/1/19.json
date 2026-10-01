@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Soos Jahweh ⟨את⟩ Mosje beveel het, so het hy hulle getel in die woestyn van Sinai.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "so het hy hulle getel"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "van Sinai"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:21.148848746Z",
+  "model": "glm-5.3"
+}

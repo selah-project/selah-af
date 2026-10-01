@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 14:23",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Joab staan op en gaan Gesjoer toe en bring ⟨את⟩ Absalom na Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "en staan op"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "גשורה",
+      "gloss": "Gesjoer toe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:25.982897705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 12:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Jy mag dit nie eet nie, sodat dit goed met jou gaan en met jou kinders ná jou, wanneer jy doen wat reg is in die oë van Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "jy mag dit eet"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "dit gaan goed"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "en met jou kinders"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ná jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy doen"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "wat reg is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:51.944278809Z",
+  "model": "glm-5.3"
+}

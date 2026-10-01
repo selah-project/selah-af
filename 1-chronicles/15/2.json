@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Toe het Dawid gesê: Dit is nie ⟨aan⟩ enigeen om ⟨את⟩ die ark van ⟨die⟩ Elohim te dra nie, maar die Leviete, want hulle het Jahweh uitverkies om ⟨את⟩ die ark van Jahweh te dra en om Hom te dien tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "toe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van ⟨die⟩ Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Leviete"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "het uitverkies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "om te dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "en om Hom te dien"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:14.224785807Z",
+  "model": "glm-5.3"
+}

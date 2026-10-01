@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En julle moet daarop let om ⟨את⟩ al die verordeninge en ⟨את⟩ die gebooie te doen wat ek vandag voor julle stel.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle moet daarop let"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die verordeninge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "die verordeninge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die gebooie"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "die gebooie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "stel"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:30.546559495Z",
+  "model": "glm-5.3"
+}

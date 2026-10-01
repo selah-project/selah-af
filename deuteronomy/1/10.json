@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Jahweh jul Elohim het julle ⟨אתכ׶ם⟩ vermenigvuldig, en kyk, julle is vandag soos die sterre van die hemel in menigte.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "het vermenigvuldig"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "en kyk, julle is"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "soos die sterre"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in menigte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:14.199559470Z",
+  "model": "glm-5.3"
+}

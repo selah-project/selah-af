@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Sê nie: hoe was dit dat die vroeëre dae beter was as hierdie nie? want nie uit wysheid het jy oor hierdie ⟨ding⟩ gevra nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "die vroeëre"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "beter"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "as hierdie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "uit wysheid"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "het jy gevra"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:28.460845451Z",
+  "model": "glm-5.3"
+}

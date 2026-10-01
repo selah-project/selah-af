@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het gesê: Ek het nie ⟨את⟩ Jisraël versteur nie, maar jy en die huis van jou vader, deurdat julle ⟨את⟩ die gebooie van Jahweh verlaat het en agter die Baäls aan gegaan het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "het ek versteur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ inteendeel⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "deurdat julle verlaat het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebooie van Jahweh"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die gebooie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en gegaan het"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter … aan"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baäls"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:48.843404105Z",
+  "model": "glm-5.3"
+}

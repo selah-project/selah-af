@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En daarna het sy 'n dogter gebaar, en sy het ⟨את⟩ haar naam Dina genoem.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "en daarna"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het sy gebaar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "'n dogter"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar naam"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "haar naam"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Dina"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:39.146244552Z",
+  "model": "glm-5.3"
+}

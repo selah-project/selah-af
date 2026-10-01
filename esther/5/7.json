@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Ester antwoord en sê: My versoek en my begeerte ⟨is⟩ —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "en ... antwoord"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en ... sê"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "my versoek"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "en my begeerte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.312987143Z",
+  "model": "glm-5.3"
+}

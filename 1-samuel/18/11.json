@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 18:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Sjaul het ⟨את⟩ die spies gelig, want hy het gesê: Ek sal Dawid slaan, teen die muur; en Dawid het twee keer uit sy teenwoordigheid gedraai.",
+  "tokens": [
+    {
+      "surface": "ויטל",
+      "gloss": "en hy het gelig"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die spies"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "die spies"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ek sal slaan"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "teen die muur"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "en hy het gedraai"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "uit sy teenwoordigheid"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "twee keer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:36.543534861Z",
+  "model": "glm-5.3"
+}

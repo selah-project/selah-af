@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 21:19",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "as hy opstaan en buite op sy staf rondloop, dan word hy wat geslaan het vrygespreek; net sy gedwonge rus moet hy vergoed, en deeglik moet hy laat genees.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "hy-opstaan"
+    },
+    {
+      "surface": "והתהלך",
+      "gloss": "en-rondloop"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משענתו",
+      "gloss": "sy-staf"
+    },
+    {
+      "surface": "ונקה",
+      "gloss": "dan-word-vrygespreek"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "hy-wat-geslaan-het"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "sy-gedwonge-rus"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "moet-hy-gee"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "en-genes"
+    },
+    {
+      "surface": "ירפא",
+      "gloss": "deeglik-genees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:44.411033668Z",
+  "model": "glm-5.3"
+}

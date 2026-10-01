@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 2:25",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En koning Sjelomo het gestuur deur die hand van Benaja, seun van Jehojada, en hy het hom getref, en hy het gesterwe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Benaja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Jehojada"
+    },
+    {
+      "surface": "ויפגע",
+      "gloss": "het getref"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:36.502696448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 7:2",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Toe het ek my broer ⟨את⟩ Ganani beveel, en ⟨את⟩ Gananja, die owerste van die burg, oor Jerusjalajim — want hy ⟨is⟩ 'n man van trou, en hy vrees ⟨את⟩ Elohim bo baie.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "toe het ek beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ganani"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ganani"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Gananja"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Gananja"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "van die burg"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "van trou"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "bo baie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:41:09.260220002Z",
+  "model": "glm-5.3"
+}

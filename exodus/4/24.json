@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 4:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En dit gebeur op die weg, in die herberg, dat Jahweh hom teëkom en hom soek dood te maak.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit gebeur"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die weg"
+    },
+    {
+      "surface": "במלון",
+      "gloss": "in die herberg"
+    },
+    {
+      "surface": "ויפגשהו",
+      "gloss": "dat hy hom teëkom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "en hy soek"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "om hom dood te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:22.252018920Z",
+  "model": "glm-5.3"
+}

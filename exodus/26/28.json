@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "en die middelste dwalbalk in die middel van die planke sal deurloop van ⟨die⟩ einde tot ⟨die⟩ einde;",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "en die dwalbalk"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "die middelste"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die middel van"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die planke"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "sal deurloop"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨die⟩ einde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨die⟩ einde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:19.888026793Z",
+  "model": "glm-5.3"
+}

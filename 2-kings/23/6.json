@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 23:6",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ die Asjera uit die huis van Jahweh uitgebring, buite Jerusjalajim, na die Kidron-vallei, en dit in die Kidron-vallei verbrand en dit fyngemaak tot stof, en die stof daarvan op die grafte van die seuns van die volk gegooi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "uitgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjera"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "die Asjera"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "die Kidron-vallei"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "in die Kidron-vallei"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "in die vallei"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "Kidron"
+    },
+    {
+      "surface": "וידק",
+      "gloss": "fyngemaak"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "tot stof"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "gegooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stof daarvan"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "die stof daarvan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "die grafte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:18.904827307Z",
+  "model": "glm-5.3"
+}

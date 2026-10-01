@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En die hele volk breek ⟨את⟩ die goue ringe af wat in hulle ore was, en hulle bring ⟨hulle⟩ na Aharon.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "en hulle breek af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goue ringe"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "die ringe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "goue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "in hulle ore"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "en hulle bring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:14.848792821Z",
+  "model": "glm-5.3"
+}

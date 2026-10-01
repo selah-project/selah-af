@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "En van Tsijon sal gesê word: hierdie en daardie man is in haar gebore; en Elyon, Hy self grondves haar.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "En van Tsijon"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sal gesê word"
+    },
+    {
+      "surface": "איש",
+      "gloss": "hierdie man"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en daardie man"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is gebore"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en Hy self"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "grondves haar"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:31.290250158Z",
+  "model": "glm-5.3"
+}

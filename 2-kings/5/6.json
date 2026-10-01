@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 5:6",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hy het die brief gebring aan die koning van Jisraël, met die woorde: En nou, wanneer hierdie brief by jou aankom — kyk, ek het ⟨את⟩ Naäman, my dienaar, aan jou gestuur; en jy moet hom van sy melaatsheid genees.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gebring"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die brief"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "wanneer dit aankom"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die brief"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ek het gestuur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Naäman"
+    },
+    {
+      "surface": "נעמן",
+      "gloss": "Naäman"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    },
+    {
+      "surface": "ואספתו",
+      "gloss": "en jy moet hom genees"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "van sy melaatsheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:09.533261886Z",
+  "model": "glm-5.3"
+}

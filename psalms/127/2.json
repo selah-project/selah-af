@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 127,
+  "translation": "Tevergeefs vir julle, die vroeg-opstaan, die laat-gaan-sit, die eters van brood van smarte — so gee Hy aan sy geliefde slaap.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Tevergeefs"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "die vroeg-"
+    },
+    {
+      "surface": "קום",
+      "gloss": "opstaan"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "die laat-"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gaan-sit"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "die eters"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "van smarte"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee Hy"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "aan sy geliefde"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "slaap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:47.087236518Z",
+  "model": "glm-5.3"
+}

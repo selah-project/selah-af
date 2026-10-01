@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 11:19",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy het ⟨את⟩ die bode beveel en gesê: wanneer jy klaar is om ⟨את⟩ al die woorde van die oorlog voor die koning te spreek,",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bode"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die bode"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "ככלותך",
+      "gloss": "wanneer jy klaar is"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde van die oorlog"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "van die oorlog"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "te spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:40.634720838Z",
+  "model": "glm-5.3"
+}

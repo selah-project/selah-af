@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 39:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En dit het gebeur, toe sy heer ⟨את⟩ die woorde van sy vrou hoor — sy wat met hom gespreek het en gesê het: volgens hierdie woorde het jou slaaf aan my gedoen — dat sy neus gebrand het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe hy hoor"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "sy heer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van sy vrou"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "van sy vrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "sy gespreek het"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "volgens die woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou slaaf"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "het gebrand"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sy neus"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:35.673945457Z",
+  "model": "glm-5.3"
+}

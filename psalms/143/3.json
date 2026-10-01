@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Want 'n vyand het my siel agtervolg, my lewe tot ⟨die⟩ aarde toe platgedruk, my laat woon in duisternisse, soos die dode van ouds.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "het agtervolg"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "'n vyand"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "platgedruk"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tot die aarde toe"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "my laat woon"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "in duisternisse"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "soos die dode"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "van ouds"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.554015456Z",
+  "model": "glm-5.3"
+}

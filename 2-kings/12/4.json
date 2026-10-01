@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Net die bamot het nie verdwyn nie; nog steeds het die volk geslag en reukwerk gebrand op die bamot.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "die bamot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "het verdwyn"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog steeds"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "het geslag"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "en reukwerk gebrand"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "op die bamot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:30.148016289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jona het tot Jahweh, sy Elohim, gebid uit die ingewande van die vis.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "en … het gebid"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "sy Elohim"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "uit die ingewande"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "van die vis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:25.031192226Z",
+  "model": "glm-5.3"
+}

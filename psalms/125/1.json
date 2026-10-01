@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 125,
+  "translation": "Lied van die opgange. Die wat op Jahweh vertrou ⟨is⟩ soos die berg Tsijon — dit sal nie wankel nie, tot in ewigheid sal dit bly.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgange"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "die wat vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "soos die berg"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sal wankel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "sal bly"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:42.540179914Z",
+  "model": "glm-5.3"
+}

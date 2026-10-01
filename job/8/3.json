@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 8:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Sal El ⟨die⟩ reg verwring, of sal Sjaddai tsedek verwring?",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "verwring"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Sjaddai"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "verwring"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:56.366385040Z",
+  "model": "glm-5.3"
+}

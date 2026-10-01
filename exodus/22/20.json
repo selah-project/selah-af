@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En 'n vreemdeling mag jy nie teister nie, en hom nie onderdruk nie, want julle was vreemdelinge in die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "en 'n vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "mag jy teister"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "hom onderdruk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vreemdelinge"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "julle was"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:23.237807764Z",
+  "model": "glm-5.3"
+}

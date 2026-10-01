@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Hy sal ⟨את⟩ die armes van die volk regspreek, die seuns van die behoeftige red, en ⟨את⟩ die onderdruker vertrap.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "hy sal regspreek"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "die armes van"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "red"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "die behoeftige"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "en vertrap"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "die onderdruker"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.534302907Z",
+  "model": "glm-5.3"
+}

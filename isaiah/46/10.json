@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 46:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Wat vanaf die begin die einde verkondig, en van ouds af ⟨die dinge⟩ wat nog nie gedoen is nie — wat sê: my raad sal standhou, en die hele welbehae van my sal ek doen.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "verkondig"
+    },
+    {
+      "surface": "מראשית",
+      "gloss": "vanaf die begin"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "ומקדם",
+      "gloss": "en van ouds af"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "gedoen is"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "my raad"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sal standhou"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "welbehae van my"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "sal ek doen"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:58.766786528Z",
+  "model": "glm-5.3"
+}

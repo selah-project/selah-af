@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En jy moet met hom spreek en ⟨את⟩ die woorde in sy mond lê; en Ek sal met jou mond wees en met sy mond, en Ek sal julle leer ⟨את⟩ wat julle moet doen.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "en jy moet spreek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "en lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "in sy mond"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en Ek"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "sy mond"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "en Ek sal leer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat julle moet doen"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "julle moet doen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:13.895886887Z",
+  "model": "glm-5.3"
+}

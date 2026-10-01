@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 31:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Wees sterk, en mag julle hart hom versterk, almal wat op Jahweh wag.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "Wees sterk"
+    },
+    {
+      "surface": "ויאמץ",
+      "gloss": "en mag hy versterk"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "julle hart"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "wat wag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "op Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:06.192799244Z",
+  "model": "glm-5.3"
+}

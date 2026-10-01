@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En hy het ⟨את⟩ die efod gemaak van goud, blou en pers en wurm-skarlaken en getwiste fyn lyn.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die efod"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "die efod"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "blou"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "en pers"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "en wurm-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "skarlaken"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en fyn lyn"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "getwiste"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:03.101871420Z",
+  "model": "glm-5.3"
+}

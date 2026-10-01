@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 19:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hulle het na Lot geroep en vir hom gesê: Waar is die manne wat vannag by jou gekom het? Bring hulle uit na ons toe, sodat ons hulle kan ken.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "en hulle het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vannag"
+    },
+    {
+      "surface": "הוציאם",
+      "gloss": "bring hulle uit"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "na ons toe"
+    },
+    {
+      "surface": "ונדעה",
+      "gloss": "sodat ons kan ken"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:08.591123977Z",
+  "model": "glm-5.3"
+}

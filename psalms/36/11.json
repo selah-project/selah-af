@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Strek u gesed uit na die wat U ken, en u tsedek na die opregtes van hart.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "strek uit"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "na die wat U ken"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en u tsedek"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "na die opregtes"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:18.772757813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Die Elohim van Jisraël het gesê, die Rots van Jisraël het tot my gespreek: 'n heerser oor die mens — regverdig, heersend in die vrees van Elohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לי",
+      "gloss": "tot my"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "צור",
+      "gloss": "die Rots"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "'n heerser"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "oor die mens"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "regverdig"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "heersend"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "in die vrees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:24.314153548Z",
+  "model": "glm-5.3"
+}

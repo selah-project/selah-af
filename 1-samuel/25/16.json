@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "'n Muur was hulle vir ons, beide in die nag en bedags, al die dae van ons wees by hulle, terwyl ons die kleinvee wei.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "'n muur"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was hulle"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "גם",
+      "gloss": "both"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "van ons wees"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "by hulle"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "terwyl ons wei"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:42.704515088Z",
+  "model": "glm-5.3"
+}

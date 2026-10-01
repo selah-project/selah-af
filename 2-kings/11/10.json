@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die priester het aan die oorste van honderde gegee ⟨את⟩ die spiese en ⟨את⟩ die skilde wat aan die koning Dawid behoort het, wat in die huis van Jahweh ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "aan die oorste"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "van honderde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die spiese"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "die spiese"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die skilde"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "die skilde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:14.747764754Z",
+  "model": "glm-5.3"
+}

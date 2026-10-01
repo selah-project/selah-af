@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het 'n man voor hulle uit gestuur — as dienskneg is Josef verkoop.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Hy het gestuur"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle uit"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "as dienskneg"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "is verkoop"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.409594419Z",
+  "model": "glm-5.3"
+}

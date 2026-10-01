@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Gaan, sê vir hulle: Keer terug na jul tente toe.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "na jul tente toe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:35.622552842Z",
+  "model": "glm-5.3"
+}

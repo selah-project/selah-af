@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 1:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy vader het hom nie gekrenk al sy dae deur te sê: Waarom het jy so gedoen nie; en ook hy was baie goed van gestalte, en sy moeder het ⟨את⟩ hom ná Awsjalom gebaar.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "עצבו",
+      "gloss": "hom gekrenk"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "al sy dae"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het jy gedoen"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "van gestalte"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩ hom",
+      "marks": "hom (die seun wat sy moeder gebaar het)"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awsjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:50.725685898Z",
+  "model": "glm-5.3"
+}

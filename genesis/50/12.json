@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En sy seuns het aan hom so gedoen, soos hy hulle beveel het.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צום",
+      "gloss": "hy hulle beveel het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:11.810393855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Vervalse getuies sal opstaan; wat ek nie geken het nie, vra hulle my.",
+  "tokens": [
+    {
+      "surface": "יקומון",
+      "gloss": "sal opstaan"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "getuies"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "van geweld"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek geken het"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "vra hulle my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:17.885532989Z",
+  "model": "glm-5.3"
+}

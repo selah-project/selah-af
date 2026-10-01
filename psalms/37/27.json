@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Wend af van kwaad en doen goed, en woon vir ewig.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Wend af"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "en woon"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:31.857734785Z",
+  "model": "glm-5.3"
+}

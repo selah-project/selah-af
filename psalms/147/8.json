@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 147:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Hy wat die hemele met wolke bedek, wat vir die aarde reën berei, wat gras op die berge laat uitspruit.",
+  "tokens": [
+    {
+      "surface": "המכסה",
+      "gloss": "Hy wat bedek"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "met wolke"
+    },
+    {
+      "surface": "המכין",
+      "gloss": "wat berei"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "vir die aarde"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "reën"
+    },
+    {
+      "surface": "המצמיח",
+      "gloss": "wat laat uitspruit"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:25.682281072Z",
+  "model": "glm-5.3"
+}

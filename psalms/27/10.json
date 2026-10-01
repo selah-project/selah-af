@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Want my vader en my moeder het my verlaat, maar Jahweh sal my opneem.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "en my moeder"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "het my verlaat"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "maar Jahweh"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "sal my opneem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:26.730232238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "As jou hater honger is, laat hom brood eet; en as hy dors is, laat hom water drink.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "honger is"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "jou hater"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "laat hom eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "hy dors is"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "laat hom drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:10.423722169Z",
+  "model": "glm-5.3"
+}

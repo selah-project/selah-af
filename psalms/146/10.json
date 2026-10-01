@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Jahweh sal reën tot in ewigheid, jou Elohim, o Tsijon, van geslag tot geslag. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "sal reën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "o Tsijon"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:00.613374030Z",
+  "model": "glm-5.3"
+}

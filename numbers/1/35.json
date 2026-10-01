@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hulle geteldes vir die stam van Menasjé: twee en dertig duisend en tweehonderd.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hulle geteldes"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir die stam"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "van Menasjé"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "en tweehonderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:07.655351499Z",
+  "model": "glm-5.3"
+}

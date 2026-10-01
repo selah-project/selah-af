@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 19:7",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die boodskapper van Jahweh het 'n tweede keer teruggekom en hom aangeraak en gesê: Staan op, eet, want die weg is te groot vir jou.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "teruggekom"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "'n tweede keer"
+    },
+    {
+      "surface": "ויגע",
+      "gloss": "aangeraak"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "קום",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רב",
+      "gloss": "te groot"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:42.259017400Z",
+  "model": "glm-5.3"
+}

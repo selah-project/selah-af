@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 34:13",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En Mosje het die kinders van Jisraël gebied om te sê: Dit is die land wat julle as erfdeel deur ⟨את⟩ die lot sal inneem, wat Jahweh beveel het om te gee aan die nege stamme en die halwe stam.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "het gebied"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תתנחלו",
+      "gloss": "sal as erfdeel inneem"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die land)"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "deur die lot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "לתשעת",
+      "gloss": "aan die nege"
+    },
+    {
+      "surface": "המטות",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "en die halwe"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "stam"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:36.173326702Z",
+  "model": "glm-5.3"
+}

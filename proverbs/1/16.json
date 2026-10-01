@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "want hulle voete hardloop na kwaad, en hulle haas om bloed te stort.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hulle voete"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "na kwaad"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "hardloop"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "en hulle haas"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "om te stort"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:49.929385878Z",
+  "model": "glm-5.3"
+}

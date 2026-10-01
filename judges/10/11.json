@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 10:11",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Jahweh het aan die seuns van Jisraël gesê: Het ek ⟨julle⟩ nie ⟨verlos⟩ uit Mitsrajim en uit die Emoriete en uit die seuns van Ammon en uit die Filistyne nie —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "het ek nie ... nie"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriete"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Ammon"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:22.347001837Z",
+  "model": "glm-5.3"
+}

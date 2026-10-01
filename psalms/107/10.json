@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "⟨Hulle wat⟩ in duisternis en doodskadu sit, gevange in ellende en in yster —",
+  "tokens": [
+    {
+      "surface": "יושבי",
+      "gloss": "sittende"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "en doodskadu"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "gevange"
+    },
+    {
+      "surface": "עני",
+      "gloss": "in ellende"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "en in yster"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:06.074519208Z",
+  "model": "glm-5.3"
+}

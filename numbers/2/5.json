@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 2:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die wat langs hom kamp, ⟨is⟩ die stam van Jissaskar; en die vors van die seuns van Jissaskar ⟨is⟩ Netanel, seun van Tsoear.",
+  "tokens": [
+    {
+      "surface": "והחנים",
+      "gloss": "en die wat kamp"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "langs hom"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die stam"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "van Jissaskar"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "en die vors"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Jissaskar"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Netanel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsoear"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:19.258700542Z",
+  "model": "glm-5.3"
+}

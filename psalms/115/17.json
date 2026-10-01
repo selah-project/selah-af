@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Nie ⟨die⟩ dooies loof Jah nie, en nie almal wat na die stilte afgaan nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "⟨die⟩ dooies"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "wat afgaan"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "na die stilte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:31.363173682Z",
+  "model": "glm-5.3"
+}

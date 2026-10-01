@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Spreek tot die hele vergadering van Jisraël, en sê: Op die tiende van hierdie maand sal hulle vir hulle neem, elke man 'n kleinvee, volgens die huis van die vaders, 'n kleinvee vir 'n huis.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Op die tiende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "sal hulle neem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "שה",
+      "gloss": "'n kleinvee"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "volgens die huis"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "van die vaders"
+    },
+    {
+      "surface": "שה",
+      "gloss": "'n kleinvee"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "vir 'n huis"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:03.980647849Z",
+  "model": "glm-5.3"
+}

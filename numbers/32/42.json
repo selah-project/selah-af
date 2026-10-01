@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Nobag het gegaan en ⟨את⟩ Kenat en ⟨את⟩ sy dogterdorpe verower, en hy het dit Nobag genoem, volgens sy naam.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "En Nobag"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en verower"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenat"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "Kenat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy dogterdorpe"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "sy dogterdorpe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "Nobag"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "volgens sy naam"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:09.852243232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Wie 'n man slaan en hy sterf — dood moet hy sekerlik gedood word.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "wat slaan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hy sterf"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet hy gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:51.612151982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Jy het alle woorde van verslinding lief, tong van bedrog.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Jy het lief"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorde van"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "verslinding"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "tong"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:39.036618265Z",
+  "model": "glm-5.3"
+}

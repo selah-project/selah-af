@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 20:32",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jehonatan het ⟨את⟩ Sjaúl, sy vader, geantwoord en vir hom gesê: Waarom moet hy gedood word? Wat het hy gedoen?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hy het geantwoord"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaúl, sy vader"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet hy gedood word"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:25.526045232Z",
+  "model": "glm-5.3"
+}

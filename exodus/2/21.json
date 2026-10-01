@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 2:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Mosje het besluit om by ⟨את⟩ die man te bly, en hy het ⟨את⟩ Tsjipora, sy dogter, aan Mosje gegee.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "het besluit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te bly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "by die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tsjipora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Tsjipora"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "sy dogter"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "aan Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:42.354128412Z",
+  "model": "glm-5.3"
+}

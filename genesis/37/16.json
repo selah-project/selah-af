@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hy het gesê: ⟨את⟩ my broers soek ek. Wys my tog, asseblief, waar hulle wei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my broers"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broers"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "wys"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "wei"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:32.789345155Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Bewaar my soos die pupil, die dogter van die oog; in die skaduwee van jou vlerke verberg jy my.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Bewaar my"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "soos die pupil"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter"
+    },
+    {
+      "surface": "עין",
+      "gloss": "van die oog"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "in die skaduwee"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van jou vlerke"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "verberg jy my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:46.663368537Z",
+  "model": "glm-5.3"
+}

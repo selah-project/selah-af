@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en ⟨את⟩ Cholon en ⟨את⟩ sy weiveld, en ⟨את⟩ Debir en ⟨את⟩ sy weiveld,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Cholon"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Cholon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weiveld"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy weiveld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Debir"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Debir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weiveld"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy weiveld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:46.663273834Z",
+  "model": "glm-5.3"
+}

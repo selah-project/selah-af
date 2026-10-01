@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En ⟨die⟩ dooies in die plaag was vier en twintig duisend.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "En was"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "die dooies"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "in die plaag"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:53.615136552Z",
+  "model": "glm-5.3"
+}

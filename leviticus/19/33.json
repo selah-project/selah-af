@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En as 'n ger by jou ⟨את⟩ kom inwoon in julle land, moet julle hom nie onderdruk ⟨את⟩ nie.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en as"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "kom inwoon"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou"
+    },
+    {
+      "surface": "גר",
+      "gloss": "'n ger"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "in julle land"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "moet julle onderdruk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:05.214131231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Jahweh het woedend geword oor julle vaders — woede!",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "het woedend geword"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "julle vaders"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "woede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:11.264549120Z",
+  "model": "glm-5.3"
+}

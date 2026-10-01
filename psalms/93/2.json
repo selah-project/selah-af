@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 93,
+  "translation": "Vast staan U troon van toe af; van ewigheid af ⟨is⟩ U.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "vast staan"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "U troon"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "van toe af"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "van ewigheid af"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:57.768499027Z",
+  "model": "glm-5.3"
+}

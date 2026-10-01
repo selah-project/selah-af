@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Uit daardie land het hy Assjur toe uitgetrek en ⟨את⟩ Nineve gebou, en ⟨את⟩ Rejobot-Ir en ⟨את⟩ Kalag.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "het ... uitgetrek"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjur toe"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en ... gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nineve"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Nineve"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Rejobot-Ir"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Rejobot-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Kalag"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Kalag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:50.161703408Z",
+  "model": "glm-5.3"
+}

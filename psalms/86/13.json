@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Want groot is u gesed oor my, en u het my siel gered uit Sjeol, uit die onderste ⟨dieptes⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "en u het gered"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "uit Sjeol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "uit die onderste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:41.188419496Z",
+  "model": "glm-5.3"
+}

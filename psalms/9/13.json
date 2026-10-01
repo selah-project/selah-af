@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want hy wat bloed naspeur — ⟨את⟩ hulle onthou hy; hy vergeet nie die gil van die ellendiges nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "naspeur"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "gil"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ellendiges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:43.948210980Z",
+  "model": "glm-5.3"
+}

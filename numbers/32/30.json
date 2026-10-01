@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 32:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Maar as hulle nie gewapen ⟨את⟩ met julle oortrek nie, dan word hulle gevestig in julle midde in die land Kenaän.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "maar as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "hulle oortrek"
+    },
+    {
+      "surface": "חלוצים",
+      "gloss": "gewapen"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met julle"
+    },
+    {
+      "surface": "ויענו-placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "ונאחזו",
+      "gloss": "dan word gevestig"
+    },
+    {
+      "surface": "בתככם",
+      "gloss": "in julle midde"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:10.345615535Z",
+  "model": "glm-5.3"
+}

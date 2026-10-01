@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die volk het daar gedors na water, en die volk het gemor teen Mosje, en hulle het gesê: Waarom het jy ons dan laat optrek uit Mitsrajim, om my ⟨את⟩ en my seuns ⟨את⟩ en my vee ⟨את⟩ met dors te laat sterf?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "en hy het gedors"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "למים",
+      "gloss": "na water"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "en hy het gemor"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dan"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "het jy ons laat optrek"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "om te laat sterf"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my seuns"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my vee"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "my vee"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "met dors"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:33.389925513Z",
+  "model": "glm-5.3"
+}

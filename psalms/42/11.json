@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Soos met 'n slagsteen in my gebeente het my teëstanders my gesmaad, terwyl hulle die hele dag vir my sê: waar is jou Elohim?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "soos met 'n slagsteen"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "in my gebeente"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "het my gesmaad"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "my teëstanders"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "terwyl hulle sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "is jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:45.192019348Z",
+  "model": "glm-5.3"
+}

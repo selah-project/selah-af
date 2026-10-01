@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Hy laat oorloë ophou tot by die einde van die aarde; die boog breek ⟨Hy⟩, en die spies kap ⟨Hy⟩; waens verbrand ⟨Hy⟩ in die vuur.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "laat ophou"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "oorloë"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "die boog"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "breek"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "en kap"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "die spies"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "waens"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.957288928Z",
+  "model": "glm-5.3"
+}

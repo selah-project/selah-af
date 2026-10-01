@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 10:9",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Ek sal hulle saai onder ⟨die⟩ volke, en in die verre lande sal hulle My onthou, en hulle sal saam met ⟨את⟩ hulle kinders lewe en terugkeer.",
+  "tokens": [
+    {
+      "surface": "ואזרעם",
+      "gloss": "en Ek sal hulle saai"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    },
+    {
+      "surface": "ובמרחקים",
+      "gloss": "en in die verre lande"
+    },
+    {
+      "surface": "יזכרוני",
+      "gloss": "sal hulle My onthou"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "en hulle sal lewe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kinders"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle kinders"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en terugkeer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:09:38.766418145Z",
+  "model": "glm-5.3"
+}

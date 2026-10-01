@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Naak loop hulle sonder klere, en hongeres dra ⟨die⟩ omer weg.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "naak"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "loop hulle"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "klere"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "en hongeres"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "dra hulle weg"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "die omer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:19:05.226945321Z",
+  "model": "glm-5.3"
+}

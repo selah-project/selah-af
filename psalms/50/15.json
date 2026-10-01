@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En roep My aan op die dag van benoudheid; ek sal jou uitred, en jy sal My eer.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "en roep My aan"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ek sal jou uitred"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "en jy sal My eer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.317537364Z",
+  "model": "glm-5.3"
+}

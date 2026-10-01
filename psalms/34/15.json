@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Wend af van kwaad en doen goed; soek vrede en jaag dit na.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "wend af"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "en jaag dit na"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:22.665834298Z",
+  "model": "glm-5.3"
+}

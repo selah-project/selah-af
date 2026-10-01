@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Toe hy ⟨את⟩ Aram-Naharajim en ⟨את⟩ Aram-Tsoba beveg het, en Joab teruggekom het en ⟨את⟩ Edom geslaan het in die Soutvallei — twaalfduisend.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "toe hy beveg het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram-Naharajim"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aram-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy het teruggekom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "in die vallei"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "van sout"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.364825807Z",
+  "model": "glm-5.3"
+}

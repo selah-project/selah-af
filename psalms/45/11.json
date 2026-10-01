@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Luister, dogter, en sien, en neig jou oor, en vergeet jou volk en die huis van jou vader.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "en neig"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "jou oor"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "en vergeet"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en die huis"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:38.383421134Z",
+  "model": "glm-5.3"
+}

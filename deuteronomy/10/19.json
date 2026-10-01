@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En julle moet ⟨את⟩ die vreemdeling liefhê, want julle was vreemdelinge in die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "en julle moet liefhê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vreemdeling"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "die vreemdeling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vreemdelinge"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "was julle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:52.612042401Z",
+  "model": "glm-5.3"
+}

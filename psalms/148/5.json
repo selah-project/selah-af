@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Laat hulle ⟨את⟩ die naam van Jahweh loof, want ⟨hy⟩ het bevel gegee en hulle is geskep.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "laat hulle loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hy⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het bevel gegee"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "en hulle is geskep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:31.390003577Z",
+  "model": "glm-5.3"
+}

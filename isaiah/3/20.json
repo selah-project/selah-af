@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "die hooftooie, en die enkelkettings, en die sjerpe, en die huise van die siel, en die fluister-amulette;",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "die hooftooie"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "en die enkelkettings"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "en die sjerpe"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "en die huise van"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "en die fluister-amulette"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:54.871889644Z",
+  "model": "glm-5.3"
+}

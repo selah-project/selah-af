@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Die goddelose loer op die regverdige en soek om hom dood te maak.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "loer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Die goddelose"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "op die regverdige"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "en soek"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hom dood te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:13.049200626Z",
+  "model": "glm-5.3"
+}

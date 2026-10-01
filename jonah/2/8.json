@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe my siel in my beswyk het, het ek Jahweh ⟨את⟩ gedink; en my gebed het by u ingekom, na u heilige tempel.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "toe ... beswyk het"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "het ek gedink"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "en het ingekom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by u"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "tempel"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "u heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:19.801258053Z",
+  "model": "glm-5.3"
+}

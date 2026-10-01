@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Hoe gelukkig ⟨is⟩ ⟨die⟩ man wat U tug, Jah, en uit U Tora leer aan hom!",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "U tug hom"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "en uit U Tora"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "leer U hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:14.921830777Z",
+  "model": "glm-5.3"
+}

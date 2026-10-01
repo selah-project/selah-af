@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Goed en regverdig ⟨is⟩ Jahweh; daarom onderrig Hy sondaars in die weg.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en regverdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כן",
+      "gloss": "om"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "onderrig Hy"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "sondaars"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:35.353186062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "En Hy het sy volk uitgebring met blydskap, sy uitverkorenes met gejubel ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en uitgebring"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "met gejubel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy uitverkorenes"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "sy uitverkorenes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:59.100251943Z",
+  "model": "glm-5.3"
+}

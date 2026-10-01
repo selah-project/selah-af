@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 11:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy het in die geskrif geskryf en gesê: Stel ⟨את⟩ Urija teenoor die aangesig van die hewige stryd, en draai terug van agter hom, sodat hy geslaan word en sterwe.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "geskryf"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "in die geskrif"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Stel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urija"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urija"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "מול",
+      "gloss": "reg teen"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "van die stryd"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "die hewige"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "draai terug"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "van agter hom"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "sodat hy geslaan word"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:51.515840053Z",
+  "model": "glm-5.3"
+}

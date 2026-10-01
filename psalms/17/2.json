@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Van voor U af sal my reg uitgaan; u oë sal ⟨dit⟩ reguit sien.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Van voor U af"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my reg"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sal uitgaan"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "u oë"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "reguit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.558390147Z",
+  "model": "glm-5.3"
+}

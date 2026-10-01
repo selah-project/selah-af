@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Dawid het Elohim ⟨את⟩ gevrees op daardie dag, en gesê: Hoe sal ek ⟨את⟩ die ark van Elohim na my toe bring?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "en hy het gevrees"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardige"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "היך",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "sal ek bring"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:11.126074192Z",
+  "model": "glm-5.3"
+}

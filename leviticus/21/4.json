@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "⟨As⟩ 'n heer onder sy volk mag hy hom nie onrein maak nie, om ⟨homself⟩ te ontheilig.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mag hy onrein maak"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "'n heer"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "onder sy volk"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "om te ontheilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:19.782626295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die hele Jisraël sal omtrent hom rou bedryf en hom begrawe, want hierdie een alleen sal van Jarobeam tot 'n graf kom, omdat daar in hom 'n goeie ding gevind word teenoor Jahweh, ⟨die⟩ Elohim van Jisraël, in die huis van Jarobeam.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "en sal rou bedryf"
+    },
+    {
+      "surface": "לו",
+      "gloss": "omtrent hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "en hulle sal begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "'n graf"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "gevind word"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n ding"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:46.057564741Z",
+  "model": "glm-5.3"
+}

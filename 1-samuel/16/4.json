@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 16:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Sjemoeël doen ⟨את⟩ wat Jahweh gespreek het, en hy kom in Bet-lechem; en die ouderlinge van die stad bewe om hom te ontmoet, en hy sê: Vrede ⟨is⟩ jou koms.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy doen"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh gespreek het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy kom"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    },
+    {
+      "surface": "ויחרדו",
+      "gloss": "en hulle bewe"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die ouderlinge"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "om hom te ontmoet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Vrede"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "jou koms"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:52.526715431Z",
+  "model": "glm-5.3"
+}

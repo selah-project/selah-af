@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "esther 9:23",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die Jode het aangeneem ⟨את⟩ wat hulle begin doen het, en ⟨את⟩ wat Mordegai aan hulle geskryf het.",
+  "tokens": [
+    {
+      "surface": "וקבל",
+      "gloss": "En het aangeneem"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jode"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat hulle begin doen het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "hulle begin het"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "wat Mordegai geskryf het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "geskryf het"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aan hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:40.521764825Z",
+  "model": "glm-5.3"
+}

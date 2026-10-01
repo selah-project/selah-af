@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 34:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Verhef Jahweh saam met my ⟨את⟩, en laat ons sy naam saam verhoog.",
+  "tokens": [
+    {
+      "surface": "גדלו",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ saam met my"
+    },
+    {
+      "surface": "ונרוממה",
+      "gloss": "en laat ons verhoog"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:29.478094618Z",
+  "model": "glm-5.3"
+}

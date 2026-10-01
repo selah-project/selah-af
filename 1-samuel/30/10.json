@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Dawid jaag agteraan, hy en vier honderd man; en twee honderd man het bly staan wat uitgeput was om ⟨את⟩ die winterstroom van ⟨die⟩ Besor oor te steek.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "jaag agteraan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "het bly staan"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "twee honderd"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "uitgeput was"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "om oor te steek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die winterstroom van ⟨die⟩ Besor"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "winterstroom"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "⟨die⟩ Besor"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:06.482050299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Stel 'n goddelose oor hom aan, en 'n aanklaer staan by sy regterhand.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "stel aan"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "'n goddelose"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "en 'n aanklaer"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sy regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.974045769Z",
+  "model": "glm-5.3"
+}

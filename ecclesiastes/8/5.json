@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Wie die gebod bewaar, sal geen slegte ding ken nie; en tyd en reg ken die hart van 'n wyse.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "die gebod"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sal ken"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ding"
+    },
+    {
+      "surface": "רע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en tyd"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "van 'n wyse"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:43.651102194Z",
+  "model": "glm-5.3"
+}

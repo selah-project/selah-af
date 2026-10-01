@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ruth 4:18",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En dit is die geslagsregisters van Perets: Perets het ⟨את⟩ Chetsron verwek.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit is"
+    },
+    {
+      "surface": "תולדות",
+      "gloss": "die geslagsregisters"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chetsron"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Chetsron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:40.095406624Z",
+  "model": "glm-5.3"
+}

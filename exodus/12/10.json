@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En julle mag daarvan niks laat oorbly tot die môre nie, en wat daarvan oorbly tot die môre, in vuur moet julle verbrand.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "laat oorbly"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die môre"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "en wat oorbly"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die môre"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in vuur"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "verbrand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:48.772804858Z",
+  "model": "glm-5.3"
+}

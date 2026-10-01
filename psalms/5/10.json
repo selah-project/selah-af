@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Want daar ⟨is⟩ niks vasstaands in hulle mond nie; hulle binnekant ⟨is⟩ verderf, 'n oop graf ⟨is⟩ hulle keel; met hulle tong maak hulle glad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "in hulle mond"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "vasstaands"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "hulle binnekant"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "verderf"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "graf"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "oop"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "hulle keel"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "hulle tong"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "maak hulle glad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:10.533272516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en ⟨את⟩ Hadoram en ⟨את⟩ Usal en ⟨את⟩ Diqia.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Hadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Hadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Usal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Usal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Diqia"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Diqia"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:40.208768141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 33:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy het altare gebou in die huis van Jahweh, waarvan Jahweh gesê het: In Jerusjalajim sal my Naam wees tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "altare"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my Naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-10-01T01:02:49.130067106Z",
+  "model": "glm-5.3"
+}

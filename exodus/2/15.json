@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Paro hoor ⟨את⟩ die ding, hierdie, en hy soek om ⟨את⟩ Mosje dood te maak; en Mosje vlug vir die aangesig van Paro, en hy woon in die land Midjan, en hy sit by die put.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hy hoor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "en hy soek"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "om dood te maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "en hy vlug"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vir die aangesig van"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy woon"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en hy sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "die put"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:41.206629293Z",
+  "model": "glm-5.3"
+}

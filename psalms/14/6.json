@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die raad van die arme het julle beskaam gemaak, want Jahweh ⟨is⟩ sy toevlug.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Die raad"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van die arme"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "het julle beskaam gemaak"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "sy toevlug"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:51.885273255Z",
+  "model": "glm-5.3"
+}

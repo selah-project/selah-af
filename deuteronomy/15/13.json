@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En wanneer jy hom vry uitstuur van jou af, mag jy hom nie leeg laat weggaan nie",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "jy hom uitstuur"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "vry"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "van jou af"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "jy hom laat weggaan"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "leeg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:08.298974155Z",
+  "model": "glm-5.3"
+}

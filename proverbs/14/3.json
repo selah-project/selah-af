@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "In die mond van die dwaas ⟨is⟩ die roede van hoogmoed, maar die lippe van die wyses bewaar hulle.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "in die mond"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "van die dwaas"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "die roede"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "van hoogmoed"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "maar die lippe"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "van die wyses"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "bewaar hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:56.745297636Z",
+  "model": "glm-5.3"
+}

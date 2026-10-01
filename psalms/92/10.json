@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Want kyk, u vyande, Jahweh — want kyk, u vyande sal vergaan; al die daders van ongeregheid sal uiteengaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "u vyande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "u vyande"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "sal vergaan"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "sal uiteengaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van ongeregheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:34.809102301Z",
+  "model": "glm-5.3"
+}

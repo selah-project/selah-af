@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die son en die maan het verduister, en die sterre het hulle glans teruggetrek.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Die son"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en die maan"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "het verduister"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en die sterre"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "het teruggetrek"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "hulle glans"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:51.925083603Z",
+  "model": "glm-5.3"
+}

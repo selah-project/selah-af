@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Ek het gedink aan dae van voortye, jare van eeue.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Ek het gedink"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "aan dae"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "van voortye"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "jare"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "van eeue"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:29.975910176Z",
+  "model": "glm-5.3"
+}

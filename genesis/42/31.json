@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En ons het vir hom gesê: Opregte ⟨is⟩ ons; ons was nie spioene nie.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "en ons het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "opregte"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ons was"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioene"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:22.753533698Z",
+  "model": "glm-5.3"
+}

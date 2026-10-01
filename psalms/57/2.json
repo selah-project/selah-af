@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Wees my genadig, o Elohim, wees my genadig, want in U het my siel toevlug gesoek; en in die skadu van u vlerke sal ek skuil, totdat die rampspoed verbygegaan het.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "het toevlug gesoek"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "en in die skadu"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "van u vlerke"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "sal ek skuil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "verbygegaan het"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "die rampspoed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.938064313Z",
+  "model": "glm-5.3"
+}

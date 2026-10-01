@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het gesê: vervloek ⟨is⟩ Kenaän; 'n dienaar van dienaars sal hy wees vir sy broers.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n dienaar"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van dienaars"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal hy wees"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "vir sy broers"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:38.482946081Z",
+  "model": "glm-5.3"
+}

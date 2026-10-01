@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Moab is my waspot; op Edom sal ek my skoen gooi; oor Pelesjet sal ek luide roep.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "waspot"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "my was"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "sal ek gooi"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "my skoen"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Pelesjet"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "sal ek luide roep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.414991425Z",
+  "model": "glm-5.3"
+}

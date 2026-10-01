@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En vir Dawid is seuns gebore in Chevron, en sy eersgeborene was Amnon, van Aginoäm die Jisreëlitiese.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "en is gebore"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Chevron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "sy eersgeborene"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "van Aginoäm"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "die Jisreëlitiese"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:01.650724879Z",
+  "model": "glm-5.3"
+}

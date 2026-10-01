@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het ⟨את⟩ die huis gebou en dit voltooi, en hy het ⟨את⟩ die huis oordek met balke en rye sederhout.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "en dit voltooi"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "en hy het oordek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "balke"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "en rye"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "sederhout"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:21.926214678Z",
+  "model": "glm-5.3"
+}

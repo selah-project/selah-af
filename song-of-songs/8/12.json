@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 8:12",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "My wijngaard, my eie, ⟨is⟩ voor my; die duisend is vir jou, Sjelomo, en twee honderd vir die bewaarders van ⟨את⟩ sy vrug.",
+  "tokens": [
+    {
+      "surface": "כרמי",
+      "gloss": "My wijngaard"
+    },
+    {
+      "surface": "שלי",
+      "gloss": "my eie"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "die duisend"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "en twee honderd"
+    },
+    {
+      "surface": "לנטרים",
+      "gloss": "vir die bewaarders"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrug"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "van sy vrug"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:31.999955521Z",
+  "model": "glm-5.3"
+}

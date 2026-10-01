@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jehosjoea sê: Hierdeur sal julle weet dat 'n lewende El in jul midde is, en dat Hy beslis sal laat erfswaai — verdrywende voor julle uit ⟨את⟩ die Kanaäniet en ⟨את⟩ die Chittiet en ⟨את⟩ die Chiwwiet en ⟨את⟩ die Perizziet en ⟨את⟩ die Girgasjiet en die Emoriet en die Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "hierdeur"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "sal julle weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in jul midde"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "en laat erfswaai"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "verdrywende"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "voor julle uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Chittiet"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Chittiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Chiwwiet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Chiwwiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Perizziet"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "die Perizziet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Girgasjiet"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "die Girgasjiet"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en die Emoriet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en die Jebusiet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:32.888601977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En by Chusjim het hy verwek ⟨את⟩ Awitoeb en ⟨את⟩ Elpaäl.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "en by Chusjim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het hy verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awitoeb"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Awitoeb"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Elpaäl"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Elpaäl"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:39.604064346Z",
+  "model": "glm-5.3"
+}

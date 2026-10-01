@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Ram het ⟨את⟩ Aminadab verwek, en Aminadab het ⟨את⟩ Nagson verwek, vors van die seuns van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "En Ram"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aminadab"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Aminadab"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "en Aminadab"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nagson"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Nagson"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "vors"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-10-01T00:43:45.698182180Z",
+  "model": "glm-5.3"
+}

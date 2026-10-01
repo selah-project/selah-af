@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Gee ons hulp teen ⟨die⟩ verdrukking, en ⟨dit is⟩ ydelheid ⟨wat⟩ die redding van die mens ⟨bring⟩.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Gee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "hulp"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "teen ⟨die⟩ verdrukking"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "en ydelheid"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "die redding"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:19.416421067Z",
+  "model": "glm-5.3"
+}

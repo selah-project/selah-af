@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Kajin het aan Hebel sy broer gesê; en toe hulle in die veld was, het Kajin teen Hebel sy broer opgestaan en hom doodgemaak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... het gesê"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "toe hulle was"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Kajin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "en hom doodgemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:27.682559165Z",
+  "model": "glm-5.3"
+}

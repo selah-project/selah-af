@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En ek, soos 'n dowe ⟨one⟩ hoor ⟨ek⟩ nie, en soos 'n stomme wie se mond nie oopmaak nie.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "soos 'n dowe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "hoor ek"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "en soos 'n stomme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "oopmaak"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "sy mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:35.250585180Z",
+  "model": "glm-5.3"
+}

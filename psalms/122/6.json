@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Vra die sjalom van Jerusjalajim; mag rus hê wat jou liefhê.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "vra"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "mag rus hê"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "wat jou liefhê"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:10.872596485Z",
+  "model": "glm-5.3"
+}

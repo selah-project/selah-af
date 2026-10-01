@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het ⟨את⟩ die altare van die vreemde en die hoë plekke verwyder, en ⟨את⟩ die gedenkpilare gebreek, en ⟨את⟩ die Asjerim gekap.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "het verwyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altare van die vreemde"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "die altare"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "van die vreemde"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "en die hoë plekke"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "gebreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gedenkpilare"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "die gedenkpilare"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "gekap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjerim"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "die Asjerim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:57:43.573253994Z",
+  "model": "glm-5.3"
+}

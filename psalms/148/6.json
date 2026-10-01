@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "En ⟨hy⟩ het hulle vir ewig vasgestaan, tot ⟨die⟩ eeu toe; 'n verordening het ⟨hy⟩ gegee, en dit sal nie oorgaan nie.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "en hy het hulle laat staan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot die eeu toe"
+    },
+    {
+      "surface": "חק",
+      "gloss": "'n verordening"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sal oorgaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:31.390299517Z",
+  "model": "glm-5.3"
+}

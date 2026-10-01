@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Vir die voorsanger, van Dawid, 'n mizmor, 'n lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die voorsanger"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:06.908970411Z",
+  "model": "glm-5.3"
+}

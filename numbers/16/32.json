@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 16:32",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die aarde het haar mond oopgemaak en hulle gesluk ⟨את⟩ en ⟨את⟩ hulle huise en ⟨את⟩ al die mense wat vir Korag was en ⟨את⟩ al die besittings.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "en oopgemaak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar mond"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "en gesluk"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle huise"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "hulle huise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al die mense"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mense"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לקרח",
+      "gloss": "vir Korag was"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "al die besittings"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "die besittings"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:16.963986850Z",
+  "model": "glm-5.3"
+}

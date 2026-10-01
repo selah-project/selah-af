@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 2:19",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hulle het gesê: 'n Mitsri-man het ons gered uit die hand van die herders, en ook het hy selfs vir ons water opgetrek en ⟨את⟩ die kleinvee laat drink.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Mitsri"
+    },
+    {
+      "surface": "הצילנו",
+      "gloss": "het ons gered"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "van die herders"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "דלה",
+      "gloss": "water getrek"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en laat drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleinvee"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.618195375Z",
+  "model": "glm-5.3"
+}

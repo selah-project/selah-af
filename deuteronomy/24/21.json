@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "As jy jou wingerd insamel, sal jy nie na-oes nie; vir die vreemdeling, vir die wees en vir die weduwee sal dit wees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "jy insamel"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "jou wingerd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "sal jy na-oes"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "vir die vreemdeling"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "vir die wees"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "en vir die weduwee"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:28.967731092Z",
+  "model": "glm-5.3"
+}

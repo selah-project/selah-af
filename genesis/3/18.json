@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En doring en disseldoring sal dit vir jou laat opspruit, en jy sal ⟨את⟩ die plante van die veld eet.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "en doring"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "en disseldoring"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "sal dit laat opspruit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "en jy sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die plante van die veld"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "die plante"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:50.855608009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Maar U, Jahweh, moenie ver wees nie; my krag, haas U om my te help.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "maar U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ver wees nie"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "om my te help"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haas U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:56.592161305Z",
+  "model": "glm-5.3"
+}

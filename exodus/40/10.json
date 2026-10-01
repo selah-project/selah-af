@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy moet die altaal van die brandoffer salf en ⟨את⟩ al sy gereedskap, en jy moet die altaal heilig maak, en die altaal sal ⟨wees⟩ heilig van die heilighede.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "en jy moet salf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaal"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "van die brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gereedskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en jy moet heilig maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaal"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaal"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaal"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van die heilighede"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:13.458004962Z",
+  "model": "glm-5.3"
+}

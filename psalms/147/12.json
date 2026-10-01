@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Loof, Jerusjalajim, ⟨את⟩ Jahweh; loof jou Elohim, o Tsijon.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "loof"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.691416026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En die hele vergadering van die seuns van Jisraël het uitgegaan van voor Mosje.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle het uitgegaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:51.426798401Z",
+  "model": "glm-5.3"
+}

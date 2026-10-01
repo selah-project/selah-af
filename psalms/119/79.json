@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag die wat U vrees na my terugkeer, en hulle ken u getuienisse.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mag ... terugkeer"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "die wat U vrees"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en hulle ken"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:45.045018671Z",
+  "model": "glm-5.3"
+}

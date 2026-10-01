@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 42:33",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En die man, die heer van die land, het vir ons gesê: hierdeur sal ek weet dat julle opreg ⟨את⟩ is; een van julle broers laat by my agter, en ⟨את⟩ voedsel vir die honger van julle huise neem en gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "heer"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "hierdeur"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sal ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "opreg"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "van julle broers"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "laat agter"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my",
+      "marks": "een van julle broers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "voedsel"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "voedsel vir die honger"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "van julle huise"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "en gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:42.517052991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Jahweh, Elohim van my redding, dag het ek geskreeu, in die nag voor U.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "my redding"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "het ek geskreeu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:54.857282332Z",
+  "model": "glm-5.3"
+}

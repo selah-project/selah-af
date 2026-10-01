@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Hy wat die rotsgesteente in 'n waterpoel verander, die vuursteen in 'n fontein van water —",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Hy wat verander"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "die rotsgesteente"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "in 'n waterpoel"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "die vuursteen"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "in 'n fontein"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.741710493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Want die mond van die goddelose en die mond van bedrog het teen my oopgegaan; hulle het met my gespreek ⟨את⟩ 'n tong van leuens.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "en die mond"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "het oopgegaan"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "hulle het gespreek"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ met my",
+      "marks": "'n tong van leuens"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "'n tong"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:23.136827714Z",
+  "model": "glm-5.3"
+}

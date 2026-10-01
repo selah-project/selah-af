@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "The wicked have set a trap for me, yet from your precepts have I not strayed.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "פח",
+      "gloss": "'n strik"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "maar van jou bevele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "het ek gedwaal nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:18.490567675Z",
+  "model": "glm-5.3"
+}

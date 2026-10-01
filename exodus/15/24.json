@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die volk het teen Mosje gekla deur te sê: Wat sal ons drink?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "en hulle het gekla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "sal ons drink"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:16.792433125Z",
+  "model": "glm-5.3"
+}

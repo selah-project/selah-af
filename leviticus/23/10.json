@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 23:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Spreek met die kinders van Jisraël en sê vir hulle: Wanneer julle kom in ⟨die⟩ land wat ek aan julle gee, en julle ⟨את⟩ sy oes maai, dan bring ⟨את⟩ die omer, die eersteling van julle oes, na die priester.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "julle kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨die⟩ land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "וקצרתם",
+      "gloss": "en julle maai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy oes"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "sy oes"
+    },
+    {
+      "surface": "והבאתם",
+      "gloss": "dan bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die omer"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "die omer"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die eersteling"
+    },
+    {
+      "surface": "קצירכם",
+      "gloss": "van julle oes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:37.061872194Z",
+  "model": "glm-5.3"
+}

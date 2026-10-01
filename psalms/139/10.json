@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "ook daar sal u hand my lei, en u regterhand my vashou.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "sal ... my lei"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "en ... my vashou"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "u regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.316453745Z",
+  "model": "glm-5.3"
+}

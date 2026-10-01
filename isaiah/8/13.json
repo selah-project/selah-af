@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 8:13",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "⟨את⟩ Jahweh Tsewaot — ⟨את⟩ Hom moet julle heilig verklaar, en hy ⟨is⟩ julle vrees, en hy ⟨is⟩ julle skrik.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh Tsewaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩Hom",
+      "marks": "heilig verklaar"
+    },
+    {
+      "surface": "תקדישו",
+      "gloss": "moet julle heilig verklaar"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "מוראכם",
+      "gloss": "julle vrees"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "מערצכם",
+      "gloss": "julle skrik"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:09.976509335Z",
+  "model": "glm-5.3"
+}

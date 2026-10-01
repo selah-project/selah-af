@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En julle mag nie vals in my Naam sweer nie, en so ⟨את⟩ die Naam van jou Elohim ontheilig — Ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "mag sweer"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "in my Naam"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "vals"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "en ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Naam"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die Naam"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "van jou Elohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:06.560948996Z",
+  "model": "glm-5.3"
+}

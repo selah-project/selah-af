@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En vlees, as daar in sy vel 'n sweer was en dit genees ⟨is⟩ —",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "en vlees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in dit"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "in sy vel"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "'n sweer"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "en dit genees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:54.228330716Z",
+  "model": "glm-5.3"
+}

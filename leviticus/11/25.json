@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En elkeen wat iets van hul karkas dra, moet sy klere was en ⟨is⟩ onrein tot die aand.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "dra"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "van hul karkas"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "moet was"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "en onrein"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:45.495667586Z",
+  "model": "glm-5.3"
+}

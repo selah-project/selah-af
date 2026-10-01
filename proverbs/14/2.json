@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 14:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Hy wat in sy opregtheid wandel, vrees Jahweh, maar hy wat in sy weë krom is, verag Hom.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "hy wat wandel"
+    },
+    {
+      "surface": "בישרו",
+      "gloss": "in sy opregtheid"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונלוז",
+      "gloss": "maar wat krom is"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "in sy weë"
+    },
+    {
+      "surface": "בוזהו",
+      "gloss": "verag Hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:56.745121970Z",
+  "model": "glm-5.3"
+}

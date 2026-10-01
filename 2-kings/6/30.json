@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En dit het gebeur, toe die koning ⟨את⟩ die woorde van die vrou hoor, dat hy ⟨את⟩ sy klere geskeur het, terwyl hy op die muur verbygegaan het; en die volk het gesien, en kyk, die sak was op sy vlees, van binne.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe ... hoor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "van die vrou"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "dat hy geskeur het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwyl hy"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "verbygegaan het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "die muur"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "השק",
+      "gloss": "die sak"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy vlees"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van binne"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:23.202090963Z",
+  "model": "glm-5.3"
+}

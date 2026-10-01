@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "My belagers slurp my die heel day op, want baie is hulle wat teen my veg, uit die hoogte.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "slurp ... op"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "my belagers"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die heel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "day"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "veg"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "uit die hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.393016467Z",
+  "model": "glm-5.3"
+}

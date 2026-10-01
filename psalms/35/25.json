@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Mag hulle nie sê in hul hart nie: Aha, ons siel! Mag hulle nie sê nie: Ons het hom verslind.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "mag ... nie"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hulle sê"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hul hart"
+    },
+    {
+      "surface": "האח",
+      "gloss": "aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ons siel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mag ... nie"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hulle sê"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "ons het hom verslind"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:47.394825482Z",
+  "model": "glm-5.3"
+}

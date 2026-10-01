@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Jy mag aan jou broer geen rente ople nie — rente van silwer, rente van voedsel, rente van enige ding wat teen rente geleen word.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "mag jy rente ople"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "aan jou broer"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van silwer"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "van voedsel"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "rente"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van enige"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "teen rente geleen word"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:06.501731742Z",
+  "model": "glm-5.3"
+}

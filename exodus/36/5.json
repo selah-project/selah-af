@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En hulle het vir Mosje gesê: Die volk bring baie, meer as genoeg vir die diens van die werk wat Jahweh beveel het om ⟨את⟩ dit te maak.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En hulle het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "bring baie"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "om te bring"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "meer as genoeg"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "die diens"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "van die werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "om te maak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit — die werk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:39.230862520Z",
+  "model": "glm-5.3"
+}

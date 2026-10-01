@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 26:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Jitsgak het aan hulle gesê: Waarom kom julle na my toe, terwyl julle my gehaat het en my van julle af weggestuur het?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kom julle"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "terwyl julle"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "gehaat het"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "ותשלחוני",
+      "gloss": "en julle het my weggestuur"
+    },
+    {
+      "surface": "מאתכם",
+      "gloss": "⟨את⟩ van julle af"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:14.141753639Z",
+  "model": "glm-5.3"
+}

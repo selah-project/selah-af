@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 32:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Ek sal U onderrig en U leer in die weg wat U moet loop; Ek sal raad gee, my oog op U.",
+  "tokens": [
+    {
+      "surface": "אשכילך",
+      "gloss": "Ek sal U onderrig"
+    },
+    {
+      "surface": "ואורך",
+      "gloss": "en U leer"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "זו",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "U moet loop"
+    },
+    {
+      "surface": "איעצה",
+      "gloss": "Ek sal raad gee"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:59.671563379Z",
+  "model": "glm-5.3"
+}

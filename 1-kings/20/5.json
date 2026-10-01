@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 20:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En die boodskappers het teruggekeer en gesê: Só het Ben-Hadad gesê:Want ek het na jou gestuur om te sê: jou silwer en jou goud en jou vroue en jou seuns — aan my moet jy gee.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "die boodskappers"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "só"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ek het gestuur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "jou silwer"
+    },
+    {
+      "surface": "וזהבך",
+      "gloss": "en jou goud"
+    },
+    {
+      "surface": "ונשיך",
+      "gloss": "en jou vroue"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "en jou seuns"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet jy gee"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:04.326494809Z",
+  "model": "glm-5.3"
+}

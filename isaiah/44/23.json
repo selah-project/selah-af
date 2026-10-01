@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 44:23",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Juig, o hemels, want Jahweh het dit gedoen; jubel, onderste dele van die aarde; breek uit, o berge, in gejuig, woud en elke boom daarin; want Jahweh het Jaäkow verlos, en in Jisraël sal hy hom verheerlik.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "Juig"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "o hemels"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het ... gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "onderste dele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "breek uit"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "o berge"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "in gejuig"
+    },
+    {
+      "surface": "יער",
+      "gloss": "woud"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "boom"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "het ... verlos"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "ובישראל",
+      "gloss": "en in Jisraël"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "sal hy hom verheerlik"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:17.726882950Z",
+  "model": "glm-5.3"
+}

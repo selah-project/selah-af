@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En sy het ⟨את⟩ die spys geneem en dit voor hom uitgegooi, maar hy het geweier om te eet. En Amnon het gesê: Laat elke man van my af uitgaan; en elke man het van hom af uitgegaan.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "en sy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die spys"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "die spys"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "uitgegooi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "maar hy het geweier"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "laat uitgaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle het uitgegaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hom af"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:23.335084774Z",
+  "model": "glm-5.3"
+}

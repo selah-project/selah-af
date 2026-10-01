@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid was oud en versadig van dae, en hy het Syne seun Sjelomo ⟨את⟩ as koning oor Jisraël aangestel.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "En Dawid"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "was oud"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "en versadig"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dae"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "het as koning aangestel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:51:33.642386781Z",
+  "model": "glm-5.3"
+}

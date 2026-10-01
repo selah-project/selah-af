@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Elohim het ⟨את⟩ hulle dade gesien, dat hulle van hulle slegte weg teruggekeer het; toe berou dit Elohim oor die kwaad wat hy gespreek het om aan hulle te doen, en hy het dit nie gedoen nie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle dade"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hulle dade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "hulle teruggekeer het"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "van hulle weg"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "die slegte"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "toe berou dit"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hy gespreek het"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy het gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:04.939096370Z",
+  "model": "glm-5.3"
+}

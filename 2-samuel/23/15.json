@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid het verlang en gesê: Wie sal my laat drink, water uit die put van Bet-lechem wat by die poort is?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "het verlang"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "sal my laat drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "uit die put"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "by die poort"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:27.814027565Z",
+  "model": "glm-5.3"
+}

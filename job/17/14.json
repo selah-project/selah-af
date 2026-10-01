@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 17:14",
+  "book": "job",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Die verderf het ek aangeroep: my vader; die wurm: ⟨jy is⟩ my moeder en my suster.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "aan die verderf"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "het ek geroep"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my moeder"
+    },
+    {
+      "surface": "ואחתי",
+      "gloss": "en my suster"
+    },
+    {
+      "surface": "לרמה",
+      "gloss": "aan die wurm"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:57.826918852Z",
+  "model": "glm-5.3"
+}

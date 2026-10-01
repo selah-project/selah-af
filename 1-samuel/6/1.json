@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En ⟨die⟩ ark van Jahweh was in ⟨die⟩ veld van die Filistyne sewe maande.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "was"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in ⟨die⟩ veld"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "maande"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:39.839073619Z",
+  "model": "glm-5.3"
+}

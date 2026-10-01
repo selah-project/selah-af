@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "'n Lied, 'n psalm van die seuns van Korag.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "'n Lied"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:56.424743893Z",
+  "model": "glm-5.3"
+}

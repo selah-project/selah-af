@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 27:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En jy sal sy potte maak om sy as te verwyder, en sy skoppies, en sy skottels, en sy vurke, en sy vuurpanne; vir al sy gereedskap sal jy koper maak.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "סירתיו",
+      "gloss": "sy potte"
+    },
+    {
+      "surface": "לדשנו",
+      "gloss": "om sy as te verwyder"
+    },
+    {
+      "surface": "ויעיו",
+      "gloss": "en sy skoppies"
+    },
+    {
+      "surface": "ומזרקתיו",
+      "gloss": "en sy skottels"
+    },
+    {
+      "surface": "ומזלגתיו",
+      "gloss": "en sy vurke"
+    },
+    {
+      "surface": "ומחתתיו",
+      "gloss": "en sy vuurpanne"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "sal jy maak"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "koper"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:46.911107071Z",
+  "model": "glm-5.3"
+}

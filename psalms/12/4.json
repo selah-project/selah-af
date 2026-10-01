@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Mag Jahweh afkap al die lippe van gladheid, die tong wat groot dinge spreek.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "mag afkap"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "die lippe van"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladheid"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "die tong"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "wat spreek"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groot dinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:27.331952831Z",
+  "model": "glm-5.3"
+}

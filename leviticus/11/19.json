@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ die geseda, die anafa na sy soort, en ⟨את⟩ die dugifat en ⟨את⟩ die atalef",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die geseda"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "die geseda"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "die anafa"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "na sy soort"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die dugifat"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "die dugifat"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die atalef"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "die atalef"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:47.550726567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Ek trek die hemel swart aan, en sakgoed maak ek hulle bedekking.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "Ek trek aan"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "swart"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "en sakgoed"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "maak ek"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "hulle bedekking"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:03.045232317Z",
+  "model": "glm-5.3"
+}

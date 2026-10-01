@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En ⟨hy⟩ sê: jy kan nie ⟨את⟩ my aangesig sien nie, want geen mens kan my sien en lewe nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "jy kan"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my aangesig"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "sal my sien"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:21.869563969Z",
+  "model": "glm-5.3"
+}

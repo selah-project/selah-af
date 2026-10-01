@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 10:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die koningin van Sjeba het ⟨את⟩ die gerug van Sjelomo gehoor — weens die Naam van Jahweh — en sy het gekom om hom met raaisels te toets.",
+  "tokens": [
+    {
+      "surface": "ומלכת",
+      "gloss": "En die koningin"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "van Sjeba"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gerug"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "die gerug"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "weens die Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en sy het gekom"
+    },
+    {
+      "surface": "לנסתו",
+      "gloss": "om hom te toets"
+    },
+    {
+      "surface": "בחידות",
+      "gloss": "met raaisels"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:22.654898305Z",
+  "model": "glm-5.3"
+}

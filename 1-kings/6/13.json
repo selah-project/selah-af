@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Ek sal woon te midde van die kinders van Jisraël, en Ek sal ⟨את⟩ my volk Jisraël nie verlaat nie.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "en Ek sal woon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midde van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "sal Ek verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk Jisraël"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:59.776704409Z",
+  "model": "glm-5.3"
+}

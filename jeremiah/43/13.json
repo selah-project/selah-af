@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 43:13",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En hy sal die ⟨את⟩ gedenksuile van Bet-Sjemèsj, wat in die land Mitsrajim ⟨is⟩, verbreek, en die ⟨את⟩ huise van die gode van Mitsrajim sal hy met vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "verbreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gedenksuile van Bet-Sjemèsj"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "gedenksuile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Sjemèsj"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die huise van die gode van Mitsrajim"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "huise"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van die gode"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "sal verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:41:42.168265746Z",
+  "model": "glm-5.3"
+}

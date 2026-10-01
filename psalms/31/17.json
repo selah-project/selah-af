@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 31:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Laat u gesig skyn oor u dienaar; red my in u gesed.",
+  "tokens": [
+    {
+      "surface": "האירה",
+      "gloss": "laat skyn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u gesig"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "in u gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:40.709080440Z",
+  "model": "glm-5.3"
+}

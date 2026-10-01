@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En vir Aharon is ⟨את⟩ Nadab en ⟨את⟩ Abihoe, ⟨את⟩ Elasar en ⟨את⟩ Itamar gebaar.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "En is gebaar"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "vir Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nadab"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Abihoe"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Abihoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elasar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Itamar"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Itamar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:08.550634927Z",
+  "model": "glm-5.3"
+}

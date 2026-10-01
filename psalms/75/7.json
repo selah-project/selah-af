@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "Want nie uit die opkoms en nie uit die weste nie, en nie uit die woestyn kom verhoging nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "uit die opkoms"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "en uit die weste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "uit die woestyn"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kom verhoging"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.469641317Z",
+  "model": "glm-5.3"
+}

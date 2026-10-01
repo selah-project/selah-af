@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "en ek kom terug in sjalom na die huis van my vader, en dan sal Jahweh vir my wees ⟨as⟩ Elohim.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "en ek kom terug"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in sjalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨die⟩ huis"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van my vader"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dan sal wees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨as⟩ Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:28.302813320Z",
+  "model": "glm-5.3"
+}

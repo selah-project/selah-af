@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "'n Mizmor van Asaf. O Elohim, die nasies het ⟨את⟩ jou erfdeel binnegekom, hulle het ⟨את⟩ die paleis van jou heiligheid onrein gemaak, hulle het Jerusjalajim tot puinhope gemaak.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Mizmor"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "O Elohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het binnegekom"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "jou erfdeel"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "hulle het onrein gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die paleis"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "die paleis"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "van jou heiligheid"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "hulle het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "tot puinhope"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:55.052414792Z",
+  "model": "glm-5.3"
+}

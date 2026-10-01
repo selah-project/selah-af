@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En daar is aan Laban vertel op die derde dag dat Jaäkow gevlug het.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en daar is vertel"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "aan Laban"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "derde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "gevlug het"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:48.542378481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy dit geslag; en Mosje het ⟨את⟩ die bloed teen die altaar rondom gesprinkel.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "En hy geslag het"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "het gesprinkel"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:30.346519215Z",
+  "model": "glm-5.3"
+}

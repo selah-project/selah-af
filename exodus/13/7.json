@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Matsot sal geëet word ⟨את⟩ die sewe dae, en geen gesuurddeeg sal by jou gesien word nie, en geen suurdeeg sal by jou gesien word nie binne jou hele grens.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "Matsot"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sal geëet word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sewe dae"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die sewe"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal gesien word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gesuurddeeg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal gesien word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "suurdeeg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "binne hele"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "jou grens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:20.604119074Z",
+  "model": "glm-5.3"
+}

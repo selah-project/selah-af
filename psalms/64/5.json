@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Om die onberispelike in skuilplekke te skiet; skielik skiet hulle hom, en hulle vrees nie.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "om te skiet"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "in skuilplekke"
+    },
+    {
+      "surface": "תם",
+      "gloss": "die onberispelike"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "skielik"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "skiet hulle hom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "vrees nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:04.448416484Z",
+  "model": "glm-5.3"
+}

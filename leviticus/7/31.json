@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die pries moet ⟨את⟩ die vet op die altaar laat rook, en die bors sal vir Aharon en sy seuns wees.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "En laat rook"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en sal wees"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "die bors"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "vir Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "en vir sy seuns"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:09.035241688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Maar ek — op U het ek my vertroue gestel, Jahweh; ek het gesê: U ⟨is⟩ my Elohim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek my vertroue gestel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:37.079463026Z",
+  "model": "glm-5.3"
+}

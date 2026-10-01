@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Op U is ek gewerp vanaf die moederskoot; uit die baarmoeder van my moeder is U my El.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Op U"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "is ek gewerp"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "vanaf die moederskoot"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "uit die baarmoeder"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van my moeder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:46.968185961Z",
+  "model": "glm-5.3"
+}

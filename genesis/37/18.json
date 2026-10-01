@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hulle het hom ⟨את⟩ van ver af gesien, en voordat hy by hulle kom, het hulle teen hom ⟨את⟩ beraam om hom dood te maak.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle het gesien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van ver af"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "en voordat"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "hy kom naby"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "by hulle"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "het hulle beraam teen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hom dood te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:40.771049500Z",
+  "model": "glm-5.3"
+}

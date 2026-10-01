@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "'n Weg na die lewe is hy wat tug in ag neem, maar hy wat bestraffing verlaat, verdwaal.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "'n weg"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "na die lewe"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "is hy wat in ag neem"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tug"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "maar hy wat verlaat"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "bestraffing"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "verdwaal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:33.782990340Z",
+  "model": "glm-5.3"
+}

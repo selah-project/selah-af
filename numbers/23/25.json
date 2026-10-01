@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Balak sê vir Bilam: ook om te vervloek — hom sal jy nie vervloek nie; ook om te seën — hom sal jy nie seën nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "קב",
+      "gloss": "om te vervloek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "sal jy hom vervloek"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "om te seën"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "sal jy hom seën"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:04.527686507Z",
+  "model": "glm-5.3"
+}

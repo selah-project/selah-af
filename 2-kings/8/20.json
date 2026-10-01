@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 8:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "In sy dae het Edom gerebelleer van onder die hand van Jehoeda af, en hulle het 'n koning oor hulle laat regeer.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "in sy dae"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "het gerebelleer"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "van onder"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "en hulle laat regeer"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:37.882229935Z",
+  "model": "glm-5.3"
+}

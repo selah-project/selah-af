@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Mag Elohim opstaan, mag sy vyande verstrooi word, en mag sy haters voor sy aangesig wegvlug.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "mag opstaan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "mag verstrooi word"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "sy vyande"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "en mag wegvlug"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "sy haters"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor sy aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:06.909451378Z",
+  "model": "glm-5.3"
+}

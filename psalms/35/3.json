@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En steek ⟨die⟩ spies uit en versper ⟨die⟩ weg vir my vervolgers; sê vir my siel: u redding ⟨is⟩ ek.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "en steek uit"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "spies"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "en versper"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "my vervolgers"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "vir my siel"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "u redding"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:44.661290962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Strome water loop uit my oë af, omdat hulle u Tora nie onderhou het nie.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "strome"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "loop af"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "uit my oë"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "hulle onderhou het"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:36.162817798Z",
+  "model": "glm-5.3"
+}

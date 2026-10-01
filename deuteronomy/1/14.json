@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En julle het my geantwoord ⟨את⟩ en gesê: goed ⟨is⟩ die woord wat jy gespreek het om te doen.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "En julle het geantwoord"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "jy gespreek het"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:07.581696433Z",
+  "model": "glm-5.3"
+}

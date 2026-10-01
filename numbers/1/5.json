@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit is die name van die manne wat saam met ⟨את⟩ julle sal staan: vir Reüwen, Elitsur, seun van Sjedeür.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit is"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die name"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "van die manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "sal staan"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "vir Reüwen"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Elitsur"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "van Sjedeür"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:34.488620780Z",
+  "model": "glm-5.3"
+}

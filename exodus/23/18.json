@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Jy mag die bloed van my slagoffer nie op gesuurd ⟨is⟩ offer nie, en die vet van my feesmag mag nie bly tot die môre toe nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "mag jy offer"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gesuurd"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "van my slagoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mag bly"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "van my feesmag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die môre toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:16.593925721Z",
+  "model": "glm-5.3"
+}

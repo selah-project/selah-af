@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die gelykenis van hul gesigte: ⟨die⟩ gesig van 'n mens, en die gesig van 'n leeu aan die regterkant vir hulle vier, en die gesig van 'n os aan die linkerkant vir hulle vier, en die gesig van 'n arend vir hulle vier.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "en die gelykenis"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "van hul gesigte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "gesig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van 'n mens"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die gesig"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "van 'n leeu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "die regterkant"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "vir hulle vier"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die gesig"
+    },
+    {
+      "surface": "שור",
+      "gloss": "van 'n os"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "aan die linkerkant"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "vir hulle vier"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die gesig"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "van 'n arend"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "vir hulle vier"
+    }
+  ],
+  "timestamp": "2026-09-30T22:45:00.200858001Z",
+  "model": "glm-5.3"
+}

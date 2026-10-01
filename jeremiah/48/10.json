@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 48:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Vervloek is hy wat die werk van Jahweh met ⟨laksheid⟩ doen, en vervloek is hy wat sy swaard van bloed weerhou.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Vervloek is"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy wat ... doen"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "met ⟨laksheid⟩"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "en vervloek is"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "hy wat ... weerhou"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sy swaard"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van bloed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:14.438502090Z",
+  "model": "glm-5.3"
+}

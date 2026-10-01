@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "maar na my land en na my geboortegrond sal jy gaan, en jy sal 'n vrou neem vir my seun, vir Jitsgak",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "my land"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "my geboortegrond"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "sal jy gaan"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy sal neem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir my seun"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "vir Jitsgak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:55.961612632Z",
+  "model": "glm-5.3"
+}

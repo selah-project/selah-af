@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Hieraan weet ek dat U 'n welbehae in my het: my vyand juig nie oor my nie.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "hieraan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "weet ek"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "U 'n welbehae het"
+    },
+    {
+      "surface": "בי",
+      "gloss": "in my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "juig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:36.869861256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Jahweh, ons Adonai, hoe magtig ⟨is⟩ u Naam in die hele aarde, U wat u majesteit gegee het bo die hemels!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ons Adonai"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "magtig"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "U wat"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gegee het"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "u majesteit"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemels"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:58.678170323Z",
+  "model": "glm-5.3"
+}

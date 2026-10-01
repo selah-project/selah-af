@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "hy wat hom verneder om te sien in ⟨die⟩ hemel en op ⟨die⟩ aarde —",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "hy wat hom verneder"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in ⟨die⟩ hemel"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "en op ⟨die⟩ aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:00.692241019Z",
+  "model": "glm-5.3"
+}

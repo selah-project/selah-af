@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 65:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "U besoek die aarde en laat dit drink; oorvloedig maak U dit ryk — die stroom van Elohim ⟨is⟩ vol water; U berei hulle graan voor, want só berei U dit.",
+  "tokens": [
+    {
+      "surface": "פקדת",
+      "gloss": "U besoek"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ותשקקה",
+      "gloss": "en laat dit drink"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "oorvloedig"
+    },
+    {
+      "surface": "תעשרנה",
+      "gloss": "maak U dit ryk"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "die stroom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "U berei voor"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "hulle graan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כן",
+      "gloss": "só"
+    },
+    {
+      "surface": "תכינה",
+      "gloss": "berei U dit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:35.860173046Z",
+  "model": "glm-5.3"
+}

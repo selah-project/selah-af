@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En jy sal ⟨את⟩ twee sjoham-stene neem, en jy sal op hulle die name van die seuns van Jisraël graveer",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twee sjoham-stene"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "stene"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "sjoham"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "en jy sal graveer"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die name"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:40.197124227Z",
+  "model": "glm-5.3"
+}

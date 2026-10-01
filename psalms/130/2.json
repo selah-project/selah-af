@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "Adonai, hoor my stem; laat u ore ⟨wees⟩ opmerkend vir die stem van my smekinge.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "laat ... ⟨wees⟩"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "u ore"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "opmerkend"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "vir die stem"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "van my smekinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:28.281443687Z",
+  "model": "glm-5.3"
+}

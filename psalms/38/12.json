@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "My geliefdes en my vriende staan teenoor my plaag, en my naastes staan van ver af.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "my geliefdes"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "en my vriende"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "my plaag"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "staan"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "en my naastes"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "van ver"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "staan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:28.801788535Z",
+  "model": "glm-5.3"
+}

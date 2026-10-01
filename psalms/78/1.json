@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "'n Maskil van Asaf. Spits ⟨die⟩ oor, my volk, ⟨op⟩ my Tora; neig jul oor na die woorde van my mond.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "'n Maskil"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "spits ⟨die⟩ oor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Tora"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "neig"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "jul oor"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "na die woorde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:00.716674858Z",
+  "model": "glm-5.3"
+}

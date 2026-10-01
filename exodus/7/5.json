@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Mitsrajim sal weet dat ek Jahweh ⟨is⟩, wanneer ek ⟨את⟩ my hand oor Mitsrajim uitstrek en ⟨את⟩ die seuns van Jisraël uit hulle midde uitlei.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en sal weet"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "wanneer ek uitstrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hand"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "en ek sal uitlei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "uit hulle midde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:04.360590110Z",
+  "model": "glm-5.3"
+}

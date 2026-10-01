@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ die dogter van die jäänä en ⟨את⟩ die tjamas en ⟨את⟩ die sjagaf en ⟨את⟩ die nets na sy soort —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die dogter van die jäänä"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "van die jäänä"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tjamas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "die tjamas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die sjagaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "die sjagaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die nets"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "die nets"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "na sy soort"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:14.015870409Z",
+  "model": "glm-5.3"
+}

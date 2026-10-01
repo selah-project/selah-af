@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die seuns van Ammon het gesien dat Aram gevlug het, en hulle het ook gevlug voor die gesig van Awisjai, sy broer, en hulle het die stad binnegegaan; en Joab het na Jerusjalajim gekom.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נס",
+      "gloss": "gevlug het"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "en hulle het gevlug"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die gesig van"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Awisjai"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het binnegegaan"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T01:08:02.848768769Z",
+  "model": "glm-5.3"
+}

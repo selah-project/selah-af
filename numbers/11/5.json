@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Ons onthou ⟨את⟩ die vis wat ons in Mitsrajim gratis geëet het, ⟨את⟩ die komkommers en ⟨את⟩ die spanspekke en ⟨את⟩ die preie en ⟨את⟩ die uie en ⟨את⟩ die knoffel.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "onthou ons"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vis"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "die vis"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ons geëet het"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "gratis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die komkommers"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "die komkommers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die spanspekke"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "die spanspekke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die preie"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "die preie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die uie"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "die uie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die knoffel"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "die knoffel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:47.046355675Z",
+  "model": "glm-5.3"
+}

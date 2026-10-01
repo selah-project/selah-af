@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het 'n begeerte begeer in die woestyn, en hulle het El beproef in Jisjimon.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "en hulle het begeer"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "'n begeerte"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "en hulle het beproef"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "in Jisjimon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:16.428006551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 14:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En elke dier wat die hoef split en die skeur in twee hoeve deurskeur, en herkou onder die diere — ⟨את⟩ dié mag julle eet.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "dier"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "split"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "die hoef"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "en deurskeur"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "die skeur"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "פרסות",
+      "gloss": "hoeve"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opbring"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkou"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "onder die diere"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dié"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:40.994765257Z",
+  "model": "glm-5.3"
+}

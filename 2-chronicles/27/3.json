@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Hy het ⟨את⟩ die boonste poort van die huis van Jahweh gebou, en aan die muur van die Ofel het hy veel gebou.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "het gebou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boonste poort"
+    },
+    {
+      "surface": "שער",
+      "gloss": "poort"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "die boonste"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "en aan die muur"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "van die Ofel"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "het hy gebou"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "veel"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:57.923899468Z",
+  "model": "glm-5.3"
+}

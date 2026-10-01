@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Ek het die vergadering van kwaaddoeners gehaat, en met die goddeloses sal ek nie sit nie.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ek het gehaat"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "die vergadering"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sal ek sit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:31.736557110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Mag verwoesting hom onverwags tref — hy ⟨weet⟩ nie; en sy net wat hy weggesteek het, mag hom vang; in verwoesting mag hy daarin val.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "mag hom tref"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "verwoesting"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "hy weet"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "en sy net"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "hy weggesteek het"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "mag hom vang"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "in verwoesting"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "val hy"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:31.265959352Z",
+  "model": "glm-5.3"
+}

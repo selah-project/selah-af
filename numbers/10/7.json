@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En om ⟨את⟩ die vergadering bymekaar te roep, blaas julle, maar julle moenie teroea blaas nie.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "en om bymekaar te roep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vergadering"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "die vergadering"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "blaas julle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "teroea blaas nie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:20.912732799Z",
+  "model": "glm-5.3"
+}

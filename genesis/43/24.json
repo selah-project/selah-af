@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En die man het ⟨את⟩ die manne in die huis van Josef ingebring, en hy het water gegee, en hulle het hulle voete gewas; en hy het voer vir hulle donkies gegee.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het ingebring"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die manne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Josef"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "en hulle het gewas"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hulle voete"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "voer"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "vir hulle donkies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:20.616693484Z",
+  "model": "glm-5.3"
+}

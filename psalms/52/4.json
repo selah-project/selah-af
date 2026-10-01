@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Rampspoed smee jou tong soos 'n geslypte skeermes, een wat bedrog bewerk.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "rampspoed"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "smee (bedink)"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "jou tong"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "soos 'n skeermes"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "geslypte"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "een wat bewerk"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:54.940582425Z",
+  "model": "glm-5.3"
+}

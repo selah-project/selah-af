@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Nie verag ⟨hulle⟩ ⟨die⟩ dief nie, want hy steel om sy siel te vul, want hy ⟨is⟩ honger.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "verag ⟨hulle⟩"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "⟨die⟩ dief"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "hy steel"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "om te vul"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "hy is honger"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:44.850892772Z",
+  "model": "glm-5.3"
+}

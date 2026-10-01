@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het hom as heer van sy huis gestel, en as heerser oor die hele rykdom daarvan.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Hy het gestel"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "as heer"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "van sy huis"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "en as heerser"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor die hele"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "rykdom daarvan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:27.974372790Z",
+  "model": "glm-5.3"
+}

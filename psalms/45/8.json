@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Jy het tsedek liefgehad en goddeloosheid gehaat; daarom het Elohim, jou Elohim, jou gesalf met olie van blydskap bo jou metgeselle.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "jy het liefgehad"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "en gehaat"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddeloosheid"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "het jou gesalf"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "van blydskap"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "bo jou metgeselle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:10.900413399Z",
+  "model": "glm-5.3"
+}

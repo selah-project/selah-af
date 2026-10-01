@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 23:1",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wee die herders wat vernietig en verstrooi ⟨את⟩ die kudde van my weiveld, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "die herders"
+    },
+    {
+      "surface": "מאבדים",
+      "gloss": "wat vernietig"
+    },
+    {
+      "surface": "ומפצים",
+      "gloss": "en verstrooi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kudde"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kudde"
+    },
+    {
+      "surface": "מרעיתי",
+      "gloss": "van my weiveld"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:31.677109744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "U sal hulle stel soos 'n oond van vuur, voor die tyd van u aangesig — Jahweh; in Sy toorn sal Hy hulle verslind, en vuur sal hulle verteer.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "U sal hulle stel"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "soos 'n oond"
+    },
+    {
+      "surface": "אש",
+      "gloss": "van vuur"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "voor die tyd"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "van u aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in Sy toorn"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "sal Hy hulle verslind"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "en sal hulle verteer"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:33.051622614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Jahweh, my Elohim, ek het tot U geroep, en U het my genees.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ek het geroep"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "en U het my genees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:42.433351182Z",
+  "model": "glm-5.3"
+}

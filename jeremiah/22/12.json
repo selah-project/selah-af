@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Want in die plek waar hulle ⟨את⟩ hom weggevoer het, daar sal hy sterf, en ⟨את⟩ hierdie land sal hy nie weer sien nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "hulle weggevoer het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sal hy sterf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hierdie land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal hy sien"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:03.436978938Z",
+  "model": "glm-5.3"
+}

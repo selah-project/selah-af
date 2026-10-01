@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 13:8",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Ek sal hulle ontmoet soos 'n beer van wie die welpies ontroof is, en Ek sal die omhulsel van hulle hart skeur en hulle daar verslind soos 'n leeuin; die dier van die veld sal hulle verskeur.",
+  "tokens": [
+    {
+      "surface": "אפגשם",
+      "gloss": "Ek sal hulle ontmoet"
+    },
+    {
+      "surface": "כדב",
+      "gloss": "soos 'n beer"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "van wie die welpies ontroof is"
+    },
+    {
+      "surface": "ואקרע",
+      "gloss": "en Ek sal skeur"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "die omhulsel"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "van hulle hart"
+    },
+    {
+      "surface": "ואכלם",
+      "gloss": "en hulle verslind"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "כלביא",
+      "gloss": "soos 'n leeuin"
+    },
+    {
+      "surface": "חית",
+      "gloss": "die dier"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "תבקעם",
+      "gloss": "sal hulle verskeur"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:28.666137585Z",
+  "model": "glm-5.3"
+}

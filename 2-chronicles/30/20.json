@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Jahweh het na Gizkijahoe geluister en ⟨את⟩ die volk genees.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "En ... het geluister"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "en ... genees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-10-01T01:08:42.981679219Z",
+  "model": "glm-5.3"
+}

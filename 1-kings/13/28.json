@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 13:28",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy gaan en vind ⟨את⟩ sy lyk gewerp in die weg, en die esel en die leeu staande naby die aas; die leeu het ⟨את⟩ die aas nie geëet nie en die esel nie gebreek nie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy gaan"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en vind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lyk"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "sy lyk"
+    },
+    {
+      "surface": "משלכת",
+      "gloss": "gewerp"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "en die esel"
+    },
+    {
+      "surface": "והאריה",
+      "gloss": "en die leeu"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "staande"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "naby"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "die aas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "geëet het"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "die leeu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aas"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "die aas"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "gebreek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die esel"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "die esel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:18.586832235Z",
+  "model": "glm-5.3"
+}

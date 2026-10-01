@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "die koning van Sjimron-Meron, een; die koning van Aksjaf, een;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjimron-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Meron"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "van Aksjaf"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:15.971692392Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "En elke mens sal vrees en die werk van Elohim verkondig, en sy dade verstandig oorweeg.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "en sal vrees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en verkondig"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "en sy dade"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "verstandig oorweeg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.695498916Z",
+  "model": "glm-5.3"
+}

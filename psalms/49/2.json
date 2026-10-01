@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Luister hierna, alle volke; spits ⟨die⟩ oor, alle bewoners van die wêreld,",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "האזינu",
+      "gloss": "spits ⟨die⟩ oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners van"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "die wêreld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:02.188670032Z",
+  "model": "glm-5.3"
+}

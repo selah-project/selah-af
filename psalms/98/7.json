@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Laat die see dreun en sy volheid, die wêreld en die wat daarin woon.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Laat … dreun"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en sy volheid"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "en die wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin woon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.970879995Z",
+  "model": "glm-5.3"
+}

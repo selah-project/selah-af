@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Geslag vir geslag sal U werke prys, en U magtige dade verkondig.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "sal prys"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "U werke"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "en U magtige dade"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "verkondig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:24.033666266Z",
+  "model": "glm-5.3"
+}

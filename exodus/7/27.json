@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En as jy weier om te laat gaan — kyk, ek slaan ⟨את⟩ jou hele gebied met paddas.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "jy weier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "om te laat gaan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "slaanslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hele gebied"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "jou gebied"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "met paddas"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:40.986664050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Om op ⟨die⟩ aarde u weg te laat ken, onder alle nasies u verlossing.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "om te laat ken"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "u weg"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "u verlossing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.533153516Z",
+  "model": "glm-5.3"
+}

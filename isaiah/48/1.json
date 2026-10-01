@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 48:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Hoor hierdie, huis van Jaäkow, die wat geroep word met die naam van Jisraël, en uit die waters van Jehoeda is hulle uitgegaan, die wat sweer by die naam van Jahweh en by die Elohim van Jisraël laat dink — nie in waarheid en nie in tsedek nie.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    },
+    {
+      "surface": "הנקראים",
+      "gloss": "die wat geroep word"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "met die naam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "וממי",
+      "gloss": "en uit die waters"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "is hulle uitgegaan"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "die wat sweer"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "en by die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יזכירו",
+      "gloss": "laat dink"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in waarheid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "in tsedek nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:59.475677862Z",
+  "model": "glm-5.3"
+}

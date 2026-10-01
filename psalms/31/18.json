@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Jahweh, laat my nie beskaam staan nie, want ek het u geroep; laat ⟨die⟩ goddeloses beskaam staan, laat hulle verstom na Sjeol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "my nie beskaam staan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ek het u geroep"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "laat beskaam staan"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "laat verstom wees"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "na Sjeol"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:40.709648716Z",
+  "model": "glm-5.3"
+}

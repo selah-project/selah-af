@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "As hy met sy lyf inkom, sal hy met sy lyf uitgaan; as hy 'n vrou se heer is, sal sy vrou met hom uitgaan.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "met sy lyf"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom hy in"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "met sy lyf"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "sal hy uitgaan"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "heer"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "van 'n vrou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hy"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "dan sal uitgaan"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:43.209632177Z",
+  "model": "glm-5.3"
+}

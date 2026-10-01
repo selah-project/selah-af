@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die hand van yweriges sal regeer, maar traagheid sal word tot dwangarbeid.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "van yweriges"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "sal regeer"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "maar traagheid"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "למס",
+      "gloss": "tot dwangarbeid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:12.490657798Z",
+  "model": "glm-5.3"
+}

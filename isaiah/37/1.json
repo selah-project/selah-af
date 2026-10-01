@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 37:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En dit het gebeur, toe koning Hizkiajaw ⟨את⟩ dit hoor, dat hy sy klere geskeur het en hom met ⟨את⟩ rouklere bedek het en die huis van Jahweh binnegegaan het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "toe hy hoor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Hizkiajaw"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "het hy geskeur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "het hom bedek"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "met rouklere"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "het binnegegaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:18.153716236Z",
+  "model": "glm-5.3"
+}

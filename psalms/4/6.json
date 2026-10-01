@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Offer offers van tsedek, en vertrou op Jahweh.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Offer"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "offers"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "en vertrou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:10.332147279Z",
+  "model": "glm-5.3"
+}

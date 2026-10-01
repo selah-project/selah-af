@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Regverdig ⟨is⟩ Jahweh in al sy weë, en getrou in al sy dade.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Regverdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "en getrou"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sy dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.216894043Z",
+  "model": "glm-5.3"
+}

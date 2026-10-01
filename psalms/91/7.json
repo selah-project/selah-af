@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Duisend sal val aan jou sy, en tienduisend aan jou regterhand; na jou toe sal dit nie naderkom nie.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "sal val"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "aan jou sy"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "en tienduisend"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "aan jou regterhand"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou toe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "sal naderkom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:39.668231380Z",
+  "model": "glm-5.3"
+}

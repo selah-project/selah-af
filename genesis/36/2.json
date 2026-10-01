@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Esaw het ⟨את⟩ sy vroue geneem van onder die dogters van Kenaan: ⟨את⟩ Ada, dogter van Elon die Hetiet, en ⟨את⟩ Aholibama, dogter van Ana, dogter van Tsibon die Hiwiet.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vroue"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "van onder die dogters"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Elon"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hetiet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Aholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibon"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Hiwiet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:09.719804543Z",
+  "model": "glm-5.3"
+}

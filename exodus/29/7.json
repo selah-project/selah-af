@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En jy sal ⟨את⟩ die salfolie neem en dit op sy hoof uitgiet, en jy sal hom salf.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "en jy sal neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die salfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "die salwing se"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "en jy sal uitgiet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "en jy sal salf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:21.335529025Z",
+  "model": "glm-5.3"
+}

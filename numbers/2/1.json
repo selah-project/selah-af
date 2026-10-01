@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh het met Mosje en met Aharon gepraat deur te sê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:20.269495764Z",
+  "model": "glm-5.3"
+}

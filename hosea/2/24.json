@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die aarde sal ⟨את⟩ die graan antwoord en ⟨את⟩ die mos en ⟨את⟩ die olie, en hulle sal ⟨את⟩ Jisreël antwoord.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "sal antwoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die graan"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "die graan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die mos"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "die mos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die olie"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "sal antwoord"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisreël"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jisreël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:28.323032345Z",
+  "model": "glm-5.3"
+}

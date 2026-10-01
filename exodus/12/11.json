@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En só moet julle ⟨את⟩ dit eet: julle heupe omgord, julle skoene aan julle voete, en julle staf in julle hand; en julle moet ⟨את⟩ dit in haas eet — dit ⟨is⟩ Pesag vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "en só"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "moet julle eet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "julle heupe"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "omgord"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "julle skoene"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "aan julle voete"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "en julle staf"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "in julle hand"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en julle moet eet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "in haas"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Pesag"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:48.773609845Z",
+  "model": "glm-5.3"
+}

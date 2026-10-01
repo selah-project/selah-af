@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 46:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Hulle het ingekom, hulle het gebuig, saam; hulle kon ⟨die⟩ las nie red nie, en hulle siel het in gevangenskap gegaan.",
+  "tokens": [
+    {
+      "surface": "קרסו",
+      "gloss": "hulle het ingekom"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "hulle het gebuig"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "מלט",
+      "gloss": "red"
+    },
+    {
+      "surface": "משא",
+      "gloss": "die las"
+    },
+    {
+      "surface": "ונפשם",
+      "gloss": "en hulle siel"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "in gevangenskap"
+    },
+    {
+      "surface": "הלכה",
+      "gloss": "gegaan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:28.894303672Z",
+  "model": "glm-5.3"
+}

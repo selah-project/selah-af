@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En hulle het nie geweet dat Josef ⟨het⟩ geluister nie, want die tolk was tussen hulle.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "geluister het"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "die tolk"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "tussen hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:00.619886848Z",
+  "model": "glm-5.3"
+}

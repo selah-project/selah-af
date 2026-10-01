@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Ek haas my ontsnapping, weg vir my van 'n stormagtige roeag, van 'n woeste storm.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "ek haas"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "my ontsnapping"
+    },
+    {
+      "surface": "לי",
+      "gloss": "weg vir my"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "van 'n roeag"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "stormagtige"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "van 'n woeste storm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.784764104Z",
+  "model": "glm-5.3"
+}

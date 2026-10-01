@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 27:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "en hy het ⟨את⟩ sy hande op hom gelê en hom beveel, soos Jahweh gespreek het deur die hand van Mosje.",
+  "tokens": [
+    {
+      "surface": "ויסמך",
+      "gloss": "en hy het gelê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hande"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "en hom beveel"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:16.173176212Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Alleen Hy ⟨is⟩ my rots en my redding, my hoogskuiling — ek sal nie wankel nie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en my redding"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my hoogskuiling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sal ek wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:40.707812497Z",
+  "model": "glm-5.3"
+}

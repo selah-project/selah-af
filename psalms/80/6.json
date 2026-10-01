@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 80:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "U het hulle brood van trane laat eet, en hulle met trane in volle maat laat drink.",
+  "tokens": [
+    {
+      "surface": "האכלתם",
+      "gloss": "U het hulle laat eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "van trane"
+    },
+    {
+      "surface": "ותשקמו",
+      "gloss": "en hulle laat drink"
+    },
+    {
+      "surface": "בדמעות",
+      "gloss": "met trane"
+    },
+    {
+      "surface": "שליש",
+      "gloss": "in volle maat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:42.796176461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "want as ons nie getalm het nie, dan sou ons nou al hierdie tweede keer teruggekeer het.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "as ... nie"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "getalm het"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "sou ons teruggekeer het"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "tweede keer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:04.968888123Z",
+  "model": "glm-5.3"
+}

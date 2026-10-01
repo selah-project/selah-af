@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Tot in ewigheid sal ek jou nageslag bevestig, en jou troon bou vir geslag en geslag. Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "sal ek bevestig"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "jou nageslag"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "en sal ek bou"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en geslag"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "jou troon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.726167749Z",
+  "model": "glm-5.3"
+}

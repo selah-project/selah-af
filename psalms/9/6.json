@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "U het nasies bestraf, die goddelose vernietig; hulle naam het U uitgewis tot in ewigheid en steeds.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "U het bestraf"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "U het vernietig"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "hulle naam"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "U het uitgewis"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en steeds"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:35.861935943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Want Jah het vir homself Jaäkow uitgekies, Jisraël as sy eiendom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "het uitgekies"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir homself"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "as sy eiendom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:25.413721784Z",
+  "model": "glm-5.3"
+}

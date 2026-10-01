@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 9:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hulle het ⟨את⟩ die roet van die oond geneem en voor Paro gaan staan, en Mosje het dit na die hemel toe gestrooi; en daar was sweere, blase wat uitslaan, op die mens en op die vee.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die roet van die oond"
+    },
+    {
+      "surface": "פיח",
+      "gloss": "roet"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "van die oond"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "en hulle het gegaan staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "en hy het gestrooi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die roet"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "השמימה",
+      "gloss": "na die hemel toe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "sweere"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "blase"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "uitslaan"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "op die mens"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "en op die vee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:04.664230608Z",
+  "model": "glm-5.3"
+}

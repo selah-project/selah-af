@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Wees nie bang wanneer 'n man ryk word nie, wanneer die glans van sy huis toeneem nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "wees bang"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ryk word"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "toeneem"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "glans"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.112907278Z",
+  "model": "glm-5.3"
+}

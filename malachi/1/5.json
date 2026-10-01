@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En julle oë sal sien, en julle sal sê: Groot is Jahweh bo die grens van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "en julle oë"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "is groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "bo"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "die grens van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:36.681894918Z",
+  "model": "glm-5.3"
+}

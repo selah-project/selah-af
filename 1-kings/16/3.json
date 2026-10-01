@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Kyk, Ek verdelg ⟨את⟩ Baäsa en ⟨את⟩ sy huis, en Ek sal jou huis maak soos die huis van Jarobeam, seun van Newat.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Kyk, Ek"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "verdelg"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "na"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäsa"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "en na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou huis"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jou huis"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "soos die huis"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "van Newat"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:04.472186969Z",
+  "model": "glm-5.3"
+}

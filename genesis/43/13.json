@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "en neem jul broer ⟨את⟩, staan op, keer terug na die man toe",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jul broer"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "jul broer"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:22.155395531Z",
+  "model": "glm-5.3"
+}

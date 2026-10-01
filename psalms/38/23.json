@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Haas U na my hulp, Adonai, my redding.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "haas U"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "na my hulp"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "my redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:17.302757096Z",
+  "model": "glm-5.3"
+}

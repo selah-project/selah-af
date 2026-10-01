@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die Mitsriete het sterk aangedring op die volk, om hulle gou uit die land te laat gaan, want hulle het gesê: Ons ⟨is⟩ almal dood.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "het sterk aangedring"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "die Mitsriete"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "om gou"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "hulle te laat gaan"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hulle het gesê"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "ons almal"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "dood"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:49.784991917Z",
+  "model": "glm-5.3"
+}

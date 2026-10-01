@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Kyk, hierdie ⟨is⟩ goddeloses, en ⟨die⟩ gerustes van voortyd — hulle het rykdom vermeerder.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "en gerustes"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "van voortyd"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "het vermeerder"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rykdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:16.962496857Z",
+  "model": "glm-5.3"
+}

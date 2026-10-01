@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En Esaw het in die berg Seïr gaan woon — Esaw, hy ⟨is⟩ Edom.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het gaan woon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die berg"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esaw"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:06.186811578Z",
+  "model": "glm-5.3"
+}

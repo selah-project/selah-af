@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Want ‘n man, ‘n man wat sy vader ⟨את⟩ en sy moeder ⟨את⟩ vervloek — dood sal hy sekerlik gedood word; sy vader en sy moeder het hy vervloek: sy bloed is op hom.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "vervloek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy moeder"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "sal hy gedood word"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en sy moeder"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "het hy vervloek"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "בו",
+      "gloss": "op hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.335162890Z",
+  "model": "glm-5.3"
+}

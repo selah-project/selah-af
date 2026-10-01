@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Wat voordeel in my bloed, in my afdaling na die kuil? Sal die stof U loof? Sal dit U trou verklaar?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "voordeel"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "in my bloed"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "in my afdaling"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "die kuil"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "sal U loof"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "die stof"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "sal dit verklaar"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "U trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.612302343Z",
+  "model": "glm-5.3"
+}

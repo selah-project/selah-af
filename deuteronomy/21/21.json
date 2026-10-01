@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 21:21",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En al die manne van sy stad moet hom met klippe stenig, en hy sterf; en jy moet die kwaad uit jou midde wegdoen, en die hele Jisraël sal hoor en vrees.",
+  "tokens": [
+    {
+      "surface": "ורגמהו",
+      "gloss": "en hulle moet hom stenig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "van sy stad"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "met klippe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hy sterf"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "en jy moet wegdoen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit jou midde"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "sal hoor"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en vrees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:25.606565733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 21:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "dan bring jy haar binne-in jou huis, en sy skeer ⟨את⟩ haar hoof en sy maak ⟨את⟩ haar naels",
+  "tokens": [
+    {
+      "surface": "והבאתה",
+      "gloss": "dan bring jy haar"
+    },
+    {
+      "surface": "אל",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "binne"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jou huis"
+    },
+    {
+      "surface": "וגלחה",
+      "gloss": "en sy skeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar hoof"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "haar hoof"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "en sy maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar naels"
+    },
+    {
+      "surface": "צפרניה",
+      "gloss": "haar naels"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:14.240788145Z",
+  "model": "glm-5.3"
+}

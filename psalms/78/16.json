@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het strome uit die rots laat uittree, en water soos riviere laat afkom.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en laat uittree"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "strome"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "uit die rots"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "en laat afkom"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "soos riviere"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:54.465008168Z",
+  "model": "glm-5.3"
+}

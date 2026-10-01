@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Jahweh het met Mosje en met Aharon gespreek, deur te sê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en met"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:28.331005545Z",
+  "model": "glm-5.3"
+}

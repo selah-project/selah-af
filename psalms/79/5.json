@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Hoe lank, Jahweh? Sal U toornig wees vir ewig? Sal U ywer brand soos vuur?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "toornig wees"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "brand"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "U ywer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:58.375794006Z",
+  "model": "glm-5.3"
+}

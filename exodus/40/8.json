@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal ⟨את⟩ die voorplein rondom opstel, en jy sal ⟨את⟩ die voorhangsel van die poort van die voorplein plaas.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en jy sal opstel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorplein"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die voorplein"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "en jy sal plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorhangsel"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "voorhangsel"
+    },
+    {
+      "surface": "שער",
+      "gloss": "van die poort"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "die voorplein"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:04.542544605Z",
+  "model": "glm-5.3"
+}

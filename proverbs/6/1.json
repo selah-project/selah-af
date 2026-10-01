@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 6:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "My seun, as jy borg gestaan het vir jou naaste, as jy jou handpalm vir 'n vreemdeling geslaan het —",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ערבת",
+      "gloss": "het jy borg gestaan"
+    },
+    {
+      "surface": "לרעך",
+      "gloss": "vir jou naaste"
+    },
+    {
+      "surface": "תקעת",
+      "gloss": "het jy geslaan"
+    },
+    {
+      "surface": "לזר",
+      "gloss": "vir 'n vreemdeling"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "jou handpalm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:40.614429675Z",
+  "model": "glm-5.3"
+}

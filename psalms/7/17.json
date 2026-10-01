@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Sy onreg sal terugkeer op sy kop, en op sy kruin sal sy geweld neerdaal.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "sy onreg"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op sy kop"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "sy kruin"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "sy geweld"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "sal neerdaal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:58.744117303Z",
+  "model": "glm-5.3"
+}

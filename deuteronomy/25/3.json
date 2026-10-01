@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 25:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Veertig slae mag hy hom toedien — hy mag nie byvoeg nie; laat hy nie, as hy byvoeg om hom bo dit te slaan met baie slae, jou broer as gering beskou word voor jou oë nie.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "slae mag hy hom toedien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "mag hy byvoeg"
+    },
+    {
+      "surface": "פן",
+      "gloss": "laat hy nie"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "byvoeg"
+    },
+    {
+      "surface": "להכתו",
+      "gloss": "om hom te slaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "sae"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ונקלה",
+      "gloss": "as gering beskou word"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "voor jou oë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:55.428728767Z",
+  "model": "glm-5.3"
+}

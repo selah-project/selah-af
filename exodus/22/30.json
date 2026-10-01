@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En manne van heiligheid sal julle vir My wees; en vleis in die veld, verskeurde, mag julle nie eet nie — aan die hond moet julle ⟨את⟩ hom gooi.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "en manne"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "van heiligheid"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "sal julle wees"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vleis"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "verskeurde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "aan die hond"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "moet julle gooi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:46.644125534Z",
+  "model": "glm-5.3"
+}

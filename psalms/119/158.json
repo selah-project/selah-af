@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het verraders gesien en my geërger, omdat hulle u woord nie bewaar het nie.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ek het gesien"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "verraders"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "en my geërger"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "hulle bewaar het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:47.920542683Z",
+  "model": "glm-5.3"
+}

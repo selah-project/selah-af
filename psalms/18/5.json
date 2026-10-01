@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die toue van die dood het my omring, en strome van Belial het my verskrik.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "het my omring"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "toue"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "en strome"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "van Belial"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "het my verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:38.214536082Z",
+  "model": "glm-5.3"
+}

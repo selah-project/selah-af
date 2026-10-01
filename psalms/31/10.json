@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Wees my genadig, Jahweh, want ⟨dit is⟩ benoud met my; my oog ⟨is⟩ verdor deur grimmigheid, ⟨ook⟩ my lewe en my lyf.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "צר",
+      "gloss": "benoud"
+    },
+    {
+      "surface": "לי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "⟨is⟩ verdor"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "deur grimmigheid"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "en my lyf"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:27.020953274Z",
+  "model": "glm-5.3"
+}

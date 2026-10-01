@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Leer my om u welbehae te doen, want U ⟨is⟩ my Elohim; u roeag ⟨is⟩ goed — lei my in die land van gelykvloersheid.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "u welbehae"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "u roeag"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "is goed"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "lei my"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "van gelykvloersheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:15.169726707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Sjemuël het vir die kook gesê: Gee die porsie wat ek aan jou gegee het, waarvan ek vir jou gesê het: Sit ⟨את⟩ dit by jou neer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "vir die kook"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die porsie"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "die porsie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek gegee het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek gesê het"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "שים",
+      "gloss": "sit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:44.470638672Z",
+  "model": "glm-5.3"
+}

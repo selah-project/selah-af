@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Uit die hemel het U ⟨את⟩ die reg laat hoor; die aarde het gevrees en was stil.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "uit die hemel"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "het U laat horen"
+    },
+    {
+      "surface": "דין",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "het gevrees"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "en was stil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:21.839617170Z",
+  "model": "glm-5.3"
+}

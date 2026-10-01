@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 9:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Hy wat die berge verskuif, en hulle ⟨weet⟩ dit nie, Hy wat hulle omverwerp in sy toorn.",
+  "tokens": [
+    {
+      "surface": "המעתיק",
+      "gloss": "verskuif"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "weet ⟨dit⟩ nie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הפכם",
+      "gloss": "hulle omverwerp"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "in sy toorn"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:17.267553465Z",
+  "model": "glm-5.3"
+}

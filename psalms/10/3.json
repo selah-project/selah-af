@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Want die goddelose roem oor die begeerte van sy siel, en die winsgierige seën — hy verag Jahweh.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "roem"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "die begeerte"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van sy siel"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "en die winsgierige"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "seën"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "verag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:38.659156669Z",
+  "model": "glm-5.3"
+}

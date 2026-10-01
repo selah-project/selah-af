@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Aan die koorleier, op die Gittit, van Asaf.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "die Gittit"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "van Asaf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.997872213Z",
+  "model": "glm-5.3"
+}

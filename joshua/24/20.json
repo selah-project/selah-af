@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "As julle Jahweh ⟨את⟩ verlaat en gode van die vreemde dien, dan sal hy terugkeer en julle kwaad aandoen en julle ⟨את⟩ verteer, nadat hy julle goed gedoen het.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "julle verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "en dien"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gode van"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "die vreemde"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "en terugkeer"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "en kwaad aandoen"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "en verteer"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "goed gedoen het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:03.479588953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Sy ⟨het⟩ haar slag geslag, haar wyn gemeng, ook haar tafel gereed gemaak.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "haar slag"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "gemeng"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "haar wyn"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "gereed gemaak"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "haar tafel"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:21.628378326Z",
+  "model": "glm-5.3"
+}

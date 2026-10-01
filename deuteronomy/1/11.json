@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 1:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Mag Jahweh, die Elohim van jul vaders, by julle voeg soos julle is, duisendmaal, en jul seën ⟨אתכ׶ם⟩ soos Hy aan julle gespreek het!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אבותכם",
+      "gloss": "van jul vaders"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "mag voeg"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "by julle"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "soos julle"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "maal"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "en seën"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Hy gespreek het"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "aan julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:14.199731573Z",
+  "model": "glm-5.3"
+}

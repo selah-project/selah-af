@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "tien seuns van Haman, seun van Medata, die vyand van die Jode — hulle het hulle gedood; maar aan die buit het hulle nie ⟨את⟩ hulle hand gesteek nie",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "Medata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "die vyand van"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "die Jode"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "hulle het hulle gedood"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "maar aan die buit"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "het hulle gesteek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:15.755095366Z",
+  "model": "glm-5.3"
+}

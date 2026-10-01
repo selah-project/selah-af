@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 96:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Gee aan Jahweh die eer ⟨van⟩ sy naam, dra ⟨את⟩ 'n minga op en kom in sy voorhowe.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die eer"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "dra op"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "'n minga"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "לחצרותיו",
+      "gloss": "in sy voorhowe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:38.897221919Z",
+  "model": "glm-5.3"
+}

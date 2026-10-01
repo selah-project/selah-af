@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 31:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Lavan het vir Jaäkow gesê: Wat het jy gedoen? Jy het ⟨את⟩ my hart gesteel en my doggers weggevoer soos gevanges van die swaard.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laban"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "vir Jaäkow"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het jy gedoen"
+    },
+    {
+      "surface": "ויגגנוב את",
+      "gloss": ""
+    },
+    {
+      "surface": "ותגנב",
+      "gloss": "⟨את⟩ jy het gesteel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my hart"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ותנהג",
+      "gloss": "⟨את⟩ jy het weggevoer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my doggers"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "my doggers"
+    },
+    {
+      "surface": "כשביות",
+      "gloss": "soos gevanges"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:23.527025473Z",
+  "model": "glm-5.3"
+}

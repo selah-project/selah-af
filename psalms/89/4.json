@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Ek het 'n verbond gesluit met my uitverkorene, ek het gesweer aan Dawid, my dienaar:",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ek het gesluit"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "met my uitverkorene"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ek het gesweer"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "my dienaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:42.244825148Z",
+  "model": "glm-5.3"
+}

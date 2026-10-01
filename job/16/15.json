@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 16:15",
+  "book": "job",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Sakdoek het ek op my vel geheg, en my horing het ek in die stof rondgerol.",
+  "tokens": [
+    {
+      "surface": "שק",
+      "gloss": "sakdoek"
+    },
+    {
+      "surface": "תפרתי",
+      "gloss": "het ek geheg"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "גלדי",
+      "gloss": "my vel"
+    },
+    {
+      "surface": "ועללתי",
+      "gloss": "en het ek rondgerol"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "in die stof"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "my horing"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:26.489265619Z",
+  "model": "glm-5.3"
+}

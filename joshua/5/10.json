@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die seuns van Jisraël het in die Gilgal kamp opgeslaan en ⟨את⟩ die Pesag gehou op die veertiende dag van die maand, in die aand, in die vlaktes van Jerigo.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "en … kamp opgeslaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in die Gilgal"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en … gehou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pesag"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "die Pesag"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "op die veer"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tiende"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "in die vlaktes van"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerigo"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:43.523904007Z",
+  "model": "glm-5.3"
+}

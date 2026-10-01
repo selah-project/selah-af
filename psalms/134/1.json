@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 134,
+  "translation": "'n Lied van die opgang. Kyk, seën Jahweh, al julle dienaars van Jahweh, wat in die nagte staan in die huis van Jahweh,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "'n Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgang"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "julle dienaars"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wat staan"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "in die nagte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:09.758164623Z",
+  "model": "glm-5.3"
+}

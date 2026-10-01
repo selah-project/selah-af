@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hulle getelde wates, vir die stam van Gad: vyf en veertig duisend en ses honderd en vyftig.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "hulle getelde wates"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir die stam"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "en veertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:55.664460886Z",
+  "model": "glm-5.3"
+}

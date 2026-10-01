@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Hoor, my volk, en ek sal teen jou getuig; Jisraël, as jy na my luister —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "en ek sal getuig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "jy luister"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:20.812092980Z",
+  "model": "glm-5.3"
+}

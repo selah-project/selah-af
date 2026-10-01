@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 132:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Staan op, Jahweh, na u rusplek, u en ⟨את⟩ die ark van u sterkte.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למנוחתך",
+      "gloss": "na u rusplek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "וארון",
+      "gloss": "en die ark"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van u sterkte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:07.605823230Z",
+  "model": "glm-5.3"
+}

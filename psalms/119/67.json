@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Voordat ek verneder is, het ek, ek, gedwaal; maar nou hou ek u woord.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "Voordat"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ek verneder is"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "gedwaal"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nou"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "hou ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:14.050251856Z",
+  "model": "glm-5.3"
+}

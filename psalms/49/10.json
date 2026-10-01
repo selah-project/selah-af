@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "dat hy nog voortleef vir altyd, die put sou hy nie sien nie.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "dat hy leef"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir altyd"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hy sou sien"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "die put"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:45.191796766Z",
+  "model": "glm-5.3"
+}

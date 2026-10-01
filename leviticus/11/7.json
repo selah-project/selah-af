@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ die vark, omdat dit die hoef spliet, ⟨en⟩ spliet die spleet van die hoef, maar die herkous nie opbring nie — onrein ⟨is⟩ dit vir julle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vark"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "die vark"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "spliet"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "die hoef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "en spliet"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "die spleet"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "van die hoef"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "maar dit"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkous"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "opbring"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:28.690665980Z",
+  "model": "glm-5.3"
+}

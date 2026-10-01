@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "dan sal die priester beveel, en hulle sal ⟨את⟩ die stene waar-in die plaag is uithaal, en hulle sal hulle ⟨את⟩ buite die stad gooi, na 'n onrein plek toe.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "en hy sal beveel"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "en hulle sal uithaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stene"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "die stene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "in"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "die plaag"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "en hulle sal gooi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "die stene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "'n plek"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:37.921827757Z",
+  "model": "glm-5.3"
+}

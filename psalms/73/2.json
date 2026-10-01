@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "En ek — byna was my voete gedraai, soos niks het my treë uitgegly ⟨het⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "byna"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "was gedraai"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "soos niks"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "het uitgegly"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "my treë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:10.966905754Z",
+  "model": "glm-5.3"
+}

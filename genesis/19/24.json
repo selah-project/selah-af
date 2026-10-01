@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Jahweh het op Sedom en op Amora swael en vuur laat reën, van ⟨את⟩ Jahweh uit die hemel.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "het laat reën"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Sedom"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Amora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "swael"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "en vuur"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:30.186679012Z",
+  "model": "glm-5.3"
+}

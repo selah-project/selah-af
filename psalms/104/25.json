@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hierdie ⟨is⟩ die see, groot en wyd van kante; daar ⟨is⟩ krypendes sonder getal, lewende wesens, klein saam met groot.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en wyd"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "van kante"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "krypendes"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "lewende wesens"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "klein"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:52.542105404Z",
+  "model": "glm-5.3"
+}

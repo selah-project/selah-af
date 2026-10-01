@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ver van die goddelose ⟨is⟩ verlossing, want u verordeninge soek hulle nie.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Ver"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "verlossing"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u verordeninge"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "soek hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:19.703593064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En toe hy ⟨את⟩ Jisraël gesmaad het, het Jehonatan, seun van Sjimi, broer van Dawid, hom geslaan.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "gesmaad het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "hom geslaan"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Sjimi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:13.945788079Z",
+  "model": "glm-5.3"
+}

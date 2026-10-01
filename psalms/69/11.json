@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Ek het gehuil in die vas van my siel, en dit het 'n smaad vir my geword.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "ek het gehuil"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "in die vas"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "van my siel"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en dit het geword"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "'n smaad"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:27.992081138Z",
+  "model": "glm-5.3"
+}

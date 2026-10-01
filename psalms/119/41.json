@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag u gesed my tog bereik, o Jahweh, u redding volgens u woord.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "mag dit my bereik"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "u redding"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "volgens u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.235656018Z",
+  "model": "glm-5.3"
+}

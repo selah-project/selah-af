@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "As ek nie die tent van my huis binnengaan nie, as ek nie op die bed van my leger klim nie —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "binnengaan"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "van my huis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "klim"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "die bed"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "van my leger"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:34.834963911Z",
+  "model": "glm-5.3"
+}

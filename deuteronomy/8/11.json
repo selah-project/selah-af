@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 8:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Pas op vir jouself, dat jy nie ⟨את⟩ Jahweh jou Elohim vergeet deur nie om sy gebooie en sy gebooie-regte en sy insettinge te hou nie, wat ek jou vandag beveel.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "pas op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jouself"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "jy vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "deur nie"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "te hou"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "sy gebooie"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "en sy regte"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "en sy insettinge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "jou beveel"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:29.980440549Z",
+  "model": "glm-5.3"
+}

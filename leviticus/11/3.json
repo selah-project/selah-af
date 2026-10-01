@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Elke dier wat 'n hoefphoon kloof en die kloof van hoefphone heeltemal deursny en ⟨את⟩ herkoude opbring — ⟨dit⟩ mag julle eet:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Elke"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "kloof"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "hoefphoon"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "en deursny"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "die kloof"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "van hoefphone"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opbring"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkoude"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "onder die diere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨dit⟩ — die dier wat aan hierdie kriteria voldoen"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:03.546862069Z",
+  "model": "glm-5.3"
+}

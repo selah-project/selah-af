@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Hulle mag nie in jou land woon nie, anders laat hulle jou teen My sondig, want jy sal hulle gode dien — ⟨את⟩ hulle gode — want ⟨dit⟩ sal vir jou 'n strik wees.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sal hulle woon"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "in jou land"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders (opdat nie)"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "laat hulle jou sondig"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen My"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "jy sal dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gode"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle gode"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "'n strik"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:41.633368602Z",
+  "model": "glm-5.3"
+}

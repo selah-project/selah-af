@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "U het met u krag die see stukkend gebreek; u het die koppe van die taninim bo-oor die waters gebars.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "het stukkend gebreek"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "met u krag"
+    },
+    {
+      "surface": "ים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "u het gebars"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die koppe"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "van die taninim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-oor"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:49.853503345Z",
+  "model": "glm-5.3"
+}

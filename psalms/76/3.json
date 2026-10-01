@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Toe was sy hut in Sjalem, en sy woonplekke in Tsijon.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "toe was"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "in Sjalem"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "sy hut"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "en sy woonplekke"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsijon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:38.147797204Z",
+  "model": "glm-5.3"
+}

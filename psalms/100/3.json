@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 100,
+  "translation": "Weet dat Jahweh ⟨is⟩ El; ⟨hy⟩ het ons gemaak en nie ons ⟨nie⟩; ⟨ons is⟩ sy volk en die kleinvee van sy weiveld.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "El"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨hy⟩"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "het ons gemaak"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons ⟨nie⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "en die kleinvee"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "van sy weiveld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:42.989026287Z",
+  "model": "glm-5.3"
+}

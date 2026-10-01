@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Hulle sal kom en sy tsedek verkondig aan 'n volk wat gebore sal word, dat hy dit gedoen het.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "hulle sal kom"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "en verkondig"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sy tsedek"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "aan 'n volk"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "wat gebore sal word"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy dit gedoen het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.639757490Z",
+  "model": "glm-5.3"
+}

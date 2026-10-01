@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 19:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Jy moet die weg vir jou gereed maak en ⟨את⟩ die grens van jou land, wat Jahweh jou Elohim jou laat erf, in drie deel, sodat elke doodslaner daarheen kan vlug.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "jy moet gereed maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "en in drie deel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die grens van jou land"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "die grens"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "van jou land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ינחילך",
+      "gloss": "jou laat erf"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "sodat dit wees"
+    },
+    {
+      "surface": "לנוס",
+      "gloss": "om te vlug"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "doodslaner"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:38.033903762Z",
+  "model": "glm-5.3"
+}

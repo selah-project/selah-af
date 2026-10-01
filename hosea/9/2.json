@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Dorsvloer en wynpers sal hulle nie voed nie, en die nuwe wyn sal vir haar ⟨uitval⟩.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "dorsvloer"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "en wynpers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "sal hulle voed"
+    },
+    {
+      "surface": "ו תירוש",
+      "gloss": "en die nuwe wyn"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "sal ⟨uitval⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "vir haar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:51.859936665Z",
+  "model": "glm-5.3"
+}

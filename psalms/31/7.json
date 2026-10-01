@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Ek haat die bewaarders van nietige leuens, maar ek vertrou op Jahweh.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ek haat"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die bewaarders"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "van nietighede"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leuens"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "vertrou ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:57.485098794Z",
+  "model": "glm-5.3"
+}

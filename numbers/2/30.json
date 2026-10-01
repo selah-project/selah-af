@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy leër en hulle geteldees was drie en vyftig duisend en vier honderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "En sy leër"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle geteldees"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:37.314929858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Ek het neergelê en geslaap, ek het ontwake, want Jahweh dra my.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "het neergelê"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "en geslaap"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "het ontwake"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "dra my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.715684635Z",
+  "model": "glm-5.3"
+}

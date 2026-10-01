@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Want Hy het ⟨את⟩ sy heilige woord onthou, ⟨את⟩ Awraham sy kneg.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy heilige woord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy kneg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:59.100093530Z",
+  "model": "glm-5.3"
+}

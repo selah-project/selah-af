@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 88,
+  "ref": "psalms 119:88",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Volgens u gesed maak my lewend, dan sal ek die getuienis van u mond bewaar.",
+  "tokens": [
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens u gesed"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak my lewend"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "dan sal ek bewaar"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "van u mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:37.165464133Z",
+  "model": "glm-5.3"
+}

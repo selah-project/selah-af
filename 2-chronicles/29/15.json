@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 29:15",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En hulle het hulle broers bymekaargesit en hulleself geheilig, en hulle het gekom volgens die gebod van die koning, deur die woorde van Jahweh, om ⟨את⟩ die huis van Jahweh te reinig.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "het bymekaargesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle broers"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "hulle broers"
+    },
+    {
+      "surface": "ויתקדשו",
+      "gloss": "het geheilig"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "כמצות",
+      "gloss": "volgens die gebod van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "deur die woorde van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "om te reinig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T01:01:12.056797060Z",
+  "model": "glm-5.3"
+}

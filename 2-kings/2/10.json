@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 2:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hy het gesê: Jy het iets moeiliks gevra. As jy my sien wanneer ek van jou weggeneem word, sal dit so vir jou wees; maar as nie, sal dit nie wees nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "הקשית",
+      "gloss": "jy het iets moeiliks gevra"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "om te vra"
+    },
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "jy sien"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "weggeneem word"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "van ⟨את⟩ jou"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "sal dit wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "maar as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:19.423879875Z",
+  "model": "glm-5.3"
+}

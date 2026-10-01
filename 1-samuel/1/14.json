@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Eli sê vir haar: Hoe lank sal jy dronk wees? Haal ⟨את⟩ jou wyn van jou af weg.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tot wanneer"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "sal jy dronk wees"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "haal weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou wyn"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "jou wyn"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "van jou af"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:03.588988264Z",
+  "model": "glm-5.3"
+}

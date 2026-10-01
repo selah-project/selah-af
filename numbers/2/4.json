@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy leër en hulle getelde manne ⟨is⟩ vier-en-sewentig duisend en ses honderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leër"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle getelde manne"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "en-sewentig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "en ses"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:20.270095889Z",
+  "model": "glm-5.3"
+}

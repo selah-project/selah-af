@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Dan sal ek nie beskaam staan as ek kyk na al jou gebooie nie.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "beskaam staan"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "as ek kyk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jou gebooie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.176757549Z",
+  "model": "glm-5.3"
+}

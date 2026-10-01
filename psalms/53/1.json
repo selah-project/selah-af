@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Vir die koorleier, op Magalat, 'n maskiel van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Magalat"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n maskiel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.839059181Z",
+  "model": "glm-5.3"
+}

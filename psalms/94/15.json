@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Want tot by tsedek sal ⟨die⟩ reg terugkeer, en agter hom aan ⟨sal wees⟩ almal wat reg van hart is",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "en agter hom aan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "wat reg is"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:48.844730972Z",
+  "model": "glm-5.3"
+}

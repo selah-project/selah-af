@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die koning sê aan Joab: Kyk nou, ek het ⟨את⟩ hierdie ding gedoen; gaan dan, bring ⟨את⟩ die jong man ⟨את⟩ Absalom terug.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek het gedoen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jong man"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die jong man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Absalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:25.982373994Z",
+  "model": "glm-5.3"
+}

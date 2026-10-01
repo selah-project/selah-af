@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Dawid sê aan Elohim: Ek het baie gesondig deurdat ek ⟨את⟩ hierdie ding gedoen het; en nou, laat tog ⟨את⟩ die skuld van u dienskneg verbygaan, want ek het baie dwaas gehandel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ek het gesondig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deurdat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "laat verbygaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skuld"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "die skuld"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van u dienskneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ek het dwaas gehandel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:20.790525277Z",
+  "model": "glm-5.3"
+}

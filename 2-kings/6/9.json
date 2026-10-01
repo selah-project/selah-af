@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 6:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die man van ⟨את⟩ Elohim het gestuur na die koning van Jisraël om te sê: Wees op jou hoede om nie daardie plek oor te steek nie, want daar kom die Arameë af.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "wees op jou hoede"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "om oor te steek"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "נחתים",
+      "gloss": "kom af"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:38.558809636Z",
+  "model": "glm-5.3"
+}

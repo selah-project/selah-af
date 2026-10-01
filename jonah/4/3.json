@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En nou, Jahweh, neem tog ⟨את⟩ my siel van my weg, want my dood is beter as my lewe.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my siel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "is beter"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "my dood"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "as my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:28.458397287Z",
+  "model": "glm-5.3"
+}

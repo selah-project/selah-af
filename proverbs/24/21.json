@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "My seun, vrees ⟨את⟩ Jahweh en die koning; met hulle wat verander, moenie jou meng nie.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "en die koning"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "hulle wat verander"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "jou meng nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:03.358960816Z",
+  "model": "glm-5.3"
+}

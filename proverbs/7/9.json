@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "in die skemer, in die aand van die dag, in die donker van die nag en die duisternis",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "in die skemer"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "van die dag"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "in die donker"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "van die nag"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "en die duisternis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:52.293137922Z",
+  "model": "glm-5.3"
+}

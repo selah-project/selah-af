@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Staan op, gaan na Ninevé, die groot stad, en roep teenoor haar, want hulle kwaad het opgekom voor my aangesig.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninevé"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "die groot"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "en roep"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "teenoor haar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "het opgekom"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "hulle kwaad"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor my aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:06.065464140Z",
+  "model": "glm-5.3"
+}

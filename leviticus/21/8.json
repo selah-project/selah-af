@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En jy moet hom heilig verklaar, want ⟨את⟩ die brood van jou Elohim bring hy naby; heilig moet hy vir jou wees, want heilig is ek, Jahweh, wat julle heilig maak.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "en jy moet hom heilig verklaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brood van jou Elohim"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "van jou Elohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "bring naby"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "moet wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "wat julle heilig maak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:37.535399137Z",
+  "model": "glm-5.3"
+}

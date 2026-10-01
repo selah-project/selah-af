@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 4:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En sy het gekom en dit aan die man van die Elohim vertel; en hy het gesê: Gaan, verkoop ⟨את⟩ die olie en betaal ⟨את⟩ jou skulde; en jy en jou seuns sal lewe van die oorskot.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "en sy het gekom"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "en sy het vertel"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "verkoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die olie"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "die olie"
+    },
+    {
+      "surface": "ושלמי",
+      "gloss": "en betaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou skulde"
+    },
+    {
+      "surface": "נשיכי",
+      "gloss": "jou skulde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "בניכי",
+      "gloss": "jou seuns"
+    },
+    {
+      "surface": "תחיי",
+      "gloss": "sal lewe"
+    },
+    {
+      "surface": "בנותר",
+      "gloss": "van die oorskot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:01.313616427Z",
+  "model": "glm-5.3"
+}

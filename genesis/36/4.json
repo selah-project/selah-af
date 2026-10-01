@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En Ada het vir Esaw ⟨את⟩ Elifas gebaar, en Basmat het ⟨את⟩ Reüel gebaar.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en sy het gebaar"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "vir Esaw"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elifas"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Elifas"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "en Basmat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Reüel"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Reüel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:09.720081696Z",
+  "model": "glm-5.3"
+}

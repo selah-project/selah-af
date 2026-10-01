@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "My hart klop woes, my krag het my verlaat, en die lig van my oë — ook hulle is nie ⟨את⟩ by my nie.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "klop woes"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "het my verlaat"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en die lig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "van my oë"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is nie"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my",
+      "marks": "by my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:28.801444539Z",
+  "model": "glm-5.3"
+}

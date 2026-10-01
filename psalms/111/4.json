@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 111:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "'n Gedenkteken het Hy gemaak van sy wonders; genadig en barmhartig ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "'n Gedenkteken"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het Hy gemaak"
+    },
+    {
+      "surface": "לנפלאתיו",
+      "gloss": "van sy wonders"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "genadig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "en barmhartig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.071732009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle het ⟨את⟩ sy wapentuig in die huis van hulle gode gesit, en ⟨את⟩ sy skedel in die huis van Dagón vasgemaak.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en hulle het gesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy wapentuig"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy wapentuig"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "van hulle gode"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy skedel"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "sy skedel"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "vasgemaak"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "van Dagón"
+    }
+  ],
+  "timestamp": "2026-10-01T00:47:51.433596274Z",
+  "model": "glm-5.3"
+}

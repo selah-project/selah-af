@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy wat daarvan eet, sal sy ongeregtigheid dra, omdat hy ⟨את⟩ die heilige van Jahweh ontheilig het; en daardie siel sal uit sy volk uitgeroei word.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "En hy wat daarvan eet"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sy ongeregtigheid"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sal dra"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heilige van Jahweh"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "die heilige"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "ontheilig het"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "en sal uitgeroei word"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "daardie siel"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "uit sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:31.071157086Z",
+  "model": "glm-5.3"
+}

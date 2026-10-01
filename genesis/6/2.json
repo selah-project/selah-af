@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "sien die seuns van ⟨die⟩ Elohim ⟨את⟩ die dogters van die mens, dat hulle mooi ⟨is⟩, en hulle neem vir hulle vroue uit alles wat hulle verkies het.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dogters van die mens"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle neem"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vroue"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "hulle verkies het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:15.959874061Z",
+  "model": "glm-5.3"
+}

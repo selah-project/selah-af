@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy het gesê: Laat ons optrek en laat ons gaan, en ek sal voor jou uit gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "laat ons optrek"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "en laat ons gaan"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "en ek sal gaan"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "voor jou uit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:41.378563940Z",
+  "model": "glm-5.3"
+}

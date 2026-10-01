@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Lewe het hy van U gevra; U het dit aan hom gegee — lengte van dae, vir ewig en altoos.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Lewe"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "het hy gevra"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van U"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "het U gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dae"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altoos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:53.893847442Z",
+  "model": "glm-5.3"
+}

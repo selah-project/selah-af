@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Voor Efraim en Benjamín en Manasse wek ⟨את⟩ jou mag op, en kom tot redding vir ons.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Benjamín"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "en Manasse"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "wek op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou mag"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "jou mag"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "tot redding"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:57.458447474Z",
+  "model": "glm-5.3"
+}

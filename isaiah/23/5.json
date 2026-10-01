@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 23:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Soos die gerug by Mitsrajim, so sal hulle in smart kronkel by die gerug van Tsor.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "die gerug"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "by Mitsrajim"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "sal hulle in smart kronkel"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "by die gerug"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van Tsor"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:06.001196731Z",
+  "model": "glm-5.3"
+}

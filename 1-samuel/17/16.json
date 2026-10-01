@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 17:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die Filistyn het nader gekom, vroeg in die oggend en in die aand, en het hom gestelling vierig dae.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "En het nader gekom"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vroeg in die oggend"
+    },
+    {
+      "surface": "והערב",
+      "gloss": "en in die aand"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "en het hom gestelling"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dae"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:49.348351847Z",
+  "model": "glm-5.3"
+}

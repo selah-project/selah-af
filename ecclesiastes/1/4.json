@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "'n Geslag gaan en 'n geslag kom, maar die aarde bly vir ewig staan.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "'n Geslag"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en 'n geslag"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "maar die aarde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "bly staan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:08.313094748Z",
+  "model": "glm-5.3"
+}

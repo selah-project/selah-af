@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Hoe gelukkig ⟨is⟩ die wat in u huis woon; hulle sal u nog altyd loof. Sela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die wat woon"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "in u huis"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog altyd"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "sal u loof"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:53.669421100Z",
+  "model": "glm-5.3"
+}

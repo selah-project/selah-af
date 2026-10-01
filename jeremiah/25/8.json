@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Daarom, so sê Jahweh Tsewaot: omdat julle nie ⟨את⟩ my woorde gehoor het nie —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "gehoor het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:56.238969974Z",
+  "model": "glm-5.3"
+}

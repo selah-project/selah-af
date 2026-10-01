@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "jeremiah 2:32",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Kan 'n jongvrou haar sierade vergeet, of 'n bruid haar gordelsnoer? Maar my volk het my vergeet — dae sonder getal.",
+  "tokens": [
+    {
+      "surface": "התשכח",
+      "gloss": "Kan ... vergeet"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "'n jongvrou"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "haar sierade"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "'n bruid"
+    },
+    {
+      "surface": "קשריה",
+      "gloss": "haar gordelsnoer"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "maar my volk"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "het my vergeet"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "getal"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:42.203206186Z",
+  "model": "glm-5.3"
+}

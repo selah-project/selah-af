@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Toe het Jehosjoea gesê aan die koning van Jisraël: Soek tog vandag ⟨את⟩ die woord van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Toe het gesê"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Soek"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:58:25.582949589Z",
+  "model": "glm-5.3"
+}

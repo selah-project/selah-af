@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Jy het al die dwalendes van ⟨ jou⟩ verordenings verag; want hulle bedrog is leuen.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "jy het verag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al die"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "dwalendes"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "van jou verordenings"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "hulle bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:21.570597776Z",
+  "model": "glm-5.3"
+}

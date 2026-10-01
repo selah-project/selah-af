@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "U gee aan hulle — hulle versamel ⟨dit⟩; U open U hand — hulle word versadig met goed.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "U gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "hulle versamel"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "U open"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "U hand"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "word versadig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:52.542739615Z",
+  "model": "glm-5.3"
+}

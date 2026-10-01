@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 2:2",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ⟨dit⟩ is aan die koning van Jerigo gesê om te sê: Kyk, manne het vannag hiernatoe gekom, van die seuns van Jisraël, om ⟨את⟩ die land deur te soek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "is gesê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "van Jerigo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hiernatoe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vannag"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "om deur te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:22.896560145Z",
+  "model": "glm-5.3"
+}

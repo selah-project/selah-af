@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "Hoog bo alle nasies ⟨is⟩ Jahweh, bo ⟨die⟩ hemel sy eer.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "Hoog"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "⟨die⟩ hemel"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy eer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.528455294Z",
+  "model": "glm-5.3"
+}

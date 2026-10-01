@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En die koning van Jisraël het uitgetrek en ⟨את⟩ die perde en ⟨את⟩ die ryders geslaan, en hy het Aram 'n groot slag toegedien.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "het uitgetrek"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die perde"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "die perde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ryders"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "die ryders"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en hy het toegedien"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "aan Aram"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "'n slag"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "'n groot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:17.260078273Z",
+  "model": "glm-5.3"
+}

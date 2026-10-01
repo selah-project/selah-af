@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En elke minga van 'n priester moet geheel wees; dit mag nie geëet word nie.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "En elke"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "minga"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "van 'n priester"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "geheel"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "moet wees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "geëet word nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:47.659066004Z",
+  "model": "glm-5.3"
+}

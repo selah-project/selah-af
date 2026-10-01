@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 1:11",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle sê vir hom: Wat moet ons met jou doen sodat die see stil word van ons af? Want die see gaan en storm al hoe meer.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "moet ons doen"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "וישתק",
+      "gloss": "sodat ... stil word"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "מעלינו",
+      "gloss": "van ons af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "וסער",
+      "gloss": "en storm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:46.529275891Z",
+  "model": "glm-5.3"
+}

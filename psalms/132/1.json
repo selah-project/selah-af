@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Lied van die optogte. Onthou, o Jahweh, ter wille van Dawid, ⟨את⟩ al sy verdrukkinge;",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die optogte"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Onthou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ter wille van Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy verdrukkinge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "sy verdrukkinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:34.833686976Z",
+  "model": "glm-5.3"
+}

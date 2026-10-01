@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Daarom sal ek U loof onder die nasies, o Jahweh, en tot U Naam sal ek psalmsing.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "daarom (oor)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "sal ek U loof"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "o Jahweh"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "en tot U Naam"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "sal ek psalmsing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:21.968714264Z",
+  "model": "glm-5.3"
+}

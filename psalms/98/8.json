@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Riviere klap ⟨die⟩ hand, saam juig die berge.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Riviere"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "klap"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨die⟩ hand"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.971028420Z",
+  "model": "glm-5.3"
+}

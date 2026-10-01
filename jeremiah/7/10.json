@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 7:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "en kom en staan voor my in hierdie huis waaroor my naam uitgeroep is, en sê: Ons ⟨is⟩ gered — om ⟨את⟩ al hierdie gruwels te doen?",
+  "tokens": [
+    {
+      "surface": "ובאתם",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "ועמדתם",
+      "gloss": "en staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in hierdie huis"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "uitgeroep is"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my naam"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "נצלנו",
+      "gloss": "ons ⟨is⟩ gered"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om te"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hierdie gruwels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "hierdie gruwels"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:30:09.002278883Z",
+  "model": "glm-5.3"
+}

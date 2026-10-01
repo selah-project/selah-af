@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 6:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "In daardie nag het die slaap van die koning gevlug, en hy het gesê om ⟨את⟩ die boek van die gedenkboeke, die woorde van die dae, te bring; en hulle is voorgelees voor die koning.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "in daardie nag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "נדדה",
+      "gloss": "het gevlug"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "die slaap"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "om te bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boek van die gedenkboeke"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "die boek"
+    },
+    {
+      "surface": "הזכרנות",
+      "gloss": "van die gedenkboeke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "van die dae"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "נקראים",
+      "gloss": "voorgelees"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:17.984294237Z",
+  "model": "glm-5.3"
+}

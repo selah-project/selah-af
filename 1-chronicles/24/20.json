@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En van die seuns van Lewi wat oorgebly het: van die seuns van Amram, Sjeweël; van die seuns van Sjeweël, Jegdijahoe.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "En van die seuns"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "van Lewi"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "wat oorgebly het"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "van Amram"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Sjeweël"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "van Sjeweël"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Jegdijahoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:52:07.791105422Z",
+  "model": "glm-5.3"
+}

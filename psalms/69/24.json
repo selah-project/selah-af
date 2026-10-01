@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Mag hulle oë verdonker word van om te sien, en hulle heupe gedurig laat wankel.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "mag verdonker word"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "hulle oë"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "van om te sien"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "en hulle heupe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "laat wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.245293140Z",
+  "model": "glm-5.3"
+}

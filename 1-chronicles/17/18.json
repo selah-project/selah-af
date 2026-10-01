@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Wat kan Dawid nog byvoeg tot U, vir die eer van u dienskneg? Want u ken ⟨את⟩ u dienskneg.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kan … nog byvoeg"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "vir die eer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u dienskneg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienskneg"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "want u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u dienskneg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienskneg"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ken"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:35.419809390Z",
+  "model": "glm-5.3"
+}

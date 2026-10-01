@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Die hele geswoeg van die mens ⟨is⟩ vir sy mond, en tog word die siel nie versadig nie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "geswoeg"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "vir sy mond"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en tog"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "versadig word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:20.638951293Z",
+  "model": "glm-5.3"
+}

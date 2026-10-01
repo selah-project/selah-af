@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Nageslag van Awraham, sy dienaar, seuns van Jaäkow, sy uitverkorenes.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Nageslag"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy dienaar"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "sy uitverkorenes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.821031011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "'n Roeag vol van hierdie sal vir My kom; nou selfs sal Ek oordele oor ⟨את⟩ hulle uitspreek.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "van hierdie"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "sal uitspreek"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "oordele oor"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:29:29.824217769Z",
+  "model": "glm-5.3"
+}

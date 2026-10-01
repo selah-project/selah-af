@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Ek het geswyg, ek sal my mond nie oopmaak nie, want U — U het ⟨dit⟩ gedoen",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ek het geswyg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "sal ek oopmaak"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het gedoen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.250110818Z",
+  "model": "glm-5.3"
+}

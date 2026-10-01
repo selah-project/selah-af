@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ die ram van die invullinge moet jy neem, en jy moet ⟨את⟩ sy vlees kook op 'n heilige plek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ram van die invullinge"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ram"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "van die invullinge"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "moet jy neem"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "en jy moet kook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vlees"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sy vlees"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "op 'n plek"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.675286784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "En ek — ek het 'n smaad vir hulle geword; hulle sien my, hulle skud hulle kop.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ek het geword"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "'n smaad"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "hulle sien my"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "hulle skud"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "hulle kop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:01.428654742Z",
+  "model": "glm-5.3"
+}

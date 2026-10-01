@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "in wie se hand ⟨is⟩ die siel van elke lewende, en die roeag van alle vlees van die mens.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "in wie se hand (betreklike)"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en die roeag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van die mens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:11.640459761Z",
+  "model": "glm-5.3"
+}

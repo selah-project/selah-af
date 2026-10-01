@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 37:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En nog 'n klein rukkie, en ⟨daar is⟩ geen slegte meer nie; en jy sal sy plek deursoek, en hy ⟨is⟩ daar nie.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "en nog"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n klein rukkie"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "והתבוננת",
+      "gloss": "en jy sal deursoek"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sy plek"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hy is daar nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:30.984131253Z",
+  "model": "glm-5.3"
+}

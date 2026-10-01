@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 89:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "In u Naam juig hulle die hele dag, en in u tsedek word hulle verhoog.",
+  "tokens": [
+    {
+      "surface": "בשמך",
+      "gloss": "In u Naam"
+    },
+    {
+      "surface": "יגילון",
+      "gloss": "juig hulle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ובצדקתך",
+      "gloss": "en in u tsedek"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "word hulle verhoog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:50.102639177Z",
+  "model": "glm-5.3"
+}

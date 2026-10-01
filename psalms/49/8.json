@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "'n Broeder kan geensins 'n broeder loskoop; hy kan aan Elohim nie sy losprys gee nie.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "'n broeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "geensins nie"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "kan loskoop"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "'n broeder"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kan gee"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "sy losprys"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:33.220936798Z",
+  "model": "glm-5.3"
+}

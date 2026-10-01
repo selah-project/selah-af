@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "micah 6:15",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Jy sal saai maar nie maai nie; jy sal die olyf trap maar nie met olie salf nie; en mos — maar jy sal nie wyn drink nie.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "sal saai"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "maai nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "sal trap"
+    },
+    {
+      "surface": "זית",
+      "gloss": "die olyf"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "salf nie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "met olie"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "en mos"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "drink nie"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:53.922199782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 119:40",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Kyk, ek verlang na u bevele; in u tsedek maak my lewend.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "תאבתי",
+      "gloss": "ek verlang"
+    },
+    {
+      "surface": "לפקדיך",
+      "gloss": "na u bevele"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "in u tsedek"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "maak my lewend"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.534634757Z",
+  "model": "glm-5.3"
+}

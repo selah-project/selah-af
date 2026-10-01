@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Magtig in die land sal sy nageslag wees; die geslag van die opregtes sal geseën word.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Magtig"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sy nageslag"
+    },
+    {
+      "surface": "דור",
+      "gloss": "die geslag"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "van die opregtes"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sal geseën word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.444515190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En die koning het gestuur en ⟨את⟩ al die oudstes van Jehoeda en van Jerusjalajim bymekaargebring.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "en bymekaargebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die oudstes van Jehoeda en van Jerusjalajim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en van Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T01:04:24.977970934Z",
+  "model": "glm-5.3"
+}

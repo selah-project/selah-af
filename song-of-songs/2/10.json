@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "My geliefde het geantwoord en vir my gesê: Staan op, my vriendin, my skone, en kom weg.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "het geantwoord"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "my geliefde"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "op"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "my vriendin"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "my skone"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:35.158845617Z",
+  "model": "glm-5.3"
+}

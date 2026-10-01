@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het gesê: Gaan heen, Daniël, want die woorde is toegestop en verseël tot die tyd van die einde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan heen"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "toegestop"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "en verseël"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "die tyd"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "van die einde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:13.694269092Z",
+  "model": "glm-5.3"
+}

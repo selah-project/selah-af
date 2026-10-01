@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die seuns van Jisraël het ⟨את⟩ die kwaad gedoen in die oë van Jahweh, en ⟨את⟩ die Baäls gedien.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kwaad"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baäls"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baäls"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:52.347706495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 15:27",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Hy wat wins maak deur geweld, beroer sy huis; maar hy wat geskenke haat, sal lewe.",
+  "tokens": [
+    {
+      "surface": "עכר",
+      "gloss": "beroer"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "בוצע",
+      "gloss": "wins maak deur geweld"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "gewins"
+    },
+    {
+      "surface": "ושונא",
+      "gloss": "maar hy wat haat"
+    },
+    {
+      "surface": "מתנת",
+      "gloss": "geskenke"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "sal lewe"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:22.627601625Z",
+  "model": "glm-5.3"
+}

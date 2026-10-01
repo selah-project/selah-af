@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "En die hemele sal jou wonders loof, Jahweh, ook ⟨is⟩ jou trou in die vergadering van die heiliges.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "en sal loof"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "jou wonders"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "jou trou"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "in die vergadering"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "van die heiliges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.726437987Z",
+  "model": "glm-5.3"
+}

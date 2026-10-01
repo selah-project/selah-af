@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Vrees en bewing kom oor my, en gruwelis het my toegewerk.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "en bewing"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "בי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "en het my toegewerk"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "gruwelis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:30.546926317Z",
+  "model": "glm-5.3"
+}

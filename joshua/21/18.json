@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "⟨את⟩ Anatot met sy weigrond, en ⟨את⟩ Almon met sy weigrond — vier stede.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Anatot"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anatot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weigrond"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met sy weigrond"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Almon"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "Almon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weigrond"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "met sy weigrond"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "stede"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:42.972452486Z",
+  "model": "glm-5.3"
+}

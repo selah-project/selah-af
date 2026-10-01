@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Dawid het gaan lê by sy vaders, en hy is begrawe in ⟨die⟩ stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "het gaan lê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hy is begrawe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in ⟨die⟩ stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:58.175432071Z",
+  "model": "glm-5.3"
+}

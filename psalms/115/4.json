@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Hulle afgode ⟨is⟩ silwer en goud, werk van mensehande.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Hulle afgode"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van hande"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mens(e)"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:17.360619136Z",
+  "model": "glm-5.3"
+}

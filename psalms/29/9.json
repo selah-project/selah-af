@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Die stem van Jahweh laat die hinde wring, en stroop die woude kaal; en in sy paleis sê dit alles: Eer!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "laat ... wring"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "die hinde"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "en stroop ... kaal"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "die woude"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "en in sy paleis"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "dit alles"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "Eer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:15.698141574Z",
+  "model": "glm-5.3"
+}

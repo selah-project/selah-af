@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 32:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En hy het ⟨את⟩ die eerste beveel en gesê: Wanneer Esav, my broer, jou ontmoet en jou vra en sê: Vir wie werk jy, en waarheen gaan jy, en vir wie is hierdie voor jou —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die eerste"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יפגשך",
+      "gloss": "jou ontmoet"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    },
+    {
+      "surface": "ושאלך",
+      "gloss": "en jou vra"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "למי",
+      "gloss": "vir wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "en waarheen"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "gaan jy"
+    },
+    {
+      "surface": "ולמי",
+      "gloss": "en vir wie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "is hierdie"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:10.197709848Z",
+  "model": "glm-5.3"
+}

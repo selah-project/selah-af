@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En sy broers het gegaan om ⟨את⟩ die kleinvee van hulle vader in Sjegem te laat wei.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "En het gegaan"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "om te laat wei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kleinvee"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "van hulle vader"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "in Sjegem"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:07.946314913Z",
+  "model": "glm-5.3"
+}

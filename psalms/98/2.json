@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "Jahweh het sy redding bekend gemaak, voor die oë van die nasies het hy sy tsedek onthul.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "bekend gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "sy redding"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "voor die oë"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "onthul"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sy tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:32.216652763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 69:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Laat die vloedstroom van waters my nie oorstroom nie, en laat die diepte my nie insluk nie, en laat die put nie haar mond oor my toemaak nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "תשטפני",
+      "gloss": "my oorstroom nie"
+    },
+    {
+      "surface": "שבלת",
+      "gloss": "die vloedstroom van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "תבלעני",
+      "gloss": "my insluk nie"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "die diepte"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "תאטר",
+      "gloss": "toemaak nie"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "באר",
+      "gloss": "die put"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "haar mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:43.766620975Z",
+  "model": "glm-5.3"
+}

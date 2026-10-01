@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Maar ek — in my onberispelikheid sal ek wandel; los my los, en wees my genadig",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "maar ek"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in my onberispelikheid"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal ek wandel"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "los my los"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees my genadig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.325999830Z",
+  "model": "glm-5.3"
+}

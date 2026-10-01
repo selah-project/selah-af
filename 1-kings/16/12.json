@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "So het Simri ⟨את⟩ die hele huis van Baäsa verdelg, volgens die woord van Jahweh wat hy deur die hand van Jehoe die profeet teen Baäsa gespreek het,",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "het verdelg"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Simri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele huis van Baäsa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "van Baäsa"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "hy gespreek het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäsa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand van"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Jehoe"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:37.707189506Z",
+  "model": "glm-5.3"
+}

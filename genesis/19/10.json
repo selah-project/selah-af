@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die manne het ⟨את⟩ hulle hand uitgesteek en ⟨את⟩ Lot by hulle ⟨⟨na⟩⟩ binne die huis gebring, en ⟨את⟩ die deur toegemaak.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "en hulle het uitgesteek"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "by hulle"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "binne die huis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die deur"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "die deur"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "het toegemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:00.733971265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Selfs ⟨את⟩ dit sal na Assur gebring word as 'n geskenk vir koning Jarew; skande sal Efrayim aangryp, en Jisraël sal beskaam staan oor sy eie raad.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ dit"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "na Assur"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "sal gebring word"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "'n geskenk"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "vir koning"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "Jarew"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "skande"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayim"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal aangryp"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "en sal beskaam staan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "oor sy eie raad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:54.817337Z",
+  "model": "glm-5.3"
+}

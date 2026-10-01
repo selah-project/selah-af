@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Hoor, berge, ⟨את⟩ die regspleiding van Jahweh, en ⟨julle⟩ magtige fondamente van die aarde, want Jahweh het 'n regspleiding met sy volk, en met Jisraël sal Hy hom verantwoord.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Hoor"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die regspleiding van Jahweh"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "regspleiding"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "en die magtige"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "fondamente"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "'n regspleiding"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "het Jahweh"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "sal Hy hom verantwoord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:18.369347666Z",
+  "model": "glm-5.3"
+}

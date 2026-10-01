@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die volk sê aan Jehosjoea: ⟨את⟩ Jahweh ons Elohim sal ons dien, en na sy stem sal ons luister.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh ons Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "sal ons dien"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "en na sy stem"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "sal ons luister"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:40.011547300Z",
+  "model": "glm-5.3"
+}

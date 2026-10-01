@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Volgens die getal wat julle maak, so moet julle vir elkeen doen volgens hulle getal.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "volgens die getal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "julle maak"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle doen"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "vir elkeen"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "volgens hulle getal"
+    }
+  ],
+  "timestamp": "2026-09-30T21:09:28.860749365Z",
+  "model": "glm-5.3"
+}

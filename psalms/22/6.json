@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Tot U het hulle geroep en ⟨is⟩ ontkom; op U het hulle vertrou en ⟨is⟩ nie beskaam nie.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "het hulle geroep"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "en ⟨is⟩ ontkom"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "het vertrou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "beskaam"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.953878212Z",
+  "model": "glm-5.3"
+}

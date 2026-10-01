@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "om die koninkryk van die huis van Saul te laat oorgaan, en ⟨את⟩ die troon van Dawid op te rig oor Jisraël en oor Jehoeda, van Dan tot by Ber-Sjeba",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "om te laat oorgaan"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkryk"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "en om op te rig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die troon van Dawid"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "die troon"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "van Dan"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Ber"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeba"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:55.096378443Z",
+  "model": "glm-5.3"
+}

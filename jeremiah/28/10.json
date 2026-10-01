@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Toe het Gananja die profeet ⟨את⟩ die juk van die nek van Jeremia die profeet af geneem en dit gebreek.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Toe het ... geneem"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Gananja"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die juk"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "die juk"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "die nek"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "van Jeremia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "en dit gebreek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:36:11.867003444Z",
+  "model": "glm-5.3"
+}

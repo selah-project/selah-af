@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 143:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Ek het my hande na U uitgesprei; my siel ⟨is⟩ soos 'n uitgeputte land vir U. Sela.",
+  "tokens": [
+    {
+      "surface": "פרשתי",
+      "gloss": "ek het uitgesprei"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hande"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "soos 'n land"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "uitgeputte"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.334630489Z",
+  "model": "glm-5.3"
+}

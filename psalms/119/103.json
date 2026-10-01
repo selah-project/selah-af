@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 103,
+  "ref": "psalms 119:103",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Hoe soet is u woord vir my verhemelte, meer as heuning vir my mond!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "נמלצו",
+      "gloss": "soet is"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "my verhemelte"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "as heuning"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:10.671412369Z",
+  "model": "glm-5.3"
+}

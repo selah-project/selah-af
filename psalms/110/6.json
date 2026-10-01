@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Hy sal oordeel onder die nasies, ⟨die plekke⟩ vol lyke maak; hy verbrysel ⟨die⟩ hoof oor die wyd ⟨groot⟩ land.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "hy sal oordeel"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vol maak"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "lyke"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "hy verbrysel"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "wyd ⟨groot⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:12.929361852Z",
+  "model": "glm-5.3"
+}

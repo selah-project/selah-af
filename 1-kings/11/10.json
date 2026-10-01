@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 11:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨hy⟩ het hom bevel gegee oor hierdie saak, om nie te gaan agter aan ander gode nie; maar hy het nie bewaar ⟨את⟩ wat Jahweh beveel het nie.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "het bevel gegee"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om nie"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "te gaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter aan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat Jahweh beveel het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:13.945363907Z",
+  "model": "glm-5.3"
+}

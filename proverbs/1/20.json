@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die Wysheid roep in die buiteplein, in die strate gee sy haar stem.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Die Wysheid"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "in die buiteplein"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "roep"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "in die strate"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "haar stem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:46.260521191Z",
+  "model": "glm-5.3"
+}

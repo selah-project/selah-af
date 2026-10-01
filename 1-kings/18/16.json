@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Obadjahu het gegaan om Agab te ontmoet, en het dit aan hom vertel; en Agab het gegaan om Eliahu te ontmoet.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en ... het gegaan"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadjahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "om te ontmoet"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en het vertel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en ... het gegaan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "om te ontmoet"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliahu"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:37.260170712Z",
+  "model": "glm-5.3"
+}

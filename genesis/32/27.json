@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En hy sê: Stuur my weg, want die dagbreek het opgekom. En hy sê: Ek sal jou nie wegstuur nie as jy my nie seën nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "Stuur my weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "het opgekom"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "die dagbreek"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "sal jou wegstuur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "אם",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "my seën"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:32.578593397Z",
+  "model": "glm-5.3"
+}

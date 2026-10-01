@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "'n Volk wat my ⟨את⟩ gedurig verwek, reg voor my aangesig; wat in tuine slagoffer bring en op die bakstene reukwerk laat opgaan.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "'n Volk"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "wat verwek"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "על",
+      "gloss": "reg voor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slagoffer bring"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "in tuine"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "en reukwerk laat opgaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "die bakstene"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:24.886231357Z",
+  "model": "glm-5.3"
+}

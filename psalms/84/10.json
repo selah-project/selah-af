@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Ons skild, sien tog, Elohim, en aanskou die aangesig van u gesalfde.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "ons skild"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien tog"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "en aanskou"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "u gesalfde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.121317064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "Want by U ⟨is⟩ vergifnis, sodat U gevrees kan word.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by U"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "vergifnis"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "gevrees kan word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:28.283157582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En jy sal ⟨את⟩ Jahweh jou Elohim liefhê met jou hele hart en met jou hele siel en met jou hele krag.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "en jy sal liefhê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met jou hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met jou hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "siel"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met jou hele"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "krag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:22.371970188Z",
+  "model": "glm-5.3"
+}

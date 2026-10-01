@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 24:6",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die koning het Jehojada, die hoof, geroep en vir hom gesê: Waarom het jy nie op die Leviete aangedring om uit Jehoeda en uit Jerusjalajim ⟨את⟩ die heffing te bring van Mosje, dienaar van Jahweh, en van die vergadering van Jisraël, vir die tent van die getuienis nie?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "vir Jehojada"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשת",
+      "gloss": "het jy aangedring"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Leviete"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "om te bring"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "uit Jehoeda"
+    },
+    {
+      "surface": "ומירושלם",
+      "gloss": "en uit Jerusjalajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die heffing"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "die heffing"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "dienaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והקהל",
+      "gloss": "en die vergadering"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "vir die tent"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "van die getuienis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:44.840253036Z",
+  "model": "glm-5.3"
+}

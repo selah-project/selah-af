@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "⟨את⟩ my Sjabbatte moet julle onderhou, en my heiligdom moet julle ontsag toon; ek is Jahweh.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Sjabbatte"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "my Sjabbatte"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle onderhou"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "en my heiligdom"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "moet julle ontsag toon"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "is Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:19.605420343Z",
+  "model": "glm-5.3"
+}

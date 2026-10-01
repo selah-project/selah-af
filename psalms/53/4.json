@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Hulle almal het terugwyk, saam het hulle verdorwe geword; daar is niemand wat goed doen nie, daar is nie eens een nie.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "hulle almal"
+    },
+    {
+      "surface": "סג",
+      "gloss": "het terugwyk"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "het verdorwe geword"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is niemand"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.839751016Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Jahweh het hom alleen gelei, en daar was geen vreemde El by hom nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "het hom gelei"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar was geen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:05.582076543Z",
+  "model": "glm-5.3"
+}

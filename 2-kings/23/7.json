@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 23:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ die huise van die geheiligdes wat in die huis van Jahweh was, afgebreek, waar die vroue daar huise geweef het vir die Asjera.",
+  "tokens": [
+    {
+      "surface": "ויתץ",
+      "gloss": "afgebreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huise van die geheiligdes"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "die huise van"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "die geheiligdes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die vroue"
+    },
+    {
+      "surface": "ארגות",
+      "gloss": "geweef het"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    },
+    {
+      "surface": "לאשרה",
+      "gloss": "vir die Asjera"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:18.905735178Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die El wat wraak aan my gee, en wat volke onder my terugdryf.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "die El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "wat gee"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "wraak"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en wat terugdryf"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "onder my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.391053867Z",
+  "model": "glm-5.3"
+}

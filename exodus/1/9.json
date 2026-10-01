@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy het aan sy volk gesê: Kyk, die volk van die kinders van Jisraël ⟨is⟩ talryk en magtiger as ons.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "רב",
+      "gloss": "talryk"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "en magtig"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.184294801Z",
+  "model": "glm-5.3"
+}

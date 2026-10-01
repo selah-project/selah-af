@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "hosea 9:16",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Efrajim ⟨is⟩ geslaan, hulle wortel het verdor, vrug sal hulle nie maak nie; tog, al baar hulle, dan sal ek doodmaak die geliefdes van hulle baarmoede.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "⟨is⟩ geslaan"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrajim"
+    },
+    {
+      "surface": "שרשם",
+      "gloss": "hulle wortel"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "het verdor"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrug"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "sal hulle maak"
+    },
+    {
+      "surface": "גם",
+      "gloss": "tog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "al"
+    },
+    {
+      "surface": "ילדון",
+      "gloss": "hulle baar"
+    },
+    {
+      "surface": "והמתי",
+      "gloss": "dan sal ek doodmaak"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "die geliefdes"
+    },
+    {
+      "surface": "בטנם",
+      "gloss": "van hulle baarmoede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:25.625987676Z",
+  "model": "glm-5.3"
+}

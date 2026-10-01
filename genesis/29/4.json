@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Jaäkow sê vir hulle: My broers, van waar ⟨is⟩ julle? En hulle sê: Ons ⟨is⟩ uit Haran.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broers"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "uit Haran"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:41.869657641Z",
+  "model": "glm-5.3"
+}

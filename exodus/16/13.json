@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En dit het gebeur in die aand, en die slawevoëls het opgekom en ⟨את⟩ die kamp bedek; en in die môre was daar 'n laag dou rondom die kamp.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en het opgekom"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "die slawevoëls"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kamp"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in die môre"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "'n laag"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "dou"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die kamp"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:17.537728687Z",
+  "model": "glm-5.3"
+}

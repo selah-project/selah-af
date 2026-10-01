@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Dit is genoeg vir julle om rondom ⟨את⟩ hierdie berg te gaan; draai vir julle noordwaarts.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "סב",
+      "gloss": "om rondom te gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie berg"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "hierdie berg"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "draai"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "noordwaarts"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:33.678443112Z",
+  "model": "glm-5.3"
+}

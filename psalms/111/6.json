@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Die krag van sy dade het Hy bekend gemaak aan sy volk, om aan hulle die erfdeel van ⟨die⟩ nasies te gee.",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "van sy dade"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "het bekend gemaak"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan sy volk"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "die erfdeel"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "van nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.335841255Z",
+  "model": "glm-5.3"
+}

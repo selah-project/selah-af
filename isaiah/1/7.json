@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Jul land ⟨is⟩ 'n verwoesting, jul stede ⟨is⟩ met vuur gebrand; jul grond word voor jul oë deur vreemdelinge verteer, ⟨hy⟩ ⟨is⟩ 'n verwoesting soos 'n omkering deur vreemdelinge.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "jul land"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "'n verwoesting"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "jul stede"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "gebrand"
+    },
+    {
+      "surface": "אש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "jul grond"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "voor jul oë"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "deur vreemdelinge"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "word verteer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "jul grond (betrokke voorwerp)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "'n verwoesting"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "soos 'n omkering"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "deur vreemdelinge"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:31.078272982Z",
+  "model": "glm-5.3"
+}

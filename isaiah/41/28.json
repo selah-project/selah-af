@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En ek sien — daar is geen man nie, en uit hulle is daar geen raadgewer nie; en ek vra hulle, en hulle antwoord 'n woord.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "En ek sien"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "daar is geen ... nie"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "en uit hulle"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "daar is geen ... nie"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "raadgewer"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "en ek vra hulle"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "en hulle antwoord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:34.804626260Z",
+  "model": "glm-5.3"
+}

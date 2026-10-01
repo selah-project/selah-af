@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Kyk, waarheid verlang jy in die binneste, en in die verborgene laat jy my wysheid ken.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "verlang jy"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "in die binneste"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "en in die verborgene"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "laat jy my ken"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:33.060389528Z",
+  "model": "glm-5.3"
+}

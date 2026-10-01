@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 136:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Aan hom wat die groot ligte gemaak het, want sy gesed is tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "aan hom wat gemaak het"
+    },
+    {
+      "surface": "אורים",
+      "gloss": "ligte"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:56.695595375Z",
+  "model": "glm-5.3"
+}

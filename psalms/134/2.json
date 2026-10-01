@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 134,
+  "translation": "Lig julle hande op na die heiligdom, en seën ⟨את⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "lig op"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "julle hande"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "na die heiligdom"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "en seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:09.758500311Z",
+  "model": "glm-5.3"
+}

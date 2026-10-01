@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Dit was bekend soos ⟨een wat⟩ bo toebring — in die digte geboomte bye.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "dit was bekend"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "soos ⟨een wat⟩ toebring"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "bo"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "in die digte geboomte"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "hout"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "bye"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:32.842129741Z",
+  "model": "glm-5.3"
+}

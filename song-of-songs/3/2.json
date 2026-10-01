@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 3:2",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Laat my tog opstaan en rondgaan in die stad, in die strate en op die pleine; ek sal soek ⟨את⟩ hom wat my siel liefhet. Ek het hom gesoek, maar ek het hom nie gevind nie.",
+  "tokens": [
+    {
+      "surface": "אקומה",
+      "gloss": "laat my opstaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ואסובבה",
+      "gloss": "en rondgaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "בשוקים",
+      "gloss": "in die strate"
+    },
+    {
+      "surface": "וברחבות",
+      "gloss": "en op die pleine"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ek sal soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hom wat my siel liefhet"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "wat liefhet"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "בקשתיו",
+      "gloss": "ek het hom gesoek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "מצאתיו",
+      "gloss": "ek het hom gevind"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:18.808447302Z",
+  "model": "glm-5.3"
+}

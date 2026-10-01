@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Ek sal ⟨את⟩ Patros verwoes, en Ek sal vuur in Tsoän sit, en Ek sal oordele in No voltrek.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "en Ek sal verwoes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Patros"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Patros"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "en Ek sal sit"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "in Tsoän"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "en Ek sal voltrek"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "oordele"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "in No"
+    }
+  ],
+  "timestamp": "2026-09-30T22:52:57.446696779Z",
+  "model": "glm-5.3"
+}

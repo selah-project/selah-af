@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "wat reg doen vir die verdruktes, wat brood gee aan die hongeres; Jahweh maak gevangenes los.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "vir die verdruktes"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "aan die hongeres"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "maak los"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "gevangenes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:37.777272536Z",
+  "model": "glm-5.3"
+}

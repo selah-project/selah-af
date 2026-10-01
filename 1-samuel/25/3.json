@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 25:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En die naam van die man ⟨was⟩ Nawal, en die naam van sy vrou Abigajil; en die vrou was goed van verstand en mooi van gestalte, en die man was hard en sleg in dade, en hy ⟨was⟩ 'n Kalebiet.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "En die naam"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "van die man"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Nawal"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "van sy vrou"
+    },
+    {
+      "surface": "אבגיל",
+      "gloss": "Abigajil"
+    },
+    {
+      "surface": "והאשה",
+      "gloss": "en die vrou"
+    },
+    {
+      "surface": "טובת",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "van verstand"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "en mooi"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "van gestalte"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "en die man"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "en sleg"
+    },
+    {
+      "surface": "מעללים",
+      "gloss": "in dade"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "כלבו",
+      "gloss": "'n Kalebiet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:38.465697140Z",
+  "model": "glm-5.3"
+}

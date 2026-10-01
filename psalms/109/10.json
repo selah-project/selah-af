@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "En mag sy seuns rondswerf, rondswerwe hulle, en bedel, en soek ⟨brood⟩ uit hul verlate plekke.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "en rondswerf"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "rondswerwe hulle"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "en bedel"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "en soek"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "uit hul verlate plekke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.589819696Z",
+  "model": "glm-5.3"
+}

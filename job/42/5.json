@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Met die hoore van die oor het ek van U gehoor, maar nou het my oog U gesien.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "met die hoore"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "van die oor"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "het ek van U gehoor"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nou"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "het U gesien"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:22.454352838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Barmhartig en genadig ⟨is⟩ Jahweh, lank van neus, en groot van gesed",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "barmhartig"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "en genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lank"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "van neus"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "en groot"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "van gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:21.975574752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En wat kan Dawid nog byvoeg om tot U te spreek? En U ken ⟨את⟩ u kneg, Adonai Jahweh.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kan byvoeg"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "om te spreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "en U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u kneg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u kneg"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:17.126739061Z",
+  "model": "glm-5.3"
+}

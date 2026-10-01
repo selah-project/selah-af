@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 18:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hulle moet ⟨את⟩ die volk oordeel te alle tyd; en dit sal wees: elke groot saak sal hulle na jou toe bring, en elke klein saak sal húlle self oordeel; en dit sal vir jou ligter wees, en hulle sal ⟨את⟩ saam met jou dra.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "en hulle moet oordeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal wees"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saak"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "sal hulle bring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou toe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "sal hulle oordeel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "húlle self"
+    },
+    {
+      "surface": "והקל",
+      "gloss": "en dit sal ligter wees"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "en hulle sal dra"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ saam met jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:01.860312901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Word u gesed in die graf vertel? u trou in Awaddo?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "word vertel"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "in die graf"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "u trou"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "in Awaddo"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:14.482163210Z",
+  "model": "glm-5.3"
+}

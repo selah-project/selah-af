@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Doen my reg, o Elohim, en voer my regsaak teen 'n nasie sonder gesed; van 'n man van bedrog en onreg — red U my.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Doen my reg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "en voer"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "my regsaak"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "teen 'n nasie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "en onreg"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "red U my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:13.193797278Z",
+  "model": "glm-5.3"
+}

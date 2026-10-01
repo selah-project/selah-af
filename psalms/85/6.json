@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Tot in ewigheid, sal U oor ons toorn? Sal U u woede uittrek van geslag tot geslag?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "Tot in ewigheid"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "sal U toorn"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "sal U uittrek"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "u woede"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "tot geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:23.261338903Z",
+  "model": "glm-5.3"
+}

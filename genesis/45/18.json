@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "en neem julleself ⟨את⟩ julle vader en ⟨את⟩ julle huise, en kom na my toe; en ek sal julle ⟨את⟩ die beste van die land Mitsrajim gee, en julle sal ⟨את⟩ die vet van die land eet.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle vader"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "julle vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle huise"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "julle huise"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die beste"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "die beste"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en julle sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:09.097693504Z",
+  "model": "glm-5.3"
+}

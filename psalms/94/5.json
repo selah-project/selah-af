@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Jou volk, o Jahweh, vertrap hulle, en jou erfdeel onderdruk hulle.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "vertrap hulle"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "en jou erfdeel"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "onderdruk hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:17.482180274Z",
+  "model": "glm-5.3"
+}

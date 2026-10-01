@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het ⟨את⟩ die brandoffer nagebring, en dit gedoen volgens die voorskrif.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hy het nagebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "en gedoen"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens die voorskrif"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.860748321Z",
+  "model": "glm-5.3"
+}

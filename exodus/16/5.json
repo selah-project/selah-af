@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En dit sal gebeur op die sesde dag, as hulle voorberei ⟨את⟩ wat hulle inbring, dan sal dit dubbel wees bo wat hulle dag vir dag insamel.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "die sesde"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "as hulle voorberei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat hulle inbring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "hulle inbring"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan sal dit wees"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "dubbel"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "hulle insamel"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "vir dag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:20.788222261Z",
+  "model": "glm-5.3"
+}

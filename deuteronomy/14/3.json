@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Enige gruwel mag jy nie eet nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "mag jy eet"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "gruwel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:50.607713934Z",
+  "model": "glm-5.3"
+}

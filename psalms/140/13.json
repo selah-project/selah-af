@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Ek weet dat Jahweh die reg van die gedrukte sal doen, die regspleging van die behoeftiges.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דין",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die gedrukte"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "die regspleging"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "die behoeftiges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:59.140431261Z",
+  "model": "glm-5.3"
+}

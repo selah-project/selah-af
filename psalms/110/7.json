@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Uit 'n spruit op die pad sal hy drink; daarom sal hy ⟨die⟩ hoof lig.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "uit 'n spruit"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "sal hy drink"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "sal hy lig"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:12.929549390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Elisa het vir hom gesê: Gaan, sê: ⟨Nie⟩ — jy sal lewe; maar Jahweh het my getoon dat hy sekerlik sal sterwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨nie⟩"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "—"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "jy sal lewe"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "maar hy het my getoon"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sal sterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:54.518058125Z",
+  "model": "glm-5.3"
+}

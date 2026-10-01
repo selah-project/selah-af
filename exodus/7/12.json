@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "want hulle het elkeen sy staf neergegooi, en hulle het taninim geword; en die staf van Aharon het ⟨את⟩ hul stawe ingesluk.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "het neergegooi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "sy staf"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "taninim"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "het ingesluk"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul stawe"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "hul stawe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:06.846119370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek sal haar vir my saai in die land, en ek sal Lo-Rugama ontferm, en ek sal sê aan Lo-Ami: Jy ⟨is⟩ my volk, en hy sal sê: my Elohim.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "en ek sal haar saai"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "en ek sal ontferm"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rugama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rugama"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "en ek sal sê"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "aan Lo-"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:35.222054215Z",
+  "model": "glm-5.3"
+}

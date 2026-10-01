@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en Salmon het ⟨את⟩ Boas verwek, en Boas het ⟨את⟩ Obed verwek",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "en Salmon"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Boas"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "en Boas"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Obed"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Obed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:16.983436415Z",
+  "model": "glm-5.3"
+}

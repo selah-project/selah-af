@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "U hand sal al u vyande vind; u regterhand sal die wat u haat, vind.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "sal vind"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "u vyande"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "u regterhand"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sal vind"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "die wat u haat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:33.050876228Z",
+  "model": "glm-5.3"
+}

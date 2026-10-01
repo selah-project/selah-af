@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "olie vir ⟨die⟩ lamp, speserye vir die salfolie van die salfing, en vir die reukwerk van die speserye",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "vir die lamp"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "speserye"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "vir die olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salfing"
+    },
+    {
+      "surface": "וולקטרת",
+      "gloss": "en vir die reukwerk"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "van die speserye"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:37.512432708Z",
+  "model": "glm-5.3"
+}

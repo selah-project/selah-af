@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "om ⟨hom⟩ te laat sit onder die edeles, onder die edeles van sy volk.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "om te laat sit"
+    },
+    {
+      "surface": "עם",
+      "gloss": "onder\/saam met"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "die edeles"
+    },
+    {
+      "surface": "עם",
+      "gloss": "onder\/saam met"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "die edeles van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:00.692554909Z",
+  "model": "glm-5.3"
+}

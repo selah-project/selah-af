@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En dit het gebeur daarna, en die hart van Dawid het ⟨את⟩ hom geslaan omdat hy ⟨את⟩ die punt wat aan Sjaoel was, afgesny het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "daarna"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en het geslaan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Dawid)"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "afgesny het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die punt"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die punt"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaoel was"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:01.175926387Z",
+  "model": "glm-5.3"
+}

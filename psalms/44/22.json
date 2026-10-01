@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Sal Elohim dit nie deursoek nie? Want hy ken ⟨die⟩ verskuilde dinge van ⟨die⟩ hart.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "sal ... nie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "deursoek"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "verskuilde dinge"
+    },
+    {
+      "surface": "לב",
+      "gloss": "van hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:16.188754708Z",
+  "model": "glm-5.3"
+}

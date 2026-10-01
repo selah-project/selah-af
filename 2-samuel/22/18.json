@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Hy het my gered van my sterk vyand, van my haters, want hulle was te sterk vir my.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Hy het my gered"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van my vyand"
+    },
+    {
+      "surface": "עז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "van my haters"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "hulle was te sterk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:54.077671349Z",
+  "model": "glm-5.3"
+}

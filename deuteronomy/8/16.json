@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 8:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "wat jou man laat eet het in die woestyn, wat jou vadere nie geken het nie — om jou te verootmoedig en om jou op die proef te stel, om jou goed te doen in jou einde —",
+  "tokens": [
+    {
+      "surface": "המאכלך",
+      "gloss": "wat jou laat eet het"
+    },
+    {
+      "surface": "מן",
+      "gloss": "man"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "geken het"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jou vadere"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "ענתך",
+      "gloss": "jou te verootmoedig"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en om"
+    },
+    {
+      "surface": "נסתך",
+      "gloss": "jou op die proef te stel"
+    },
+    {
+      "surface": "להיטבך",
+      "gloss": "om jou goed te doen"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "in jou einde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:47.960048361Z",
+  "model": "glm-5.3"
+}

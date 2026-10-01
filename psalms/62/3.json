@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Slegs Hy ⟨is⟩ my rots en my redding, my hoogteskans — nie sal ek veel wankel nie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "en my redding"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my hoogteskans"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "sal ek wankel"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "veel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:20.215376477Z",
+  "model": "glm-5.3"
+}

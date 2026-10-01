@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 1:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit is die name van die seuns van Jisraël wat na Mitsrajim gekom het: saam met Jaäkow het ⟨את⟩ elke man en sy huisgesin gekom.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "En dit is"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "wat gekom het"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "na Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jaäkow"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "met Jaäkow"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "en sy huisgesin"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:38.329303623Z",
+  "model": "glm-5.3"
+}

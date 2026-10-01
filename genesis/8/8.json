@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ die duif van hom af gestuur om te sien of die waters lig geword het van die oppervlak van die grond af.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die duif"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "die duif"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "van ⟨את⟩-hom af"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "of lig geword het"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:45.510070162Z",
+  "model": "glm-5.3"
+}

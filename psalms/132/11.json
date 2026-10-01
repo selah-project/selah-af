@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Jahweh het aan Dawid gesweer, ⟨in⟩ waarheid daarvan sal Hy nie terugkeer nie: van die vrug van jou lyf sal ek op die troon vir jou sit.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "het gesweer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "⟨in⟩ waarheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "sal Hy terugkeer"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "darvan"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "van die vrug"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "van jou lyf"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "sal ek sit"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "op die troon"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.711972262Z",
+  "model": "glm-5.3"
+}

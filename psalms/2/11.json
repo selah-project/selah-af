@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Dien ⟨את⟩ Jahweh met vrees, en juig met bevende.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "met vrees"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "met bevende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:16.085150456Z",
+  "model": "glm-5.3"
+}

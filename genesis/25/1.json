@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Awraham het bygevoeg en 'n vrou geneem, en haar naam was Ketura.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "het bygevoeg"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en haar naam"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ketura"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:44.516018310Z",
+  "model": "glm-5.3"
+}

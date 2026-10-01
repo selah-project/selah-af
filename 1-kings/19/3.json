@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 19:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy het dit gesien, en hy het opgestaan en vir sy lewe gegaan, en gekom in Beer-Sjeva, wat aan Jehoeda behoort, en het ⟨את⟩ sy jongman daar gelaat.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy lewe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Beer-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sjeva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "aan Jehoeda behoort"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "het gelaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy jongman"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "sy jongman"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:40.793383012Z",
+  "model": "glm-5.3"
+}

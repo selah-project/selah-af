@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 3:14",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Jahweh kom in ⟨die⟩ reg met ⟨die⟩ oudstes van sy volk en sy owerstes: en julle — julle het die wingerd opgevreet; ⟨die⟩ buit van ⟨die⟩ armes ⟨is⟩ in julle huise.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "in die reg"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "oudstes"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "van sy volk"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "en sy owerstes"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "בערתם",
+      "gloss": "het opgevreet"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "die wingerd"
+    },
+    {
+      "surface": "גזלת",
+      "gloss": "buit"
+    },
+    {
+      "surface": "העני",
+      "gloss": "van die armes"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "in julle huise"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:00.256560020Z",
+  "model": "glm-5.3"
+}

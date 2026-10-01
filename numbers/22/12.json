@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Elohim het aan Bileam gesê: Moet nie met hulle mee gaan nie; moet ⟨את⟩ die volk nie vervloek nie, want dit is geseënd.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "moet gaan"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "met hulle mee"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "moet vervloek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:11:28.852367510Z",
+  "model": "glm-5.3"
+}

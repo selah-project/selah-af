@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En jy sal hulle skryf op ⟨die⟩ deurposte van jou huis en op jou poorte.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "en jy sal hulle skryf"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "deurposte"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van jou huis"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "en op jou poorte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:45.786361578Z",
+  "model": "glm-5.3"
+}

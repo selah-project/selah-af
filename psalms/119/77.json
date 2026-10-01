@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 77,
+  "ref": "psalms 119:77",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag u medelye na my toe kom, dat ek mag lewe; want u Tora is my verlustiging.",
+  "tokens": [
+    {
+      "surface": "יבאוני",
+      "gloss": "mag ... kom"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "u medelye"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dat ek mag lewe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "my verlustiging"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:45.043476390Z",
+  "model": "glm-5.3"
+}

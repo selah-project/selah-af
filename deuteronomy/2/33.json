@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh ons Elohim het hom voor ons oorgegee, en ons het hom geslaan, ⟨את⟩ hom en ⟨את⟩ sy seuns en ⟨את⟩ sy hele volk.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "het oorgegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "voor ons"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "en ons het geslaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "hele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:50.519591125Z",
+  "model": "glm-5.3"
+}

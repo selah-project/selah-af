@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Gryp ⟨die⟩ klein skild en groot skild, en staan op tot my hulp.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "gryp"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "klein skild"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "en groot skild"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "en staan op"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "tot my hulp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:44.661095181Z",
+  "model": "glm-5.3"
+}

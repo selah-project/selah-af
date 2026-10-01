@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 7:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En jy moet vir hom sê: Jahweh, die Elohim van die Hebreeërs, het my na jou gestuur om te sê: Stuur ⟨את⟩ my volk weg, dat hulle my mag dien in die woestyn; en kyk, tot nou toe het jy nie geluister nie.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "En jy moet sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van die Hebreeërs"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "het my gestuur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "dat hulle my mag dien"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "het jy geluister"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כה",
+      "gloss": "nou toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:26.619040364Z",
+  "model": "glm-5.3"
+}

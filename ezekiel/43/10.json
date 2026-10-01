@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 43:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Jy, seun van mens, wys die huis van Jisraël ⟨את⟩ die huis, dat hulle beskaam mag wees oor hulle ongeregtighede, en dat hulle die ontwerp mag afmeet.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Jy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mens"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "wys"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "dat hulle beskaam mag wees"
+    },
+    {
+      "surface": "מעונותיהם",
+      "gloss": "oor hulle ongeregtighede"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "en dat hulle mag afmeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ontwerp"
+    },
+    {
+      "surface": "תכנית",
+      "gloss": "die ontwerp"
+    }
+  ],
+  "timestamp": "2026-09-30T22:57:20.262828692Z",
+  "model": "glm-5.3"
+}

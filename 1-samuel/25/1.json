@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 25:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Sjemuoël het gesterwe, en die hele Jisraël het hulle versamel en oor hom gerouklaag, en hulle het hom begrawe in sy huis in Rama. En Dawid het opgestaan en afgegaan na die woestyn van Paran.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "het gesterwe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuoël"
+    },
+    {
+      "surface": "ויקבצו",
+      "gloss": "het hulle versamel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "het gerouklaag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "het hom begrawe"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in sy huis"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "in Rama"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en afgegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "van Paran"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:38.464602991Z",
+  "model": "glm-5.3"
+}

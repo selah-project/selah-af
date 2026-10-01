@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh — in sy heilige paleis: swyg! Voor sy aangesig, die hele aarde!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "in sy paleis"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "הס",
+      "gloss": "swyg"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:48.005841146Z",
+  "model": "glm-5.3"
+}

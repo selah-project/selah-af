@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "wat hulle tong geskerp het soos ⟨as⟩ 'n swaard, hulle pyl gerig het — 'n bitter woord.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "geskerp het"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "soos 'n swaard"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "hulle tong"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "gerig het"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "hulle pyl"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitter"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:00.722702868Z",
+  "model": "glm-5.3"
+}

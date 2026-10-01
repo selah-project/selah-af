@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 64:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Sal U oor hierdie dinge ⟨U⟩ inhou, Jahweh, sal U swyg en ons buitengewoon laat ly?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie dinge"
+    },
+    {
+      "surface": "תתאפק",
+      "gloss": "sal U inhou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "sal U swyg"
+    },
+    {
+      "surface": "ותעננו",
+      "gloss": "en ons laat ly"
+    },
+    {
+      "surface": "עד",
+      "gloss": "buitengewoon"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:44.708110655Z",
+  "model": "glm-5.3"
+}

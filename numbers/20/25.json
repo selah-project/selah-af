@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Neem ⟨את⟩ Aharon en ⟨את⟩ Elasar sy seun, en laat ⟨את⟩ hulle opgaan na Hor, die berg.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Elasar"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elasar"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "en laat hulle opgaan"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Hor"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:56.947717715Z",
+  "model": "glm-5.3"
+}

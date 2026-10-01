@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 5:5",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Ek het opgestaan, ek, om oop te maak vir my geliefde, en my hande het gedrup ⟨van⟩ mirre, en my vingers mirre wat uitvloei, oor die handvate van die grendel.",
+  "tokens": [
+    {
+      "surface": "קמתי",
+      "gloss": "ek het opgestaan"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "om oop te maak"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "vir my geliefde"
+    },
+    {
+      "surface": "וידי",
+      "gloss": "en my hande"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "het gedrup"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirre"
+    },
+    {
+      "surface": "ואצבעתי",
+      "gloss": "en my vingers"
+    },
+    {
+      "surface": "מור",
+      "gloss": "mirre"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wat uitvloei"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "handvate"
+    },
+    {
+      "surface": "המנעול",
+      "gloss": "van die grendel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:25.801024937Z",
+  "model": "glm-5.3"
+}

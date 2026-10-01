@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "enige rein voël mag julle eet",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voël"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:43.179334215Z",
+  "model": "glm-5.3"
+}

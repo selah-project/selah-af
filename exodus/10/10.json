@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hy het vir hulle gesê: Mag Jahweh so met julle wees soos ek julle ⟨את⟩ en ⟨את⟩ julle kleintjies sal wegstuur — sien tog, want die kwaad ⟨is⟩ voor julle aangesig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ek sal wegstuur"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "julle ⟨את⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "julle kleintjies"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "julle kleintjies"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sien tog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "julle aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:32.182045306Z",
+  "model": "glm-5.3"
+}

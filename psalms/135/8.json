@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": " wat die eersgeborenes van Mitsrajim geslaan het, van die mens tot die vee.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "wat geslaan het"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "die eersgeborenes"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "die vee"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:24.259253618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Hy het lief tsedek en reg; van die gesed van Jahweh is die aarde vol.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "hy het lief"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:23.609531494Z",
+  "model": "glm-5.3"
+}

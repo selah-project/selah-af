@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Geen koning word gered deur die menigte van 'n leër nie; 'n held word nie gered deur groot krag nie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Geen ... nie"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "word gered"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deur die menigte"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "van 'n leër"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "'n held"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "gered word"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "deur groot"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:37.144187532Z",
+  "model": "glm-5.3"
+}

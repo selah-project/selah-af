@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 5:7",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Die wagte wat rondgaan in die stad het my gevind; hulle het my geslaan, my gewond; hulle het ⟨את⟩ my sluier van my af weggevat — die wagte van die mure.",
+  "tokens": [
+    {
+      "surface": "מצאני",
+      "gloss": "het my gevind"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die wagte"
+    },
+    {
+      "surface": "הסבבים",
+      "gloss": "wat rondgaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "הכוני",
+      "gloss": "hulle het my geslaan"
+    },
+    {
+      "surface": "פצעוני",
+      "gloss": "my gewond"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "hulle het weggevat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my sluier"
+    },
+    {
+      "surface": "רדידי",
+      "gloss": "my sluier"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die wagte"
+    },
+    {
+      "surface": "החמות",
+      "gloss": "van die mure"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:25.801618559Z",
+  "model": "glm-5.3"
+}

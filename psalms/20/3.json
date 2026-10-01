@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Mag hy jou hulp stuur vanuit die heiligdom, en uit Tsijon jou ondersteun.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "mag hy stuur"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "jou hulp"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "vanuit die heiligdom"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "en uit Tsijon"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "jou ondersteun"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:00.231679222Z",
+  "model": "glm-5.3"
+}

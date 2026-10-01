@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 105:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy het hul reën in hael verander, vlammende vuur in hulle land.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "גשמיהם",
+      "gloss": "hul reën"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "hael"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "vlammende"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "in hulle land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.533447909Z",
+  "model": "glm-5.3"
+}

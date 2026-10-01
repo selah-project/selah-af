@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Want ons is vergaan in u toorn, en deur u grimmigheid is ons verskrik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "is ons vergaan"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "in u toorn"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "en deur u grimmigheid"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "is ons verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:40.182053431Z",
+  "model": "glm-5.3"
+}

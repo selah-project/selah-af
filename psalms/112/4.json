@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Vir die opregtes het lig in die duisternis geskyn — genadig en barmhartig en regverdig.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "het geskyn"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "in die duisternis"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "vir die opregtes"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "genadig"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "en barmhartig"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "en regverdig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.444919601Z",
+  "model": "glm-5.3"
+}

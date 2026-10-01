@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 19:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En ⟨את⟩ die manne by die ingang van die huis het hulle met blindheid geslaan, van klein tot groot, en hulle het hulle vermoei om die ingang te vind.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die manne"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "het hulle geslaan"
+    },
+    {
+      "surface": "בסנורים",
+      "gloss": "met blindheid"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וילאו",
+      "gloss": "en hulle het vermoei"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "om te vind"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "die ingang"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:00.734444199Z",
+  "model": "glm-5.3"
+}

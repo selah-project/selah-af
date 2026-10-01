@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Hoe lank sal ek planne in my siel skep, droefheid in my hart dag na dag? Hoe lank sal my vyand bo my verhef word?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "sal ek skep"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "planne"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in my siel"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "droefheid"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "in my hart"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag na dag"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "sal verhef word"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyand"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "bo my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.070826796Z",
+  "model": "glm-5.3"
+}

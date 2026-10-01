@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Jahweh ⟨is⟩ my rots en my vesting en my redder, my El, my klip — in Hom skuil ek — my skild en die horing van my heil, my hoë skuilplek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en my vesting"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "en my redder"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my klip"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "skuil ek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in Hom"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "my skild"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "en die horing"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "van my heil"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "my hoë skuilplek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:53.474079923Z",
+  "model": "glm-5.3"
+}

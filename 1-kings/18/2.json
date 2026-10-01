@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Elia het gegaan om hom te toon aan Agab; en die hongersnood was hewig in Samaria.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "om hom te toon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "en die hongersnood"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "was hewig"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "in Samaria"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:20.957203011Z",
+  "model": "glm-5.3"
+}

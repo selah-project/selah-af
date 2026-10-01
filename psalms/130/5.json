@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 130:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "Ek verwag Jahweh, verwag het my siel, en op sy woord hoop ek.",
+  "tokens": [
+    {
+      "surface": "קויתי",
+      "gloss": "verwag ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קותה",
+      "gloss": "verwag het"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ולדברו",
+      "gloss": "en op sy woord"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "hoop ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:12.581608450Z",
+  "model": "glm-5.3"
+}

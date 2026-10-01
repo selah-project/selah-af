@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want so sê Jahweh Tsewaot: nog een keer, 'n klein ⟨tydjie is dit⟩, en Ek skud ⟨את⟩ die hemel en ⟨את⟩ die aarde en ⟨את⟩ die see en ⟨את⟩ die droë land.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een keer"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n klein"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is dit⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en Ek"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "skud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die droë land"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "die droë land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:31.018930210Z",
+  "model": "glm-5.3"
+}

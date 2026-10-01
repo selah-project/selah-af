@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En hy gee ⟨את⟩ die seën van Awraham aan jou, aan jou en aan jou nageslag ⟨את⟩ saam met jou, om die land van jou swerftogte te besit — ⟨את⟩ die land wat Elohim aan Awraham gegee het.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seën van Awraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "die seën"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "van Awraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "en aan jou nageslag"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ saam met jou",
+      "marks": "saam met jou"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "om te besit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "van jou swerftogte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee het"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:18.089557874Z",
+  "model": "glm-5.3"
+}

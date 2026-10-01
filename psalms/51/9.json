@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 51:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Ontsunig my met hisop en ek sal rein wees; was my en ek sal witter as sneeu word.",
+  "tokens": [
+    {
+      "surface": "תחטאני",
+      "gloss": "ontsunig my"
+    },
+    {
+      "surface": "באזוב",
+      "gloss": "met hisop"
+    },
+    {
+      "surface": "ואטהר",
+      "gloss": "en ek sal rein wees"
+    },
+    {
+      "surface": "תכבסני",
+      "gloss": "was my"
+    },
+    {
+      "surface": "ומשלג",
+      "gloss": "en as sneeu"
+    },
+    {
+      "surface": "אלבין",
+      "gloss": "sal ek wit word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:23.617929558Z",
+  "model": "glm-5.3"
+}

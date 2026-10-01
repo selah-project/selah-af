@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Die bosvark uit die woud verwoes haar, en die wild gedierte van die veld wei haar af.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "verwoes haar"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "bosvark"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "uit die woud"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "en die wild gedierte"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "wei haar af"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.335610331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En die hele volk sien ⟨את⟩ die wolkkolom staan by die opening van die tent, en die hele volk staan op en buig hulle neer, elkeen by die opening van sy tent.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wolkkolom"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "kolom"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die wolk"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die opening"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "en staan op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "en buig hulle neer"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die opening"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "van sy tent"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:35.726021333Z",
+  "model": "glm-5.3"
+}

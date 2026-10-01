@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En toe hulle kom, sien hy ⟨את⟩ Elíab, en hy sê: Sekerlik, voor Jahweh ⟨is⟩ sy gesalfde.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "toe hulle kom"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elíab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Elíab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sy gesalfde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:00.448942956Z",
+  "model": "glm-5.3"
+}

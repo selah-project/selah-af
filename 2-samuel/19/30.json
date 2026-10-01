@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die koning sê vir hom: Waarom praat jy nog jou woorde? Ek het gesê: jy en Siwa sal ⟨את⟩ die veld deel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "praat jy"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "jou woorde"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "en Siwa"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "sal deel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die veld"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:49.990262426Z",
+  "model": "glm-5.3"
+}

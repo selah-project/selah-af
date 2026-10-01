@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Van Jahweh ⟨is⟩ die verlossing; op jou volk ⟨is⟩ jou seën. Séla.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Van Jahweh"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "die verlossing"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "jou volk"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "jou seën"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Séla"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:57.437749090Z",
+  "model": "glm-5.3"
+}

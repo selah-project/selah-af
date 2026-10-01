@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mosje het van die berg af na die volk gegaan, en hy het ⟨את⟩ die volk geheilig, en hulle het hulle klere gewas.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "het gegaan af"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hy het geheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "en hulle het gewas"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "hulle klere"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:40.875530632Z",
+  "model": "glm-5.3"
+}

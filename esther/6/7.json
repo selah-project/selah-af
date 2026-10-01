@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Haman het gesê aan die koning: ⟨vir⟩ ⟨die⟩ man in wie se eer die koning behae het —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae het"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "in sy eer"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:48.255790855Z",
+  "model": "glm-5.3"
+}

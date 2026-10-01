@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En die hele volk van die land was bly, en die stad het gerus, en ⟨את⟩ Atalja het hulle met die swaard doodgemaak.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "en was bly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "en die stad"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "het gerus"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Atalja"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Atalja"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "het hulle doodgemaak"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:14.357667552Z",
+  "model": "glm-5.3"
+}

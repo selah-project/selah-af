@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En die boek word gegee aan hom wat nie kan lees nie, met die woorde: Lees tog dit; en hy sê: Ek kan nie lees nie.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "En … word gegee"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die boek"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hom wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "kan"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lees"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Lees"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "זה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "Ek kan nie"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "lees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:08.550740532Z",
+  "model": "glm-5.3"
+}

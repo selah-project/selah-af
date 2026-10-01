@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "My seun, my Tora — vergeet nie, en my gebooie — laat jou hart ⟨hulle⟩ bewaar.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Tora"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "vergeet"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en my gebooie"
+    },
+    {
+      "surface": "יצצר יצר",
+      "gloss": "laat bewaar"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jou hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:34.254695117Z",
+  "model": "glm-5.3"
+}

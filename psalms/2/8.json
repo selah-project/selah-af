@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Vra van My, en Ek sal nasies gee as jou erfdeel, en as jou besitting die eindes van die aarde.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Vra"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van My"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en Ek sal gee"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "jou erfdeel"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "en jou besitting"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "die eindes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:25.527089798Z",
+  "model": "glm-5.3"
+}

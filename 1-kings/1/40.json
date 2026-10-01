@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 1:40",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die hele volk het opgegaan agter hom, en die volk was fluitspelend met fluite en hulle het hul verheug met 'n groot blydskap, en die aarde het gekloof by hulle geluid.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en het opgegaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "en die volk"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "fluitspelend"
+    },
+    {
+      "surface": "בחללים",
+      "gloss": "met fluite"
+    },
+    {
+      "surface": "ושמחים",
+      "gloss": "en hulle het hul verheug"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "'n groot"
+    },
+    {
+      "surface": "ותבקע",
+      "gloss": "en het gekloof"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "בקולם",
+      "gloss": "by hulle geluid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:30.361191612Z",
+  "model": "glm-5.3"
+}

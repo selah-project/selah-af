@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Dawid sê: so waar as Jahweh leef: as Jahweh hom nie slaan nie, sal sy dag kom en hy sterf, of hy daal in die oorlog af en word weggeraap.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "hom slaan"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "sy dag"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hy sterf"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in die oorlog"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "daal af"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "en weggeraap word"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:11.856972641Z",
+  "model": "glm-5.3"
+}

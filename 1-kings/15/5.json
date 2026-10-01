@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "omdat Dawid ⟨את⟩ die reg gedoen het in die oë van Jahweh, en nie afgewyk het van alles wat Hy hom beveel het nie, al die dae van sy lewe — net in die saak van Uria die Hetiet.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die reg"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "סר",
+      "gloss": "afgeweek"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Hy hom beveel het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae van"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "sy lewe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "in die saak van"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Uria"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "die Hetiet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:59.182465626Z",
+  "model": "glm-5.3"
+}

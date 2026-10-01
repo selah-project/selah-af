@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 96,
+  "translation": "Majesteit en heerlikheid ⟨is⟩ voor sy aangesig, krag en prag ⟨is⟩ in sy heiligdom.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "majesteit"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "en heerlikheid"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "en prag"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "in sy heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:38.896699044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 22:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "en hulle laat ⟨את⟩ hulle die ongeregtigheid van skuld dra deurdat hulle ⟨את⟩ hulle heilige gawes eet; want ek is Jahweh wat hulle heilig.",
+  "tokens": [
+    {
+      "surface": "והשיאו",
+      "gloss": "en hulle laat dra"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ongeregtigheid"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "van skuld"
+    },
+    {
+      "surface": "באכלם",
+      "gloss": "deurdat hulle eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle heilige gawes"
+    },
+    {
+      "surface": "קדשיהם",
+      "gloss": "hulle heilige gawes"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wat hulle heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:52.831020078Z",
+  "model": "glm-5.3"
+}

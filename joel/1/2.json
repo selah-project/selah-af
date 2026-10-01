@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 1:2",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hoor dit, ou manne, en luister, alle inwoners van die land: het dit in julle dae gebeur, of selfs in die dae van julle vaders?",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ou manne"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "en luister"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "inwoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "ההיתה",
+      "gloss": "het dit gebeur"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בימיכם",
+      "gloss": "in julle dae"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of selfs"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "in die dae van"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "julle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:06.662334516Z",
+  "model": "glm-5.3"
+}

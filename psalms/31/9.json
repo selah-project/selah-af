@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "en my nie oorgelewer in die hand van ⟨die⟩ vyand nie; U het my voete laat staan in ⟨'n⟩ ruim plek.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "het my toegesluite"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "U het laat staan"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "in ⟨'n⟩ ruim plek"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:27.019753931Z",
+  "model": "glm-5.3"
+}

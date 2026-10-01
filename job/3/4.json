@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Daardie dag — laat dit duisternis wees; mag Eloha dit nie van bo opsoek nie, en mag daar geen lig daarop skyn nie.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "laat dit wees"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "mag … opsoek"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Eloha"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "van bo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "mag skyn"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "lig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:26.826965711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Want die dorsige siel het Hy versadig, en die hongerige siel het Hy met goeies gevul.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "het Hy versadig"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "dorsige"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "en die siel"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "hongerige"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "het Hy gevul"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "met goeies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:06.074138192Z",
+  "model": "glm-5.3"
+}

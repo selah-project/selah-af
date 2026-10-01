@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 5:24",
+  "book": "job",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En jy sal weet dat vrede ⟨in⟩ jou tent ⟨is⟩, en jy sal jou woonplek deurgaan en niks mis nie.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "en jy sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "jou tent"
+    },
+    {
+      "surface": "ופקדת",
+      "gloss": "en jy sal deurgaan"
+    },
+    {
+      "surface": "נוך",
+      "gloss": "jou woonplek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "mis nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:09.804081153Z",
+  "model": "glm-5.3"
+}

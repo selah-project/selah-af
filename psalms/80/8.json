@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Elohim Tsewaot, bring ons terug, en laat u gesig skyn, en ons sal gered word.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "bring ons terug"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "en laat skyn"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u gesig"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "en ons sal gered word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:42.796771139Z",
+  "model": "glm-5.3"
+}

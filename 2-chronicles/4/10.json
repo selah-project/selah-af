@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En ⟨את⟩ die See het hy gestaan van die regterskou af, ooswaarts, teenoor die suide.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die See"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die See"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het hy gestaan\/gegee"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "van die skou"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "die regter-"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ooswaarts"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "die suide"
+    }
+  ],
+  "timestamp": "2026-10-01T00:54:46.337893545Z",
+  "model": "glm-5.3"
+}

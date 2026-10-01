@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 104:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hoë berge vir ⟨die⟩ klipdassies; rotse — 'n skuilplek vir ⟨die⟩ klipdassies.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "hoë"
+    },
+    {
+      "surface": "ליעלים",
+      "gloss": "vir die bergbokke"
+    },
+    {
+      "surface": "סלעים",
+      "gloss": "rotse"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "'n skuilplek"
+    },
+    {
+      "surface": "לשפנים",
+      "gloss": "vir die klipdassies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:31.711893926Z",
+  "model": "glm-5.3"
+}

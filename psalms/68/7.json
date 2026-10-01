@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Elohim laat eensames in 'n huis woon, Hy bring gevangenes uit met gesang; maar die wederspanniges bewoon 'n verskroeide land.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "laat woon"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "eensames"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "in 'n huis"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "Hy bring uit"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "gevangenes"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "met gesang"
+    },
+    {
+      "surface": "אך",
+      "gloss": "maar"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "die wederspanniges"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bewoon"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "'n verskroeide land"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.119019290Z",
+  "model": "glm-5.3"
+}

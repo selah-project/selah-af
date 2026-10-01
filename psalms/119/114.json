@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My skuilplek en my skild ⟨is⟩ U; op jou woord het ek gewag.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "my skuilplek"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "en my skild"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "op jou woord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "het ek gewag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:32.832001291Z",
+  "model": "glm-5.3"
+}

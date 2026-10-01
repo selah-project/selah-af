@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Ook die son het hy nie gesien nie, en dit nie geken nie; ⟨rus⟩ het dié meer as dié ⟨een⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "geken"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "⟨rus⟩"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "aan dié"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "as dié"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:20.638595777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Ek het ⟨את⟩ die profete nie gestuur nie, tog het hulle gehardloop; ek het nie met hulle gespreek nie, tog het hulle geprofeteer.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "het ek gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die profete"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "die profete"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tog het hulle"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "gehardloop"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "het ek gespreek"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "והם",
+      "gloss": "tog het hulle"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "geprofeteer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:44.709602279Z",
+  "model": "glm-5.3"
+}

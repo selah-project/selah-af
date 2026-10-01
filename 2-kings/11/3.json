@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 11:3",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy was by ⟨את⟩ haar in die huis van Jahweh weggesteek, ses jaar lank, terwyl Atalja oor die land geregeer het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en hy was"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ by haar",
+      "marks": "haar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מתחבא",
+      "gloss": "weggesteek"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "terwyl Atalja"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "geregeer het"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:09:48.850620351Z",
+  "model": "glm-5.3"
+}

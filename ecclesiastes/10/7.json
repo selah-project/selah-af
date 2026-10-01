@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Ek het slawe gesien op perde, en owerstes wat loop soos slawe op die aarde.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "slawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "perde"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "en owerstes"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "wat loop"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "soos slawe"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:20.103078502Z",
+  "model": "glm-5.3"
+}

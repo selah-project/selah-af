@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Want U red ⟨die⟩ verdrukte volk, en hoë oë bring U laag.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "עני",
+      "gloss": "verdrukte"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "red"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "en oë"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "hoë"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "bring U laag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:42.077675Z",
+  "model": "glm-5.3"
+}

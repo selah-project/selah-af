@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Kom, laat ons neerbuig en laat ons kniel, laat ons buig voor Jahweh, ons Maker.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "laat ons neerbuig"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "en laat ons kniel"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "laat ons buig"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "ons Maker"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:43.178586931Z",
+  "model": "glm-5.3"
+}

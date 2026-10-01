@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "My Elohim, ek roep bedags, en U antwoord nie, en snags, en daar is geen stilte vir my nie.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ek roep"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "antwoord U"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en snags"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:03.359570094Z",
+  "model": "glm-5.3"
+}

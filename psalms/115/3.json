@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Ons Elohim ⟨is⟩ in die hemel; alles wat Hy behaag het, het Hy gedoen.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "En ons Elohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behaag het"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:17.360357701Z",
+  "model": "glm-5.3"
+}

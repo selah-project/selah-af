@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Die huis van ⟨die⟩ regverdige ⟨het⟩ groot rykdom, maar in die inkomste van ⟨die⟩ goddelose ⟨is⟩ verstoring.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Die huis"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "rykdom"
+    },
+    {
+      "surface": "רב",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "maar in die inkomste"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "verstoring"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:02.217409084Z",
+  "model": "glm-5.3"
+}

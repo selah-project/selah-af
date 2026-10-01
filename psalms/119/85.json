@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Trotses het vir my strikgate gegrawe, wat nie volgens u Tora ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "het gegrawe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "trotses"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "strikgate"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "volgens u Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:37.163655388Z",
+  "model": "glm-5.3"
+}

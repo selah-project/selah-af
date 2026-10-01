@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Hy wat jou lewe uit die put verlos, wat jou kroon met gesed en barmhartighede.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "hy wat verlos"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "uit die put"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "jou lewe"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "wat jou kroon"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "en barmhartighede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.607357241Z",
+  "model": "glm-5.3"
+}

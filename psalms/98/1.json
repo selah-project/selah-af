@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 98,
+  "translation": "'n Mizmor. Sing vir Jahweh 'n nuwe lied, want wonders het ⟨hy⟩ gedoen; sy regterhand en sy heilige arm het hom oorwinning gegee.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Mizmor"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "het oorwinning gegee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sy regterhand"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "en sy arm"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:32.216128072Z",
+  "model": "glm-5.3"
+}

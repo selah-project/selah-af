@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Uit u vermanings kry ek insig; daarom haat ek elke pad van leuens.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "uit u vermanings"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "kry ek insig"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(daarom)"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "haat ek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "pad"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:10.671574901Z",
+  "model": "glm-5.3"
+}

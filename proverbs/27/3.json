@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Swaar ⟨is⟩ 'n klip, en die sand 'n las, maar die woede van 'n dwaas is swaarder as altwee.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "'n klip"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "en 'n las"
+    },
+    {
+      "surface": "החול",
+      "gloss": "die sand"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "maar die woede"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "van 'n dwaas"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "is swaarder"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "as altwee"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:34.298658424Z",
+  "model": "glm-5.3"
+}

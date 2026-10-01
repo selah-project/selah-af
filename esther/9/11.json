@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Op daardie dag het die getal van die gedoodes in Sjoesjan ⟨die⟩ vesting voor die koning gekom",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "die getal van"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "die gedoodes"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "in Sjoesjan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "⟨die⟩ vesting"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:15.755300364Z",
+  "model": "glm-5.3"
+}

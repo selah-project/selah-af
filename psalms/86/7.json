@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Op die dag van my benoudheid roep ek U aan, want U antwoord my.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "van my benoudheid"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "roep ek U aan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "U antwoord my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.387243336Z",
+  "model": "glm-5.3"
+}

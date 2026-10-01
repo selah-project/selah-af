@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 79:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 79,
+  "translation": "Ons het 'n smaad geword vir ons bure, 'n spot en 'n bespotting vir die wat rondom ons ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "היינו",
+      "gloss": "ons het geword"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "'n smaad"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "vir ons bure"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "'n spot"
+    },
+    {
+      "surface": "וקלס",
+      "gloss": "en 'n bespotting"
+    },
+    {
+      "surface": "לסביבותינו",
+      "gloss": "vir die wat rondom ons ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:55.053507619Z",
+  "model": "glm-5.3"
+}

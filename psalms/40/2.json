@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Ek het verwag, ek het vir Jahweh verwag, en ⟨hy⟩ het na my toe geneig en mijn geroep gehoor.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "ek het verwag"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ek het verwag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "en hy het geneig"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het gehoor"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "my geroep"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.398265335Z",
+  "model": "glm-5.3"
+}

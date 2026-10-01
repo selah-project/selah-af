@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Jy mag nie as 'n lasterdrager onder jou volk rondgaan nie; jy mag nie stilstaan by ⟨die⟩ bloed van jou naaste nie: ek is Jahweh.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "rondgaan"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "as 'n lasterdrager"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "onder jou volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "stilstaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "דם",
+      "gloss": "bloed"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "van jou naaste"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:01.815112217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Spreek my vry volgens u tsedek, Jahweh my Elohim, en laat hulle nie oor my jubel nie.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "spreek my vry"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "volgens u tsedek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "laat hulle jubel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:12.643881389Z",
+  "model": "glm-5.3"
+}

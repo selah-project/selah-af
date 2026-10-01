@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 35:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En die stede sal vir hulle wees om in te woon, en hulle weiwerwe sal vir hulle vee en vir hulle goed en vir al hulle diere wees.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om in te woon"
+    },
+    {
+      "surface": "ומגרשיהם",
+      "gloss": "en hulle weiwerwe"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לבהמתם",
+      "gloss": "vir hulle vee"
+    },
+    {
+      "surface": "ולרכשם",
+      "gloss": "en vir hulle goed"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en vir al"
+    },
+    {
+      "surface": "חיתם",
+      "gloss": "hulle diere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:48.959064783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Want wie ⟨is⟩ El behalwe Jahweh, en wie ⟨is⟩ ’n rots behalwe onse Elohim?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "El"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "צור",
+      "gloss": "'n rots"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:40.246724008Z",
+  "model": "glm-5.3"
+}

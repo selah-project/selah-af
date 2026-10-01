@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "⟨את⟩ elke oref na sy soort —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elke oref"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "oref"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "na sy soort"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:14.015714860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 4:47",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en hulle het ⟨את⟩ sy land in besit geneem, en ⟨את⟩ die land van Og, koning van Basjan, die twee konings van die Emori wat aan die oorkant van die Jordaan was, na die ooste van die son —",
+  "tokens": [
+    {
+      "surface": "ויירשו",
+      "gloss": "en hulle het in besit geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy land"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "sy land"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die land van Og"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "van Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van Basjan"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konings"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "van die Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "aan die oorkant was"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "van die Jordaan"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "na die ooste"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "van die son"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:50.872389305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 40:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy sal Aharon beklee met ⟨את⟩ die klere van die heiligdom, en jy sal hom salf en hom heilig, en hy sal vir My as priester dien.",
+  "tokens": [
+    {
+      "surface": "והלבשת",
+      "gloss": "beklee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klere van die heiligdom"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "die klere"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "salf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "וכהן",
+      "gloss": "as priester dien"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:09.003798179Z",
+  "model": "glm-5.3"
+}

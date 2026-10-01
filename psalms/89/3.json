@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Want ek het gesê: vir ewig word gesed gebou; die hemele — U vestig u trou in hulle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "word gebou"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "U vestig"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "u trou"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:42.244705500Z",
+  "model": "glm-5.3"
+}

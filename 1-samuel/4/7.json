@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die Filistyne het gevrees, want hulle het gesê: ⟨ Daar is⟩ gode in die laer gekom. En hulle het gesê: Wee ons, want so iets was daar nie gister nie en eergister nie.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle het gevrees"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "hulle het gesê"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die laer"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "so iets"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "gister"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "en eergister"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:25.163645049Z",
+  "model": "glm-5.3"
+}

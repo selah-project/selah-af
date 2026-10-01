@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Sjelomo het ⟨את⟩ Gezer gebou, en ⟨את⟩ Bet-Goron, die onderste,",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en … het gebou"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Bet-Goron, die onderste"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Goron"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "die onderste"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:35.940853954Z",
+  "model": "glm-5.3"
+}

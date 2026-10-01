@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "En geseënd ⟨is⟩ die naam van sy heerlikheid tot in ewigheid, en mag sy heerlikheid ⟨את⟩ die hele aarde vul. Amen, en amen.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "en geseënd"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "van sy heerlikheid"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en mag vul"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy heerlikheid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele aarde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "en amen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:50.667945790Z",
+  "model": "glm-5.3"
+}

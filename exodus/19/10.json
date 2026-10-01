@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Jahweh het vir Mosje gesê: Gaan na die volk toe en heilig hulle vandag en môre, en laat hulle hulle klere was",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "en heilig hulle"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "en môre"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "en laat hulle was"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "hulle klere"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:39.236023316Z",
+  "model": "glm-5.3"
+}

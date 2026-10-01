@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 8:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Ghasaël het gegaan om hom te ontmoet, en hy het 'n geskenk in sy hand geneem, ja alle goeie van Damaskes, 'n las van veertig kamele; en hy het gekom en voor hom gestaan en gesê: Jou seun Ben-Hadad, koning van Aram, het my na jou gestuur om te sê: Sal ek ⟨herstel⟩ van hierdie siekte?",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Ghasaël"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "om hom te ontmoet"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "'n geskenk"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ja alle"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "van Damaskes"
+    },
+    {
+      "surface": "משא",
+      "gloss": "'n las"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "van veertig"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "kamele"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het gekom"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en hy het gestaan"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "het my gestuur"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "האחיה",
+      "gloss": "sal ek ⟨herstel⟩"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "van hierdie siekte"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:54.517709519Z",
+  "model": "glm-5.3"
+}

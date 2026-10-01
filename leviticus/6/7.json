@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En dit ⟨is⟩ die Tora van die minga: die seuns van Aharon bring ⟨את⟩ haar voor Jahweh, teenoor die aangesig van die altaar.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "van die minga"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bring"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (die minga)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "van Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:23.118674837Z",
+  "model": "glm-5.3"
+}

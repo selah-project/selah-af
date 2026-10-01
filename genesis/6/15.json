@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 6:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En dit is hoe jy dit ⟨את⟩ moet maak: driehonderd el ⟨is⟩ die lengte van die ark, vyftig el sy breedte en dertig el sy hoogte.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "en dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy moet maak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "sy breedte"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "el"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "sy hoogte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:51.055375768Z",
+  "model": "glm-5.3"
+}

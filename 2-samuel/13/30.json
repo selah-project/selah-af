@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Terwyl hulle op die pad was, het die gerug by Dawid aangekom om te sê: Absjalom het ⟨את⟩ al die seuns van die koning geslaan, en daar het nie een van hulle oorgebly nie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "terwyl"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "het die gerug"
+    },
+    {
+      "surface": "באה",
+      "gloss": "aangekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absjalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die seuns van die koning"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "oorgebly"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:28.233437850Z",
+  "model": "glm-5.3"
+}

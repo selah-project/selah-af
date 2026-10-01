@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ die ram het hy in sy stukke gesny; en Mosje het ⟨את⟩ die kop en ⟨את⟩ die stukke en ⟨את⟩ die vet met rook laat opgaan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "in stukke gesny het"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "in sy stukke"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "laat opgaan het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kop"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die stukke"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "die stukke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "die vet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:30.346776601Z",
+  "model": "glm-5.3"
+}

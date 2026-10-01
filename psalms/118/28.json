@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "My El is jy, en ek sal jou loof; my Elohim, ek sal jou verhoog.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "my El"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "is jy"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "en ek sal jou loof"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ek sal jou verhoog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:46.193706846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En jou naam sal nie meer Awram genoem word nie, maar jou naam sal Awraham wees, want 'n vader van 'n menigte nasies het Ek jou gemaak.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "sal genoem word"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou naam"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en sal wees"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אב",
+      "gloss": "vader"
+    },
+    {
+      "surface": "המון",
+      "gloss": "'n menigte"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "het Ek jou gemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:22.987560562Z",
+  "model": "glm-5.3"
+}

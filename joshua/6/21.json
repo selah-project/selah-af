@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 6:21",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle het alles wat in die stad was in die ban gedoem, ⟨את⟩ alles wat in ⟨die⟩ stad was, van man tot vrou, van jongkind tot grysaard, en tot os en skaap en donkie, deur die mond van die swaard.",
+  "tokens": [
+    {
+      "surface": "ויחרימו",
+      "gloss": "en hulle het in die ban gedoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "van man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "vrou"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "van jongkind"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "grysaard"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "שור",
+      "gloss": "os"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "en skaap"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "en donkie"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "deur die mond"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:28.664737300Z",
+  "model": "glm-5.3"
+}

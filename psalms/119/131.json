@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 131,
+  "ref": "psalms 119:131",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My mond het ek oopgesper en gehyg, want na u gebooie het ek verlang.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "פערתי",
+      "gloss": "het ek oopgesper"
+    },
+    {
+      "surface": "ואשאפה",
+      "gloss": "en gehyg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "למצותיך",
+      "gloss": "na u gebooie"
+    },
+    {
+      "surface": "יאבתי",
+      "gloss": "het ek verlang"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.448265138Z",
+  "model": "glm-5.3"
+}

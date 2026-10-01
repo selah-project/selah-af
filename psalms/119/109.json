@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My life ⟨is⟩ in my palm continually, but your Tora have I not forgotten.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "in my palm"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "aaneenlopend"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "maar jou Tora"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "het ek vergeet nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:18.490293173Z",
+  "model": "glm-5.3"
+}

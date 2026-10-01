@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Beter ⟨is⟩ 'n naam as goeie olie, en die dag van die dood as die dag van ⟨die⟩ geboorte.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Beter"
+    },
+    {
+      "surface": "שם",
+      "gloss": "'n naam"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "as"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie olie"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "en die dag"
+    },
+    {
+      "surface": "המות",
+      "gloss": "van die dood"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "as die dag"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "van geboorte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:58.036641582Z",
+  "model": "glm-5.3"
+}

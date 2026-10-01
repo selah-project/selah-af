@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Vir die koorleier; van die seuns van Korag; op alamot; 'n lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleider"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "alamot"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:07.889369788Z",
+  "model": "glm-5.3"
+}

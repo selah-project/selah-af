@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Geplant in die huis van Jahweh, in die howe van ons Elohim sal hulle bot.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "geplant"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "in die howe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van ons Elohim"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "sal hulle bot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:28.039757055Z",
+  "model": "glm-5.3"
+}

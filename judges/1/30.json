@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Sebulon het ⟨את⟩ die bewoners van Kitron en ⟨את⟩ die bewoners van Nahalol nie onteien nie; en die Kanaäniet het in sy midde gewoon, en hulle het dwangarbeiders geword.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "Sebulon"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "onteien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bewoners van Kitron"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die bewoners"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "van Kitron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die bewoners van Nahalol"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die bewoners"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "van Nahalol"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en het gewoon"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sy midde"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle het geword"
+    },
+    {
+      "surface": "למס",
+      "gloss": "dwangarbeiders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:51.209683739Z",
+  "model": "glm-5.3"
+}

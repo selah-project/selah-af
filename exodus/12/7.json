@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle sal van die bloed neem en dit gee op die twee deurposte en op die bo-drempel, op die huise waarin hulle dit daarin eet.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "en hulle sal neem"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "deurposte"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "die bo-drempel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "die huise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wanneer\/ waarin"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "hulle eet"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die lam)"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:57.462462941Z",
+  "model": "glm-5.3"
+}

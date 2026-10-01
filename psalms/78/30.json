@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hulle het van hul begeerte nie afgewyk nie — nog was hul spys in hulle mond.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "het afgewyk"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "van hul begeerte"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "hul spys"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "in hulle mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:16.487088519Z",
+  "model": "glm-5.3"
+}

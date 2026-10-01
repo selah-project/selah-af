@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "⟨את⟩ twee waens en ⟨את⟩ vier beeste het hy aan die seuns van Gersjon gegee, volgens hulle diens.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "twee waens"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "waens"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "vier beeste"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "vier"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "beeste"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Gersjon"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "volgens"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hulle diens"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:30.306748485Z",
+  "model": "glm-5.3"
+}

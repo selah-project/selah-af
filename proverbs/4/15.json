@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Wyk daarvan af, moenie daarop deurgaan nie; swerf daarvandaan weg en gaan verby.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "Wyk daarvan af"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "deurgaan"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "swerf weg"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "daarvandaan"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "en gaan verby"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:22.656451373Z",
+  "model": "glm-5.3"
+}

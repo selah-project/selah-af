@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Elazar het ⟨את⟩ Pinegas verwek, Pinegas het ⟨את⟩ Awisjoea verwek.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazar"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Pinegas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinegas"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinegas"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awisjoea"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Awisjoea"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:24.921272569Z",
+  "model": "glm-5.3"
+}

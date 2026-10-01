@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En nou, gaan, laat ek jou tog raad gee, 'n raad, en red ⟨את⟩ jou lewe en ⟨את⟩ die lewe van jou seun Shelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "laat ek jou raad gee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "'n raad"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "en red"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou lewe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou lewe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die lewe van jou seun Shelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Shelomo"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:41.997823461Z",
+  "model": "glm-5.3"
+}

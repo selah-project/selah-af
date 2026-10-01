@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Want die koning vertrou op Jahweh, en deur die gesed van die Hoogste sal hy geensins wankel nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "en deur die gesed"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "van die Hoogste"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geensins"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sal hy wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:53.895363053Z",
+  "model": "glm-5.3"
+}

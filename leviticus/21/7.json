@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 21:7",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "'n Vrou van wellus en 'n ontheiligde moet hulle nie neem nie, en 'n vrou wat deur haar man weggestuur is, moet hulle nie neem nie, want hy is heilig vir sy Elohim.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "זנה",
+      "gloss": "van wellus"
+    },
+    {
+      "surface": "וחללה",
+      "gloss": "en 'n ontheiligde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "moet hulle neem"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "en 'n vrou"
+    },
+    {
+      "surface": "גרושה",
+      "gloss": "weggestuurde"
+    },
+    {
+      "surface": "מאישה",
+      "gloss": "deur haar man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "moet hulle neem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לאלהיו",
+      "gloss": "vir sy Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:37.535161098Z",
+  "model": "glm-5.3"
+}

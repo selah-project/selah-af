@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 14:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het ⟨את⟩ al die goed teruggebring, en ook ⟨את⟩ Lot sy broer en sy goed het hy teruggebring, en ook ⟨את⟩ die vroue en ⟨את⟩ die volk.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die goed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הרכש",
+      "gloss": "die goed"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lot sy broer"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ורכשו",
+      "gloss": "en sy goed"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "het hy teruggebring"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vroue"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die vroue"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:18.905022194Z",
+  "model": "glm-5.3"
+}

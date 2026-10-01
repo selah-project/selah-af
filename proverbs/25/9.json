@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Voer jou saak met jou naaste, en ⟨את⟩ die vertroue van 'n ander mag jy nie openbaar nie.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "jou saak voer"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "voer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou naaste"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "jou naaste"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "en die vertroue"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "van 'n ander"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "openbaar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:31.848498396Z",
+  "model": "glm-5.3"
+}

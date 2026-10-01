@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 16:5",
+  "book": "job",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ek sou julle versterk met my mond, en die beweging van my lippe sou ⟨dit⟩ spaar.",
+  "tokens": [
+    {
+      "surface": "אאמצכם",
+      "gloss": "sou ek julle versterk"
+    },
+    {
+      "surface": "במו",
+      "gloss": "met"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "וניד",
+      "gloss": "en die beweging"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "van my lippe"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "sou spaar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:38.938008339Z",
+  "model": "glm-5.3"
+}

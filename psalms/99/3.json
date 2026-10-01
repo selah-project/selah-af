@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Hulle loof ⟨את⟩ jou groot en gedugte naam — heilig ⟨is⟩ hy.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Hulle loof"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "gedugte"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:34.175733453Z",
+  "model": "glm-5.3"
+}

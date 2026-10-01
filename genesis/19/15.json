@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 19:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En toe die dagbreek opgekom het, het die engele Lot aangejaag en gesê: Staan op, neem ⟨את⟩ jou vrou en ⟨את⟩ jou twee dogters wat daar gevind word, sodat jy nie weggevee word in die ongeregtigheid van die stad nie.",
+  "tokens": [
+    {
+      "surface": "וכמו",
+      "gloss": "en toe"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "die dagbreek"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opgekom het"
+    },
+    {
+      "surface": "ויאיצו",
+      "gloss": "het aangejaag"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "die engele"
+    },
+    {
+      "surface": "בלוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woorde"
+    },
+    {
+      "surface": "קום",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vrou"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "jou vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou twee dogters"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "בנתיך",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "הנמצאת",
+      "gloss": "wat gevind word"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat ... nie"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "weggevee word"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "in die ongeregtigheid"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:58.596372753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "en die seuns van Jisraël moet die Pasga ⟨את⟩ doen in sy bepaalde tyd.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle moet doen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Pasga"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "die Pasga"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "in sy bepaalde tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:33.619704484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hulle het nie ⟨את⟩ sy hand gedink nie, die dag toe hy hulle losgekoop het van die vyand.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "hulle het gedink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "hy hulle losgekoop het"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van"
+    },
+    {
+      "surface": "צר",
+      "gloss": "die vyand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:11.114353237Z",
+  "model": "glm-5.3"
+}

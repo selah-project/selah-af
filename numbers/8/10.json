@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 8:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En jy sal ⟨את⟩ die Lewiete bring voor Jahweh, en die seuns van Jisraël sal ⟨את⟩ hulle hande lê op die Lewiete.",
+  "tokens": [
+    {
+      "surface": "והקרבת",
+      "gloss": "en jy sal bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Lewiete"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiete"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "en hulle sal lê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiete"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:52.652274794Z",
+  "model": "glm-5.3"
+}

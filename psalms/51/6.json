@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Teen jou, jou alleen, het ek gesondig, en die kwaad in jou oë gedoen, sodat jy tsedek sal wees in jou woorde, suiwer in jou oordeel.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Teen jou"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "jou alleen"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "het ek gesondig"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "en die kwaad"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "in jou oë"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "tsedek sal wees"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "in jou woorde"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "suiper"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "in jou oordeel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:33.057391344Z",
+  "model": "glm-5.3"
+}

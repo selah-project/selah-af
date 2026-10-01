@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Seuns van ⟨die⟩ man, hoe lank — my eer tot smaad? Julle het nietigheid lief, julle soek leuen. Sela.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨die⟩ man"
+    },
+    {
+      "surface": "עד",
+      "gloss": "hoe lank"
+    },
+    {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my eer"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "tot smaad"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "julle het lief"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "julle soek"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:46.295887830Z",
+  "model": "glm-5.3"
+}

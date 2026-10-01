@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "U het sy glans laat ophou, en sy troon na ⟨die⟩ aarde toe neergewerp.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "U het laat ophou"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "sy glans"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "en sy troon"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "na die aarde"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "het U neergewerp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:45.602607682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En dit het gebeur, toe Dawid ⟨את⟩ by את Edom was, in die opgaan van Joab, die owerste van die leër, om ⟨את⟩ die gesneuweldes te begrawe, dat hy elke manlike in Edom geslaan het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "toe ... was"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ by"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "in die opgaan van"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "שר",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "om te begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gesneuweldes"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "die gesneuweldes"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "dat hy geslaan het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "manlike"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:24.534470814Z",
+  "model": "glm-5.3"
+}

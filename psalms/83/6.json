@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Want hulle het met een hart saam beraadslaag; teen U sluit hulle 'n verbond.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "het saam beraadslaag"
+    },
+    {
+      "surface": "לב",
+      "gloss": "met een hart"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen U"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "'n verbond"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "sluit hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:37.490422276Z",
+  "model": "glm-5.3"
+}

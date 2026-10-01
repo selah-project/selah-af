@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En waarom het jy ⟨את⟩ die eed van Jahweh nie bewaar nie, en ⟨את⟩ die gebod wat ek jou opgelê het?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "en waarom"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "jy bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die eed van Jahweh"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die eed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die gebod"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "die gebod"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ek opgelê het"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:31.713546607Z",
+  "model": "glm-5.3"
+}

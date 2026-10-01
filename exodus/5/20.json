@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 5:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hulle het ⟨את⟩ Mosje en ⟨את⟩ Aharon ontmoet — hulle wat gestaan het om hulle tegemoet te kom — toe hulle uitgaan van ⟨את⟩ Paro.",
+  "tokens": [
+    {
+      "surface": "ויפגעו",
+      "gloss": "en hulle het ontmoet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נצבים",
+      "gloss": "gestaan het"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "om hulle tegemoet te kom"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "toe hulle uitgaan"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩ af"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:42.867692097Z",
+  "model": "glm-5.3"
+}

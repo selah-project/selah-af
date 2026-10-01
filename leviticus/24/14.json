@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 24:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Bring die ⟨את⟩ vloeker na buite die kamp, en almal wat ⟨את⟩ gehoor het, laat hulle hulle hande op sy hoof lê; en die hele vergadering laat hulle hom stenig.",
+  "tokens": [
+    {
+      "surface": "הוצא",
+      "gloss": "Bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vloeker"
+    },
+    {
+      "surface": "המקלל",
+      "gloss": "die vloeker"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "die kamp"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "en laat lê"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "wat gehoor het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hoor — voorwerp van hoor"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy hoof"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "en laat stenig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:51.636851156Z",
+  "model": "glm-5.3"
+}

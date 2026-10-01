@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 43:9",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Nou moet hulle ⟨את⟩ hul hoerery en die lyke van hulle konings ver van My af wegneem, en Ek sal in hulle midde woon tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Nou"
+    },
+    {
+      "surface": "ירחקו",
+      "gloss": "ver wegneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul hoerery"
+    },
+    {
+      "surface": "זנותם",
+      "gloss": "hul hoerery"
+    },
+    {
+      "surface": "ופגרי",
+      "gloss": "en die lyke"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hulle konings"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van My af"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "en Ek sal woon"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "in hulle midde"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:57:20.261764360Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Wie het ⟨את⟩ die roeag van Jahweh afgemeet, en watter man het as sy raadgewer ⟨hom⟩ laat weet?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "afgemeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die roeag van Jahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en watter man"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "sy raad"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "het hom laat weet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:57.755265763Z",
+  "model": "glm-5.3"
+}

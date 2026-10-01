@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Treur en verdor ⟨die⟩ aarde, kwyn en verdor ⟨die⟩ wêreld; die hoogtes van die volk van die aarde kwyn.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "Treur"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "en verdor"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨die⟩ aarde"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "kwynt"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "en verdor"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "⟨die⟩ wêreld"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "kwynt"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "die hoogtes"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:28.055986942Z",
+  "model": "glm-5.3"
+}

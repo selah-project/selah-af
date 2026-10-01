@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "Om te verkondig in die oggend u gesed, en u trou in die nagte.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "om te verkondig"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die oggend"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "en u trou"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "in die nagte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.534981238Z",
+  "model": "glm-5.3"
+}

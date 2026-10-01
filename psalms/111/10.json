@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Die begin van wysheid ⟨is⟩ die vrees van Jahweh; goeie insig vir almal wat hulle doen; sy lof staan vir altyd.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Die begin"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "van wysheid"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "die vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "insig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir almal"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "wat hulle doen"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir altyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:45.310412447Z",
+  "model": "glm-5.3"
+}

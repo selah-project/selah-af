@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 127,
+  "translation": "Soos pyle in die hand van 'n held, so ⟨is⟩ die seuns van die jeug.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Soos pyle"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "van 'n held"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "van die jeug"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:47.089269542Z",
+  "model": "glm-5.3"
+}

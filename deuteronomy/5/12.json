@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Bewaar ⟨את⟩ die dag van die Sjabbat om dit te heilig, soos Jahweh jou Elohim jou beveel het.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dag van die Sjabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van die Sjabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "om dit te heilig"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "jou beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:28.865660917Z",
+  "model": "glm-5.3"
+}

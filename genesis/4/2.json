@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 4:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En sy het bygevoeg om te baar ⟨את⟩ sy broer, ⟨את⟩ Hebel; en Hebel was 'n herder van kleinvee, en Kajin was 'n bewerker van ⟨die⟩ grond.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "En sy het bygevoeg"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "om te baar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broer"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hebel"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Hebel"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "'n herder"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "van kleinvee"
+    },
+    {
+      "surface": "וקין",
+      "gloss": "en Kajin"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "'n bewerker"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "van grond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:03.899643429Z",
+  "model": "glm-5.3"
+}

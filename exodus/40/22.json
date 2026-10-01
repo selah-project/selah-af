@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het ⟨את⟩ die tafel in die tent van samekoms geplaas, aan die sy van die Misjkan, na die noorde, buitekant die voorhangsel.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "geplaas het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "die sy"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "na die noorde"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "buitekant"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "die voorhangsel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:01.089130018Z",
+  "model": "glm-5.3"
+}

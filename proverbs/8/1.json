@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Roeap ⟨die⟩ wysheid nie ⟨'n⟩ roep, en verstand gee ⟨nie⟩ haar stem nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "en verstand"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "haar stem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.062239185Z",
+  "model": "glm-5.3"
+}

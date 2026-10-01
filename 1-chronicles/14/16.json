@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Dawid het gedoen soos Elohim hom beveel het, en hulle het ⟨את⟩ die leër van die Filistyne geslaan, van Gibeon af tot by Geser.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en het gedoen"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "hom beveel het"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die leër van die Filistyne"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die leër"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "van Gibeon af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "Geser"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:55.706919366Z",
+  "model": "glm-5.3"
+}

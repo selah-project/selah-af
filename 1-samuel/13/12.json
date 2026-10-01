@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "want ek het gesê: Nou sal die Filistyne na my toe by Gilgal afkom, en die aangesig van Jahweh het ek nie versoen nie; toe het ek my gedwing en die brandoffer laat opgaan.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "want ek het gesê"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "sal afkom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "by Gilgal"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "het ek versoen"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "en ek het my gedwing"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "en ek het laat opgaan"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:42:16.053310506Z",
+  "model": "glm-5.3"
+}

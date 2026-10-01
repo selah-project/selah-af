@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 141,
+  "translation": "Soos een wat spit en oopbreek in die aarde, so word ons beendere gestrooi by die mond van Sjeol.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "spit"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "en oopbreek"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die aarde"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "word gestrooi"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "ons beendere"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by die mond van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjeol"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:28.580788832Z",
+  "model": "glm-5.3"
+}

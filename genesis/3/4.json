@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die slang het aan die vrou gesê: Sterwend sal julle beslis nie sterf nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "die slang"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterwend"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "sal julle sterf"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:51.353212192Z",
+  "model": "glm-5.3"
+}

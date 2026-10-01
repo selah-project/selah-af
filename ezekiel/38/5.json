@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Paras, Kusj en Poet ⟨את⟩ hulle; almal van hulle met skild en helm.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Paras"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kusj"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "en Poet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (met hulle)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "almal van hulle"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skild"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "en helm"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:30.121131437Z",
+  "model": "glm-5.3"
+}

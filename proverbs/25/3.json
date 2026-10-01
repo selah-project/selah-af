@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Die hemel ⟨is⟩ hoog en die aarde diep, en die hart van konings ⟨is⟩ sonder omvattingsgrens.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Die hemel"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "diep"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en die hart"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "van konings"
+    },
+    {
+      "surface": "אין",
+      "gloss": "sonder"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "omvattingsgrens"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:14.072847508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 45:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Helemaal pragtig ⟨is⟩ ⟨die⟩ dogter van ⟨die⟩ koning binnetoe; van settings van goud ⟨is⟩ haar kleed.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "heeltemal"
+    },
+    {
+      "surface": "כבודה",
+      "gloss": "pragtig"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van ⟨die⟩ koning"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "binnetoe"
+    },
+    {
+      "surface": "ממשבצות",
+      "gloss": "van settings"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "haar kleed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:47.503184604Z",
+  "model": "glm-5.3"
+}

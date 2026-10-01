@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Laat hulle beskaamd word en verskrik tot in ewigheid, en laat hulle verneder word en omkom.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "laat hulle beskaamd word"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "en verskrik"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ewigheid"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "en laat hulle verneder word"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "en omkom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:25.594469351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Nagor het nege-en-twintig jaar gelewe, en hy het ⟨את⟩ Terag verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nagor"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nege"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Terag"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Terag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:26.263105819Z",
+  "model": "glm-5.3"
+}

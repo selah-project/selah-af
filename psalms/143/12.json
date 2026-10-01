@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "En in u gesed roei my vyande uit, en vernietig al die verdrukkers van my siel, want ek is u dienaar.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "en in u gesed"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "roei uit"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "en vernietig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "die verdrukkers"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "van my siel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:15.170187764Z",
+  "model": "glm-5.3"
+}

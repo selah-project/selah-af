@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 12:25",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "en ⟨hy⟩ het gestuur deur die hand van Natan die profeet, en ⟨hy⟩ het ⟨את⟩ sy naam geroep Jedidja, ter wille van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "ידידיה",
+      "gloss": "Jedidja"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:22.597557211Z",
+  "model": "glm-5.3"
+}

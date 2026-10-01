@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En ná hom het ⟨את⟩ Jisraël geoordeel Ibsan, uit Bet-Legem.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "het geoordeel"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ná hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ibsan"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Legem"
+    }
+  ],
+  "timestamp": "2026-09-30T21:37:09.086864583Z",
+  "model": "glm-5.3"
+}

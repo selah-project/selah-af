@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En daar was oorlog tussen Asa en tussen Basja, die koning van Jisraël, al hulle dae.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "En oorlog"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Basja"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "hulle dae"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:51.486418349Z",
+  "model": "glm-5.3"
+}

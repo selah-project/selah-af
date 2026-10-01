@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 93,
+  "translation": "Die riviere het hul gebrul verhef, Jahweh; die riviere het hul stem verhef; die riviere verhef hul branding.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hul stem"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "verhef"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "hul branding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:57.768661631Z",
+  "model": "glm-5.3"
+}

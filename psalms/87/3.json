@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "Gloreryke dinge word van jou gespreek, stad van ⟨die⟩ Elohim. Sela.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "gloreryke dinge"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "word gespreek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van ⟨die⟩ Elohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:52.815697812Z",
+  "model": "glm-5.3"
+}

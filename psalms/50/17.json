@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 50:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En jy haat tug, en jy het my woorde agter jou weggegooi.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "haat jy"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tug"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "en jy het gegooi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "my woorde"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "agter jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.893042384Z",
+  "model": "glm-5.3"
+}

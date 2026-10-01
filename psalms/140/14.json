@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Voorwaar, regverdiges sal U naam loof; die opregtes sal woon voor ⟨את⟩ U aangesig.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Voorwaar"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "sal loof"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "U naam"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sal woon"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "die opregtes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "U aangesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "U aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:59.140938556Z",
+  "model": "glm-5.3"
+}

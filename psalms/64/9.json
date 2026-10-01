@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "En hulle laat hom struikel teen hulle eie tong; almal wat hulle sien, sal wegwyk.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "en hulle laat hom struikel"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "eie tong"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "sal wegwyk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wat sien"
+    },
+    {
+      "surface": "בם",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.695192706Z",
+  "model": "glm-5.3"
+}

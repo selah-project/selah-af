@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hulle land het gewemel van paddas, in die kamer van hul konings.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "gewemel"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "paddas"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "in die kamer van"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hul konings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.533120047Z",
+  "model": "glm-5.3"
+}

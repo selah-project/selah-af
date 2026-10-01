@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 15:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Ek het berou dat ek ⟨את⟩ Sjaul as koning aangestel het, want hy het hom van agter My af weggedraai en ⟨את⟩ My woorde nie uitgevoer nie. Dit het Sjemoeël gegrief, en hy het die hele nag tot Jahweh geroep.",
+  "tokens": [
+    {
+      "surface": "נחמתי",
+      "gloss": "Ek het berou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "המלכתי",
+      "gloss": "ek ... aangestel het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaul"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שב",
+      "gloss": "het weggedraai"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van agter My af"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "My woorde"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "My woorde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "uitgevoer"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "Dit het gegrief"
+    },
+    {
+      "surface": "לשמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "nag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:48.655451487Z",
+  "model": "glm-5.3"
+}

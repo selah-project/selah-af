@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 10:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die begeerte van die ootmoediges het U gehoor, Jahweh; U berei hulle hart voor, U spits ⟨U⟩ oor.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "die begeerte"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "van die ootmoediges"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "het U gehoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "U berei voor"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle hart"
+    },
+    {
+      "surface": "תקשיב",
+      "gloss": "U spits"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "U oor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:13.513931783Z",
+  "model": "glm-5.3"
+}

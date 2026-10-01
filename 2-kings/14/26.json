@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Want Jahweh het ⟨את⟩ die ellende van Jisraël gesien — baie bitter — en ⟨ daar was ⟩ geen opgeslote en geen vrygelaatte, en daar was geen helper vir Jisraël nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ellende"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die ellende"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "opgeslote"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "vrygelaatte"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar was geen"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "helper"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:47.680395801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 29:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ons het ⟨את⟩ hulle land geneem en dit as erfenis gegee aan die Rubeniete en aan die Gadiete en aan die helfte van die stam van Menasje.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "en ons het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle land"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "en ons het dit gegee"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "as erfenis"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "aan die Rubeniete"
+    },
+    {
+      "surface": "ולגדי",
+      "gloss": "en aan die Gadiete"
+    },
+    {
+      "surface": "ולחצי",
+      "gloss": "en aan die helfte"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "van die stam"
+    },
+    {
+      "surface": "המנשי",
+      "gloss": "van Menasje"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:23.393494515Z",
+  "model": "glm-5.3"
+}

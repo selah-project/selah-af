@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "So seker as Jahweh jou Elohim leef: daar is geen nasie of koninkryk waarheen my heer nie iemand gestuur het om jou te soek nie; en hulle het gesê: Hy is nie daar nie; en hy het ⟨את⟩ die koninkryk en ⟨את⟩ die nasie laat sweer dat hulle jou nie sou vind nie.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "of koninkryk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarheen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gestuur het"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "om jou te soek"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "hy is nie daar nie"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "en hy het laat sweer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koninkryk"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "die koninkingryk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die nasie"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "die nasie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "hulle jou sou vind"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:11.512320042Z",
+  "model": "glm-5.3"
+}

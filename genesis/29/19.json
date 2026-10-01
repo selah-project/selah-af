@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Lawan het gesê: Dit is goed dat ek haar ⟨את⟩ aan jou gee eerder as dat ek haar ⟨את⟩ aan 'n ander man gee; bly by my.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "dit is goed"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "dat ek gee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (aan jou)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "eerder as dat ek gee"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (aan 'n ander man)"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan 'n man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "bly"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:32.959171496Z",
+  "model": "glm-5.3"
+}

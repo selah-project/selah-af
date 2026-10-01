@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh sê vir Mosje: die hart van Paro is swaar, hy weier om die volk te laat gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "is swaar"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "hy weier"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "om te laat gaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:26.618493322Z",
+  "model": "glm-5.3"
+}

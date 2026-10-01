@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En al het ek voorwaar gedwael, by my ⟨את⟩ bly my dwaling.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "en al"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "het ek gedwael"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ by my"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "bly"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "my dwaling"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:48.526994195Z",
+  "model": "glm-5.3"
+}

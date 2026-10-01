@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 2:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elkana het gegaan na Rama toe, na sy huis toe; en die seun was dienaar van Jahweh ⟨את⟩, voor die aangesig van Eli die priester.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "na Rama toe"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis toe"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "en die seun"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "diensbaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van Eli die priester"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:47.822376298Z",
+  "model": "glm-5.3"
+}

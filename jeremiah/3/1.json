@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 3:1",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "deur te sê: Kyk, as 'n man ⟨את⟩ sy vrou wegstuur en sy van ⟨את⟩ hom weggaan en sy die vrou van 'n ander man word, sal hy na haar terugkeer? Sou daardie land nie geheel ontheilig wees nie? En jy het met baie minnaars gehoereer — tog, keer terug na My, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "wegstuur"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vrou"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "en sy weggaan"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "van ⟨את⟩ hom"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "en sy word"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vir 'n man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "הישוב",
+      "gloss": "sal hy terugkeer"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "na haar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "sou ... nie"
+    },
+    {
+      "surface": "חנוף",
+      "gloss": "geheel ontheilig"
+    },
+    {
+      "surface": "תחנף",
+      "gloss": "ontheilig word"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "daardie land"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "זנית",
+      "gloss": "het gehoereer"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "minnaars"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "tog, keer terug"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:29:08.866241041Z",
+  "model": "glm-5.3"
+}

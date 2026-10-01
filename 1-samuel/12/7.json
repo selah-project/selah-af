@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 12:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En nou: stel julle op, dan vel ek ⟨את⟩ julle oordeel voor Jahweh oor ⟨את⟩ al die tsedekot van Jahweh wat hy met julle en ⟨את⟩ jul vadere gedoen het.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "stel julle op"
+    },
+    {
+      "surface": "ואשפטה",
+      "gloss": "dan vel ek oordeel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die tsedekot"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "die tsedekot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "met ⟨את⟩ julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "jul vadere"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:15.608179424Z",
+  "model": "glm-5.3"
+}

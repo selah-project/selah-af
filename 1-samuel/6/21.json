@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 6:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle het boodskappers gestuur na die inwoners van Kirjat-Jaärim, om te sê: Die Filistyne het ⟨את⟩ die ark van Jahweh teruggebring; kom af, laat dit op gaan na julle toe.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "en hulle het gestuur"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "die inwoners van"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Kirjat"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Jaärim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "השבו",
+      "gloss": "het teruggebring"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Jahweh"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "kom af"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "laat op gaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na julle toe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:35.333155976Z",
+  "model": "glm-5.3"
+}

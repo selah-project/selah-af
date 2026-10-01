@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "⟨את⟩ die maan en die sterre om die nag te regeer, want vir ewig duur sy gesed.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die maan"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "die maan"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "en die sterre"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "om te regeer"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "duur sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.971463098Z",
+  "model": "glm-5.3"
+}

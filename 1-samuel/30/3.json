@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Dawid en sy manne het by die stad aangekom, en kyk — ⟨dit⟩ was met vuur verbrand, en hulle vroue en hulle seuns en hulle dogters was gevange geneem.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hulle het aangekom"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "en hulle vroue"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "en hulle seuns"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "en hulle dogters"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "was gevange geneem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:28.192141723Z",
+  "model": "glm-5.3"
+}

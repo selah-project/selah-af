@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "dan — hy wat ⟨את⟩ die klank van die sjofar hoor en hom nie laat waarsku nie, as die swaard kom en hom wegruk, sy bloed sal op sy eie hoof wees.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "en hy hoor"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "hy wat luister"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank van die sjofar"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "van die sjofar"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "hom laat waarsku nie"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "en ruk hom weg"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op sy hoof"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:54:07.678278552Z",
+  "model": "glm-5.3"
+}

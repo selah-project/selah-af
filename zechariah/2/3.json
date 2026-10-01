@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh het my vier vakmanne laat sien.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "en hy het my laat sien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "vakmanne"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:22.099694820Z",
+  "model": "glm-5.3"
+}

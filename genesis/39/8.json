@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En hy het geweier en gesê tot die vrou van sy heer: Kyk, my heer weet nie ⟨את⟩ met my wat in die huis is nie, en alles wat daar vir hom is het hy in my hand gegee.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "En hy het geweier"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "van sy heer"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my heer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ (met my)",
+      "marks": "my — voorsetsel 'met', nie voorwerpsmerker nie"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee het"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in my hand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:54.702758910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Ek het gesê: gode is julle, en seuns van die Hoogste, almal van julle.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "gode"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "is julle"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en seuns van"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "die Hoogste"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "almal van julle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:52.036235206Z",
+  "model": "glm-5.3"
+}

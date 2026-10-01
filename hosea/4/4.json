@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Tog — laat geen man twis nie, en laat geen man bestraf nie, want jou volk ⟨is⟩ soos die wat met die priester twis.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Tog"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat ... nie"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "twis"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat ... nie"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "bestraf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "geen man"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "want jou volk"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "soos die wat ... twis"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "met die priester"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:41.110647764Z",
+  "model": "glm-5.3"
+}

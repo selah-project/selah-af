@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Aan die Jode was daar lig, en blydskap, en vreugde, en eer.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Aan die Jode"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "lig"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "en blydskap"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "en vreugde"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "en eer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:19.120737549Z",
+  "model": "glm-5.3"
+}

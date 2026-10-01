@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En die seuns van Jedíael: Bilhan; en die seuns van Bilhan: Jeagoesj, en Binjamin, en Ehud, en Kenáana, en Setan, en Tarsjisj, en Agisjagar.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "Jedíael"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Bilhan"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Jeagoesj"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "en Binjamin"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "en Ehud"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "en Kenáana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "en Setan"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "en Tarsjisj"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "en Agisjagar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:53.661071792Z",
+  "model": "glm-5.3"
+}

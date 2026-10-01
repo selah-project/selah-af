@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 8:22",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die manne van Jisraël sê aan Gideon: Regeer oor ons, ook jy, ook jou seun, ook die seun van jou seun, want jy het ons gered uit die hand van Midjan.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En hulle het gesê"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "משל",
+      "gloss": "regeer"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "oor ons"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "van jou seun"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "jy het ons gered"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:09.738269992Z",
+  "model": "glm-5.3"
+}

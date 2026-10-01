@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Kyk na my, antwoord my, Jahweh my Elohim; laat my oë skyn, dat ek nie die slaap van die dood slaap nie —",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "kyk na my"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "laat skyn"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "פן",
+      "gloss": "dat nie"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ek slaap"
+    },
+    {
+      "surface": "המות",
+      "gloss": "die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:51.071167719Z",
+  "model": "glm-5.3"
+}

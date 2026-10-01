@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 28:4",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Deur jou wysheid en deur jou insig het jy vir jou rykdom gemaak, en jy het goud en silwer in jou skathuise gemaak.",
+  "tokens": [
+    {
+      "surface": "בחכמתך",
+      "gloss": "Deur jou wysheid"
+    },
+    {
+      "surface": "ובתבונתך",
+      "gloss": "en deur jou insig"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het jy gemaak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "rykdom"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "en jy het gemaak"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "וככסף",
+      "gloss": "en silwer"
+    },
+    {
+      "surface": "באוצרותיך",
+      "gloss": "in jou skathuise"
+    }
+  ],
+  "timestamp": "2026-09-30T22:53:11.454854532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die onnosel glo elke woord, maar die geslepe verstaan sy weg.",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "die onnosel"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "glo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "maar die geslepe"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "sy weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:49.969049187Z",
+  "model": "glm-5.3"
+}

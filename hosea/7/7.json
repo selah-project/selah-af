@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 7:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Hulle almal is warm soos 'n oond, en hulle het ⟨את⟩ hulle rigters verslind; al hulle konings het geval — daar is niemand onder hulle wat na My roep nie.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    },
+    {
+      "surface": "יחמו",
+      "gloss": "is warm"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "soos 'n oond"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "en hulle het verslind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle rigters"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "hulle rigters"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "hulle konings"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is niemand"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wat roep"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:46.763055286Z",
+  "model": "glm-5.3"
+}

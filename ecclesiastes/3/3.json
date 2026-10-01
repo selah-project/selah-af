@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Tyd om dood te maak, en 'n tyd om te genees; 'n tyd om af te breek, en 'n tyd om te bou;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "om dood te maak"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "om te genees"
+    },
+    {
+      "surface": "עת",
+      "gloss": "'n tyd"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "om af te breek"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "en 'n tyd"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.111261937Z",
+  "model": "glm-5.3"
+}

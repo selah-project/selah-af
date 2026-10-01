@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Jy mag jou nie buig voor hulle gode nie, en hulle nie dien nie, en nie doen volgens hulle dade nie; want heeltemal afbreek sal jy hulle afbreek, en stukkend breek sal jy hulle gedenkpilare.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "jy mag jou buig"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "voor hulle gode"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "hulle dien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "volgens hulle dade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "heeltemal afbreek"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "sal jy hulle afbreek"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "en stukkend breek"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "sal jy breek"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "hulle gedenkpilare"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:13.128149359Z",
+  "model": "glm-5.3"
+}

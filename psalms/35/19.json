@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 35:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Laat my vyande nie vals oor my jubel, laat hulle wat my sonder rede haat nie met die oog knip.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "jubel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vals"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "wat my haat"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sonder rede"
+    },
+    {
+      "surface": "יקרצו",
+      "gloss": "knip"
+    },
+    {
+      "surface": "עין",
+      "gloss": "met die oog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:39.055358324Z",
+  "model": "glm-5.3"
+}

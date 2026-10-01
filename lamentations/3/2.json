@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "⟨את⟩ my het hy weggelei en laat wandel in duisternis, en nie lig nie.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "het hy weggelei"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en laat wandel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "in duisternis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:49.673344974Z",
+  "model": "glm-5.3"
+}

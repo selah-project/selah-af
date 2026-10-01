@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 24:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "In daardie tyd het die dienaars van Nebukadnesar, koning van Babel, teen Jerusjalajim opgetrek, en die stad het in belegering gekom.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "in die tyd"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "נבכדנאצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "teen Jerusjalajim"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "en dit het gekom"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "in belegering"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:32.792786128Z",
+  "model": "glm-5.3"
+}

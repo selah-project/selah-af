@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Voortaan, al die dae van die aarde: saadtyd en oes, en koue en hitte, en somer en winter, en dag en nag — hulle sal nie ophou nie.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "voortaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saadtyd"
+    },
+    {
+      "surface": "ווקציר",
+      "gloss": "en oes"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "en koue"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "en hitte"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "en somer"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "en winter"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "en dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "sal hulle ophou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:25.100644763Z",
+  "model": "glm-5.3"
+}

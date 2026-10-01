@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Vuur en hael, sneeu en damp, stormwind wat sy woord uitvoer;",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "en hael"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "sneeu"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "en damp"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat uitvoer"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:31.390894262Z",
+  "model": "glm-5.3"
+}

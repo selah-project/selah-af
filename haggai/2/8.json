@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "My ⟨is⟩ die silwer, en My ⟨is⟩ die goud, sê Jahweh Tsewaot.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "My ⟨is⟩"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "en My ⟨is⟩"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:31.019237747Z",
+  "model": "glm-5.3"
+}

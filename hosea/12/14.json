@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En deur 'n profeet het Jahweh ⟨את⟩ Jisraël laat opgaan uit Mitsrajim, en deur 'n profeet is ⟨hy⟩ bewaak.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "en deur 'n profeet"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "het laat opgaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "en deur 'n profeet"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "is bewaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:09.070596013Z",
+  "model": "glm-5.3"
+}

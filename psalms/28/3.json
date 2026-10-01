@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Moenie my wegsleep met die goddelose nie, en met die dowers van kwaad, wat vrede spreek met hulle naastes terwyl kwaad in hulle hart ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "my wegsleep"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die dowers"
+    },
+    {
+      "surface": "און",
+      "gloss": "van kwaad"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "wat spreek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "hulle naastes"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "terwyl kwaad"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "in hulle hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:03.250440321Z",
+  "model": "glm-5.3"
+}

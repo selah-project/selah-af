@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 40:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En jy moet die waskom salf en ⟨את⟩ sy voetstuk, en jy moet dit heilig maak ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "en jy moet salf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die waskom"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "die waskom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy voetstuk"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "sy voetstuk"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "en jy moet heilig maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die waskom en sy voetstuk"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:13.458189777Z",
+  "model": "glm-5.3"
+}

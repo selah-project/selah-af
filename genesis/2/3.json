@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elohim het ⟨את⟩ die sewende dag geseën en dit geheilig, want daarop het Hy gerus van al sy werk wat Elohim geskep het om te maak.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sewende dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "het geheilig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "gerus het"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "sy werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "geskep het"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:02.916604225Z",
+  "model": "glm-5.3"
+}

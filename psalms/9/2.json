@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Ek wil Jahweh dank met my hele hart; ek wil vertel van al u wonders.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ek wil dank"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met my hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hart"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ek wil vertel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "u wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:57.806815380Z",
+  "model": "glm-5.3"
+}

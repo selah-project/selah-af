@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "⟨Hulle⟩ wat op hulle mag vertrou en in die menigte van hulle rykdom roem —",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "⟨hulle⟩ wat vertrou"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hulle mag"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "en in die menigte"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "van hulle rykdom"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "roem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:33.220782017Z",
+  "model": "glm-5.3"
+}

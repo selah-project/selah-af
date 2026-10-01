@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Leuentjies spreek ⟨hulle⟩, 'n man ⟨את⟩ sy naaste; gladde lippe, met hart en hart spreek ⟨hulle⟩.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "leuentjies"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naaste"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "sy naaste"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "lippe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "gladde"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "met hart"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "en hart"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:27.331751113Z",
+  "model": "glm-5.3"
+}

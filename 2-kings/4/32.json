@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Elísa het die huis binnegegaan, en kyk, die seun ⟨was⟩ dood, liggend op sy bed.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "en hy het binnegegaan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elísa"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "die huis toe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "liggend"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "sy bed"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:30.336843036Z",
+  "model": "glm-5.3"
+}

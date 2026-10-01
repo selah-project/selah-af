@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die manne het van hulle voedsel geneem, maar ⟨את⟩ die mond van Jahweh het hulle nie gevra nie.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "en hulle het geneem"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "van hulle voedsel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die mond van Jahweh"
+    },
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "het hulle gevra"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:53.847952743Z",
+  "model": "glm-5.3"
+}

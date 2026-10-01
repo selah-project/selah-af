@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Hy bring volke onder ons en nasies onder ons voete.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Hy bring"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "onder ons"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en nasies"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "ons voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.766640567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Hierdie ons brood — warm het ons dit as proviand ⟨את⟩ uit ons huise geneem op die dag dat ons uitgegaan het om na julle te kom; maar nou, kyk, dit ⟨is⟩ droog en dit het krummelrige kolle geword",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ons brood"
+    },
+    {
+      "surface": "חם",
+      "gloss": "warm"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "het ons as proviand geneem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die brood)"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "uit ons huise"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "dat ons uitgegaan het"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te gaan"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na julle"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nou"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "droog"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit het geword"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "krummelrige kolle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:27.296384211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Hy wat sy vader en sy moeder vervloek — sy lamp sal doodgaan in die diepste duisternis.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "hy wat vervloek"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en sy moeder"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "sal doodgaan"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "sy lamp"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "in die diepste"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:21.580122954Z",
+  "model": "glm-5.3"
+}

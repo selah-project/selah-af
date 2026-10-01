@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "die koning van Jerigo, een; die koning van Ha-Ai, wat langs ⟨die⟩ kant van Bet-El ⟨lê⟩, een;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerigo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ha-Ai"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "aan die kant"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:16.987995542Z",
+  "model": "glm-5.3"
+}

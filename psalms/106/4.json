@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 106:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Dink aan my, Jahweh, in ⟨die⟩ welbehae van u volk; besoek my in u verlossing!",
+  "tokens": [
+    {
+      "surface": "זכרני",
+      "gloss": "Dink aan my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ברצון",
+      "gloss": "in welbehae"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "פקדני",
+      "gloss": "besoek my"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "in u verlossing"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:44.436663977Z",
+  "model": "glm-5.3"
+}

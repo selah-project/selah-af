@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die konings van die aarde stel hulle op, en die owerstes smeed saam raad, teen Jahweh en teen sy Masjiag:",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "stel hulle op"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "konings van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "en die owerstes"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "smeed saam"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en teen"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "sy Masjiag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:40.906062676Z",
+  "model": "glm-5.3"
+}

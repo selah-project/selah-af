@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 1:9",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy sê vir hulle: 'n Hebreeus-sprekende ⟨is⟩ ek, en ⟨את⟩ Jahweh, Elohim van die hemele, ⟨Hom⟩ vrees ek, wat ⟨את⟩ die see en ⟨את⟩ die droë grond gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "'n Hebreeus-sprekende"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die droë grond"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "die droë grond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:46.527024161Z",
+  "model": "glm-5.3"
+}

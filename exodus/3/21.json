@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En ek sal ⟨את⟩ genade van hierdie volk gee in die oë van die Mitsrieters; en dit sal gebeur dat wanneer julle gaan, sal julle nie leeg gaan nie.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "genade"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van hierdie volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van die Mitsrieters"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat wanneer"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "julle gaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "sal julle gaan"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "leeg"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:47.655846105Z",
+  "model": "glm-5.3"
+}

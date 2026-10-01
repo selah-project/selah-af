@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Wie 'n oortreding bedek, soek liefde; maar wie 'n saak herhaal, skei 'n vertroude vriend.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "'n oortreding"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "liefde"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "maar herhaal"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "'n saak"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "skei"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "'n vertroude vriend"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:14.297323685Z",
+  "model": "glm-5.3"
+}

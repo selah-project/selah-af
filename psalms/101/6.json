@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 101,
+  "translation": "My oë ⟨is⟩ op die getroues van die land, om by my te woon; hy wat in 'n onberispelike weg wandel, hy dien my.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "op die getroues"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "om te woon"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hy wat wandel"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in 'n weg"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onberispelike"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "dien my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:49.312190846Z",
+  "model": "glm-5.3"
+}

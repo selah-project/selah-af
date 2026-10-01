@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Onberispelik is ek — ek ken my siel nie; ek verag my lewe.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "onberispelik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "ek verag"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:24.197880596Z",
+  "model": "glm-5.3"
+}

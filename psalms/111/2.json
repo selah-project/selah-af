@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 111:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 111,
+  "translation": "Groot is die werke van Jahweh, nagespeur deur almal wat 'n welbehae daarin het.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "is die werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "דרושים",
+      "gloss": "nagespeur"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "deur almal"
+    },
+    {
+      "surface": "חפציהם",
+      "gloss": "wat 'n welbehae daarin het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.071286110Z",
+  "model": "glm-5.3"
+}

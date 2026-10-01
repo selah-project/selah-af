@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "want hy sien: wyses sterwe, saam vergaan die dwaas en die onverstandige, en hulle laat hulle rykdom aan ander oor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hy sien"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wyses"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "sterwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "die dwaas"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "en die onverstandige"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "en hulle laat na"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "aan ander"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "hulle rykdom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:45.191956224Z",
+  "model": "glm-5.3"
+}

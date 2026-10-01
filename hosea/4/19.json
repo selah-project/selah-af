@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Toegebind het die wind ⟨את⟩ haar in haar vlerke, en hulle sal beskaam staan oor hul slagoffers.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "toegebind"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩haar",
+      "marks": "haar (die wind se vlerke)"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "in haar vlerke"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "en hulle sal beskaam staan"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "oor hul slagoffers"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:46.951137739Z",
+  "model": "glm-5.3"
+}

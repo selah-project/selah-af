@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En die seuns van Jisraël het vertrek en geleger by Oboth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "het vertrek"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "en geleger"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "by Oboth"
+    }
+  ],
+  "timestamp": "2026-09-30T21:10:24.551322786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Vrees nie, want ek ⟨is⟩ met jou; kyk nie rond ⟨vir hulp⟩ nie, want ek ⟨is⟩ jou Elohim; ek het jou versterk, ja, ek het jou gehelp, ja, ek het jou onderhou met my regterhand van tsedek.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "kyk rond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ek het jou versterk"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ek het jou gehelp"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ek het jou onderhou"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "met die regterhand"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "van my tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:59.641244338Z",
+  "model": "glm-5.3"
+}

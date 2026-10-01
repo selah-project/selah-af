@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "En Jisraël sê aan Josef: Mag ek hierdie keer sterwe, nadat ek ⟨את⟩ jou gesig gesien het, want jy is nog in lewe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "mag ek sterwe"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "hierdie keer"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "ek gesien het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou gesig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "jy nog"
+    },
+    {
+      "surface": "חי",
+      "gloss": "in lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:08.874518424Z",
+  "model": "glm-5.3"
+}

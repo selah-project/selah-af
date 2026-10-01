@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die seuns van Aharon, die priesters, lê ⟨את⟩ die stukke, ⟨את⟩ die kop en ⟨את⟩ die vet in orde op die hout wat op die vuur is wat op die altaar is.",
+  "tokens": [
+    {
+      "surface": "ויערכו",
+      "gloss": "en hulle lê in orde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stukke"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "die stukke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kop"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "die hout"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האש",
+      "gloss": "die vuur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:37.456281125Z",
+  "model": "glm-5.3"
+}

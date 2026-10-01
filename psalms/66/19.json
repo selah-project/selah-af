@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Voorwaar, Elohim het geluister, Hy het ⟨die⟩ stem van my gebed aangedag.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "aangedag"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "van my gebed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:32.391752223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 42:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Waarom buig jy jou neer, my siel, en waarom grom jy oor my? Verwag Elohim, want nog sal ek Hom loof, ⟨die⟩ reddings van sy aangesig.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "buig jy jou neer"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ותהמי",
+      "gloss": "en grom jy"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "verwag"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "sal ek Hom loof"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "reddings"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "van sy aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.094919417Z",
+  "model": "glm-5.3"
+}

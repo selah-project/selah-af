@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": " Laat my wandel in die pad van u gebooie, want daarin het ek behae.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "laat my wandel"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "in die pad"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "van u gebooie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "het ek behae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:36.443649101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Toe het Ganun ⟨את⟩ die dienaars van Dawid geneem en die helfde van hulle baard afgeskeer, en hulle klere afgesny in die middel, tot by hulle sitvlakke, en hulle weggestuur.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "toe het geneem"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Ganun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dienaars van Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "en afgeskeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die helfde van hulle baard"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "die helfte"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "van hulle baard"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en afgesny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle klere"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hulle klere"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "in die middel"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "hulle sitvlakke"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "en hulle weggestuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:43.792735999Z",
+  "model": "glm-5.3"
+}

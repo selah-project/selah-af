@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 128,
+  "translation": "En mag jy die kinders van jou kinders sien; sjalom oor Jisraël.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "en mag jy sien"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "van jou kinders"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:55.530124064Z",
+  "model": "glm-5.3"
+}

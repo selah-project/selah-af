@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Van Dawid. Doel my, Jahweh, want ek in my onberispelikheid gewandel het, en op Jahweh het ek vertrou, ek sal nie wankel nie.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Van Dawid"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Doel my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "in my onberispelikheid"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "het ek gewandel"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "en op Jahweh"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek vertrou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "sal ek wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:39.911520050Z",
+  "model": "glm-5.3"
+}

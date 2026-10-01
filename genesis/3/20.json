@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die mens het sy vrou se naam Chawa genoem, want sy was die moeder van alles wat lewe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "שם",
+      "gloss": "naam"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "van sy vrou"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Chawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die moeder"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van alles"
+    },
+    {
+      "surface": "חי",
+      "gloss": "wat lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:50.856142338Z",
+  "model": "glm-5.3"
+}

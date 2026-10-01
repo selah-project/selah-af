@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 146:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Sy roeag gaan uit, hy keer terug na sy grond; op daardie dag vergaan sy planne.",
+  "tokens": [
+    {
+      "surface": "תצא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sy roeag"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "hy keer terug"
+    },
+    {
+      "surface": "לאדמתו",
+      "gloss": "na sy grond"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "vergaan"
+    },
+    {
+      "surface": "עשתנתיו",
+      "gloss": "sy planne"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:23.597097640Z",
+  "model": "glm-5.3"
+}

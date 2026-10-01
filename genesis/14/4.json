@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 14:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Twaalf jaar lank het hulle ⟨את⟩ Kedarlaomer gedien, en in die dertiende jaar het hulle in opstand gekom.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "het hulle gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kedarlaomer"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "Kedarlaomer"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "en dertien"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(tien)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מרדו",
+      "gloss": "het hulle in opstand gekom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:15.504793673Z",
+  "model": "glm-5.3"
+}

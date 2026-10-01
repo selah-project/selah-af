@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "'n Berg van Elohim ⟨is⟩ die berg Basjan; 'n berg van pieke ⟨is⟩ die berg Basjan.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "'n berg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basjan"
+    },
+    {
+      "surface": "הר",
+      "gloss": "'n berg"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "van pieke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basjan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:35.679964846Z",
+  "model": "glm-5.3"
+}

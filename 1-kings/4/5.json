@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 4:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en Azarja seun van Natan oor ⟨die⟩ ampsdraers, en Sawud seun van Natan priester, vriend van die koning.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "⟨die⟩ ampsdraers"
+    },
+    {
+      "surface": "וזבוד",
+      "gloss": "en Sawud"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "vriend"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:05.027845232Z",
+  "model": "glm-5.3"
+}

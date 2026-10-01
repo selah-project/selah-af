@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Al die paaie van Jahweh ⟨is⟩ gesed en waarheid, vir die wat sy verbond en sy getuienisse bewaar.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "die paaie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en waarheid"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "vir die wat bewaar"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "sy verbond"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "en sy getuienisse"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:14.458130751Z",
+  "model": "glm-5.3"
+}

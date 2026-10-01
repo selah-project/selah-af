@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hy maak riviere tot 'n woestyn, en fonteine van water tot dorsgrond.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Hy maak"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "riviere"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "tot 'n woestyn"
+    },
+    {
+      "surface": "ומצאי",
+      "gloss": "en fonteine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "tot dorsgrond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:39.505348958Z",
+  "model": "glm-5.3"
+}

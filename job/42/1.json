@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Ijow het ⟨את⟩ Jahweh geantwoord en gesê:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "het geantwoord"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ijow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:06.168400072Z",
+  "model": "glm-5.3"
+}

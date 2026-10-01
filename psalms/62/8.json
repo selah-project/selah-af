@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Op Elohim ⟨rus⟩ my redding en my eer; rots van my krag, my toevlug ⟨is⟩ in Elohim.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "my redding"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "en my eer"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "van my krag"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "my toevlug"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:40.707974263Z",
+  "model": "glm-5.3"
+}

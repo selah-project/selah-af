@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe het die manne ⟨את⟩ Jahweh met 'n groot vrees gevrees, en hulle het 'n slagoffer vir Jahweh geslag en geloftes afgelê.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "het gevrees"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "met 'n vrees"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "en hulle het geslag"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "'n slagoffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "en geloftes afgelê"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "geloftes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:09.942695333Z",
+  "model": "glm-5.3"
+}

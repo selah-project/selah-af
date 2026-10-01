@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Besing Jahweh, sy getroues, en gee dank by die gedenk van sy heiligheid.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Besing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sy getroues"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "en gee dank"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "by die gedenk"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van sy heiligheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:54.126152440Z",
+  "model": "glm-5.3"
+}

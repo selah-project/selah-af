@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Oor hierdie seun het ek gebid, en Jahweh het aan my ⟨את⟩ my versoek gegee wat ek van Hom gevra het.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "hierdie seun"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "het ek gebid"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my versoek"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "my versoek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ek gevra het"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "van Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:25.542720011Z",
+  "model": "glm-5.3"
+}

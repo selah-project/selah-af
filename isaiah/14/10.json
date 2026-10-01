@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Hulle almal antwoord en sê vir jou: Ook jy is verswak soos ons; aan ons is jy gelyk gestel!",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "hulle almal"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "is jy verswak"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "soos ons"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "is jy gelyk gestel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:04.641224466Z",
+  "model": "glm-5.3"
+}

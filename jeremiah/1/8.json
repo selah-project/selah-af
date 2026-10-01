@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Moenie vir hulle bang wees nie, want ⟨את⟩⟨by⟩ jou is ek, om jou te red, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "bang wees"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "om jou te red"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:19.620794068Z",
+  "model": "glm-5.3"
+}

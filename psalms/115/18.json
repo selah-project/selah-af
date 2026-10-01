@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Maar ons sal Jah seën, van nou af en tot in ewigheid. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "maar ons"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "sal seën"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nou af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:31.363530109Z",
+  "model": "glm-5.3"
+}

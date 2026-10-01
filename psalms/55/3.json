@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "Slaan ⟨die⟩ oor na my en antwoord my; ek dwaal rond in my gemurmel en ek kreun.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Slaan ⟨die⟩ oor na"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "en antwoord my"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ek dwaal rond"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "in my gemurmel"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "en ek kreun"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:48.346151426Z",
+  "model": "glm-5.3"
+}

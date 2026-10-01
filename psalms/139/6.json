@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Te wonderbaarlik is die kennis bo my, te verhewe — ek kan ⟨dit nie bereik⟩ nie.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "te wonderbaarlik"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "die kennis"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "bo my"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "te verhewe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ek kan"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨dit nie bereik⟩ nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:09.976539601Z",
+  "model": "glm-5.3"
+}

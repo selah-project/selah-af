@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Buite moet jy staan, en die man aan wie jy geleen het, moet ⟨את⟩ die pand buitentoe na jou uitbring.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Buite"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "moet jy staan"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "en die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "geleen het"
+    },
+    {
+      "surface": "בו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "moet uitbring"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die pand"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "die pand"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "buitentoe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:42.160726842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ die wat terugwyk van agter Jahweh, en dié wat nie ⟨את⟩ Jahweh gesoek het en hom nie nagevra het nie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wat terugwyk"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "die wat terugwyk"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "van agter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en dié wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "gesoek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "hom nagevra het nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:50.955920933Z",
+  "model": "glm-5.3"
+}

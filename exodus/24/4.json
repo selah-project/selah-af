@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 24:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Mosje het ⟨את⟩ al die woorde van Jahweh geskryf, en hy het vroeg in die môre opgestaan en 'n altaar onder aan die berg gebou en twaalf gedenkstene vir die twaalf stamme van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "En het geskryf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde van Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "en vroeg opgestaan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "en gebou"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder aan"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "die berg"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en twaalf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "gedenkstene"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "vir die twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:49.732693975Z",
+  "model": "glm-5.3"
+}

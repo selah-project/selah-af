@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Alleen, soos ⟨את⟩ die gems en ⟨את⟩ die hert geëet word, so mag jy ⟨dit⟩ eet; die onreine en die reine mag dit saam eet.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "geëet word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gems"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "die gems"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die hert"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die hert"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "mag jy dit eet"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "die onreine"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "en die reine"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "mag dit eet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:01.578416931Z",
+  "model": "glm-5.3"
+}

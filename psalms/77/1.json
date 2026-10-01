@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Vir die koorleier, oor ⟨die wys van⟩ Jedoetoen, vir Asaf, 'n psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Jedoetoen"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "vir Asaf"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:58.203366683Z",
+  "model": "glm-5.3"
+}

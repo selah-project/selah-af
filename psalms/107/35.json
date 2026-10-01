@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hy maak die woestyn tot waterpoele, en dorre land tot fonteine van water.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Hy maak"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "tot waterpoele"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en land"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "dorre"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "tot fonteine"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:39.505891180Z",
+  "model": "glm-5.3"
+}

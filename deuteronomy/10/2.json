@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "en Ek sal op die tablette ⟨את⟩ die woorde skryf wat op die eerste tablette was, wat jy gebreek het, en jy moet hulle in die ark sit.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "en Ek sal skryf"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "die tablette"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "die tablette"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "jy gebreek het"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "en jy moet hulle sit"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "in die ark"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:02.076082477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En jy sal guns en goeie insig vind in die oë van Elohim en ⟨die⟩ mens.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "en jy sal vind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "en insig"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:34.255344971Z",
+  "model": "glm-5.3"
+}

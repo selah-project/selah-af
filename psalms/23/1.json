@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "'n Mizmor van Dawid: Jahweh ⟨is⟩ my herder, ek sal niks ontbeer nie.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "my herder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "sal ontbeer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:06.454504124Z",
+  "model": "glm-5.3"
+}

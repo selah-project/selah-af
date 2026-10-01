@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Wie sal my bring ⟨na⟩ die vestingstad? Wie sal my gelei tot in Edom?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "sal my bring"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "vesting"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "sal my gelei"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.415152702Z",
+  "model": "glm-5.3"
+}

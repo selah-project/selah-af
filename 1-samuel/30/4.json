@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 30:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Toe het Dawid en die volk wat ⟨את⟩ by hom was, ⟨את⟩ hulle stem verhef en gehuil tot daar in hulle geen krag om te huil oor was nie.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "en die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle stem"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hulle stem"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en hulle het gehuil"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar ... nie was"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "om te huil"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:28.192453166Z",
+  "model": "glm-5.3"
+}

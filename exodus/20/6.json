@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "en gesed doen aan duisende, vir die wat my liefhet en my gebooie hou.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "aan duisende"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "vir die wat my liefhet"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "en vir die wat hou"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:35.643754950Z",
+  "model": "glm-5.3"
+}

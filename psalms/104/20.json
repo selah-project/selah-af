@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "U stel duisternis en dit word nag; daarin beweeg elke dier van ⟨die⟩ woud.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "U stel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit word"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "beweeg"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "dier"
+    },
+    {
+      "surface": "יער",
+      "gloss": "van die woud"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:31.712338433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "en dat hulle hulle vertroue in Elohim mag stel en die dade van El nie mag vergeet nie, maar sy gebooie mag bewaar.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en mag stel"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "in Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "hulle vertroue"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "mag vergeet"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "die dade"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "en sy gebooie"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "mag bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.950101385Z",
+  "model": "glm-5.3"
+}

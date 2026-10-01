@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 14:21",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Wie sy naaste verag, sondig; maar hy wat die armes genadig is — gelukkig is hy.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "verag"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "wie sy naaste"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "sondig"
+    },
+    {
+      "surface": "ומחונן",
+      "gloss": "maar hy wat genadig is"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "die armes"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "gelukkig is hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:10.543685574Z",
+  "model": "glm-5.3"
+}

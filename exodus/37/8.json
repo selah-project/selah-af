@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "een kerew aan die einde aan hierdie kant, en een kerew aan die einde aan daardie kant; uit die versoendeksel het hy ⟨את⟩ die kerewe gemaak, aan sy twee eindes.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "een kerew"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "aan die einde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aan hierdie kant"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "en een kerew"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "aan die einde"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aan daardie kant"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoendeksel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kerewe"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "die kerewe"
+    },
+    {
+      "surface": "משני",
+      "gloss": "aan sy twee"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "eindes"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:57.057454150Z",
+  "model": "glm-5.3"
+}

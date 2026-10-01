@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En wat 'n siel van 'n dier slaan, hy sal dit vergoed: siel vir siel.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "En wat slaan"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "'n siel"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "van 'n dier"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "hy sal dit vergoed"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "vir"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:21.733424760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Want U maak hom tot seëninge vir ewig; U verheug hom met blydskap by ⟨את⟩ U aangesig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "U maak hom"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "tot seëninge"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "U verheug hom"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "U aangesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "U aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:53.894838222Z",
+  "model": "glm-5.3"
+}

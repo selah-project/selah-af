@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Sjaul het 'n altaar vir Jahweh gebou; ⟨את⟩ daarmee het hy begin om altare vir Jahweh te bou.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "'n altaar"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "daarmee het hy begin"
+    },
+    {
+      "surface": "החל",
+      "gloss": "het hy begin"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:50.108028114Z",
+  "model": "glm-5.3"
+}

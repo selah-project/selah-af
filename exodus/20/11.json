@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "want ses dae het Jahweh ⟨את⟩ die hemel en ⟨את⟩ die aarde gemaak, ⟨את⟩ die see en ⟨את⟩ alles wat in hulle ⟨is⟩, en Hy het gerus op die sewende dag; daarom het Jahweh ⟨את⟩ die dag van die Sjabbat geseën en dit geheilig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ses"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "alles wat in hulle is"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "en het gerus"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom (op)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so (daarom)"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "het geseën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dag van die Sjabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van die Sjabbat"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "en dit geheilig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:16.602219430Z",
+  "model": "glm-5.3"
+}

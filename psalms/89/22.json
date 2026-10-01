@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "met wie my hand standvastig ⟨sal wees⟩, ja, my arm ⟨sal⟩ hom versterk.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "met wie"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "standvastig ⟨sal wees⟩"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja, ook"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "my arm"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "⟨sal⟩ hom versterk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:58.725712993Z",
+  "model": "glm-5.3"
+}

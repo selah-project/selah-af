@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En vind jou vreugde in Jahweh, dan sal hy jou die vrae van jou hart gee.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "en vind jou vreugde"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "dan sal hy gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "die vrae"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "van jou hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.781375955Z",
+  "model": "glm-5.3"
+}

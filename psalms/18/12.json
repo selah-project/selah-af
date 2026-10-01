@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Hy het duisternis as sy skuilplek gestel, sy hut rondom hom — duisternis van waters, digte wolke van die hemele.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "hy het gestel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "sy skuilplek"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "rondom hom"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "sy hut"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van waters"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "digte wolke"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "van die hemele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.680798594Z",
+  "model": "glm-5.3"
+}

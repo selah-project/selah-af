@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Ag, dat my volk na My luister! Dat Jisraël in my weë sou wandel!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ag, dat"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na My"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "in my weë"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "sou wandel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.401056219Z",
+  "model": "glm-5.3"
+}

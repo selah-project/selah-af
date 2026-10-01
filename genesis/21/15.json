@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En die water in die sak was op, en sy het ⟨את⟩ die kind onder een van die struike neergesit.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "was op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "die sak"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "het neergesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "van die struike"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:28.133900872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "as ek aan hom wat in vrede met my was, kwaad vergeld het, en my teenstander leeggeplunder het sonder rede;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "vergeld het"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "hom wat in vrede met my was"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "en leeggeplunder het"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "my teenstander"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "sonder rede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:45.474151868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Waarom woed die nasies, en broei ⟨die⟩ volke ⟨⟨⟩≫ ydelheid?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "woed"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en volke"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "broei"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ydelheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:40.905442783Z",
+  "model": "glm-5.3"
+}

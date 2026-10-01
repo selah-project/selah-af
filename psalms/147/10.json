@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Nie in die krag van die perd vind ⟨Hy⟩ welgevalle nie, nie in die bene van die man skep ⟨Hy⟩ behae nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Nie"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "in die krag"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "van die perd"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "vind welgevalle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "in die bene"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "van die man"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "skep behae"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.690955527Z",
+  "model": "glm-5.3"
+}

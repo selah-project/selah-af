@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 2:30",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Daarom — sê Jahweh, die Elohim van Jisraël — het Ek gesê: jou huis en die huis van jou vader sal voor My wandel tot in ewigheid; maar nou — sê Jahweh — verre van My! want hulle wat My eer, sal Ek eer, en hulle wat My verag, sal ligtelik geag word.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "het Ek gesê"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "jou huis"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "en die huis van"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "sal wandel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor My"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "maar nou"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "verre van My"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van My"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מכבדי",
+      "gloss": "hulle wat My eer"
+    },
+    {
+      "surface": "אכבד",
+      "gloss": "sal Ek eer"
+    },
+    {
+      "surface": "ובזי",
+      "gloss": "en hulle wat My verag"
+    },
+    {
+      "surface": "יקלו",
+      "gloss": "sal ligtelik geag word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:05.079011074Z",
+  "model": "glm-5.3"
+}

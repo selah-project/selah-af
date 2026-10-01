@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 78:51",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En Hy het elke eersgeborene in Mitsrajim geslaan, die eersteling van hulle krag, in die tente van Gam.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "En Hy het geslaan"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "eersgeborene"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die eersteling"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "van hulle krag"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "in die tente"
+    },
+    {
+      "surface": "חם",
+      "gloss": "van Gam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:21.959911501Z",
+  "model": "glm-5.3"
+}

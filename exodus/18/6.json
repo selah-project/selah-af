@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy sê aan Mosje: Ek, jou skoonpa Jetro, kom na jou, en jou vrou en haar twee seuns met haar.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "jou skoonpa"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Jetro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "en jou vrou"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "haar seuns"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "met haar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:19.055751254Z",
+  "model": "glm-5.3"
+}

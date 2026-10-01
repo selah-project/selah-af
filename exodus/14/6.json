@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hy het ⟨את⟩ sy strydwa gereed gemaak en ⟨את⟩ sy volk saam met hom geneem.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "en hy het gereed gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy strydwa"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "sy strydwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "geneem"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:18.219851810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Wie sy vader beroof en sy moeder, en sê: daar ⟨is⟩ geen oortreding nie — hy is 'n metgesel van 'n man wat verwoes.",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "wie beroof"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "en sy moeder"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "oortreding"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "'n metgesel"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "wat verwoes"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:33.293084189Z",
+  "model": "glm-5.3"
+}

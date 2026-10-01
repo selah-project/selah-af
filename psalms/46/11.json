@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Laat af, en weet dat Ek Elohim ⟨is⟩; verhewig word Ek onder die nasies, verhewig word Ek op die aarde.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Laat af"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "en weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "verhewig word"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "verhewig word"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.957824305Z",
+  "model": "glm-5.3"
+}

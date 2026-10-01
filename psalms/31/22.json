@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Geseënd ⟨is⟩ Jahweh, want wonderbaar het Hy sy gesed aan my gemaak, in 'n stad van beleërring.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "wonderbaar het Hy gemaak"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in 'n stad"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "van beleërring"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:59.927100482Z",
+  "model": "glm-5.3"
+}

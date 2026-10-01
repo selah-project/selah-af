@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 34:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En hulle gesneuweldes sal weggewerp word, en hulle lyke sal hulle stank laat opstyg, en die berge sal smelt van hulle bloed.",
+  "tokens": [
+    {
+      "surface": "וחלליהם",
+      "gloss": "en hulle gesneuweldes"
+    },
+    {
+      "surface": "ישלכו",
+      "gloss": "sal weggewerp word"
+    },
+    {
+      "surface": "ופגריהם",
+      "gloss": "en hulle lyke"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sal laat opstyg"
+    },
+    {
+      "surface": "באשם",
+      "gloss": "hulle stank"
+    },
+    {
+      "surface": "ונמסו",
+      "gloss": "en sal smelt"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "מדמם",
+      "gloss": "van hulle bloed"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:52.688402178Z",
+  "model": "glm-5.3"
+}

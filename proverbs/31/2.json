@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Wat, my seun? en wat, seun van my skoot? en wat, seun van my geloftes?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "seun"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "van my skoot"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בר",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "van my geloftes"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:06.155624709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hulle albei was naak, die mens en sy vrou, en hulle het hul nie geskaam nie.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "en hulle was"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hulle albei"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "naak"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "en sy vrou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "het hul geskaam"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:05.922037901Z",
+  "model": "glm-5.3"
+}

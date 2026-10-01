@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Die ryke heers oor die armes, en die lener ⟨is⟩ 'n dienaar van die man wat uitleen.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Die ryke"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "oor die armes"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "heers"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "en 'n dienaar"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "die lener"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "van die man"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "wat uitleen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:39.717664131Z",
+  "model": "glm-5.3"
+}

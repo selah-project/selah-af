@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Sien, ek het geroep by name: Betseél, seun van Uri, seun van Goer, van die stam van Jehoeda —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Sien"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ek het geroep"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by name"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Betseél"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Goer"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "van die stam van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.702700663Z",
+  "model": "glm-5.3"
+}

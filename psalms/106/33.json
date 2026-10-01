@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Want hulle het ⟨את⟩ sy roeag verbitter, en hy het roekeloos met sy lippe gepraat.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "het verbitter"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy roeag"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "sy roeag"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "en hy het roekeloos gepraat"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "met sy lippe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:27.958613090Z",
+  "model": "glm-5.3"
+}

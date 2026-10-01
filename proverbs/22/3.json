@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "'n Slu man sien die kwaad en verskuil hom; maar die simpelones gaan verby en word gestraf.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "slu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "ויystar",
+      "gloss": "en verskuil hom"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "en die simpelones"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "gaan verby"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "en word gestraf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:12.191611686Z",
+  "model": "glm-5.3"
+}

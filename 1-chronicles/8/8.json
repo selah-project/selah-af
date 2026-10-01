@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Sjaggarajim het in die veld van Moab verwek — nadat hy hulle weggestuur het, ⟨את⟩ hulle, Gosjim en ⟨את⟩ Baära, sy vroue.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "en Sjaggarajim"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld van"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hy weggestuur het"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "Gosjim en Baära"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Gosjim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Baära"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Baära"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:53.191908637Z",
+  "model": "glm-5.3"
+}

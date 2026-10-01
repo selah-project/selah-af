@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 89:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "U het Ragew vertrap soos 'n gedode; met die arm van U krag het U U vyande uiteengejaag.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "דכאת",
+      "gloss": "het vertrap"
+    },
+    {
+      "surface": "כחלל",
+      "gloss": "soos 'n gedode"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Ragew"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "met die arm"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "van U krag"
+    },
+    {
+      "surface": "פזרת",
+      "gloss": "het uiteengejaag"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "U vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:34.908115832Z",
+  "model": "glm-5.3"
+}

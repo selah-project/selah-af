@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Sien, ek het ⟨את⟩ die land voor julle gestel; gaan in en neem ⟨את⟩ die land in besit wat Jahweh aan jul vaders gesweer het — aan Awraham, aan Jitsgak en aan Jaäkow — om dit aan hulle en aan hulle nageslag ná hulle te gee.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gestel (gegee)"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "voor julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "באו",
+      "gloss": "gaan in"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "en neem in besit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gesweer het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "aan jul vaders"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitsgak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "en aan Jaäkow"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "en aan hulle nageslag"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ná hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:58.004286987Z",
+  "model": "glm-5.3"
+}

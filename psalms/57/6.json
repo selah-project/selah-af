@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 57:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Wees verhef bo die hemele, o Elohim; oor die hele aarde ⟨sy⟩ U heerlikheid.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "wees verhef"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "U heerlikheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.705583889Z",
+  "model": "glm-5.3"
+}

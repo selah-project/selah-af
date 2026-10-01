@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En daar sal vir Mitsrajim geen werk wees wat kop of stert, palmblaar of riet kan doen nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "vir Mitsrajim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kan doen"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kop"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "of stert"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "palmblaar"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "of riet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:50.701173228Z",
+  "model": "glm-5.3"
+}

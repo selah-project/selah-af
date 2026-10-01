@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Want 'n gruwel vir Jahweh is die verkeerde, en met ⟨את⟩ die opregtes is sy vertroude raad.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "'n gruwel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "die verkeerde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die opregtes"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "die opregtes"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "sy vertroude raad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:39.976663492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Kom, aanskou die werke van Jahweh, wat ⟨hy⟩ verwoestings gemaak het op die aarde.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "aanskou"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "verwoestings"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.956453837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hulle het hom geneem en hom ⟨את⟩ in die put gegooi; en die put was leeg, daar was geen water in dit nie.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "en hulle het hom geneem"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "en hulle het gegooi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "in die put"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "en die put"
+    },
+    {
+      "surface": "רק",
+      "gloss": "was leeg"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in dit"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:14.110806944Z",
+  "model": "glm-5.3"
+}

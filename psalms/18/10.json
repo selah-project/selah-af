@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het ⟨die⟩ hemele gebuig en het neergedaal, en dik-donkerheid ⟨was⟩ onder sy voete.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "en hy het gebuig"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemele"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "en het neergedaal"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "dik-donkerheid"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.679348080Z",
+  "model": "glm-5.3"
+}

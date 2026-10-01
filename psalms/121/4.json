@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Kyk, Hy sluimer nie en Hy slaap nie — die Bewaarder van Jisraël.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "Hy sluimer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "Hy slaap"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "die Bewaarder van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.942217878Z",
+  "model": "glm-5.3"
+}

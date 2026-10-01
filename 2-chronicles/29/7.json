@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 29:7",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Ook het hulle die deure van die portiek toegemaak en ⟨את⟩ die lampe uitgeblus, en reukwerk het hulle nie laat opgaan nie, en brandoffer het hulle nie laat opgaan in die heiligdom vir die Elohim van Jisraël nie.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "het toegemaak"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "die deure"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "van die portiek"
+    },
+    {
+      "surface": "ויכבו",
+      "gloss": "en uitgeblus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lampe"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "die lampe"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "en reukwerk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הקטירו",
+      "gloss": "het laat opgaan (as rook)"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "en brandoffer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "het laat opgaan"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligdom"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "vir die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T01:00:33.040475562Z",
+  "model": "glm-5.3"
+}

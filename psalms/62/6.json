@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Alleen tot Elohim — wees stil, my siel, want van Hom ⟨kom⟩ my hoop.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Alleen"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "wees stil"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van Hom"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "my hoop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:40.707624888Z",
+  "model": "glm-5.3"
+}

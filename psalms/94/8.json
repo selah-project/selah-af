@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Verstaan, julle stompzinniges onder die volk, en julle dwase — hoe lank nog sal julle insietig wees?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "stompzinniges"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "onder die volk"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "en julle dwase"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoe lank nog"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "sal insietig wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:17.483909547Z",
+  "model": "glm-5.3"
+}

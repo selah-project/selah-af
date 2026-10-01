@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "om planne te bedink, om te maak in die goud en in die silwer en in die koper —",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "om te bedink"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "planne"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te maak"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "in die goud"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "en in die silwer"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "en in die koper"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:49.703916070Z",
+  "model": "glm-5.3"
+}

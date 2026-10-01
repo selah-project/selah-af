@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 44:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "By wie van jou dienaars dit gevind word, sal hy sterf, en ook ons sal vir onse heer ⟨את⟩ dienaars word.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "by wie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevind word"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "die ding wat by hom gevind word"
+    },
+    {
+      "surface": "מעבדיך",
+      "gloss": "van jou dienaars"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en sal sterf"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "sal word"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "vir onse heer"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "tot dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:39.168798780Z",
+  "model": "glm-5.3"
+}

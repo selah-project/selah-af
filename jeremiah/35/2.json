@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Gaan na die huis van die Rekabiete en spreek met hulle, en bring hulle in die huis van Jahweh, na een van die kamers, en gee hulle wyn om te drink.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "die Rekabiete"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "die Rekabiete"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "en bring hulle"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "een"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "van die kamers"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "en gee te drink"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "wyn"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    }
+  ],
+  "timestamp": "2026-09-30T22:39:29.121024335Z",
+  "model": "glm-5.3"
+}

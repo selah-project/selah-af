@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die lied van liedere, wat aan Sjelomo behoort.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Die lied"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "van die liedere"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "aan Sjelomo behoort"
+    }
+  ],
+  "timestamp": "2026-10-01T00:23:47.158863022Z",
+  "model": "glm-5.3"
+}

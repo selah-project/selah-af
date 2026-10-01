@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En dit het gebeur op die agtste dag, toe roep Mosje vir Aharon en vir sy seuns en vir die oudstes van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "die agtste"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "vir Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "en vir sy seuns"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "en vir die oudstes van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:56.933116064Z",
+  "model": "glm-5.3"
+}

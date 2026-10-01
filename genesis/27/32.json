@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En Jitsgak sy vader het vir hom gesê: Wie ⟨is⟩ jy? En hy het gesê: Ek ⟨is⟩ jou seun, jou eersgeborene, Esau.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "jou eersgeborene"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esau"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:03.222428716Z",
+  "model": "glm-5.3"
+}

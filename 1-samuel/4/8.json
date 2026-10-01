@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 4:8",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Wee ons! Wie sal ons red uit die hand van hierdie magtige gode? Dié ⟨is⟩ die gode wat Mitsrajim ⟨את⟩ met elke slag in die wildernis geslaan het.",
+  "tokens": [
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "sal ons red"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die gode"
+    },
+    {
+      "surface": "האדירים",
+      "gloss": "magtige"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "dié"
+    },
+    {
+      "surface": "הם",
+      "gloss": "is"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "wat geslaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mitsrajim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met elke"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "slag"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die wildernis"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:25.163866883Z",
+  "model": "glm-5.3"
+}

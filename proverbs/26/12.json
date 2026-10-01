@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 26:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Het jy 'n man gesien wat wys ⟨is⟩ in sy eie oë? Daar is meer hoop vir 'n dwaas as vir hom.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Het jy gesien"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wys"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy eie oë"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "hoop"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "vir 'n dwaas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as vir hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:07.987419750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "Ek het gesê aan die dwasende: moenie dwaas wees nie, en aan die goddeloses: moenie 'n hoorn ophef nie.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ek het gesê"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "aan die dwasendes"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "dwaas wees"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "en aan die goddeloses"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ophef"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "'n hoorn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:50.467931252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Dit ⟨is⟩ my rusplek vir ewig; hier sal Ek woon, want Ek het dit begeer.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "my rusplek"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "vir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ewig"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "sal Ek woon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "Ek het dit begeer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:04.628046023Z",
+  "model": "glm-5.3"
+}

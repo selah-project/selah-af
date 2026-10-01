@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hy sê: Roep vir haar. En hy het vir haar geroep, en sy het in die deuropening gestaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "en sy het gestaan"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "in die deuropening"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:32.827601068Z",
+  "model": "glm-5.3"
+}

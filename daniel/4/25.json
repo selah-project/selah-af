@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Alles het oor Nebukadnesar, die koning, gekom.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "Alles"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:33:43.582768758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Is dit nie hy wat my weë sien nie, en al my tree tel nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "my tree"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "tel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:35.791137419Z",
+  "model": "glm-5.3"
+}

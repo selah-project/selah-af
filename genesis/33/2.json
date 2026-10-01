@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy plaas ⟨את⟩ die slavinne en ⟨את⟩ hulle kinders eerste, en ⟨את⟩ Lea en haar kinders agter, en ⟨את⟩ Ragel en ⟨את⟩ Josef heelagter.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hy plaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die slavinne"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "die slavinne"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kinders"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "hulle kinders"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "eerste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "en haar kinders"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "agter"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ragel"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Ragel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Josef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "heelagter"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:32.172121044Z",
+  "model": "glm-5.3"
+}

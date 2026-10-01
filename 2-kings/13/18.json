@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 13:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy het gesê: Neem die pyle; en hy het hulle geneem. En hy het aan die koning van Jisraël gesê: Slaan op die aarde; en hy het drie keer geslaan en opgehou.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "die pyle"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het hulle geneem"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הך",
+      "gloss": "Slaan"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "en hy het geslaan"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "keer"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en opgehou"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:00.621705512Z",
+  "model": "glm-5.3"
+}

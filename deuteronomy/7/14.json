@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Geseën sal jy ⟨wees⟩ bo alle volke; daar sal by jou geen onvrugbare man of onvrugbare vrou wees nie, en ook nie onder jou vee nie.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseën"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal jy wees"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "bo alle"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal daar wees"
+    },
+    {
+      "surface": "בך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "onvrugbare man"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "of onvrugbare vrou"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "en ook nie onder jou vee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:11.427316168Z",
+  "model": "glm-5.3"
+}

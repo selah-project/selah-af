@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Die hemel vertel die eer van El, en die werk van sy hande verkondig die uitspansel.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die eer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "van El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "en die werk"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "verkondig"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "die uitspansel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:49.255320453Z",
+  "model": "glm-5.3"
+}

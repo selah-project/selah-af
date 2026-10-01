@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 64,
+  "translation": "Maar Elohim skiet hulle met 'n pyl — skielik was hulle wonde.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "maar skiet"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "met 'n pyl"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "skielik"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "hulle wonde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:04.448968625Z",
+  "model": "glm-5.3"
+}

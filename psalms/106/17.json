@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Die aarde het oopgegaan en Datan ingesluk, en toegemaak oor die vergadering van Awiram.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "het oopgegaan"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "en ingesluk"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Datan"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en toegemaak"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "die vergadering"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Awiram"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:26.076571513Z",
+  "model": "glm-5.3"
+}

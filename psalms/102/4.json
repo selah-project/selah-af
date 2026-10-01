@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Want my dae het soos rook vergaan, en my bene is soos 'n brandhaard gebrand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "het vergaan"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "soos rook"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "en my bene"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "קד",
+      "gloss": "'n brandhaard"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "gebrand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.301306863Z",
+  "model": "glm-5.3"
+}

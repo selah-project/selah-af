@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 16:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En koning Agas het ⟨את⟩ die omrasinge van die onderstelle afgesny en die wasbak daarvan verwyder; en ⟨את⟩ die see het hy laat afsit van op die bronsbeeste wat onder dit was, en dit geplaas op 'n klipplaveisel.",
+  "tokens": [
+    {
+      "surface": "ויקצץ",
+      "gloss": "afgesny"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Agas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die omrasinge van die onderstelle"
+    },
+    {
+      "surface": "המסגרות",
+      "gloss": "die omrasinge"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "van die onderstelle"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "verwyder"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "van op hulle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die wasbak"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "die wasbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "laat afsit"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van op"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die beeste"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "die brons"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "onder dit"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "geplaas"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die see"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "מרצפת",
+      "gloss": "'n plaveisel"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "klippe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:44.727725303Z",
+  "model": "glm-5.3"
+}

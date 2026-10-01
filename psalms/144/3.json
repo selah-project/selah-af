@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Jahweh, wat ⟨is⟩ die mens dat U hom ken, die seun van die sterflike dat U hom ag?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "dat U hom ken"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "die sterflike"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "dat U hom ag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:43.407243053Z",
+  "model": "glm-5.3"
+}

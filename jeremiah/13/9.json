@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "So sê Jahweh: Net so sal Ek die trots van Jehoeda en die groot trots van Jerusjalajim bederwe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "net so"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "sal Ek bederwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die trots van Jehoeda"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "trots"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die groot trots van Jerusjalajim"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "trots"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "die groot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:32.989311164Z",
+  "model": "glm-5.3"
+}

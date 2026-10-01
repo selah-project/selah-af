@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag jou gesed tog my troos wees, volgens jou woord aan jou dienskneg.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Mag wees"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jou gesed"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "my troos"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "volgens jou woord"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan jou dienskneg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:24.230154302Z",
+  "model": "glm-5.3"
+}

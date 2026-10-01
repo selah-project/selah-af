@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hy het aan sy dogters gesê: En waar is hy? Hoekom het julle ⟨את⟩ die man so laat bly? Roep hom, dat hy brood kan eet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "sy dogters"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "en waar is hy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "hoekom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "so"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "het julle laat bly"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "roep hom"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "dat hy kan eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.618391575Z",
+  "model": "glm-5.3"
+}

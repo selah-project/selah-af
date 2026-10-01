@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en hulle sal agter ons aan uittrek totdat ons hulle ⟨את⟩ weggeruk het van die stad af, want hulle sal sê: Hulle vlug voor ons weg soos die eerste keer; en ons sal vlug voor hulle uit.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle sal uittrek"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "agter ons aan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "ons weggeruk het"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "hulle sal sê"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "Hulle vlug"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "voor ons weg"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "die eerste keer"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "en ons sal vlug"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle uit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:20.186274427Z",
+  "model": "glm-5.3"
+}

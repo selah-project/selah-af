@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Kom, laat ons terugkeer na Jahweh, want hý het geskeur en hy sal ons genees; hy het geslaan en hy sal ons verbind.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "laat ons terugkeer"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hý"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "het geskeur"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "en hy sal ons genees"
+    },
+    {
+      "surface": "יך",
+      "gloss": "hy het geslaan"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "en hy sal ons verbind"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:06.997638117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En hulle sal ⟨את⟩ die land Asshur met die swaard verwoes, en ⟨את⟩ die land Nimrod in sy poorte; en hy sal red uit Asshur wanneer hy in ons land kom en wanneer hy in ons grense tree.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "en hulle sal verwoes"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land Asshur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Asshur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die land Nimrod"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Nimrod"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "in sy poorte"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "en hy sal red"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "uit Asshur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "hy kom"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "in ons land"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en wanneer"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "hy tree"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "in ons grense"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:51.905127097Z",
+  "model": "glm-5.3"
+}

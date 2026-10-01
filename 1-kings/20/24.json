@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En ⟨את⟩ hierdie ding moet jy doen: verwyder die konings, elkeen uit sy plek, en stel goewerneurs in hulle plek aan.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "moet jy doen"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "verwyder"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "uit sy plek"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "en stel aan"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "goewerneurs"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "in hulle plek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:17.260813062Z",
+  "model": "glm-5.3"
+}

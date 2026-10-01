@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Toets my, Jahweh, en stel my op die proef, smelt my niere en my hart ⟨suiwer⟩.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Toets my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "en stel my op die proef"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "smelt ⟨suiwer⟩"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my niere"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "en my hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:39.912139803Z",
+  "model": "glm-5.3"
+}

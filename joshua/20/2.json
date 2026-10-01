@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 20:2",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Spreek met die seuns van Jisraël en sê: Gee vir julle ⟨את⟩ die stede van toevlug waarvan ek met julle gespreek het deur die hand van Mosje.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "Gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stede van toevlug"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "die stede van"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "toevlug"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ek het gespreek"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:34.333900593Z",
+  "model": "glm-5.3"
+}

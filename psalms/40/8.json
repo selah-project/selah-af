@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Toe sê ek: Kyk, ek kom; in die boekrol ⟨is⟩ oor my geskrywe.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "toe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "sê ek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ek kom"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "in die boekrol"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "van die boek"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "geskrywe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.741288298Z",
+  "model": "glm-5.3"
+}

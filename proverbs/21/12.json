@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 21:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Die Regverdige let wys op die huis van die goddelose — hy werp die goddeloses in hulle verderf om.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "let wys op"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Regverdige"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddelose"
+    },
+    {
+      "surface": "מסלף",
+      "gloss": "werp om"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "in hulle verderf"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:30.985713791Z",
+  "model": "glm-5.3"
+}

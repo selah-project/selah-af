@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "En hulle het rondgetrek van nasie na nasie, van ⟨'n⟩ koninkryk na ⟨'n⟩ ander volk.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "en hulle het rondgetrek"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "van nasie"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "van koninkryk"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ander"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:13.733772883Z",
+  "model": "glm-5.3"
+}

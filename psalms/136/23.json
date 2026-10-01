@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Wat ons in ons laagtoestand gedink het, want tot in ewigheid ⟨is⟩ Sy gesed.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "in ons laagtoestand"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "gedink het"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.741549571Z",
+  "model": "glm-5.3"
+}

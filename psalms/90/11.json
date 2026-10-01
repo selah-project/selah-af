@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Wie ken die krag van u toorn, en u gramskap volgens ⟨die vrees wat U toekom⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "עז",
+      "gloss": "die krag"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "van u toorn"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "en volgens u vrees"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "u gramskap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:28.518519676Z",
+  "model": "glm-5.3"
+}

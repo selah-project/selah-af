@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ruth 2:15",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En sy het opgestaan om te are, en Boas het ⟨את⟩ sy jongmanne beveel deur te sê: Selfs tussen die gerfke moet sy are, en julle moet haar nie verneder nie.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "En sy het opgestaan"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "om te are"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "en hy het beveel"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy jongmanne"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "sy jongmanne"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "העמרים",
+      "gloss": "die gerfke"
+    },
+    {
+      "surface": "תלקט",
+      "gloss": "moet sy are"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תכלימוה",
+      "gloss": "moet julle haar verneder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:19.677224534Z",
+  "model": "glm-5.3"
+}

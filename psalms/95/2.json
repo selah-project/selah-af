@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Laat ons sy aangesig ontmoet met dank, met wysliedere laat ons ⟨vir hom⟩ jubel.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "laat ons ontmoet"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "met dank"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "met wysliedere"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "laat ons jubel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:32.741322932Z",
+  "model": "glm-5.3"
+}

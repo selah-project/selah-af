@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die koning sê: Wat ⟨het⟩ ek met julle te make, seuns van Tseruja? As hy vloek, en as Jahweh aan hom gesê het: Vloek ⟨את⟩ Dawid — wie sal dan sê: Waarom het jy so gemaak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "en met julle"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "van Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "As"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "hy vloek"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Vloek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Waarom"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "het jy gemaak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:19.540253612Z",
+  "model": "glm-5.3"
+}

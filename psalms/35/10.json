@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Al my gebeente sal sê: Jahweh, wie ⟨is⟩ soos U, wat die arme red van sy stronger ⟨as hy⟩, die arme en die behoeftige van sy rower?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "my gebeente"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "soos U"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "wat red"
+    },
+    {
+      "surface": "עני",
+      "gloss": "die arme"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "van sy stronger"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "as hy"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "en die arme"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en die behoeftige"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "van sy rower"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:17.885311574Z",
+  "model": "glm-5.3"
+}

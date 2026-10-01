@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "⟨Hulle⟩ rig die tafel, sit ⟨die⟩ wag op die wagpos, eet, drink: staan op, julle prinse, smeer ⟨die⟩ skild.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "rig"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "sit wag"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "die wagpos"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "eet"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "drink"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "julle prinse"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "smeer"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "skild"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:00.731135344Z",
+  "model": "glm-5.3"
+}

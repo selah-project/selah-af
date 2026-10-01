@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "En hulle het ⟨את⟩ die Misjkan na Mosje gebring, ⟨את⟩ die tent en ⟨את⟩ al sy gerei: sy kramme, sy planke, sy dwarsbalke, sy pilare en sy voetstukke.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "en hulle het gebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tent"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gerei"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "sy kramme"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "sy planke"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "sy dwarsbalke"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "en sy pilare"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "en sy voetstukke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:58.550779303Z",
+  "model": "glm-5.3"
+}

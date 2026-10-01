@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Jahweh, Adonai, krag van my redding, U het my hoof gedek op die dag van wapens.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "van my redding"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "U het gedek"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "my hoof"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "van wapens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:21.131192637Z",
+  "model": "glm-5.3"
+}

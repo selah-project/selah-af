@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 74:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Staan op, Elohim, voer u regsaak; dink aan u smaad deur ⟨die⟩ dwaas, ⟨die⟩ hele dag.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "voer ... regszaak"
+    },
+    {
+      "surface": "ריבך",
+      "gloss": "u regsaak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "dink aan"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "u smaad"
+    },
+    {
+      "surface": "מני",
+      "gloss": "deur"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "⟨die⟩ dwaas"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨die⟩ hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:22.930416653Z",
+  "model": "glm-5.3"
+}

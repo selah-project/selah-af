@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "dáár het hulle ⟨את⟩ Awraham begrawe en ⟨את⟩ Sara sy vrou; dáár het hulle ⟨את⟩ Jitsgak begrawe en ⟨את⟩ Ribka sy vrou; en dáár het ek ⟨את⟩ Lea begrawe.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "dáár"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "het hulle begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "dáár"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "het hulle begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jitsgak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Jitsgak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Ribka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ribka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "en dáár"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "het ek begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:00.964254845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Ek, ék ⟨is⟩ Jahweh, en daar ⟨is⟩ geen redder behalwe my nie.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ék"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "behalwe my"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:53.231247271Z",
+  "model": "glm-5.3"
+}

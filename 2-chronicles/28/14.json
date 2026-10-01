@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 28:14",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Toe laat die gewapende manne ⟨את⟩ die gevangenes en ⟨את⟩ die buit agter voor die owerstes en die hele vergadering.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "toe laat hulle agter"
+    },
+    {
+      "surface": "החלוץ",
+      "gloss": "die gewapende manne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangenes"
+    },
+    {
+      "surface": "השביה",
+      "gloss": "die gevangenes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die buit"
+    },
+    {
+      "surface": "הבזה",
+      "gloss": "die buit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergadering"
+    }
+  ],
+  "timestamp": "2026-10-01T01:01:41.428821342Z",
+  "model": "glm-5.3"
+}

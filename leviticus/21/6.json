@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 21:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Heilig moet hulle wees vir hulle Elohim, en die naam van hulle Elohim moet hulle nie ontheilig nie, want ⟨את⟩ die vuuroffers van Jahweh, die brood van hulle Elohim, bring hulle naby — en hulle moet heilig wees.",
+  "tokens": [
+    {
+      "surface": "קדשים",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "moet hulle wees"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "vir hulle Elohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "moet hulle ontheilig"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "van hulle Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vuuroffers van Jahweh"
+    },
+    {
+      "surface": "אשי",
+      "gloss": "die vuuroffers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "van hulle Elohim"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מקריבם",
+      "gloss": "bring hulle naby"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en moet wees"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:37.534884504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Toe het hy sy hand teen hulle opgehef, om hulle in die woestyn te laat val —",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "toe het hy opgehef"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "להם",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "om te laat val"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:30.253150336Z",
+  "model": "glm-5.3"
+}

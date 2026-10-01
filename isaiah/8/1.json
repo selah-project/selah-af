@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Jahweh het vir my gesê: Neem vir jou 'n groot skryftablet, en skryf daarop met die griffel van 'n mens: Maher-sjalal-gasj-bas.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "קח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "'n skryftablet"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "en skryf"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "met die griffel"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "van 'n mens"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Maher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "sjalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "gasj"
+    },
+    {
+      "surface": "בז",
+      "gloss": "bas"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:17.268974983Z",
+  "model": "glm-5.3"
+}

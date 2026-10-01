@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het ⟨את⟩ die een in Bet-El geplaas, en ⟨את⟩ die een het hy in Dan gegee.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hy het geplaas"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die een"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in Bet-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die een"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het hy gegee"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "in Dan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:53.608983493Z",
+  "model": "glm-5.3"
+}

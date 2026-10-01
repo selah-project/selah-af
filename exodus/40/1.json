@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En Jahweh het met Mosje gespreek en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:18.302260422Z",
+  "model": "glm-5.3"
+}

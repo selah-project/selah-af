@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 14:26",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en hy het ⟨את⟩ die skatte van die huis van Jahweh weggegeneem, en ⟨את⟩ die skatte van die huis van die koning; ⟨את⟩ alles het hy geneem; en hy het ⟨את⟩ al die skilde van goud geneem wat Sjelomo gemaak het.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skatte van die huis van Jahweh"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "die skatte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die skatte van die huis van die koning"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "die skatte"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "het hy geneem"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die skilde van goud"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "die skilde"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:31.086200866Z",
+  "model": "glm-5.3"
+}

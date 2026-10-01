@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "'n Gawegif van eerstelinge mag jul hulle vir Jahweh naderbring, ⟨את⟩, maar op die altaar mag hulle nie opgaan as 'n geur van rus nie.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "'n gawegif"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "van eerstelinge"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "mag jul naderbring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "mag hulle opgaan"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "as 'n geur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "van rus"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:30.662620372Z",
+  "model": "glm-5.3"
+}

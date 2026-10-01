@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 78:34",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "As Hy hulle doodgemaak het, het hulle Hom gesoek, en hulle het teruggekeer en El vroeg gesoek.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "הרגם",
+      "gloss": "Hy hulle doodgemaak het"
+    },
+    {
+      "surface": "ודרשוהו",
+      "gloss": "het hulle Hom gesoek"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "en hulle het teruggekeer"
+    },
+    {
+      "surface": "ושחרו",
+      "gloss": "gesoek vroeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:24.685939182Z",
+  "model": "glm-5.3"
+}

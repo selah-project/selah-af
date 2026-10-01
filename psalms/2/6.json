@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Ek — Ek het My koning gestel op Tsijon, My heilige berg.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En Ek"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "Ek het gestel (gesalf)"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "My koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "My heilige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:25.526538076Z",
+  "model": "glm-5.3"
+}

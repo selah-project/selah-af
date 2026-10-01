@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Ek laat die terugkeer van die gevangeskap van Jehoeda terugkeer en ⟨את⟩ die gevangeskap van Jisraël, en Ek bou hulle op soos in die begin.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "en Ek laat terugkeer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangeskap"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die gevangeskap"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die gevangeskap"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "die gevangeskap"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "en Ek bou hulle op"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "soos in die begin"
+    }
+  ],
+  "timestamp": "2026-09-30T22:38:45.551299622Z",
+  "model": "glm-5.3"
+}

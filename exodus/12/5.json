@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "'n Kudde, volmaak, 'n mannetjie, 'n seun van 'n jaar, sal dit vir julle wees; uit die lammers en uit die bokke sal julle dit neem.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "'n kudde"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaak"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "'n mannetjie"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van 'n jaar"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "die lammers"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "die bokke"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "sal julle neem"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:57.461848218Z",
+  "model": "glm-5.3"
+}

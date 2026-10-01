@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Noag het gedoen volgens alles wat Elohim ⟨את⟩ hom gebied het — so het hy gedoen.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noag"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "volgens alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "gebeid het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:12.737087820Z",
+  "model": "glm-5.3"
+}

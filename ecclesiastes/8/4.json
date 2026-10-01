@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Waar die woord van 'n koning ⟨is⟩, ⟨is⟩ daar gesag; en wie sal aan hom sê: wat doen jy?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van 'n koning"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "gesag"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sal sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "doen jy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:23.685898528Z",
+  "model": "glm-5.3"
+}

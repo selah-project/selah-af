@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Gaan rondom Tsijon en omring haar, tel haar torings.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Gaan rondom"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "en omring haar"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "tel"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "haar torings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:29.370721036Z",
+  "model": "glm-5.3"
+}

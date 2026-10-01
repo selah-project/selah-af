@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Groot ⟨is⟩ Jahweh en hoogs geprys in die stad van onse Elohim, ⟨op⟩ ⟨die⟩ berg van sy heiligdom.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Groot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "en hoogs geprys"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "hoogs"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "van onse Elohim"
+    },
+    {
+      "surface": "הר",
+      "gloss": "berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van sy heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:56.425865357Z",
+  "model": "glm-5.3"
+}

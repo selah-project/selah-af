@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Die hele aarde sal voor u buig en vir u 'n lied speel; hulle sal u Naam besing. Sela.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "sal buig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "voor u"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "en speel 'n lied"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir u"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "hulle sal besing"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:03.752650369Z",
+  "model": "glm-5.3"
+}

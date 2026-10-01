@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 129,
+  "translation": "waarmee die maaier sy hand nie vul nie, en die gerfbinderskrop nie vol word nie —",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "waarmee nie"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "vul"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "die maaier"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "en sy skoot"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "die gerfbinder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.085496030Z",
+  "model": "glm-5.3"
+}

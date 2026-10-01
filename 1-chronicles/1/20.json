@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Joktan het ⟨את⟩ Almodad verwek, en ⟨את⟩ Sjelef, en ⟨את⟩ Chatsarmawet, en ⟨את⟩ Jerag.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "En Joktan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Almodad"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Almodad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sjelef"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Sjelef"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Chatsarmawet"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Chatsarmawet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jerag"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Jerag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:44:01.861026807Z",
+  "model": "glm-5.3"
+}

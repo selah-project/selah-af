@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Mooier as die seuns van die mens is jy; guns is uitgestort op jou lippe; daarom het Elohim jou geseën vir ewig.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Mooier is jy"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "as die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "is uitgestort"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "op jou lippe"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "het ... jou geseën"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:11.042826250Z",
+  "model": "glm-5.3"
+}

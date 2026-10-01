@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 2:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elisa het dit gesien en geskreeu: My vader, my vader! Die wa van Jisraël en sy ruiters! En hy het hom nie weer gesien nie; en hy het sy klere gegryp en hulle in twee stukke geskeur.",
+  "tokens": [
+    {
+      "surface": "ואלישע",
+      "gloss": "En Elisa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en hy"
+    },
+    {
+      "surface": "מצעק",
+      "gloss": "geskreeu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "My vader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "Die wa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ופרשיו",
+      "gloss": "en sy ruiters"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "en hy het gegryp"
+    },
+    {
+      "surface": "בבגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "en hulle geskeur"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "in twee"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "stukke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ראהו",
+      "gloss": "hom gesien"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:19.424231973Z",
+  "model": "glm-5.3"
+}

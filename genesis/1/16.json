@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die twee groot liggame gemaak — ⟨את⟩ die groot ligliggaam om ⟨die⟩ dag te regeer, en ⟨את⟩ die klein ligliggaam om ⟨die⟩ nag te regeer — ook ⟨את⟩ die sterre.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee groot liggame"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die twee"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "groot liggame"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die groot ligliggaam"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "die ligliggaam"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "om te regeer"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨die⟩ dag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die klein ligliggaam"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "die ligliggaam"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "om te regeer"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "⟨die⟩ nag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ook ⟨את⟩",
+      "marks": "die sterre"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "die sterre"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.933179955Z",
+  "model": "glm-5.3"
+}

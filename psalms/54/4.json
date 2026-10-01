@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Elohim, hoor my gebed, leun u oor tot die woorde van my mond.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "leun u oor"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "tot die woorde"
+    },
+    {
+      "surface": "פי",
+      "gloss": "van my mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:24.739390491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Die stem van Jahweh roep na die stad, en ⟨dit is⟩ heil om u naam te vrees; hoor die staf, en wie het dit aangestel.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "na die stad"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "en ⟨dit is⟩ heil"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "om te vrees"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u naam"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wie"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "het dit aangestel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:41.362102008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ⟨die⟩ mens het gebuig, en ⟨die⟩ man het hom verlaag — en moenie hulle dra nie.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "en het gebuig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "en het verlaag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dra"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:39.443590756Z",
+  "model": "glm-5.3"
+}

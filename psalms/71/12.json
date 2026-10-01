@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Elohim, moenie ver van my wegwyk nie; my Elohim, haas ⟨jou⟩ tot my hulp.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "wegwyk"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ver van my"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot my hulp"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "haas"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:24.770381510Z",
+  "model": "glm-5.3"
+}

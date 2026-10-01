@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hulle het die ark van Jahweh opgebring, en ⟨את⟩ die tent van samekoms, en ⟨את⟩ al die gereedskappe van die heiligdom wat in die tent was; en hulle het hulle opgebring, die priesters en die Leviete.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "en het opgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tent van samekoms"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die gereedskappe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die gereedskappe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en het opgebring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "en die Leviete"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:50.268364801Z",
+  "model": "glm-5.3"
+}

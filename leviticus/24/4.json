@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Op die suiwere menora moet hy ⟨את⟩ die lampe regskik voor die aangesig van Jahweh, gedurig.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Op"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "die menora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "suiwere"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "moet hy regskik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lampe"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "die lampe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:02.383015971Z",
+  "model": "glm-5.3"
+}

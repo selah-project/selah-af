@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Versadig word die bome van Jahweh, die seders van die Libanon wat Hy geplant het,",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "versadig word"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "die bome"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "die seders"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "van die Libanon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "geplant het"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.440931541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die hele vergadering van Jisraël sal dit doen.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "sal doen"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:04.042156337Z",
+  "model": "glm-5.3"
+}

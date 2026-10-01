@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "My oog kwyn weg vanweë my ellende; ek roep U aan, Jahweh, elke dag, ek sprei my handpalms na U uit.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "kwyn weg"
+    },
+    {
+      "surface": "מני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "עני",
+      "gloss": "my ellende"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ek roep U aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "ek sprei uit"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my handpalms"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:14.481780938Z",
+  "model": "glm-5.3"
+}

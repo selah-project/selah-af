@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Want Jahweh sal sy volk nie verstoot nie, en sy erfdeel sal Hy nie verlaat nie",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "sal verstoot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "en sy erfdeel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "sal verlaat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:48.844543083Z",
+  "model": "glm-5.3"
+}

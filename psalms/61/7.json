@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "Dae by die dae van die koning mag U toevoeg; sy jare soos geslag en geslag.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "mag U toevoeg"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "sy jare"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דר",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:54.000750121Z",
+  "model": "glm-5.3"
+}

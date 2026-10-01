@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Gaan, eet met blydskap jou brood, en drink met 'n goeie hart jou wyn, want lankal het Elohim ⟨את⟩ jou dade behaag.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "met blydskap"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "jou brood"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "met 'n hart"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goeie"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "jou wyn"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "lankal"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "behaag"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dade"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jou dade"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:54.317072237Z",
+  "model": "glm-5.3"
+}

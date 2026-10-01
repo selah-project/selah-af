@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 33:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Van die stem van die geraas het volke gevlug; van u verhoging is nasies verstrooi.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "van die stem van"
+    },
+    {
+      "surface": "המון",
+      "gloss": "geraas"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "het gevlug"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "מרוממתך",
+      "gloss": "van u verhoging"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "is verstrooi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:36.616835754Z",
+  "model": "glm-5.3"
+}

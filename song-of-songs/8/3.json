@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Sy linkerhand ⟨is⟩ onder my hoof, en sy regterhand omhels my.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "sy linkerhand"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "my hoof"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "en sy regterhand"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "omhels my"
+    }
+  ],
+  "timestamp": "2026-10-01T00:24:19.954632064Z",
+  "model": "glm-5.3"
+}

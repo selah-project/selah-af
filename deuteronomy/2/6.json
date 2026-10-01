@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Kos moet julle by hulle vir silwer koop en eet, en ook water moet julle by hulle vir silwer koop en drink.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "kos"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "moet julle koop"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ by hulle"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "vir silwer"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "en eet"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "moet julle koop"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ by hulle"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "vir silwer"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "en drink"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:04.720986485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "my Elohim, maak hulle soos 'n rollende wiel, soos kaf voor die roeag.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "maak hulle"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "soos 'n rollende wiel"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "soos kaf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:33.879462464Z",
+  "model": "glm-5.3"
+}

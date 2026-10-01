@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 119:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek kleef aan jou getuienis, Jahweh — laat my nie beskaam staan nie.",
+  "tokens": [
+    {
+      "surface": "דבקתי",
+      "gloss": "ek kleef"
+    },
+    {
+      "surface": "בעדותיך",
+      "gloss": "aan jou getuienis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "my beskaam staan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.579997046Z",
+  "model": "glm-5.3"
+}

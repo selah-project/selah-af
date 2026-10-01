@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh het met die vis gespreek, en dit het ⟨את⟩ Jona op die droë grond uitgebraak.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "met die vis"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "en dit het uitgebraak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "die droë grond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:04.501428115Z",
+  "model": "glm-5.3"
+}

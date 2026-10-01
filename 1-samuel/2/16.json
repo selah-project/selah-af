@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 2:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die man sê vir hom: Laat hulle eers die vet laat rook soos vandag, en neem dan vir jou soos jou siel begeer. Maar hy sê vir hom: Nee, nou moet jy gee — en as nie, dan neem ek met geweld.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "laat rook"
+    },
+    {
+      "surface": "יקטירון",
+      "gloss": "hulle sal laat rook"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos vandag"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "maar hy sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nee"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet jy gee"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "neem ek"
+    },
+    {
+      "surface": "בחזקה",
+      "gloss": "met geweld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:33.048322978Z",
+  "model": "glm-5.3"
+}

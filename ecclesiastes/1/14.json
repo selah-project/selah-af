@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Ek het ⟨את⟩ al die werke gesien wat gedoen is onder die son; en kyk, die hele ⟨is⟩ nietigheid en 'n kwelling van roeag.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die werke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "wat gedoen is"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "onder"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "nietigheid"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "en 'n kwelling"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "van roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:20.252861581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 24:10",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En die hart van Dawid het ⟨את⟩ hom geslaan nadat hy ⟨את⟩ die volk getel het, en Dawid het tot Jahweh gesê: ek het baie gesondig deur wat ek gedoen het, en nou, Jahweh, laat tog ⟨את⟩ die skuld van jou dienskneg verbygaan, want ek het baie dwaas gehandel.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "nadat"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ספר",
+      "gloss": "getel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ek het gesondig"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "deur wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "laat verbygaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skuld"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die skuld"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "van jou dienskneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ek het dwaas gehandel"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:29.158717194Z",
+  "model": "glm-5.3"
+}

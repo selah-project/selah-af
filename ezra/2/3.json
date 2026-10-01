@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "die seuns of Parasj: twee duisend eenhonderd twee-en-sewentig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Parasj"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "twee duisend"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "eenhonderd"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "twee-en-sewentig"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:34.198496632Z",
+  "model": "glm-5.3"
+}

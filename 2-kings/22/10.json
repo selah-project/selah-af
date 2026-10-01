@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 22:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Sjafan die skrywer het aan die koning berig en gesê: 'n Boek het Chilkija die priester aan my gegee; en Sjafan het dit voorgelees voor die koning.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "het berig"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "die skrywer"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "'n boek"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Chilkija"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "ויקראהו",
+      "gloss": "en hy het dit voorgelees"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Sjafan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:42.846464534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Die roeag van Jahweh het deur my gespreek, en sy woord op my tong.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Die roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "בי",
+      "gloss": "deur my"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "en sy woord"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    }
+  ],
+  "timestamp": "2026-09-30T21:57:24.313961259Z",
+  "model": "glm-5.3"
+}

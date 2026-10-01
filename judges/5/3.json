@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 5:3",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Hoor, o konings; leen ⟨die⟩ oor, o vorste — ek, vir Jahweh sal ek sing, ek sal psalmsing vir Jahweh, ⟨die⟩ Elohim van Jisraël.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoor"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "o konings"
+    },
+    {
+      "surface": "האזינu",
+      "gloss": "leen die oor"
+    },
+    {
+      "surface": "רזנים",
+      "gloss": "o vorste"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "sal ek sing"
+    },
+    {
+      "surface": "אזמר",
+      "gloss": "sal ek psalmsing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:31.757157712Z",
+  "model": "glm-5.3"
+}

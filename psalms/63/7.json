@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "As ek aan u dink op my bed, in die nagwakes peins ek oor u.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ek aan u dink"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "in die nagwakes"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "peins ek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "oor u"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:02.323417788Z",
+  "model": "glm-5.3"
+}

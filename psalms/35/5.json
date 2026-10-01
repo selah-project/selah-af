@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Mag hulle wees soos kaf voor die roeag, en 'n boodskapper van Jahweh wat hulle wegstoot.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mag hulle wees"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "soos kaf"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "en 'n boodskapper"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "wat hulle wegstoot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:31.265121956Z",
+  "model": "glm-5.3"
+}

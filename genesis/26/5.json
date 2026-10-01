@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "omdat Awraham geluister het na my stem, en my wagdiens in ag gehou het, my gebooie, my insettinge en my Tora's.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "geluister het"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "na my stem"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "en in ag gehou het"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "my wagdiens"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "en my Tora's"
+    }
+  ],
+  "timestamp": "2026-09-30T20:34:44.424614225Z",
+  "model": "glm-5.3"
+}

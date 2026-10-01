@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Het U ons nie verwerp nie, Elohim? En U trek nie uit, Elohim, met ons leërskare nie!",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Het U nie"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ons verwerp"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "trek U uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "met ons leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:55.415301406Z",
+  "model": "glm-5.3"
+}

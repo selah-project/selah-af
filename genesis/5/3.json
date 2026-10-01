@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Adam het dertig en honderd jaar gelewe, en hy het 'n seun verwek in sy gelykenis, na sy beeld, en hy het ⟨את⟩ sy naam Set genoem.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "En Adam het gelewe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Adam"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "in sy gelykenis"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "na sy beeld"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Set"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:09.485123875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Hy wat onberispelik wandel en tsedek doen, en waarheid spreek in sy hart;",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "wandelaar"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "onberispelik"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "in sy hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:54.339773378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "Wend u tot my en wees my genadig; gee u krag aan u dienskneg, en red die seun van u diensmaagd.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "wend u"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "tot my"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "en wees my genadig"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "u krag"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "aan u dienskneg"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "en red"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "u diensmaagd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:41.189285948Z",
+  "model": "glm-5.3"
+}

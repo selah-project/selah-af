@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 7:15",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Die swaard ⟨is⟩ buite, en die epidemie en die hongersnood binne; wie in die veld is, sal deur die swaard sterwe, en wie in die stad is — hongersnood en epidemie sal hom verslind.",
+  "tokens": [
+    {
+      "surface": "החרב",
+      "gloss": "Die-swaard"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "en-die-epidemie"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "en-die-hongersnood"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van-binne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in-die-veld"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "deur-die-swaard"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sal-sterwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en-wie"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in-die-stad"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "hongersnood"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "en-epidemie"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "sal-hom-verslind"
+    }
+  ],
+  "timestamp": "2026-09-30T22:46:27.922706940Z",
+  "model": "glm-5.3"
+}

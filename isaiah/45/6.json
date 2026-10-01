@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 45:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "sodat hulle kan weet, van die opgang van die son af en van die weste af, dat daar niemand is behalwe ek nie: ek ⟨is⟩ Jahweh, en daar is geen ander nie.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "hulle kan weet"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "van die opgang af"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "van die son"
+    },
+    {
+      "surface": "וממערבה",
+      "gloss": "en van die weste af"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "daar is niemand"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "behalwe ek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ander"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:39.733409361Z",
+  "model": "glm-5.3"
+}

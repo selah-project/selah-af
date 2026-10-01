@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ester het ⟨את⟩ haar volk en ⟨את⟩ haar afkoms nie bekend gemaak nie, want Mordegai het haar beveel om dit nie bekend te maak nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "het bekend gemaak"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar volk"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "haar volk"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar afkoms"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "haar afkoms"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "aan haar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "om"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "bekend te maak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:01.770589707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 26:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "My voet het in gelykheid gestaan; in vergaderings sal ek Jahweh seën",
+  "tokens": [
+    {
+      "surface": "רגלי",
+      "gloss": "my voet"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "in gelykheid"
+    },
+    {
+      "surface": "במקהלים",
+      "gloss": "in vergaderings"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "sal ek seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:25.326166066Z",
+  "model": "glm-5.3"
+}

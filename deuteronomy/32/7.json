@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Onthou die dae van ouds, verstaan die jare van geslag en geslag; vra jou vader, en hy sal jou verklaar, jou ouderlinge, en hulle sal vir jou sê.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "die dae"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "die jare"
+    },
+    {
+      "surface": "דור",
+      "gloss": "van geslag"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en geslag"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "vra"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "en hy sal jou verklaar"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "jou ouderlinge"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sal sê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:28.636742185Z",
+  "model": "glm-5.3"
+}

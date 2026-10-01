@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Keer terug, my siel, na jou rus, want Jahweh het aan jou weldade bewys.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "na jou rus"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "het weldade bewys"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:48.271583457Z",
+  "model": "glm-5.3"
+}

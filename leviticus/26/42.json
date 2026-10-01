@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal ⟨את⟩ my verbond met Jaäkow gedenk, en ook ⟨את⟩ my verbond met Jitsgak, en ook ⟨את⟩ my verbond met Awraham sal Ek gedenk, en die land sal Ek gedenk",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "En Ek sal gedenk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond met Jaäkow"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "met Jaäkow"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond met Jitsgak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "met Jitsgak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond met Awraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "met Awraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "sal Ek gedenk"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "en die land"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "sal Ek gedenk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:52.251774653Z",
+  "model": "glm-5.3"
+}

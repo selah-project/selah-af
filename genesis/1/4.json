@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Elohim het ⟨את⟩ die lig gesien, dat dit goed was; en Elohim het geskei tussen die lig en tussen die duisternis.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En ... het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lig"
+    },
+    {
+      "surface": "האור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "en ... het geskei"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "האור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "die duisternis"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:44.529834893Z",
+  "model": "glm-5.3"
+}

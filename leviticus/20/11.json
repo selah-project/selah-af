@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 20:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En ‘n man wat lê met ⟨את⟩ die vrou van sy vader — die naaktheid van sy vader het hy ontbloot — hulle altwee sal sekerlik gedood word; hulle bloed is op hulle.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou van sy vader"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "het hy ontbloot"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "sal hulle gedood word"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hulle altwee"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "hulle bloed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:31.335658035Z",
+  "model": "glm-5.3"
+}

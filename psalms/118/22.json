@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "⟨Die⟩ steen wat die bouers verag het, het ⟨die⟩ hoeksteen geword.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "steen"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "het verag"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "die bouers"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "het geword"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "⟨die⟩ hoek-"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "steen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:33.928719489Z",
+  "model": "glm-5.3"
+}

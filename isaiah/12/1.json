@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 12:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En jy sal sê op dié dag: Ek loof U, Jahweh, want U was toornig op my, maar U toorn het omgekeer, en U het my getroos.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy sal sê"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ek loof U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "U was toornig"
+    },
+    {
+      "surface": "בי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "het omgekeer"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "U toorn"
+    },
+    {
+      "surface": "ותנחמני",
+      "gloss": "en U het my getroos"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:26.985745413Z",
+  "model": "glm-5.3"
+}

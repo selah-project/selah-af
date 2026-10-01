@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Hy bedwing ⟨die⟩ gedruis van die seeë, ⟨die⟩ gedruis van hulle golwe, en die rumoer van die nasies.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Hy bedwing"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gedruis"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van die seeë"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "gedruis"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "van hulle golwe"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "en die rumoer"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "van die nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.451807843Z",
+  "model": "glm-5.3"
+}

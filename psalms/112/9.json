@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Hy het uitgestrooi, gegee aan die behoeftiges; sy tsedek staan tot in ewigheid; sy horing sal met eer verhef word.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "uitgestrooi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "aan die behoeftiges"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "sy tsedek"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "staan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "sy horing"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "sal verhef word"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "met eer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:51.214993403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Want in ⟨die⟩ dood is daar geen gedagtenis aan U nie; in Sjeol, wie sal U loof?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar geen"
+    },
+    {
+      "surface": "במות",
+      "gloss": "in ⟨die⟩ dood"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "gedagtenis aan U"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "in Sjeol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "sal loof"
+    },
+    {
+      "surface": "לך",
+      "gloss": "U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:29.389147371Z",
+  "model": "glm-5.3"
+}

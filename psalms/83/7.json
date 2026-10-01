@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Die tente van Edom en die Ismaeliete, Moab en die Hagariete,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Die tente"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "en die Ismaeliete"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "en die Hagariete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:37.490639500Z",
+  "model": "glm-5.3"
+}

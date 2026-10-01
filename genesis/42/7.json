@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En Josef het ⟨את⟩ sy broers gesien en hulle herken, maar homself as 'n vreemdeling teenoor hulle voorgekom, en hy het ⟨את⟩ hulle hard toegespreek; en hy het vir hulle gesê: Van waar kom julle? En hulle het gesê: Uit die land Kenaän, om kos te koop.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "gesien"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "hulle herken"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "homself as 'n vreemdeling voorgekom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "teenoor hulle"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "toegespreek"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "kom julle"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "hulle het gesê"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te koop"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "kos"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:56.122052579Z",
+  "model": "glm-5.3"
+}

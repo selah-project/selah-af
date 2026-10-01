@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 87,
+  "translation": "Jahweh sal tel wanneer Hy ⟨את⟩ die volke opskryf: hierdie is daar gebore. Sela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sal tel"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "wanneer Hy opskryf"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "is gebore"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:31.290615458Z",
+  "model": "glm-5.3"
+}

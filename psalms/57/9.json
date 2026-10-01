@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Ontwaak, my glans; ontwaak, nevel en kinnor; ek sal ⟨die⟩ dageraad wek.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "my glans"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ontwaak"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "die nevel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en kinnor"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "sal ek wek"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "dageraad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:24.152150983Z",
+  "model": "glm-5.3"
+}

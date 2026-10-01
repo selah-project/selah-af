@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 25:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Ook almal wat op U wag, sal nie beskaam word nie; beskaam sal word die verraderlikes, sonder rede.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ook"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "קויך",
+      "gloss": "wat op U wag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sal beskaam word"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "beskaam sal word"
+    },
+    {
+      "surface": "הבוגדים",
+      "gloss": "die verraderlikes"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "sonder rede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.945200838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning het ⟨את⟩ die goue septer na Ester uitgestrek, en Ester het opgestaan en voor die koning gaan staan.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "uitgestrek"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "na Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goue septer"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "septer"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "goue"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "opgestaan"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "gaan staan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:33.878673620Z",
+  "model": "glm-5.3"
+}

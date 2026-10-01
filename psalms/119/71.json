@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Dit was goed vir my dat ek verneder is, sodat ek u verordeninge kan leer.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ek verneder is"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ek kan leer"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u verordeninge"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:43.013054447Z",
+  "model": "glm-5.3"
+}

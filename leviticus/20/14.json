@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 20:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En 'n man wat 'n vrou neem en ⟨את⟩ haar moeder — 'n misdryf is dit; in die vuur sal hulle hom en hulle verbrand, en daar sal geen misdryf onder julle wees nie.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n vrou"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar moeder"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "haar moeder"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "'n misdryf"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    },
+    {
+      "surface": "ישרפו",
+      "gloss": "sal hulle verbrand"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואתהן",
+      "gloss": "en ⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "misdryf"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "onder julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:51.245796102Z",
+  "model": "glm-5.3"
+}

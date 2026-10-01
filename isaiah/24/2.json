@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 24:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En ⟨dit sal wees⟩ soos ⟨die⟩ volk, so die priester; soos die dienskneg, so sy heer; soos die slavin, so haar mevrou; soos die koper, so die verkoper; soos die lener, so die leningnemer; soos die skuldeiser, so die een wat by hom skuld.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En ⟨dit sal wees⟩"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "soos ⟨die⟩ volk"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "so die priester"
+    },
+    {
+      "surface": "כעבד",
+      "gloss": "soos die dienskneg"
+    },
+    {
+      "surface": "כאדניו",
+      "gloss": "so sy heer"
+    },
+    {
+      "surface": "כשפחה",
+      "gloss": "soos die slavin"
+    },
+    {
+      "surface": "כגברתה",
+      "gloss": "so haar mevrou"
+    },
+    {
+      "surface": "כקונה",
+      "gloss": "soos die koper"
+    },
+    {
+      "surface": "כמוכר",
+      "gloss": "so die verkoper"
+    },
+    {
+      "surface": "כמלוה",
+      "gloss": "soos die lener"
+    },
+    {
+      "surface": "כלוה",
+      "gloss": "so die leningnemer"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "soos die skuldeiser"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos die een wat"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "skuld"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:28.055644971Z",
+  "model": "glm-5.3"
+}

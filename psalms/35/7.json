@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Want sonder rede het hulle vir my 'n kuil, hulle net, weggesteek; sonder rede het hulle 'n kuil gegrawe vir my siel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sonder rede"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "het weggesteek"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "'n kuil"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "hulle net"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "sonder rede"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "het gegrawe"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "vir my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:31.265714958Z",
+  "model": "glm-5.3"
+}

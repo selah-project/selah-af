@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Verlaat haar nie, en sy sal jou bewaar; liefkoos haar, en sy sal jou beskerm.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "verlaat haar"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "en sy sal jou bewaar"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "liefkoos haar"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "en sy sal jou beskerm"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:49.216367573Z",
+  "model": "glm-5.3"
+}

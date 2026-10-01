@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En die ouderlinge van daardie stad sal ⟨את⟩ die man neem en hom tugtig.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "en hulle sal neem"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die ouderlinge"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "en hulle sal tugtig"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:44.964312659Z",
+  "model": "glm-5.3"
+}

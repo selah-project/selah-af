@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Serug het gelewe ná hy ⟨את⟩ Nagor verwek het, tweehonderd jaar, en hy het seuns en dogters verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het gelewe"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Serug"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "hy verwek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nagor"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nagor"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "en hy het verwek"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "en dogters"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:26.262962912Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Jahweh ⟨is⟩ die deel van my erfenis en my beker; ⟨dit is⟩ U wat my lot staande hou.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "deel"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "my erfenis"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "en my beker"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "staande hou"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "my lot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:29.474731165Z",
+  "model": "glm-5.3"
+}

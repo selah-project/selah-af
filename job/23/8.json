@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Kyk, ooswaarts gaan ek — en hy is daar nie; en agtertoe — en ek verstaan hom nie.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ooswaarts\/vorentoe"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "gaan ek"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "en hy is nie"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "en agtertoe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:18:43.908295404Z",
+  "model": "glm-5.3"
+}

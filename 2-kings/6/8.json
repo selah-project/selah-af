@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning van Aram was in oorlog teen Jisraël, en hy het met sy dienaars beraadslaag en gesê: By die en die plek sal my leërplaas wees.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "in oorlog"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "teen Jisraël"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "en hy het beraadslaag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "die en die"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "die en die"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "my leërplaas"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:08.698019497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "dan stuur die oudstes van sy stad ⟨afgevaardigdes⟩ en hulle neem ⟨את⟩ hom van daar weg en gee ⟨את⟩ hom oor in die hand van die losser van die bloed, en hy sterf.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "dan stuur"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes van"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "sy stad"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "en hulle neem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar weg"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "oor in die hand van"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "die losser"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hy sterf"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:38.517666459Z",
+  "model": "glm-5.3"
+}

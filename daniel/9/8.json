@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 9:8",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Jahweh, aan ons behoort die gesigskaamte — aan ons konings, aan ons owerstes en aan ons vaders, omdat ons teen U gesondig het.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "die gesigskaamte"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "van gesig"
+    },
+    {
+      "surface": "למלכינו",
+      "gloss": "aan ons konings"
+    },
+    {
+      "surface": "לשרינו",
+      "gloss": "aan ons owerstes"
+    },
+    {
+      "surface": "ולאבתינו",
+      "gloss": "en aan ons vaders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "gesondig het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen U"
+    }
+  ],
+  "timestamp": "2026-10-01T00:34:50.485513398Z",
+  "model": "glm-5.3"
+}

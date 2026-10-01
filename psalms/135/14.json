@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Want Jahweh sal sy volk reg doen, en oor sy dienaars sal hy ⟨vertroos⟩ wees.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sal reg doen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "sal hy vertroos wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.826247079Z",
+  "model": "glm-5.3"
+}

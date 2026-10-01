@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die Kehatiete het vertrek, die draers van die heiligdom, en ⟨hulle⟩ het ⟨את⟩ die Misjkan opgerig tot by hul aankoms.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "en het vertrek"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "die Kehatiete"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "die draers"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "die heiligdom"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "en het opgerig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "באם",
+      "gloss": "hul aankoms"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:07.351222307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die draer van sy wapens het gesien dat Sjaoel dood was, en hy het ook op die swaard geval en gesterwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "die draer"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "van sy wapens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood was"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "en hy het geval"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en gesterwe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:16.057410832Z",
+  "model": "glm-5.3"
+}

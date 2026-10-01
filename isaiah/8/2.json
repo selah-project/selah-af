@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ek laat vir my getroue getuies getuig: ⟨את⟩ Urja die priester en ⟨את⟩ Sekarjahoe, seun van Jeberekjahoe.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "En ek laat getuig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "getuies"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "getroue"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Urja die priester"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Urja"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Sekarjahoe, seun van Jeberekjahoe"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Sekarjahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "Jeberekjahoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:17.269320371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Moenie te veel onreg pleeg nie, en moenie 'n sot wees nie; waarom sou jy sterf buite ⟨jou⟩ tyd?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "onreg pleeg"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "te veel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "wees"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "'n sot"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "sou jy sterf"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "buite"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "jou tyd"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.954379073Z",
+  "model": "glm-5.3"
+}

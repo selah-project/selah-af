@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Elohim het opgevaar met gejuig, Jahweh met die klank van ⟨die⟩ sjofar.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "het opgevaar"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "met gejuig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met die klank van"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "sjofar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.135845601Z",
+  "model": "glm-5.3"
+}

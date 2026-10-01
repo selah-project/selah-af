@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Lank gelede het ek uit u getuienisse geweet: vir ewig het U hulle gegrond.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "lank gelede"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "het ek geweet"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "uit u getuienisse"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "het U hulle gegrond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:18.885215586Z",
+  "model": "glm-5.3"
+}

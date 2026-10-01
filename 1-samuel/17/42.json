@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die Filistyn het rondgekyk en ⟨את⟩ Dawid gesien en hom verag, want hy was 'n jongman, rooierig en mooi van voorkoms.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "en hy het rondgekyk"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "die Filistyn"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "en gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "en hom verag"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היה",
+      "gloss": "hy was"
+    },
+    {
+      "surface": "נער",
+      "gloss": "'n jongman"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "rooierig"
+    },
+    {
+      "surface": "עם",
+      "gloss": "en"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "van voorkoms"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:13.519211242Z",
+  "model": "glm-5.3"
+}

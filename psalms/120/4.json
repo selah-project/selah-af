@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 120,
+  "translation": "Pylpunte van 'n sterk man, geslyp, tesame met kole van besemrus.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "pylpunte"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "van 'n sterk man"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "geslyp"
+    },
+    {
+      "surface": "עם",
+      "gloss": "tesame met"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "kole"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "van besemrus"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.207317957Z",
+  "model": "glm-5.3"
+}

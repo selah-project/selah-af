@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Ruk my weg van my vyande, my Elohim; van my teenstanders verhef ⟨u⟩ my ⟨bo hulle⟩.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk my weg"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van my vyande"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "van my teenstanders"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "verhef my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:14.444501228Z",
+  "model": "glm-5.3"
+}

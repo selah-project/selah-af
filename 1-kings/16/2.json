@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 16:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Omdat Ek jou uit die stof verhef het en jou as owerste oor my volk Jisraël aangestel het, en jy in die weg van Jarobeam gewandel het en my volk Jisraël laat sonde doen het om My toorn op te wek met hulle sondes —",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הרימתיך",
+      "gloss": "Ek jou verhef het"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "die stof"
+    },
+    {
+      "surface": "ואתנך",
+      "gloss": "en jou aangestel het"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "as owerste"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en jy gewandel het"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jarobeam"
+    },
+    {
+      "surface": "ותחטא",
+      "gloss": "en jy laat sonde doen het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk Jisraël"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "להכעיסני",
+      "gloss": "om My toorn op te wek"
+    },
+    {
+      "surface": "בחטאתם",
+      "gloss": "met hulle sondes"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:04.471969815Z",
+  "model": "glm-5.3"
+}

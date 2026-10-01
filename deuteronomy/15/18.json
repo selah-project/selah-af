@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 15:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Laat dit nie swaar wees in jou oë wanneer jy hom ⟨את⟩ vry van jou wegstuur nie, want die dubbele loon van 'n huurling het hy jou ses jaar gedien; en Jahweh jou Elohim sal jou seën in alles wat jy doen.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקשה",
+      "gloss": "laat dit swaar wees"
+    },
+    {
+      "surface": "בעינך",
+      "gloss": "in jou oë"
+    },
+    {
+      "surface": "בשלחך",
+      "gloss": "wanneer jy wegstuur"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "vry"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "die dubbele"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "loon"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "van 'n huurling"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "het hy jou gedien"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "וברכך",
+      "gloss": "en sal jou seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:11.841636819Z",
+  "model": "glm-5.3"
+}

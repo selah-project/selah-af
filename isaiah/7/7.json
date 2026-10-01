@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "So sê Adonai Jahweh: dit sal nie ⟨weg⟩kom nie, en dit sal nie wees nie.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "sal ⟨weg⟩kom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "sal wees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:03.291235423Z",
+  "model": "glm-5.3"
+}

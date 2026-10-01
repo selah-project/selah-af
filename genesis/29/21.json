@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Jaäkow het vir Lawan gesê: Gee ⟨את⟩ my vrou aan my, want my dae is vol, en ek sal by haar inkom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vrou"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "my vrou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "en ek sal inkom"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "by haar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:20.704287197Z",
+  "model": "glm-5.3"
+}

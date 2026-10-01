@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 7:16",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Ek versmaad ⟨dit⟩ — nie vir ewig sal ek lewe nie; laat van my af, want my dae is dril.",
+  "tokens": [
+    {
+      "surface": "מאסתי",
+      "gloss": "ek versmaad"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sal ek lewe"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "laat af"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "dril"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:39.572893107Z",
+  "model": "glm-5.3"
+}

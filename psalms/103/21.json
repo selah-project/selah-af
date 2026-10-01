@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Loof Jahweh, al sy leërskare, sy dienaars wat sy welbehae doen!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "sy leërskare"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "sy welbehae"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:14.509147527Z",
+  "model": "glm-5.3"
+}

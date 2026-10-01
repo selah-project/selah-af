@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "en hulle land as erfdeel gegee, as erfdeel aan Jisraël, sy volk.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "en gegee"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "hulle land"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "as erfdeel"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "erfdeel"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "aan Jisraël"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.895633966Z",
+  "model": "glm-5.3"
+}

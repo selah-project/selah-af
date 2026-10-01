@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Wees my genadig, Jahweh, want ek is siek; genees my, Jahweh, want my gebeente is verskrik.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "wees my genadig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "is siek"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "genees my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "is verskrik"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my gebeente"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:35.538052193Z",
+  "model": "glm-5.3"
+}

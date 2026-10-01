@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En ek het gegaan en dit by Perat weggesteek, soos Jahweh ⟨את⟩ my beveel het.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "en ek het gegaan"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "en dit weggesteek"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "by Perat"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:04.565470888Z",
+  "model": "glm-5.3"
+}

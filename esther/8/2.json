@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning het ⟨את⟩ zijn seëlring, wat hy van Haman laat wegneem het, afgehaal en dit aan Mordegai gegee; en Ester het Mordegai oor ⟨את⟩ die huis van Haman aangestel.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "afgehaal"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zijn seëlring"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "seëlring"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "laat weggaan het"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "van Haman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "gegee"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "aan Mordegai"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "aangestel"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mordegai"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המן",
+      "gloss": "van Haman"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:33.878281574Z",
+  "model": "glm-5.3"
+}

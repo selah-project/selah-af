@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Joab het boodskappers gestuur na Dawid en gesê: ek het geveg teen Rabba, ook het ek ⟨את⟩ die stad van die waters gevange geneem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "ek het geveg"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "teen Rabba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "het ek gevange geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad van die waters"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "המים",
+      "gloss": "van die waters"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:22.597979994Z",
+  "model": "glm-5.3"
+}

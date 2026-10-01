@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Maar ek — op u gesed het ek vertrou; my hart juig in u verlossing; ek sal vir Jahweh sing, want Hy het goed met my gehandel.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Maar ek"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "op u gesed"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "het ek vertrou"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "juig"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "in u verlossing"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ek sal sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "het goed gehandel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "met my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:18.742830024Z",
+  "model": "glm-5.3"
+}

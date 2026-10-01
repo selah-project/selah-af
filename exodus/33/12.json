@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 33:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Mosje sê vir Jahweh: Sien, U sê vir my: Bring ⟨את⟩ hierdie volk op; maar U het my nie laat weet ⟨את⟩ diegene wat U saam met my sal stuur nie; terwyl U gesê het: Ek ken jou by name, en jy het ook guns gevind in my oë.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Sien"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "העל",
+      "gloss": "Bring op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "hierdie volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar U"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "het my laat weet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "diegene wat U saam met my sal stuur"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "diegene wat"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "U sal stuur"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "saam met my"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "terwyl U"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "Ek ken jou"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "by name"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "het gevind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in my oë"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:35.726556850Z",
+  "model": "glm-5.3"
+}

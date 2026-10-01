@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En dit het gebeur, toe Sjemoeël oud geword het, dat hy ⟨את⟩ sy seuns as rigters oor Jisraël aangestel het.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "toe"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "oud geword het"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "het aangestel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "as rigters"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "oor Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:04.346896576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Aan die koorleier, met snaarspel, op die agste, 'n mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die koorleier"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "met snaarspel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "die agtste"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:35.537367482Z",
+  "model": "glm-5.3"
+}

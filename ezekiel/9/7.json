@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 9:7",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het vir hulle gesê: Ontheilig ⟨את⟩ die huis en vul ⟨את⟩ die howe met deurboordes; gaan uit! En hulle het uitgegaan en in die stad geslaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "Ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die howe"
+    },
+    {
+      "surface": "החצרות",
+      "gloss": "die howe"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "deurboordes"
+    },
+    {
+      "surface": "צאו",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle het uitgegaan"
+    },
+    {
+      "surface": "והכו",
+      "gloss": "en geslaan"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:00.608427408Z",
+  "model": "glm-5.3"
+}

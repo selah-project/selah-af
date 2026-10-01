@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Mag sjalom wees in jou vestingmure, welvaart in jou kastele.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "in jou vestingmure"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "welvaart"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "in jou kastele"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:10.872745959Z",
+  "model": "glm-5.3"
+}

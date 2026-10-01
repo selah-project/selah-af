@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 9:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het vir Mosje gesê: Gaan na Paro toe en spreek tot hom: So sê Jahweh, die Elohim van die Hebreeë: Stuur ⟨את⟩ my volk weg, sodat hulle my kan dien.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en spreek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hom"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van die Hebreeë"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Stuur weg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "sodat hulle my kan dien"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:26.366806302Z",
+  "model": "glm-5.3"
+}

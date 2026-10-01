@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En jy sal hulle jou kinders inskerp en jy sal daaroor spreek wanneer jy in jou huis sit en wanneer jy op pad gaan en wanneer jy gaan lê en wanneer jy opstaan.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "en jy sal inskerp"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "jou kinders"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "en jy sal spreek"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daaroor"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "wanneer jy sit"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jou huis"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "en wanneer jy gaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op pad"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "en wanneer jy gaan lê"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "en wanneer jy opstaan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:22.372373764Z",
+  "model": "glm-5.3"
+}

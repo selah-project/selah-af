@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Aan die koorleier, aan Jedoetoen — 'n mizmor van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "aan die koorleier"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "aan Jedoetoen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:54.114307486Z",
+  "model": "glm-5.3"
+}

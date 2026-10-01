@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 33:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Kyk, ⟨die⟩ oog van Jahweh ⟨is⟩ op dié wat Hom vrees, op dié wat op sy gesed wag.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "עין",
+      "gloss": "oog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dié wat Hom vrees"
+    },
+    {
+      "surface": "למיחלים",
+      "gloss": "op dié wat wag"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "op sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:34.658661161Z",
+  "model": "glm-5.3"
+}

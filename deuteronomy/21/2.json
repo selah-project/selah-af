@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "dan sal jou oudstes en jou rigters uittrek en meet na die stede wat rondom die doodgesteekte is",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "sal uittrek"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "jou oudstes"
+    },
+    {
+      "surface": "וושפטיך",
+      "gloss": "en jou rigters"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "en meet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "die stede"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "die doodgesteekte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:22:13.018059360Z",
+  "model": "glm-5.3"
+}

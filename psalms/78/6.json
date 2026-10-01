@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 78:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "sodat die laaste geslag mag weet, seuns wat gebore sal word, mag opstaan en aan hulle seuns vertel;",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "mag weet"
+    },
+    {
+      "surface": "דור",
+      "gloss": "geslag"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "laaste"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "gebore word"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "mag opstaan"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "en vertel"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "aan hulle seuns"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:09.949314209Z",
+  "model": "glm-5.3"
+}

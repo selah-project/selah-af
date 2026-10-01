@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "tweehonderd bokke en twintig bokramme, tweehonderd ooie en twintig ramme,",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "bokke"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "en bokramme"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ooie"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "en ramme"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:40.521123763Z",
+  "model": "glm-5.3"
+}

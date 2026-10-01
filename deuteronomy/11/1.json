@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En jy moet ⟨את⟩ Jahweh jou Elohim liefhê, en sy bewaring hou, en sy insettinge en sy regte en sy gebooie, al die dae.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "En jy moet liefhê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "en jy moet hou"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "sy bewaring"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "en sy insettinge"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "en sy regte"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "en sy gebooie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "die dae"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:29.320868131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 42:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Sing vir Jahweh 'n nuwe lied, sy lof van die einde van die aarde af, julle wat afdaal na die see en sy volheid, die eilande en hulle inwoners.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "sing"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "sy lof"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "van die einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "julle wat afdaal"
+    },
+    {
+      "surface": "הים",
+      "gloss": "na die see"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "en sy volheid"
+    },
+    {
+      "surface": "איים",
+      "gloss": "die eilande"
+    },
+    {
+      "surface": "וישביהם",
+      "gloss": "en hulle inwoners"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:41.495715245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "wat Hy met ⟨את⟩ Awraham gesny het, en sy eed aan Jitsgak;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gesny het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "en sy eed"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitsgak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:54.573050230Z",
+  "model": "glm-5.3"
+}

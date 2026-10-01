@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En 'n rivier gaan uit van Eden om ⟨את⟩ die tuin te besproei, en van daar word hy verdeel en word ⟨dit⟩ vier hoofde.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "en 'n rivier"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "van Eden"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "om te besproei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tuin"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "die tuin"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "en van daar"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "word verdeel"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en word"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "hoofde"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:07.143953687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het met gruis my tande geknou, my in die as platgetree.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "en hy het geknou"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "met gruis"
+    },
+    {
+      "surface": "שני",
+      "gloss": "my tande"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "my platgetree"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "in die as"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:50.755581040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 3:15",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Wat ⟨beteken dit⟩ vir julle dat julle my volk vertrap en die gesigte van ⟨die⟩ armes fynmaal? sê Adonai Jahweh Tsewaot.",
+  "tokens": [
+    {
+      "surface": "מלכם",
+      "gloss": "wat vir julle"
+    },
+    {
+      "surface": "תדכאו",
+      "gloss": "vertrap julle"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die gesigte"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "van die armes"
+    },
+    {
+      "surface": "תטחנו",
+      "gloss": "maal fyn"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:00.256740993Z",
+  "model": "glm-5.3"
+}

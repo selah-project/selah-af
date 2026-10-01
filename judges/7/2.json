@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 7:2",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh sê aan Gideon: Te veel is die volk wat ⟨את⟩ u is, om ⟨את⟩ Midjan in hulle hand te gee, sodat Jisraël hom nie teen my verheerlik en sê: My hand het my gered nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Gideon"
+    },
+    {
+      "surface": "רב",
+      "gloss": "te veel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ u",
+      "marks": "met u"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Midjan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Midjan"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hulle hand"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "יתפאר",
+      "gloss": "hom verheerlik"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "my hand"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "het gered"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:31.220987753Z",
+  "model": "glm-5.3"
+}

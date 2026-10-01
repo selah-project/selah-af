@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Maar Elohim, my Koning, ⟨is⟩ van ouds af — een wat verlossings werk binne-in die aarde.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "maar Elohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "my Koning"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "van ouds af"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "werk"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "verlossings"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:33.979588009Z",
+  "model": "glm-5.3"
+}

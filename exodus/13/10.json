@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En jy sal ⟨את⟩ hierdie verordening bewaar op sy vasgestelde tyd, van dae tot dae.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "En jy sal bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie verordening"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "hierdie verordening"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "op sy vasgestelde tyd"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "van dae"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "tot dae"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:59.613081549Z",
+  "model": "glm-5.3"
+}

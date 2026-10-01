@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Bring die stam van Lewi naby, en stel ⟨hulle⟩ ⟨אתו⟩ voor Aharon die priester, en hulle moet hom dien.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "bring naby"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stam van Lewi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "stam"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Lewi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "en jy sal stel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hom (die stam van Lewi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "en hulle moet dien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתו⟩",
+      "marks": "hom (Aharon)"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:58.242222831Z",
+  "model": "glm-5.3"
+}

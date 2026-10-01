@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 10:23",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En koning Sjelomo het groter geword as al die konings van ⟨die⟩ aarde, in rykdom en in wysheid.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "het groter geword"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "as al"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "die konings"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van ⟨die⟩ aarde"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "in rykdom"
+    },
+    {
+      "surface": "ולחכמה",
+      "gloss": "en in wysheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:24.234642552Z",
+  "model": "glm-5.3"
+}

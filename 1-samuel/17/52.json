@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-samuel 17:52",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die manne van Jisraël en Jehoeda het opgestaan en geskreeu en ⟨את⟩ die Filistyne agtervolg tot by ⟨jou⟩ koms in die laagte en tot by die poorte van Ekron; en die gesneuwelde Filistyne het geval langs die weg van Sjaärajim en tot by Gat en tot by Ekron.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "opgestaan"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "en van Jehoeda"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "geskreeu"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "agtervolg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "jouw koms"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "die laagte"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot by"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "die poorte"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "van Ekron"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "geval"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "die gesneuweldes"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van die Filistyne"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "langs die weg"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "van Sjaärajim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot by"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Gat"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot by"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "Ekron"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:54.130116643Z",
+  "model": "glm-5.3"
+}

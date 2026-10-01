@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 28:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Ploeg die ploegvoer die hele dag om te saai? Breek hy oop en eg hy sy grond?",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "ploeg"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "die ploegvoer"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "om te saai"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "breek hy oop"
+    },
+    {
+      "surface": "וישדד",
+      "gloss": "en eg"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "sy grond"
+    }
+  ],
+  "timestamp": "2026-09-30T22:20:59.406519196Z",
+  "model": "glm-5.3"
+}

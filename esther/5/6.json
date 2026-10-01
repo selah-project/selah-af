@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 5:6",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die koning sê vir Ester by die wynbanket: Wat is jou versoek, en dit sal aan jou gegee word? En wat is jou begeerte — tot die helfte van die koninkryk, en dit sal gedoen word?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "vir Ester"
+    },
+    {
+      "surface": "במשתה",
+      "gloss": "by die banket"
+    },
+    {
+      "surface": "היין",
+      "gloss": "van die wyn"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שאלתך",
+      "gloss": "is jou versoek"
+    },
+    {
+      "surface": "וינתן",
+      "gloss": "en dit sal gegee word"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "is jou begeerte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "die helfte"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "van die koninkryk"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "en dit sal gedoen word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:30:30.312860862Z",
+  "model": "glm-5.3"
+}

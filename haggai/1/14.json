@@ -1,0 +1,128 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "haggai 1:14",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het die roeag van Serubbabel, seun van Sealtiël, goewerneur van Jehoeda, wakker gemaak, en ⟨את⟩ die roeag van Jehosjoea, seun van Jehotsadak, die hoëpriester, en ⟨את⟩ die roeag van die hele oorblyfsel van die volk; en hulle het gekom en werk gedoen aan die huis van Jahweh Tsewaot, hulle Elohim.",
+  "tokens": [
+    {
+      "surface": "ויער",
+      "gloss": "en het wakker gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die roeag van Serubbabel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "van Serubbabel"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "שלתיאל",
+      "gloss": "Sealtiël"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "goewerneur van"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die roeag van Jehosjoea"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "van Jehosjoea"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Jehotsadak"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "die hoë"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die roeag van die hele oorblyfsel"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "oorblyfsel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedoen"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "aan die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:00.794506696Z",
+  "model": "glm-5.3"
+}

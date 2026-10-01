@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "wie se mond leuens praat en wie se regterhand 'n regterhand van bedrog ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wie"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "se mond"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "praat"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "leuens\/ ydelheid"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "en wie se regterhand"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "'n regterhand"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van bedrog"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:05.225906585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 1:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Was julle, reinig julle, verwyder die kwaad van julle dade van voor my oë; hou op om kwaad te doen.",
+  "tokens": [
+    {
+      "surface": "רחצו",
+      "gloss": "was julle"
+    },
+    {
+      "surface": "הזכו",
+      "gloss": "reinig julle"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "verwyder"
+    },
+    {
+      "surface": "רע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "van julle dade"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "van voor"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "חדלו",
+      "gloss": "hou op"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "om kwaad te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:09.159576849Z",
+  "model": "glm-5.3"
+}

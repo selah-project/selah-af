@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En die seuns van Jisraël het gekom om graan te koop te midde van die wat kom; want die hongersnood was in die land Kenaän.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om graan te koop"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "te midde van"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "die wat kom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "die hongersnood"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:56.121412502Z",
+  "model": "glm-5.3"
+}

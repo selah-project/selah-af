@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Adonai het gesê: uit Basjan sal ek terugbring, terugbring uit die dieptes van ⟨die⟩ see.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "uit Basjan"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sal ek terugbring"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "terugbring"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "uit die dieptes"
+    },
+    {
+      "surface": "ים",
+      "gloss": "van ⟨die⟩ see"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.044675724Z",
+  "model": "glm-5.3"
+}

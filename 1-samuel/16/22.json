@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 16:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Sjaul het na Jisjai gestuur om te sê: laat Dawid tog voor my staan, want hy het genade gevind in my oë.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "het gestuur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisjai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "laat staan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "het gevind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "genade"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in my oë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:42.748881287Z",
+  "model": "glm-5.3"
+}

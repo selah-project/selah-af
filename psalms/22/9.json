@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Rol op Jahweh — mag Hy hom uitlewer, mag Hy hom red, want Hy het behé in hom.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "mag Hy hom uitlewer"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "mag Hy hom red"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "Hy het behé"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:46.967126102Z",
+  "model": "glm-5.3"
+}

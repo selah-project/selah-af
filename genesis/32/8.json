@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 32:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Toe vrees Jaäkow baie, en dit was benoud vir hom; en hy het die volk ⟨את⟩ wat ⟨את⟩ by hom was, en ⟨את⟩ die kleinvee en ⟨את⟩ die beeste en die kamele verdeel in twee leërskampe.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "toe vrees"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "en dit was benoud"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ויחץ",
+      "gloss": "en hy het verdeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kleinvee"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die beeste"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die beeste"
+    },
+    {
+      "surface": "והגמלים",
+      "gloss": "en die kamele"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "in twee"
+    },
+    {
+      "surface": "מחנות",
+      "gloss": "leërskampe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:37:23.638948823Z",
+  "model": "glm-5.3"
+}

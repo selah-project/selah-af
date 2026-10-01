@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 26:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En jy sal ⟨את⟩ vyf matte afsonderlik verbind en ⟨את⟩ ses matte afsonderlik, en jy sal die sesde mat dubbelvou teenoor die aangesig van die tent.",
+  "tokens": [
+    {
+      "surface": "וחברת",
+      "gloss": "en jy sal verbind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "vyf matte"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matte"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afsonderlik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "ses matte"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ses"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "matte"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "afsonderlik"
+    },
+    {
+      "surface": "וכפלת",
+      "gloss": "en jy sal dubbelvou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sesde mat"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "die mat"
+    },
+    {
+      "surface": "הששית",
+      "gloss": "die sesde"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מול",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van die tent"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:05.746925487Z",
+  "model": "glm-5.3"
+}

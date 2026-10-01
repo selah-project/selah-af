@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Doen aan hulle soos aan Midian, soos Sisera, soos Jabin, by die spruit Kison:",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "soos aan Midian"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "soos Sisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "soos Jabin"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "by die spruit"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Kison"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:30.073921350Z",
+  "model": "glm-5.3"
+}

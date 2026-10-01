@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "U tsedek ⟨is⟩ tsedek tot in ewigheid, en u Tora ⟨is⟩ waarheid.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "u tsedek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "en u Tora"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:18.679220742Z",
+  "model": "glm-5.3"
+}

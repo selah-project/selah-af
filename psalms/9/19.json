@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want nie vir ewig word ⟨die⟩ behoeftige vergeet nie; ⟨die⟩ verwagting van die ootmoediges sal nie vir ewig vergaan nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "word vergeet"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "behoeftige"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "verwagting"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "van die ootmoediges"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sal vergaan"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:45.759757778Z",
+  "model": "glm-5.3"
+}

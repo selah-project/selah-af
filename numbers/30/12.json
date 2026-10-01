@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "en haar man ⟨het dit gehoor⟩ en vir haar geswyg, haar nie gekeer ⟨את⟩ nie — dan sal al haar geloftes standhou, en elke binding wat sy op haar siel gebind het, sal standhou.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "en haar man gehoor het"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "haar man"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "en geswyg het"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "gekeer"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "haar (gekeer haar nie)"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "dan sal standhou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "haar geloftes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "binding"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "sy gebind het"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "haar siel"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "sal standhou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:26.718189444Z",
+  "model": "glm-5.3"
+}

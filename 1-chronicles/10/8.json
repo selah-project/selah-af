@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die volgende dag het die Filistyne gekom om ⟨את⟩ die gesneuweldes te stroop, en hulle het ⟨את⟩ Sjaoel en ⟨את⟩ sy seuns gevind, liggend op die berg Gilboa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "die volgende dag"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "om te stroop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gesneuweldes"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "die gesneuweldes"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "en hulle het gevind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjaoel"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "gevalle"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "Gilboa"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:16.058094484Z",
+  "model": "glm-5.3"
+}

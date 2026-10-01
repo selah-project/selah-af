@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En die hongersnood was swaar in die land.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "En die hongersnood"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "was swaar"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:00.541340585Z",
+  "model": "glm-5.3"
+}

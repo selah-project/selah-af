@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Kom naby aan my siel, los haar uit; verlos my weens my vyande.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "Kom naby"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "los haar uit"
+    },
+    {
+      "surface": "למען",
+      "gloss": "weens"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "verlos my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:53.623668414Z",
+  "model": "glm-5.3"
+}

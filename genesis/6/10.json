@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Noag het drie seuns verwek: ⟨את⟩ Sjem, ⟨את⟩ Gam en ⟨את⟩ Jafet.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "En het verwek"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noag"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sjem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sjem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gam"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Gam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Jafet"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Jafet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:20.993156276Z",
+  "model": "glm-5.3"
+}

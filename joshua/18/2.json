@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En daar het oorgebly onder die kinders van Jisraël wat ⟨את⟩ hulle erfdeel nie verdeel het nie — sewe stamme.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "het oorgebly"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "onder die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "verdeel het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle erfdeel"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "hulle erfdeel"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stamme"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:54.230825182Z",
+  "model": "glm-5.3"
+}

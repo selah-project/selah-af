@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Breek die arm van die goddelose en ⟨die⟩ bose; soek sy goddeloosheid uit — uitsluitlik sal U dit nie vind nie.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "breek"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddelose"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "en bose"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "soek uit"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "sy goddeloosheid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "uitsluitlik nie"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sal U dit vind nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:25.890077486Z",
+  "model": "glm-5.3"
+}

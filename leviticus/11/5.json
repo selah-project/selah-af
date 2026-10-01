@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ die klipdassie, omdat dit ⟨die⟩ herkous opbring, maar die hoef nie spleet nie — onrein ⟨is⟩ dit vir julle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die klipdassie"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "die klipdassie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "opbring"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkous"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "en die hoef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "spleet"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:28.690242079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 83:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Maak hulle adellikes soos Oreb en soos Seeb, en soos Sega en soos Salmonna, al hulle vorste;",
+  "tokens": [
+    {
+      "surface": "שיתמו",
+      "gloss": "maak"
+    },
+    {
+      "surface": "נדיבמו",
+      "gloss": "hulle adellikes"
+    },
+    {
+      "surface": "כערב",
+      "gloss": "soos Oreb"
+    },
+    {
+      "surface": "וכזאב",
+      "gloss": "en soos Seeb"
+    },
+    {
+      "surface": "וכזבח",
+      "gloss": "en soos Sega"
+    },
+    {
+      "surface": "וכצלמנע",
+      "gloss": "en soos Salmonna"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "נסיכמו",
+      "gloss": "hulle vorste"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:30.074693998Z",
+  "model": "glm-5.3"
+}

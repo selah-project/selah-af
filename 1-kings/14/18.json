@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 14:18",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het hom begrawe, en die hele Jisraël het oor hom rouklaag, volgens die woord van Jahweh wat ⟨hy⟩ gespreek het deur die hand van sy dienaar Agia ⟨die⟩ profeet.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "en rouklaag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "van sy dienaar"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "Agia"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "die profeet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:41.855467439Z",
+  "model": "glm-5.3"
+}

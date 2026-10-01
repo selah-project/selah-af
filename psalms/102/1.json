@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Gebed van 'n ellendige wanneer hy oordek word, en hy stort sy klag voor Jahweh uit.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Gebed"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "van 'n ellendige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "hy oordek word"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "en voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "hy stort uit"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "sy klag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.300644294Z",
+  "model": "glm-5.3"
+}

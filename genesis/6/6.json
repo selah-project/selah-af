@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh het berou gehad dat hy ⟨את⟩ die mens gemaak het op die aarde, en dit het smart veroorsaak in sy hart.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "en hy het berou gehad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "hy gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "op die aarde"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "en dit het smart veroorsaak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:21.165311841Z",
+  "model": "glm-5.3"
+}

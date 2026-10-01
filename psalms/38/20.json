@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En my vyande ⟨is⟩ lewend en het sterk geword; en my haters sonder rede het vermenigvuldig.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "En my vyande"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewend"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "het sterk geword"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "en het vermenigvuldig"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "my haters"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sonder rede"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:43.421904426Z",
+  "model": "glm-5.3"
+}

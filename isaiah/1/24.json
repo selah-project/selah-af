@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Daarom — sê Adonai, Jahweh Tsewaot, die Magtige van Jisraël: Wee, ek sal my verlig van my teëstanders en my wreke op my vyande!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "die Magtige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "ek sal my verlig"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "van my teëstanders"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "en my wreke"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "op my vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:12.269366726Z",
+  "model": "glm-5.3"
+}

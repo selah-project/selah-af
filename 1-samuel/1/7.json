@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 1:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En so het hy jaar na jaar gedoen; so dikwels as sy opgegaan het na die huis van Jahweh, so is sy gekwel, en sy het gehuil en nie geëet nie.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "en so"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "het hy gedoen"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "na jaar"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "so dikwels as"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "sy opgegaan het"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "na die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תכעסנה",
+      "gloss": "is sy gekwel"
+    },
+    {
+      "surface": "ותבכה",
+      "gloss": "en sy het gehuil"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "geëet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:10.180962890Z",
+  "model": "glm-5.3"
+}

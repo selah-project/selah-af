@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Want U sal hulle ⟨die⟩ skouer laat buig ⟨met⟩ U boogsektes, gespan teen hulle aangesigte.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "U sal hulle laat buig"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "skouer"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "U boogsektes"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "gespan"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hulle aangesigte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:14.832885384Z",
+  "model": "glm-5.3"
+}

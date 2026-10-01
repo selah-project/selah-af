@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Laat die dag vergaan waarop ek gebore is, en die nag wat gesê het: 'n man is verwek.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "laat vergaan"
+    },
+    {
+      "surface": "יום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "gebore is"
+    },
+    {
+      "surface": "בו",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "en die nag"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "verwek is"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "'n man"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:26.826767277Z",
+  "model": "glm-5.3"
+}

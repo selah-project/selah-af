@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 103:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Soos 'n vader hom ontferm oor kinders, ontferm Jahweh hom oor dié wat Hom vrees.",
+  "tokens": [
+    {
+      "surface": "כרחם",
+      "gloss": "soos ontferm"
+    },
+    {
+      "surface": "אב",
+      "gloss": "'n vader"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ontferm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "dié wat Hom vrees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:30.495889329Z",
+  "model": "glm-5.3"
+}

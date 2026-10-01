@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning sê vir haar: Wat makeer jou? En sy sê: Dié vrou het vir my gesê: Gee ⟨את⟩ jou seun, en laat ons hom vandag eet, en ⟨את⟩ my seun eet ons môre.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy sê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "makeer jou"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "En sy sê"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "dié"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "en laat ons hom eet"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my seun"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "eet ons"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "môre"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:22.162107389Z",
+  "model": "glm-5.3"
+}

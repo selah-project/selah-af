@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 33:20",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En julle sê: Die weg van Adonai is nie afgeweeg nie. Elkeen volgens sy weë sal ek ⟨את⟩ julle oordeel, huis van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "en julle sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יתכן",
+      "gloss": "is afgeweeg"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg van"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "volgens sy weë"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "sal ek oordeel"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle (huis van Jisraël)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:53:52.538205332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Aangaande U het my hart gesê: Soek my aangesig; ⟨את⟩ U aangesig, Jahweh, sal ek soek.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "aangaande U"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Soek"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "U aangesig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "U aangesig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "sal ek soek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:46.746355958Z",
+  "model": "glm-5.3"
+}

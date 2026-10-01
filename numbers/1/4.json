@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ⟨את⟩ met julle sal daar wees man vir man, vir elke stam, 'n man wat hoof ⟨is⟩ van die huis van sy vaders, hyself.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "en ⟨את⟩ met julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal daar wees"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "איש",
+      "gloss": "vir man"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "vir elke stam"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "van sy vaders"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hyself"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:26.395654530Z",
+  "model": "glm-5.3"
+}

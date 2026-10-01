@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "sênde: aan jou gee Ek ⟨את⟩ die land Kenaän, die meetkoord van jul erfdeel.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "sêende"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "gee Ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land Kenaän"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "die meetkoord"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "van jul erfdeel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:04.923700046Z",
+  "model": "glm-5.3"
+}

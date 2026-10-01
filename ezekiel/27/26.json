@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 27:26",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Jou roeiers het ⟨את⟩ jou in groot waters gebring; die oostewind het jou gebreek in die hart van die seë.",
+  "tokens": [
+    {
+      "surface": "במים",
+      "gloss": "in waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "הביאוך",
+      "gloss": "het jou gebring"
+    },
+    {
+      "surface": "השטים",
+      "gloss": "jou roeiers"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "die oostewind (רוח הקדים)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "wind"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "die ooste-"
+    },
+    {
+      "surface": "שברך",
+      "gloss": "het jou gebreek"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in die hart"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van die seë"
+    }
+  ],
+  "timestamp": "2026-09-30T22:52:54.777954055Z",
+  "model": "glm-5.3"
+}

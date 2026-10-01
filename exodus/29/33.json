@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 29:33",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En hulle moet ⟨את⟩ hulle eet, dít waarvoor versoening gedoen is om hulle hand te vul, om hulle te heilig; maar 'n vreemdeling mag nie eet nie, want heilig is hulle.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "en hulle moet eet"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die offergawes)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dít wat"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "versoening gedoen is"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daarmee"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "om te vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hand"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hand"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "om te heilig"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "maar 'n vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag eet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "הם",
+      "gloss": "is hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:43.386857724Z",
+  "model": "glm-5.3"
+}

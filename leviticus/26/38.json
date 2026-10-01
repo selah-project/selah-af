@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En julle sal vergaan onder die nasies, en die land van julle vyande sal julle ⟨את⟩ opvreet.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "en julle sal vergaan"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en dit sal opvreet"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "van julle vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:42.727801122Z",
+  "model": "glm-5.3"
+}

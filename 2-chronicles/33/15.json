@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 33:15",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy het ⟨את⟩ die gode van die vreemde en ⟨את⟩ die gesnede beeld uit die huis van Jahweh weggevaag, en al die altare wat hy gebou het op die berg van die huis van Jahweh en in Jerusjalajim; en hy het hulle buite die stad uit gegooi.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "en hy het weggevaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gode van die vreemde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die gode"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "van die vreemde"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "⟨את⟩",
+      "marks": "die gesnede beeld"
+    },
+    {
+      "surface": "הסמל",
+      "gloss": "die gesnede beeld"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "die altare"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "hy gebou het"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op die berg"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "en in Jerusjalajim"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "en hy het gegooi"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "buite"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die stad uit"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:01.561130857Z",
+  "model": "glm-5.3"
+}

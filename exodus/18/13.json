@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die dag daarna het Mosje gesit om ⟨את⟩ die volk te oordeel, en die volk het by Mosje gestaan, van die oggend tot die aand.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "die dag daarna"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "om te oordeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "die oggend"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:02.234783365Z",
+  "model": "glm-5.3"
+}

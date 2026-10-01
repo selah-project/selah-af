@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die een sê: Willig tog in en gaan ⟨את⟩ jou dienaars vergesel. En hy sê: Ek sal gaan.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "willig in"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dienaars"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jou dienaars"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "sal gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:29.392300113Z",
+  "model": "glm-5.3"
+}

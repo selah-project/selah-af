@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En ek — ek het gesê in my gerustheid: ek sal nooit wankel nie, tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "En ek"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "in my gerustheid"
+    },
+    {
+      "surface": "בל",
+      "gloss": "nooit … nie"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ek sal wankel"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:54.127065271Z",
+  "model": "glm-5.3"
+}

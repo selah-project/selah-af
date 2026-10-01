@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En ek sal 'n malag voor jou uit stuur, en ek sal ⟨את⟩ die Kanaäniet verdryf, die Emoriet en die Hetiet en die Perizziet, die Hiwwiet en die Jebusiet.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "en ek sal stuur"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou uit"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "'n malag"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "en ek sal verdryf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriet"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "en die Hetiet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en die Perizziet"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "die Hiwwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en die Jebusiet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:25.719861737Z",
+  "model": "glm-5.3"
+}

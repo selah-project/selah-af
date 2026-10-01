@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 6:14",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle het ⟨את⟩ die breuk van my volk liggies genees, deur te sê: Sjaloom, sjaloom! — maar daar is geen sjaloom nie.",
+  "tokens": [
+    {
+      "surface": "וירפאו",
+      "gloss": "en hulle het genees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die breuk van my volk"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "die breuk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "van my volk"
+    },
+    {
+      "surface": "על",
+      "gloss": "liggies"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "veragtelik"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjaloom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar daar is geen"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjaloom nie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:30:08.937837728Z",
+  "model": "glm-5.3"
+}

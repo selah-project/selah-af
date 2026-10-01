@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 13:44",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "'n man met tsara'at is hy — hy is onrein; die priester sal hom beslis onrein verklaar — sy letsel is op sy hoof.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "צרוע",
+      "gloss": "met tsara'at"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hy"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "יטמאנו",
+      "gloss": "sal hom verklaar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op sy hoof"
+    },
+    {
+      "surface": "נגעו",
+      "gloss": "sy letsel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:22.754208773Z",
+  "model": "glm-5.3"
+}

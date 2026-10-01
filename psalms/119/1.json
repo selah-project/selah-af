@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Hoe gelukkig ⟨is⟩ die onberispelikes van die weg, die wat wandel in die Tora van Jahweh.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Hoe gelukkig"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "die onberispelikes"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "van die weg"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "die wat wandel"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "in die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:56.017069848Z",
+  "model": "glm-5.3"
+}

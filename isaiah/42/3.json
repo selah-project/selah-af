@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 42:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "'n geknakte riet sal hy nie breek nie, en 'n gloeiende lont wat dowwer word, sal hy nie uitdoof nie; in trou sal hy reg uitbring.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "'n riet"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "geknakte"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישבור",
+      "gloss": "sal breek"
+    },
+    {
+      "surface": "ופשתה",
+      "gloss": "en 'n gloeiende lont"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "wat dowwer word"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכבנה",
+      "gloss": "sal uitdoof"
+    },
+    {
+      "surface": "לאמת",
+      "gloss": "in trou"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "sal uitbring"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:24.260750144Z",
+  "model": "glm-5.3"
+}

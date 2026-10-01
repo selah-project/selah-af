@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Ons het vir vrede gewag, maar daar ⟨is⟩ geen goed nie; ⟨gewag⟩ vir 'n tyd van genesing, en kyk — verskrikking!",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "het gewag"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vir vrede"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar daar is geen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "vir 'n tyd"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "van genesing"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "verskrikking"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:19.308366352Z",
+  "model": "glm-5.3"
+}

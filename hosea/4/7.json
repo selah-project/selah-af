@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Soos hulle vermeerder het, so het hulle teen My gesondig; hulle eer sal Ek in skande verander.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "soos hulle vermeerder het"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "het hulle gesondig"
+    },
+    {
+      "surface": "לי",
+      "gloss": "teen My"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "hulle eer"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "in skande"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "sal Ek verander"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:43.236041824Z",
+  "model": "glm-5.3"
+}

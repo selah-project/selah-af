@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Hoe bemind is ⟨u⟩ Misjkans, Jahweh Tsewaot!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "bemind"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "u Misjkans"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:03.120996087Z",
+  "model": "glm-5.3"
+}

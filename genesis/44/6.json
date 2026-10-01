@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En hy het hulle ingehaal en ⟨את⟩ hierdie woorde met hulle gespreek.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "En hy het hulle ingehaal"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "gespreek"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "hierdie woorde"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:04.484166402Z",
+  "model": "glm-5.3"
+}

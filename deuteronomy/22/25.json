@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En as die man in ⟨die⟩ veld ⟨את⟩ die jongedogter wat verloof is vind, en die man haar vashou en met haar lê, dan sterwe die man wat met haar gelê het, hy alleen.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in ⟨die⟩ veld"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "vind"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jongedogter wat verloof is"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die jongedogter"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "wat verloof is"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "en vashou"
+    },
+    {
+      "surface": "בה",
+      "gloss": "haar"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "en lê"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "met haar"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "dan sterwe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "gelê het"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "met haar"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "hy alleen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:00.185881963Z",
+  "model": "glm-5.3"
+}

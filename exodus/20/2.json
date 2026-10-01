@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Ek ⟨is⟩ Jahweh jou Elohim, wat jou uit die land van Mitsrajim, uit die huis van slawe, uitgelei het.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "jou uitgelei het"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "van slawe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:01.271135701Z",
+  "model": "glm-5.3"
+}

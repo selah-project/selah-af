@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die man Elkana het opgegaan, en sy hele huis, om vir Jahweh ⟨את⟩ die offer van die dae te slag en ⟨את⟩ sy gelofte.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "het opgegaan"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Elkana"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huisgesin"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "om te slag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die offer van die dae"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "offer"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "van die dae"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy gelofte"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "sy gelofte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:43.676884862Z",
+  "model": "glm-5.3"
+}

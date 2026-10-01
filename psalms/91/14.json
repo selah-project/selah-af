@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Omdat hy aan My geheg het, sal Ek hom laat ontkom; Ek sal hom verhoog, omdat hy My Naam ken.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "בי",
+      "gloss": "aan My"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "geheg het"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "sal Ek hom laat ontkom"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "Ek sal hom verhoog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "My Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:37.148857230Z",
+  "model": "glm-5.3"
+}

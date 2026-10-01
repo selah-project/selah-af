@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 11:18",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hulle sal daarheen kom en al ⟨את⟩ sy gruwels en ⟨את⟩ al sy afsiênlikhede daaruit wegneem.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "en hulle sal kom"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "והסירו",
+      "gloss": "en wegneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy gruwels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "שקוציה",
+      "gloss": "sy gruwels"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy afsiênlikhede"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "sy afsiênlikhede"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daaruit"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:53.129811890Z",
+  "model": "glm-5.3"
+}

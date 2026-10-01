@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 9:10",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ⟨את⟩ Isebel sal die honde eet in die deel van Jisreël, en daar is niemand om ⟨ haar ⟩ te begrawe nie. En hy het die deur oopgemaak en gevlug.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Isebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die honde"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "in die deel"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "van Jisreël"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "om te begrawe"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "en hy het oopgemaak"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "die deur"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "en gevlug"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:32.553100606Z",
+  "model": "glm-5.3"
+}

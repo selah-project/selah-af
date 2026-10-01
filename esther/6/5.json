@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 6:5",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die jongmanne van die koning sê vir hom: Kyk, Haman staan in die voorhof. En die koning sê: Laat hom inkom.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "die jongmanne"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "in die voorhof"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "laat hom inkom"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:28.372408211Z",
+  "model": "glm-5.3"
+}

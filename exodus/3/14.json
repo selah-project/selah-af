@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Elohim sê aan Mosje: Ek ⟨is⟩ wat ek ⟨is⟩. En Hy sê: So moet jy aan die seuns van Jisraël sê: Ek-⟨is⟩ het my na julle gestuur.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hy sê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ek-is"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ek-is"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en Hy sê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "moet jy sê"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ek-is"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "het my gestuur"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:46.148844068Z",
+  "model": "glm-5.3"
+}

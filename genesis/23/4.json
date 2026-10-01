@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 23:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "'n Vreemdeling en 'n bywoner is ek by julle; gee vir my 'n besitting van 'n graf by julle, dat ek my dode kan begrawe van voor my uit.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "'n vreemdeling"
+    },
+    {
+      "surface": "ותושב",
+      "gloss": "en 'n bywoner"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "by julle"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "'n besitting"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "van 'n graf"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "by julle"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "dat ek kan begrawe"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "my dode"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "van voor my uit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:37.720066410Z",
+  "model": "glm-5.3"
+}

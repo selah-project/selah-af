@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Paro, koning van Mitsrajim, het opgetrek en ⟨את⟩ Gezer ingeneem en dit met vuur verbrand, en ⟨את⟩ die Kanaäniet wat in die stad gewoon het, gedood; en hy het dit as bruidsgeskenk aan sy dogter gegee, die vrou van Sjelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "het opgetrek"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "en ingeneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Gezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "en dit verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "wat gewoon het"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gedood"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "en hy het dit gegee"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "as bruidsgeskenk"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "aan sy dogter"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou van"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:59.343791149Z",
+  "model": "glm-5.3"
+}

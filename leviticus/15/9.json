@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En elke saal waarop die za se ry, sal onrein word.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "saal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarop"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ry"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "die za"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sal onrein word"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:49.577036567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe het Jahweh 'n groot vis berei om ⟨את⟩ Jona te sluk, en Jona was in die ingewande van die vis drie dae en drie nagte.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "toe het … berei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דג",
+      "gloss": "'n vis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "om te sluk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jona"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en … was"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Jona"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "in die ingewande"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "van die vis"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "en drie"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "nagte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:25.030784319Z",
+  "model": "glm-5.3"
+}

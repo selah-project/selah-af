@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die hele vergadering ⟨was⟩ as een man vier tienduisend, twee duisend drie honderd en sestig.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "as een man"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "vier"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "tienduisend"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "en sestig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:37:14.683878768Z",
+  "model": "glm-5.3"
+}

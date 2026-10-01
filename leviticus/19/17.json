@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 19:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Jy mag ⟨את⟩ jou broer nie haat in jou hart nie; bestraf asseblief sekerlik ⟨את⟩ jou naaste, en jy mag geen sonde op hom dra nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou broer"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "in jou hart"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "bestraf"
+    },
+    {
+      "surface": "תוכיח",
+      "gloss": "sekerlik bestraf"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou naaste"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "jou naaste"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "dra"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sonde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:27.271260082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Aan U ⟨is⟩ die arm met mag; sterk ⟨is⟩ U hand, verhewe ⟨is⟩ U regterhand.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "aan U"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "arm"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "mag"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "sterk"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "U hand"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "verhewe"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "U regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:37.949251238Z",
+  "model": "glm-5.3"
+}

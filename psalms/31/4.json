@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Want U ⟨is⟩ my rots en my vesting; en ter wille van Uw Naam, lei U my en voer U my.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "en my vesting"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "en ter wille van"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Uw Naam"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "lei U my"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "en voer U my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:52.464192113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En Jahweh het met Mosje gepraat en gesê:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:44.712786842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Hy maak sy weë bekend aan Mosje, aan die seuns van Jisraël sy dade",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Hy maak bekend"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "aan Mosje"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "sy dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:21.975347679Z",
+  "model": "glm-5.3"
+}

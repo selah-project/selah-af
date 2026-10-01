@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 8:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Neem ⟨את⟩ Aharon en ⟨את⟩ sy seuns met hom, en ⟨את⟩ die klere, en ⟨את⟩ die salfolie, en ⟨את⟩ die stier van die sondeoffer, en ⟨את⟩ die twee ramme, en ⟨את⟩ die mandjie matsot;",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die klere"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "die klere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die salfolie"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "van die salwing"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die stier"
+    },
+    {
+      "surface": "פר",
+      "gloss": "die stier"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondeoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die twee ramme"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "die ramme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die mandjie matsot"
+    },
+    {
+      "surface": "סל",
+      "gloss": "die mandjie"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "matsot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:39.921949229Z",
+  "model": "glm-5.3"
+}

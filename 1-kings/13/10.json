@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Toe het hy op 'n ander pad gegaan, en hy het nie teruggekeer op die pad waarlangs hy na Bet-El gekom het nie.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "toe het hy gegaan"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op 'n pad"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שב",
+      "gloss": "teruggekeer"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "op die pad"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarlangs"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hy gekom het"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Bet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:36.330248724Z",
+  "model": "glm-5.3"
+}

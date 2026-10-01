@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die naam van die tweede rivier ⟨is⟩ Gigon; dit is die wat rondom ⟨את⟩ die hele land Kus gaan.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "van die rivier"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Gigon"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "die wat rondom gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele land Kus"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Kus"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:43.301223692Z",
+  "model": "glm-5.3"
+}

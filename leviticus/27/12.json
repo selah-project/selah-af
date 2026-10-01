@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En die priester sal ⟨ את ⟩ dit waardeer, tussen goed en tussen sleg; volgens jou waardering, priester, so sal dit wees.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "En die priester sal waardeer"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die dier)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "רע",
+      "gloss": "sleg"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "volgens jou waardering"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal dit wees"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:08.176398807Z",
+  "model": "glm-5.3"
+}

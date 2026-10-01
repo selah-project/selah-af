@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 15:2",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Drie jaar het hy in Jerusjalajim geregeer, en die naam van sy moeder ⟨was⟩ Maäga, dogter of Awisjalom.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "drie"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jare"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het hy geregeer"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van sy moeder"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maäga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "of Awisjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:14.210604758Z",
+  "model": "glm-5.3"
+}

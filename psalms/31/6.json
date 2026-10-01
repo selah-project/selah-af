@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "In U hand betaal ek my roeag in; U het ⟨את⟩ my losgekoop, Jahweh, El van trou.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "in U hand"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "betaal ek in"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "U het losgekoop"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "van trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:57.484845878Z",
+  "model": "glm-5.3"
+}

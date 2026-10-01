@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En ⟨את⟩ die velle van die bokke se lammetjies het sy aangedoen op sy hande en op die gladde van sy nek.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die velle van die bokke se lammetjies"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "die velle"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "van die lammetjies"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "van die bokke"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "het sy aangedoen"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "die gladde"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "van sy nek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:00.349467466Z",
+  "model": "glm-5.3"
+}

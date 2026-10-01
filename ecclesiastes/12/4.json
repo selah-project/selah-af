@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "en die deure na die straat toe gesluit word, wanneer die geluid van die maalmeul sag word, en ⟨hy⟩ opstaan by die geluid van die voël, en al die dogters van die sang neergebuig word;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "en gesluit word"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "die deure"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "na die straat"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "wanneer sag word"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die geluid van"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "die maalmeul"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "en hy opstaan"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "by die geluid van"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "die voël"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "en neergebuig word"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters van"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "die sang"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.649017453Z",
+  "model": "glm-5.3"
+}

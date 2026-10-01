@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Jahweh, my Elohim, as ek hierdie gedoen het, as daar onreg in my handpalms ⟨is⟩ —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ek gedoen het"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar ⟨is⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "in my handpalms"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:51.165076480Z",
+  "model": "glm-5.3"
+}

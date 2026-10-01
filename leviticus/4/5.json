@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die gesalfde priester sal van die bloed van die bul neem en ⟨את⟩ dit bring in die tent van samekoms.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "en sal neem"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "die gesalfde"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "van die bul"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "en bring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ dit",
+      "marks": "die bloed van die bul"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:53.107539063Z",
+  "model": "glm-5.3"
+}

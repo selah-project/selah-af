@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ek sal grassie in jou veld gee vir jou vee, en jy sal eet en versadig word.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "grassie"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "in jou veld"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "vir jou vee"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "en jy sal eet"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "en versadig word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:52.956791820Z",
+  "model": "glm-5.3"
+}

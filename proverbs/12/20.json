@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Bedrog ⟨is⟩ in die hart van die wat kwaad smee, maar vir die raadsgewers van sjalom ⟨is daar⟩ blydskap.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "in die hart"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "van die wat smee"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "maar vir die raadsgewers"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "blydskap"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:41.048592646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 16:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Awbsjalom en al die volk, die manne van Jisraël, het in Jerusjalajim gekom, en Agitofel ⟨את⟩ hom.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "en Awbsjalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "באו",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "ואחיתפל",
+      "gloss": "en Agitofel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:02.797894051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "'n Lied van die opgange. Uit die dieptes roep ek U aan, o Jahweh.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "'n Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgange"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "uit die dieptes"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "roep ek U aan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:28.279977607Z",
+  "model": "glm-5.3"
+}

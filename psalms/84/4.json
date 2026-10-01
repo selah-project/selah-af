@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Selfs die voël het 'n huis gevind, en die swawel 'n nes vir haar, waar sy haar kleintjies neersit — ⟨by⟩ ⟨את⟩ u altare, Jahweh Tsewaot, my Koning en my Elohim.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "die voël"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "het 'n huis gevind"
+    },
+    {
+      "surface": "בית",
+      "gloss": "'n huis"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "en die swawel"
+    },
+    {
+      "surface": "קן",
+      "gloss": "'n nes"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "sy neersit"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "haar kleintjies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u altare"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "u altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "my Koning"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:03.121455611Z",
+  "model": "glm-5.3"
+}

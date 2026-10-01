@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Van angst vir jou het my vlees gerysel, en vir jou regterlike uitsprake het ek gevrees.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "het gerysel"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "van angst vir jou"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "my vlees"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "en vir jou regterlike uitsprake"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "het ek gevrees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:21.570947567Z",
+  "model": "glm-5.3"
+}

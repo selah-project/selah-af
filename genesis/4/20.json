@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Ada het ⟨את⟩ Jawal gebaar; hy ⟨was⟩ die vader van die wat in tente woon en van vee.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "en sy het gebaar"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ada"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jawal"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Jawal"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "van die wat woon"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "in tente"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "en van vee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:01.346469287Z",
+  "model": "glm-5.3"
+}

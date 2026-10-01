@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 22:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Red my uit die bek van ⟨die⟩ leeu, en van die horings van die wildbulle — U het my geantwoord.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "uit die bek"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "leeu"
+    },
+    {
+      "surface": "ומקרני",
+      "gloss": "en van die horings"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "wildbulle"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "U het my geantwoord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:41.589402851Z",
+  "model": "glm-5.3"
+}

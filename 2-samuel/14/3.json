@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En jy sal by die koning inkom en met hom spreek volgens hierdie woord — en Joab het ⟨את⟩ die woorde in haar mond gelê.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "jy sal inkom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "het gelê"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "in haar mond"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:31.715395493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 7:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Hy keer nie weer terug na sy huis nie, en sy plek sal hom nie weer herken nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "hy keer terug"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "na sy huis"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "sal hom herken"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "sy plek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:24.023096865Z",
+  "model": "glm-5.3"
+}

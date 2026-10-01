@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 11:1",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die hele Jisraël het hulle by Dawid te Gevron vergader om te sê: Kyk, jou gebeente en jou vlees ⟨is⟩ ons.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "het hulle vergader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "te Gevron"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "עצמך",
+      "gloss": "jou gebeente"
+    },
+    {
+      "surface": "ובשרך",
+      "gloss": "en jou vlees"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ons"
+    }
+  ],
+  "timestamp": "2026-10-01T00:47:52.921566815Z",
+  "model": "glm-5.3"
+}

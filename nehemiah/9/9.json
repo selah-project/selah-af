@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En U het ⟨את⟩ die ellende van ons vaders in Mitsrajim gesien, en ⟨את⟩ hul geskreeu het U gehoor by die see van soef.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "en U het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ellende van ons vaders"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellende"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "van ons vaders"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "in Mitsrajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hul geskreeu"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "hul geskreeu"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "het U gehoor"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "ים",
+      "gloss": "see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van soef"
+    }
+  ],
+  "timestamp": "2026-10-01T00:41:44.958093047Z",
+  "model": "glm-5.3"
+}

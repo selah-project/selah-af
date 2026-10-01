@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 42:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "om oë van blindes oop te maak, om uit die sluiting die gevangene uit te bring, uit die huis van gevangenis die wat in duisternis sit;",
+  "tokens": [
+    {
+      "surface": "לפקח",
+      "gloss": "om oop te maak"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "oë"
+    },
+    {
+      "surface": "עורות",
+      "gloss": "van blindes"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om uit te bring"
+    },
+    {
+      "surface": "ממסגר",
+      "gloss": "uit die sluiting"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "die gevangene"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "uit die huis"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "van gevangenis"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die wat sit"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "in duisternis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:39.714948753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Sjemoeël het ⟨את⟩ al die woorde van die volk gehoor, en hy het hulle in die ore van Jahweh geuiter.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemoeël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die woorde van die volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "het hulle geuiter"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "in die ore"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:43.810402363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Maar hulle het nie geluister nie, en hulle het ⟨את⟩ hulle nek hard gemaak, soos die nek van hulle vaders wat nie in Jahweh hulle Elohim geglo het nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "het hard gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle nek"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "hulle nek"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "soos die nek"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "geglo het"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:01.858229888Z",
+  "model": "glm-5.3"
+}

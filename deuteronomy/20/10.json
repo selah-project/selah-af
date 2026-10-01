@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Wanneer jy 'n stad nader om daarteen te veg, dan roep jy daartoe vir vrede.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "jy nader"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "'n stad"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "om te veg"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "daarteen"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "dan roep jy"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "daartoe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vir vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:22.302960734Z",
+  "model": "glm-5.3"
+}

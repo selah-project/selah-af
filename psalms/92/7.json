@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "'n Dierlike man weet nie, en 'n dwaas verstaan ⟨את⟩ dit nie:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "בער",
+      "gloss": "dierlike"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "en 'n dwaas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "verstaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:49.475689825Z",
+  "model": "glm-5.3"
+}

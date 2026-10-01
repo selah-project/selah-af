@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want die lewendes weet dat hulle sal sterwe, maar ⟨die⟩ dooies weet niks meer nie; en daar is vir hulle geen loon meer nie, want hulle gedenk is vergeet.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "die lewendes"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "weet"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "dat hulle sal sterwe"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "maar die dooies"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "weet"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "enige iets"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "loon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "vergeet is"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "hulle gedenk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:54.316576958Z",
+  "model": "glm-5.3"
+}

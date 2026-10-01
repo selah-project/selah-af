@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 38:15",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Toe Jeghoeda haar sien, het hy haar vir 'n hoer aangesien, want sy het haar gesig bedek.",
+  "tokens": [
+    {
+      "surface": "ויראה",
+      "gloss": "toe ... gesien het"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jeghoeda"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "het haar gereken"
+    },
+    {
+      "surface": "לזונה",
+      "gloss": "vir 'n hoer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "het bedek"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "haar gesig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:26.496585391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Maar Agas het gesê: Ek sal nie vra nie, en ek sal Jahweh ⟨את⟩ nie toets nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Maar het gesê"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Agas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "sal ek vra"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "sal ek toets"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:58.264858051Z",
+  "model": "glm-5.3"
+}

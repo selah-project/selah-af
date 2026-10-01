@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Jy mag nie die bloed van my slagoffer saam met gesuurddeeg slag nie, en die slagoffer van die fees van die Pesag mag nie tot die môre oorbly nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "jy mag slag"
+    },
+    {
+      "surface": "על",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "gesuurddeeg"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "van my slagoffer"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "mag oorbly"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "tot die môre"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "die slagoffer"
+    },
+    {
+      "surface": "חג",
+      "gloss": "van die fees"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "van die Pesag"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:31.875842869Z",
+  "model": "glm-5.3"
+}

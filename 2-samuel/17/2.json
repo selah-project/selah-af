@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "en ek sal op hom kom terwyl hy moeg en slap van hande ⟨is⟩, en ek sal hom laat bewe, en al die volk wat ⟨את⟩ by hom ⟨is⟩ sal vlug, en ek sal ⟨את⟩ die koning alleen slaan.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "en ek sal kom"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwyl hy"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "moeg"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "en slap"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "van hande"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "en ek sal laat bewe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom (החרדתי se voorwerp)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "en sal vlug"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "en ek sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:05.036755974Z",
+  "model": "glm-5.3"
+}

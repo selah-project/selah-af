@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Ek wil bly wees en juig in U; ek wil psalmsing aan u Naam, o Elyon.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ek wil bly wees"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "en juig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in U"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ek wil psalmsing"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "aan u Naam"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "o Elyon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:57.806987902Z",
+  "model": "glm-5.3"
+}

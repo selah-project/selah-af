@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 7:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "As ons sê: Ons gaan die stad in — die hongersnood is in die stad, en ons sterf daar; en as ons hier bly, sterf ons ook — en nou, kom, laat ons oorgee aan die leër van Aram: as hulle ons laat leef, sal ons leef; en as hulle ons doodmaak, dan sterf ons.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אמרנו",
+      "gloss": "ons sê"
+    },
+    {
+      "surface": "נבוא",
+      "gloss": "ons gaan in"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "en die hongersnood"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "en ons sterf"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "ons bly"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "sterf ons"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "kom"
+    },
+    {
+      "surface": "ונפלה",
+      "gloss": "laat ons oorgee"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "die leër"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "van Aram"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יחינו",
+      "gloss": "hulle laat ons leef"
+    },
+    {
+      "surface": "נחיה",
+      "gloss": "sal ons leef"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "hulle doodmaak ons"
+    },
+    {
+      "surface": "ומתנו",
+      "gloss": "dan sterf ons"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:11.341951938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "Hy laat die onvrugbare vrou van die huis sit ⟨as⟩ 'n blye moeder van kinders. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "Hy laat ... sit"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "die onvrugbare vrou"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "אם",
+      "gloss": "'n moeder"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "van kinders"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "blye"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:42.958246388Z",
+  "model": "glm-5.3"
+}

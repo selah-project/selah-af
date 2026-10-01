@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Jahweh stut die wat val, en rig op die wat geboë is.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "stut"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "die"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "wat val"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "en rig op"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "die"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "wat geboë is"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:19.223920056Z",
+  "model": "glm-5.3"
+}

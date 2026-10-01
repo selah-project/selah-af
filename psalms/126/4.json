@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 126,
+  "translation": "Keer terug, o Jahweh, ⟨את⟩ ons gevangenskap, soos strome in die Negew.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Keer terug"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons gevangenskap"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ons gevangenskap"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "soos strome"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "in die Negew"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:36.160307727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Jahweh ons Elohim — U het hulle geantwoord; 'n El wat vergewe was U vir hulle, en 'n wreker oor hulle dade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "het hulle geantwoord"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'n El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wat vergewe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "was U"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "en 'n wreker"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "hulle dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:44.668620976Z",
+  "model": "glm-5.3"
+}

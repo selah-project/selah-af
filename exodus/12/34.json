@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die volk het ⟨את⟩ hulle deeg gedra voordat dit gesuurd was, hulle deegbakke toegebind in hulle klere op hulle skouers.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "het gedra"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle deeg"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "hulle deeg"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "dit gesuurd was"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "hulle deegbakke"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "toegebind"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "in hulle klere"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "hulle skouers"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:49.785850546Z",
+  "model": "glm-5.3"
+}

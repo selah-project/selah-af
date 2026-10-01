@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 22:28",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Jou volheid en jou druppels mag jy nie vertraag nie; die eersgeborene van jou seuns moet jy aan my gee.",
+  "tokens": [
+    {
+      "surface": "מלאתך",
+      "gloss": "jou volheid"
+    },
+    {
+      "surface": "ודמעך",
+      "gloss": "en jou druppels"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "mag jy vertraag"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "van jou seuns"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet jy gee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:00.626545496Z",
+  "model": "glm-5.3"
+}

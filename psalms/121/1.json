@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Lied vir die trappe. Ek lig my oë op na die berge — van waar sal my hulp kom?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "vir die trappe"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ek lig op"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oë"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "van waar"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "my hulp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:50.939161323Z",
+  "model": "glm-5.3"
+}

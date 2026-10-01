@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Jahweh het jou oordele weggedraai, hy het jou vyand omgedraai; die koning van Jisraël, Jahweh, ⟨is⟩ in jou midde; jy sal geen kwaad meer vrees nie.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "het weggedraai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jou oordele"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "het omgedraai"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "jou vyand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "in jou midde"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sal jy vrees"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:08.571715569Z",
+  "model": "glm-5.3"
+}

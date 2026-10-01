@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Joksjan het verwek ⟨את⟩ Seba en ⟨את⟩ Dedan; en die seuns van Dedan was ⟨die⟩ Asjuriete en die Letusjiete en die Leömiete.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "En Joksjan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Seba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Seba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Dedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "en die seuns van"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Dedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "Asjuriete"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "en die Letusjiete"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "en die Leömiete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:44.517766784Z",
+  "model": "glm-5.3"
+}

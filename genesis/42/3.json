@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "En die broers van Joséf, tien, het afgetrek om graan uit Mitsrajim te koop.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "en hulle het afgetrek"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die broers van"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Joséf"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "om te koop"
+    },
+    {
+      "surface": "בר",
+      "gloss": "graan"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:09.834142052Z",
+  "model": "glm-5.3"
+}

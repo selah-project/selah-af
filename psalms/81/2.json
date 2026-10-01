@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 81:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Roeip vreugdesange vir Elohim, ons sterkte; juig vir die Elohim van Jaäkow!",
+  "tokens": [
+    {
+      "surface": "הרנינו",
+      "gloss": "roeip vreugdesange"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "vir Elohim"
+    },
+    {
+      "surface": "עוזנו",
+      "gloss": "ons sterkte"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "vir die Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.998122611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "My skild is by ⟨die⟩ Elohim, ⟨die⟩ redder van die wat reg van hart is.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "my skild"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "redder"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "reg van"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:06.307350235Z",
+  "model": "glm-5.3"
+}

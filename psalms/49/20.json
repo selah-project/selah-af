@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 49,
+  "translation": "Hy kom by die geslag van sy vaders; tot in ewigheid sal hulle geen lig sien nie.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "hy kom"
+    },
+    {
+      "surface": "עד",
+      "gloss": "by"
+    },
+    {
+      "surface": "דור",
+      "gloss": "die geslag"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "van sy vaders"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot in"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ewigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.114807886Z",
+  "model": "glm-5.3"
+}

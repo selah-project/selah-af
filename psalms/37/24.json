@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Al val hy, hy sal nie neergewerp word nie, want Jahweh ondersteun sy hand.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "al"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "val hy"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "sal neergewerp word"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "ondersteun"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:20.058725802Z",
+  "model": "glm-5.3"
+}

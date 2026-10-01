@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Bedags sal die son jou nie tref nie, en die maan in die nag.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "sal jou tref"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "en die maan"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.019250623Z",
+  "model": "glm-5.3"
+}

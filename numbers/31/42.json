@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 31:42",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En van die helfte van die kinders van Jisraël, wat Mosje van die manne afgeskei het, die wat oorlog gevoer het —",
+  "tokens": [
+    {
+      "surface": "וממחצית",
+      "gloss": "en van die helfte"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "afgeskei het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "הצבאים",
+      "gloss": "die wat oorlog gevoer het"
+    }
+  ],
+  "timestamp": "2026-09-30T21:14:08.379890037Z",
+  "model": "glm-5.3"
+}

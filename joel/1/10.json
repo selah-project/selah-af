@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Verwoes ⟨is⟩ die veld, treur ⟨is⟩ die grond, want verwoes ⟨is⟩ die graan, verslaan ⟨is⟩ die most, verwelk ⟨is⟩ die olie.",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "verwoes"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "treur"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "die grond"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "verwoes"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "die graan"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "verslaan is"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "die most"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verwelk is"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "die olie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:29.764041939Z",
+  "model": "glm-5.3"
+}

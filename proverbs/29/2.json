@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 29:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Wanneer die regverdiges vermenigvuldig, verheug ⟨die⟩ volk; maar wanneer 'n bose heers, sug ⟨die⟩ volk.",
+  "tokens": [
+    {
+      "surface": "ברבות",
+      "gloss": "wanneer ... vermenigvuldig"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verheug"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "ובמשל",
+      "gloss": "maar wanneer ... heers"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "'n bose"
+    },
+    {
+      "surface": "יאנח",
+      "gloss": "sug"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:06.617358070Z",
+  "model": "glm-5.3"
+}

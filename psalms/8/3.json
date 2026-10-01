@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Uit die mond van kindjies en suigelinge het U krag gestig ter wille van u teëstanders, om die vyand en die wrekende te laat swyg.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "uit die mond"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "van kindjies"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "en suigelinge"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "het U gestig"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "u teëstanders"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "om te laat swyg"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "die vyand"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "en die wrekende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:58.678693827Z",
+  "model": "glm-5.3"
+}

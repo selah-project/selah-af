@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 13:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "anders sê my vyand: ek het hom oorweldig; my teëstanders juig omdat ek wankel.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyand"
+    },
+    {
+      "surface": "יכלתיו",
+      "gloss": "ek het hom oorweldig"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my teëstanders"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ek wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:18.742491895Z",
+  "model": "glm-5.3"
+}

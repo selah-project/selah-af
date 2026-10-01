@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hulle het sy voete met boeie geknel; yster het in sy siel gekom.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Hulle het geknel"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "met boeie"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yster"
+    },
+    {
+      "surface": "באה",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.409834414Z",
+  "model": "glm-5.3"
+}

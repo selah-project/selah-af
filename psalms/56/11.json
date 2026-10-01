@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 56,
+  "translation": "In Elohim roem ⟨ek⟩ ⟨die⟩ woord; in Jahweh roem ⟨ek⟩ ⟨die⟩ woord.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "In Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "roem ⟨ek⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨die⟩ woord"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "roem ⟨ek⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨die⟩ woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:51.226606222Z",
+  "model": "glm-5.3"
+}

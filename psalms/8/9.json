@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Voëls van die hemel en visse van die see, wat deur die paaie van die seë gaan.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "voëls"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "en visse"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wat gaan"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "deur die paaie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van die seë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:10.289182338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Ek sal roep tot Elohim, die Hoogste, tot El, wat ten volle vir my handel.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "ek sal roep"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "die Hoogste"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot El"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "wat ten volle handel"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:55.938202820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die seuns van Jisraël sal laer opslaan, elkeen by sy eie laer en elkeen by sy eie banier, volgens hulle leërs.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "en sal laer opslaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "sy eie laer"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "sy eie banier"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "volgens hulle leërs"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:22.113370438Z",
+  "model": "glm-5.3"
+}

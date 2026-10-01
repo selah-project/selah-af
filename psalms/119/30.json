@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Die weg van getrouheid het ek gekies; jou regte het ek ⟨voor my⟩ gestel.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "getrouheid"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "het ek gekies"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "jou regte"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "het ek gestel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.579846318Z",
+  "model": "glm-5.3"
+}

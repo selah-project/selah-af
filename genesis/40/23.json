@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En die owerste van die skenkers het nie ⟨את⟩ Jósef onthou nie, en hy het hom vergeet.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "onthou het"
+    },
+    {
+      "surface": "שר",
+      "gloss": "owerste"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "van die skenkers"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jósef"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Jósef"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "vergeet het hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:04.312125123Z",
+  "model": "glm-5.3"
+}

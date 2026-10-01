@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "hy wat deurgaan in ⟨die⟩ straat naby haar hoek, en op ⟨die⟩ pad na haar huis stap.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "hy wat deurgaan"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "in ⟨die⟩ straat"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "naby"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "haar hoek"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "en op ⟨die⟩ pad"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "na haar huis"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "stap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:33:00.922191837Z",
+  "model": "glm-5.3"
+}

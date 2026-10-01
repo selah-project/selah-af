@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het hom ⟨את⟩ op die perde gedra, en hy is in Jerusjalajim begrawe met sy vaders, in die stad van Dawid.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "en hulle het gedra"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "die perde"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hy is begrawe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:13.371601230Z",
+  "model": "glm-5.3"
+}

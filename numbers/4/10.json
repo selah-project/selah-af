@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En hulle sal dit en ⟨את⟩ al sy gereedskap in 'n oortrek van tugashuide sit, en hulle sal dit op die draagstok sit",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "en hulle sal sit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ dit",
+      "marks": "dit"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al sy gereedskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "'n oortrek"
+    },
+    {
+      "surface": "עור",
+      "gloss": "van huide"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "van tugas"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "en hulle sal sit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "die draagstok"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:18.149080223Z",
+  "model": "glm-5.3"
+}

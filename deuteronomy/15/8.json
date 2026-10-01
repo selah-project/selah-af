@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "want oopmaak sal jy oopmaak ⟨את⟩ jou hand vir hom, en leen sal jy hom leen, genoeg vir sy gebrek wat hy kort",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "oopmaak"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "sal jy oopmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hand"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "en leen"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "sal jy hom leen"
+    },
+    {
+      "surface": "די",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "vir sy gebrek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "hy kort"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:33.504526213Z",
+  "model": "glm-5.3"
+}

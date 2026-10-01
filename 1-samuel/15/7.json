@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Sjaul het ⟨את⟩ Amalek geslaan van Gawila af, soos jy kom by Sjoer, wat voor die aangesig van Mitsrajim lê.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "van Gawila af"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "soos jy kom by"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sjoer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:57.837383537Z",
+  "model": "glm-5.3"
+}

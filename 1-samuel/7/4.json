@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 7:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Toe het die seuns van Jisraël ⟨את⟩ die Baälim weggebring en ⟨את⟩ die Asjtarot, en hulle het ⟨את⟩ Jahweh alleen gedien.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "het weggebring"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baälim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baälim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjtarot"
+    },
+    {
+      "surface": "העשתרת",
+      "gloss": "die Asjtarot"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:45.973237786Z",
+  "model": "glm-5.3"
+}

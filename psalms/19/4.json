@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Geen woord is daar, en geen woorde, sonder dat hulle stem gehoor word.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "geen ... is daar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en geen"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "sonder dat"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "gehoor word"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hulle stem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:49.256448762Z",
+  "model": "glm-5.3"
+}

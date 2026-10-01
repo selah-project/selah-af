@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Ek is uitgeput deur my gesug; ek deurdrenk ⟨die⟩ hele nag my bed; met my trane smelt my slaapbank weg.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ek is uitgeput"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "deur my gesug"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ek deurdrenk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨die⟩ hele"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "my bed"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "met my trane"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "my slaapbank"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "smelt weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:29.389308229Z",
+  "model": "glm-5.3"
+}

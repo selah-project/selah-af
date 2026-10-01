@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Ek dink aan Elohim en ek kreun; ek oordink, en ⟨dit⟩ verswak — my roeag. Sela.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "ek dink aan"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "en ek kreun"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ek oordink"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "en ⟨dit⟩ verswak"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:58.207255136Z",
+  "model": "glm-5.3"
+}

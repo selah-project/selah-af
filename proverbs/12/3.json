@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Deur goddeloosheid sal 'n mens nie vasstaan nie; maar die wortel van die regverdiges sal glad nie wankel nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "sal vasstaan"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "'n mens"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "deur goddeloosheid"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "maar die wortel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van die regverdiges"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "sal wankel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:42.016682317Z",
+  "model": "glm-5.3"
+}

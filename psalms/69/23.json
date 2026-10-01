@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 69:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Mag hulle tafel voor hulle 'n strik word, en vir hulle vrede 'n vangstrik.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "mag word"
+    },
+    {
+      "surface": "שלחנם",
+      "gloss": "hulle tafel"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "לפח",
+      "gloss": "'n strik"
+    },
+    {
+      "surface": "ולשלומים",
+      "gloss": "en vir hulle vrede"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "'n vangstrik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:22.245061108Z",
+  "model": "glm-5.3"
+}

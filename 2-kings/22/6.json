@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 22:6",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "aan die ambagsmanne en aan die messelaers en aan die murebouers, en om hout en gekapte klippe te koop om ⟨את⟩ die huis te versterk.",
+  "tokens": [
+    {
+      "surface": "לחרשים",
+      "gloss": "aan die ambagsmanne"
+    },
+    {
+      "surface": "ולבנים",
+      "gloss": "en aan die messelaers"
+    },
+    {
+      "surface": "ולגדרים",
+      "gloss": "en aan die murebouers"
+    },
+    {
+      "surface": "ולקנות",
+      "gloss": "en om te koop"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "en klippe"
+    },
+    {
+      "surface": "מחצב",
+      "gloss": "gekapte"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "om te versterk"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:49.727777149Z",
+  "model": "glm-5.3"
+}

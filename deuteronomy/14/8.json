@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 14:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En ⟨את⟩ die vark, want hy split die hoef maar herkou nie — onrein is hy vir julle; van hulle vlees mag julle nie eet nie, en aan hulle karkasse mag julle nie raak nie.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vark"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "die vark"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "split"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "die hoef"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkou"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is hy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "van hulle vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "en aan hulle karkasse"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "mag julle raak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:41.013336834Z",
+  "model": "glm-5.3"
+}

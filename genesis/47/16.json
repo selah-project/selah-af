@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En Josef het gesê: Bring julle vee, en ek sal vir julle gee in ruil vir julle vee, as die silwer op is.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "bring"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "julle vee"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "vir julle vee"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "op is"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:10.930265214Z",
+  "model": "glm-5.3"
+}

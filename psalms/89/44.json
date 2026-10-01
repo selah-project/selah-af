@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Selfs die skerpte van sy swaard het jy teruggedraai, en hom nie laat staan in die stryd nie.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "jy het teruggedraai"
+    },
+    {
+      "surface": "צור",
+      "gloss": "skerpte"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "van sy swaard"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "hom laat staan"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "in die stryd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:25.091464168Z",
+  "model": "glm-5.3"
+}

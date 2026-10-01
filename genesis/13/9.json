@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Is die hele land nie voor jou nie? Skei jou tog van my af: as ⟨jy⟩ links, dan ⟨ek⟩ regs; en as regs, dan ⟨ek⟩ links.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "skei jou"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van my"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "links"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "dan ek regs"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "regs"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "dan ek links"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:42.915941550Z",
+  "model": "glm-5.3"
+}

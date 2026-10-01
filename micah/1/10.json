@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "In Gat, moenie dit verkondig nie; huil nie; in Bet-Leafran rol ⟨ek⟩ my in die stof.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "in Gat"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "verkondig"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "huil"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "huil"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in Bet"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "-Leafran"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "in die stof"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "rol ek my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:25.521024294Z",
+  "model": "glm-5.3"
+}

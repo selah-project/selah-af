@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Wanneer jy 'n gelofte aan Elohim afê, moenie wag om dit te betaal nie; want daar ⟨is⟩ geen behae in dwasse nie — ⟨את⟩ wat jy beloof, betaal.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jy 'n gelofte aflê"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "'n gelofte"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aan Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "wag"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "om dit te betaal"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "in dwasse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat jy beloof"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jy beloof"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "betaal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:09.391540788Z",
+  "model": "glm-5.3"
+}

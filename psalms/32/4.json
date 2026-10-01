@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Want bedags en snags was jou hand swaar op my; my vog het verander ⟨in⟩ die droogte van die somer. Sela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en snags"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "was swaar"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op my"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "het verander"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "my vog"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "die droogte van"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "die somer"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela."
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:53.939019844Z",
+  "model": "glm-5.3"
+}

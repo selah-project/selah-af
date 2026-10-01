@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 105:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "om sy owerstes te bind na sy sin, en sy ouderlinge maak hy wys.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "om te bind"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "sy owerstes"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "na sy sin"
+    },
+    {
+      "surface": "וזקניו",
+      "gloss": "en sy ouderlinge"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "maak hy wys"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:27.974608240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Want U sal my siel nie aan Sjeol oorlaat nie, U sal U getroue nie die kuil laat sien nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "sal ... oorlaat"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjeol"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "sal ... gee"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "U getroue"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "laat sien"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "die kuil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:16.972534917Z",
+  "model": "glm-5.3"
+}

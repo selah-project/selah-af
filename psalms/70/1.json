@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Vir die koorleier, van Dawid, om te laat gedenk.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "om te laat gedenk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:56.250233517Z",
+  "model": "glm-5.3"
+}

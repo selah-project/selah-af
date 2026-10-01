@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hy het ⟨את⟩ die jongmanne van die seuns van Jisraël gestuur, en hulle het brandoffers laat opgaan en slagoffers van vredeoffers vir Jahweh geslag — jongbulle.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die jongmanne"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "die jongmanne"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "en hulle het laat opgaan"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "en hulle het geslag"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slagoffers"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "vredeoffers"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "jongbulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:40.522653313Z",
+  "model": "glm-5.3"
+}

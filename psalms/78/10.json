@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hulle het die verbond van Elohim nie bewaar nie, en in sy Tora geweier om te wandel.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "het bewaar"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "verbond"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "en in sy Tora"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "het geweier"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "om te wandel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:52.669759154Z",
+  "model": "glm-5.3"
+}

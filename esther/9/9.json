@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "en ⟨את⟩ Parsjasjta en ⟨את⟩ Arisai en ⟨את⟩ Aridai en ⟨את⟩ Wajezata",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en ⟨את⟩ Parsjasjta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Parsjasjta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en ⟨את⟩ Arisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Arisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en ⟨את⟩ Aridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Aridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "en ⟨את⟩ Wajezata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Wajezata"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:15.754619714Z",
+  "model": "glm-5.3"
+}

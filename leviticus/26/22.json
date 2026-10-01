@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 26:22",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En Ek sal onder julle ⟨את⟩ die dier van die veld instuur, en dit sal julle van julle kinders beroof, en ⟨את⟩ julle vee uitroei, en julle min maak, en julle paaie sal verlate wees.",
+  "tokens": [
+    {
+      "surface": "והשלחתי",
+      "gloss": "en Ek sal instuur"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "onder julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dier van die veld"
+    },
+    {
+      "surface": "חית",
+      "gloss": "die dier"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "van die veld"
+    },
+    {
+      "surface": "ושכלה",
+      "gloss": "en dit sal beroof"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "והכריתה",
+      "gloss": "en uitroei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle vee"
+    },
+    {
+      "surface": "בהמתכם",
+      "gloss": "julle vee"
+    },
+    {
+      "surface": "והמעיטה",
+      "gloss": "en min maak"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "ונשמו",
+      "gloss": "en verlate sal wees"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "julle paaie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:36.127284506Z",
+  "model": "glm-5.3"
+}

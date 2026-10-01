@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "U het hulle weggespoel; hulle word 'n slaap; in die môre gaan ⟨dit⟩ soos gras verby.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "U het hulle weggespoel"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "'n slaap"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "word"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "soos gras"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "gaan verby"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:40.181302227Z",
+  "model": "glm-5.3"
+}

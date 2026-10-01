@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En ⟨את⟩ die een ram sal jy neem, en Aharon en sy seuns sal hulle hande op die kop van die ram lê.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die een ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "sal jy neem"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "en sal lê"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "van die ram"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:28.375713276Z",
+  "model": "glm-5.3"
+}

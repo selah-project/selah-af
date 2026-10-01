@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Jahweh sê aan Mosje: Ek het ⟨את⟩ ⟨die⟩ volk gesien, en kyk, ⟨dit is⟩ 'n volk hard van nek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "'n volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "van nek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:43.444059291Z",
+  "model": "glm-5.3"
+}

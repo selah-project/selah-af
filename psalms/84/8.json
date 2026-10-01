@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Hulle gaan van krag tot krag; hulle verskyn voor Elohim in Tsijon.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "hulle gaan"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "van krag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "krag"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "hulle verskyn"
+    },
+    {
+      "surface": "אל",
+      "gloss": "voor"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsijon"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:53.670143248Z",
+  "model": "glm-5.3"
+}

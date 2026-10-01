@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 8:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Want roeag saai hulle, en 'n stormwind sal hulle maai — geen staak het dit nie, geen spruit sal meel maak nie; as dit miskien maak, sal vreemdes dit verslind.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "יזרעו",
+      "gloss": "saai hulle"
+    },
+    {
+      "surface": "וסופתה",
+      "gloss": "'n stormwind"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "sal hulle maai"
+    },
+    {
+      "surface": "קמה",
+      "gloss": "staak"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "het dit"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "spruit"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "geen"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal maak"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "meel"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "as ... miskien"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "vreemdes"
+    },
+    {
+      "surface": "יבלעהו",
+      "gloss": "sal dit verslind"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:52.433244033Z",
+  "model": "glm-5.3"
+}

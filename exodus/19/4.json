@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Julle self het gesien wat Ek aan Mitsrajim gedoen het, en Ek het ⟨את⟩ julle gedra op vlerke van arende, en Ek het ⟨את⟩ julle na My toe gebring.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "julle self"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "Ek gedoen het"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "aan Mitsrajim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "en Ek het gedra"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "vlerke van"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "arende"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "en Ek het gebring"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na My toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:15.133171520Z",
+  "model": "glm-5.3"
+}

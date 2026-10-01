@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Van Dawid, 'n maskil. Gelukkig ⟨die een⟩ wie se oortreding gedra ⟨is⟩, wie se sonde bedek ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n maskil"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "gedra"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "oortreding"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "bedek"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "sonde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:53.938238186Z",
+  "model": "glm-5.3"
+}

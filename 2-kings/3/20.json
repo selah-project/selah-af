@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En dit het gebeur in die môre, toe die minga opgaan — en kyk, water kom van die weg van Edom af, en die land het ⟨את⟩ die water gevul.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "toe ... opgaan"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "van die weg"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "van Edom"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en ... het gevul"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:00.168918312Z",
+  "model": "glm-5.3"
+}

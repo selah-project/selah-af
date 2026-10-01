@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Agter Jahweh julle Elohim sal julle loop, en ⟨את⟩ hom sal julle vrees, en ⟨את⟩ sy gebooie sal julle bewaar, en na sy stem sal julle luister, en ⟨את⟩ hom sal julle dien, en aan hom sal julle vasklief.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "sal julle loop"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩ hom",
+      "marks": "hom (Jahweh)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sal julle vrees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy gebooie"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "sy gebooie"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "sal julle bewaar"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "en na sy stem"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "sal julle luister"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩ hom",
+      "marks": "hom (Jahweh)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "sal julle dien"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "en aan hom"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "sal julle vasklief"
+    }
+  ],
+  "timestamp": "2026-09-30T21:20:53.482903351Z",
+  "model": "glm-5.3"
+}

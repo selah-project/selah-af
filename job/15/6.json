@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 15:6",
+  "book": "job",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Jou mond verklaar jou skuldig, en nie ek nie; en jou lippe getuig teen jou.",
+  "tokens": [
+    {
+      "surface": "ירשיעך",
+      "gloss": "verklaar jou skuldig"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "en jou lippe"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "getuig"
+    },
+    {
+      "surface": "בך",
+      "gloss": "teen jou"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:59.174810179Z",
+  "model": "glm-5.3"
+}

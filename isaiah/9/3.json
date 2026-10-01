@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want ⟨את⟩ die juk van sy las en ⟨את⟩ die staf van sy skouer, die stok van sy onderdrukker wat hom slaan — U het verbreek soos op die dag van Midjan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die juk van sy las"
+    },
+    {
+      "surface": "על",
+      "gloss": "die juk"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "van sy las"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die staf van sy skouer"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "die staf"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "van sy skouer"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "die stok"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "van sy onderdrukker"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "U het verbreek"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos op die dag"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:02.015307215Z",
+  "model": "glm-5.3"
+}

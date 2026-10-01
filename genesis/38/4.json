@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En sy het weer swanger geword en 'n seun gebaar, en sy het ⟨את⟩ sy naam Onan genoem.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "swanger geword"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "genoem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy naam"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy naam"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Onan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:29.004388939Z",
+  "model": "glm-5.3"
+}

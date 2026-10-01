@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 38:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "en ek sal jou en ⟨את⟩ hierdie stad uit die hand van die koning van Assur red, en ek sal hierdie stad verdedig.",
+  "tokens": [
+    {
+      "surface": "ומכף",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "konings"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "אצילך",
+      "gloss": "sal ek jou red"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hierdie stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "וגנותי",
+      "gloss": "en sal ek verdedig"
+    },
+    {
+      "surface": "על",
+      "gloss": "vir"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:42.177723615Z",
+  "model": "glm-5.3"
+}

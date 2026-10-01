@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 19:27",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En jou sit en jou uitgaan en jou ingaan — ek ken ⟨את⟩ dit, en ⟨את⟩ jou woede teen my.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "en jou sit"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "en jou uitgaan"
+    },
+    {
+      "surface": "ובאך",
+      "gloss": "en jou ingaan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek ken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou woede teen my"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "jou woede"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "teen my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:30.847551681Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Daarom keer sy volk hiernatoe terug, en waters van volheid word vir hulle uitgepers.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hiernatoe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en waters"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "van volheid"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "word uitgepers"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:16.962053747Z",
+  "model": "glm-5.3"
+}

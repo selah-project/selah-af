@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en ⟨את⟩ Esav het Ek gehaat, en Ek het ⟨את⟩ sy berge 'n verwoesting gemaak en ⟨את⟩ sy erfenis vir jakkalse van die woestyn",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "het Ek gehaat"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "en Ek het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy berge"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "sy berge"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "'n verwoesting"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy erfenis"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "sy erfenis"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "vir jakkalse"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "van die woestyn"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:09.327616838Z",
+  "model": "glm-5.3"
+}

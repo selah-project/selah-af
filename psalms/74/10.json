@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Hoelank, o Elohim, sal die teëstander smaal? Sal die vyand jou Naam vir ewig laster?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "hoelank"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "sal smaal"
+    },
+    {
+      "surface": "צר",
+      "gloss": "teëstander"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "laster"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou Naam"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:33.979192466Z",
+  "model": "glm-5.3"
+}

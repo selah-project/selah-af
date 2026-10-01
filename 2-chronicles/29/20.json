@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Gizkijahoe die koning het vroegoggend opgestaan en ⟨את⟩ die owerstes van die stad byeengebring, en hy het opgegaan na ⟨die⟩ huis van Jahweh.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "het vroegoggend opgestaan"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "en byeengebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die owerstes van die stad"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "en hy het opgegaan"
+    },
+    {
+      "surface": "בית",
+      "gloss": "na die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T01:01:31.228855045Z",
+  "model": "glm-5.3"
+}

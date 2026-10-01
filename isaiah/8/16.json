@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Bind die getuienis toe, verseël die Tora by my leerlinge.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "bind toe"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "verseël"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "by my leerlinge"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:09.977790607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 147,
+  "translation": "Loof Jah, want goed is om ons Elohim te besing, want aangenaam, paslik is lof.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "om te besing"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "aangenaam"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "paslik"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:34.293264849Z",
+  "model": "glm-5.3"
+}

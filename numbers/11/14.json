@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Ek kan nie, ek alleen, ⟨את⟩ hierdie hele volk dra nie, want dit is te swaar vir my.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ek kan"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "dra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "te swaar"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:51.279090315Z",
+  "model": "glm-5.3"
+}

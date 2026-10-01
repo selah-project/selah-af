@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Hulle sal Hom prys — die hemel en die aarde, die seë en alles wat daarin beweeg.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "hulle sal Hom prys"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "die seë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alles"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "wat beweeg"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:34.678521900Z",
+  "model": "glm-5.3"
+}

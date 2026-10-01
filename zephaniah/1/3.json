@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 1:3",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Ek ruim weg die mens en die vee; ek ruim weg die voëls van die hemel en die visse van die see, en die struikelblokke ⟨את⟩ die goddeloses; en ek sal ⟨את⟩ die mens uitroei van die aangesig van die aarde af, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ek ruim weg"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "en die vee"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ek ruim weg"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "die voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "en die visse"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "והמכשלות",
+      "gloss": "en die struikelblokke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goddeloses"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "die goddeloses"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "en ek sal uitroei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van ... af"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig van"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:02.814027670Z",
+  "model": "glm-5.3"
+}

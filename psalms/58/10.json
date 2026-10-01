@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "Voordat julle potte die doringboom herken — terwyl dit nog rou is, terwyl dit nog brandend is — storm Hy dit weg.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "herken"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "julle potte"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "die doringboom"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "terwyl dit nog"
+    },
+    {
+      "surface": "חי",
+      "gloss": "rou"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "terwyl dit nog"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "brandend"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "storm Hy dit weg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:43.640921332Z",
+  "model": "glm-5.3"
+}

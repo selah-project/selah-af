@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Hierdie ⟨is⟩ die dag wat Jahweh gemaak het; laat ons juig en bly wees daarin.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "laat ons juig"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "en bly wees"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:33.929402029Z",
+  "model": "glm-5.3"
+}

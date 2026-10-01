@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Van hulle vlees sal julle nie eet nie, en aan hulle aas sal julle nie raak nie — onrein ⟨is⟩ hulle vir julle.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "van hulle vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "aan hulle aas"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "sal julle raak"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:28.690800645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "En hulle sê: Jah sien nie, en die Elohim van Jaäkow let nie op nie.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "let op"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:17.483500523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid het weer by Jahweh gevra, en Jahweh het hom geantwoord en gesê: Staan op, trek af Keägila toe, want ék gee ⟨את⟩ die Filistyne in jou hand.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "En hy het weer"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "om te vra"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "by Jahweh"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "en Hom het geantwoord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "רד",
+      "gloss": "trek af"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keägila toe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ék"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistyne"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:19.514030546Z",
+  "model": "glm-5.3"
+}

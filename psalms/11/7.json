@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Want regverdig ⟨is⟩ Jahweh, tsedek het Hy lief; die opregtes sal sy aangesig aanskou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "regverdig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "het Hy lief"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "die opregtes"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "sal aanskou"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "sy aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:30.142983386Z",
+  "model": "glm-5.3"
+}

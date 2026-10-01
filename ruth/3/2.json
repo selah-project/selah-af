@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ruth 3:2",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En nou — is Boas, ons bekende, met wie se jongmeisies jy was, dit nie? Kyk, hy wan vannag ⟨את⟩ die garsdorsvloer.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "מדעתנו",
+      "gloss": "ons bekende"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "met wie se"
+    },
+    {
+      "surface": "היית",
+      "gloss": "jy was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jongmeisies"
+    },
+    {
+      "surface": "נערותיו",
+      "gloss": "jongmeisies"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "wan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die garsdorsvloer"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "dorsvloer"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "van die gars"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "vannag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:36.271081484Z",
+  "model": "glm-5.3"
+}

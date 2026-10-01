@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ hierdie sal julle verfoei van ⟨die⟩ voël; hulle mag nie geëet word nie, 'n gruwel is hulle: ⟨את⟩ die nesjer en ⟨את⟩ die peres en ⟨את⟩ die aznija.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sal julle verfoei"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "die voël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "mag geëet word"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "'n gruwel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "is hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die nesjer"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "die nesjer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die peres"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "die peres"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aznija"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "die aznija"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:14.015371492Z",
+  "model": "glm-5.3"
+}

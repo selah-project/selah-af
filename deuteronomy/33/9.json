@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Hy wat van sy vader en van sy moeder sê: ek het hom nie gesien nie; en ⟨את⟩ sy broers het hy nie herken nie, en ⟨את⟩ sy seuns het hy nie geken nie — want hulle het u woord bewaar en u verbond neem hulle in ag.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "hy wat sê"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "en van sy moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "het ek hom gesien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "het hy herken"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "het hy geken"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "het hulle bewaar"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "u woord"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "en u verbond"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "neem hulle in ag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:14.097933694Z",
+  "model": "glm-5.3"
+}

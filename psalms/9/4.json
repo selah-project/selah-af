@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Wanneer my vyande terugwyk, struikel hulle en vergaan hulle voor u aangesig.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "wanneer ... terugwyk"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agtertoe"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "struikel hulle"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "en vergaan hulle"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "voor u aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:57.807144639Z",
+  "model": "glm-5.3"
+}

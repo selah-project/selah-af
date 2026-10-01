@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wee, sondige nasie, volk swaar van ongeregtigheid, nageslag van kwaaddoeners, kinders wat bederf! Hulle het Jahweh ⟨את⟩ verlaat, ⟨את⟩ die Heilige van Jisraël gesmaad, hulle het agteruit weggedraai.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "nasie"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "sondige"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "swaar"
+    },
+    {
+      "surface": "עון",
+      "gloss": "van ongeregtigheid"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "nageslag"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "van kwaaddoeners"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "wat bederf"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Hulle het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "gesmaad"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Heilige van Jisraël"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "die Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "hulle het weggedraai"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "agteruit"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:46.482534129Z",
+  "model": "glm-5.3"
+}

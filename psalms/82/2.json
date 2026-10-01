@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Hoelang sal julle onreg spreek ⟨in oordele⟩, en die aangesig van goddeloses optel? Sela.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "hoelang"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "tot wanneer"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "sal julle reg spreek"
+    },
+    {
+      "surface": "עול",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en die aangesig van"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "goddeloses"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "sal julle optel"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.660461072Z",
+  "model": "glm-5.3"
+}

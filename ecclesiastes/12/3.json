@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "op die dag wanneer die bewakers van die huis bewe en die manne van krag hul buig, en die maalmeulens ophou omdat hulle min geword het, en die wat deur die venstergate uitkyk, verduister word;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "wanneer bewe"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "die bewakers van"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "en hul buig"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne van"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "krag"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "en ophou"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "die maalmeulens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "hulle min geword het"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "en verduister word"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "die wat uitkyk"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "deur die venstergate"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:01.648860997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 44:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Vanweë die stem van ⟨een wat⟩ smaad spreek en godslaster, voor die aangesig van ⟨die⟩ vyand en wreker.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "vanweë die stem van"
+    },
+    {
+      "surface": "מחרף",
+      "gloss": "⟨een wat⟩ smaad spreek"
+    },
+    {
+      "surface": "ומגדף",
+      "gloss": "en godslaster"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "en wreker"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.369940727Z",
+  "model": "glm-5.3"
+}

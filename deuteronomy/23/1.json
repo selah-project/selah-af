@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Geen man sal ⟨את⟩ die vrou van sy vader neem, en hy sal die vleuel van sy vader nie blootlê nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal neem"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vrou van sy vader"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "sal hy blootlê"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die vleuel"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:18.338740639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Geseënd ⟨is⟩ Elohim, wat my gebed nie afgewend het en ⟨את⟩ sy gesed nie van my af ⟨weg⟩ nie.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "afgewend het"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "my gebed"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "en sy gesed"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ van my af",
+      "marks": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:32.391923697Z",
+  "model": "glm-5.3"
+}

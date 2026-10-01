@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 60:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "U het die land laat bewe, U het dit laat skeur; heel sy breuke, want dit wankel.",
+  "tokens": [
+    {
+      "surface": "הרעשתה",
+      "gloss": "U het laat bewe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "פצמתה",
+      "gloss": "U het laat skeur"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "heel"
+    },
+    {
+      "surface": "שבריה",
+      "gloss": "sy breuke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "dit wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:42.365156882Z",
+  "model": "glm-5.3"
+}

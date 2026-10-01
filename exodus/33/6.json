@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En die seuns van Jisraël het ⟨את⟩ hul sierade afgelê by die berg Goreb.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "het afgelê"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hul sierade"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "hul sierade"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "by die berg"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "Goreb"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:03.265947099Z",
+  "model": "glm-5.3"
+}

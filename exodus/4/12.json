@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En nou, gaan; en ek sal met jou mond wees en jou leer wat jy moet spreek.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "en jou leer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "jy moet spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:27.954347172Z",
+  "model": "glm-5.3"
+}

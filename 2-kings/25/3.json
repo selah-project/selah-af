@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 25:3",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Op die negende van die maand het die hongersnood sterk geword in die stad, en daar was geen brood vir die volk van die land nie.",
+  "tokens": [
+    {
+      "surface": "בתשעה",
+      "gloss": "op die negende"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "het sterk geword"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "die hongersnood"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vir die volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:26.468073750Z",
+  "model": "glm-5.3"
+}

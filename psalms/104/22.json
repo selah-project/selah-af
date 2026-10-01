@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Die son gaan op — hulle word versamel, en in hul lêplekke kruip hulle neer.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "gaan op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "hulle word versamel"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en in"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "hul lêplekke"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "kruip hulle neer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.724851593Z",
+  "model": "glm-5.3"
+}

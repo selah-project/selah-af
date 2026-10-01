@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "Dank ⟨אל⟩ die Adonai van ⟨die⟩ here, want tot in ewigheid ⟨is⟩ sy gesed.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dank"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "aan die Adonai van"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "die here"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:14.996628809Z",
+  "model": "glm-5.3"
+}

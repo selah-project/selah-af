@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 9:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hy het ⟨את⟩ die offerande van die volk nagebring, en ⟨את⟩ die bok van die sondoffer wat vir die volk ⟨was⟩ geneem, en hom geslag, en hom as sondoffer behandel soos die eerste.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hy het nagebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die offerande"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "die offerande"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bok"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "die bok"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "vir die volk"
+    },
+    {
+      "surface": "וישחטהו",
+      "gloss": "en hom geslag"
+    },
+    {
+      "surface": "ויחטאהו",
+      "gloss": "en hom as sondoffer behandel"
+    },
+    {
+      "surface": "כראשון",
+      "gloss": "soos die eerste"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:12.860507349Z",
+  "model": "glm-5.3"
+}

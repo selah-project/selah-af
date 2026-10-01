@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Verlang, ja kwyn my siel weg na die howe van Jahweh; my hart en my vlees juig uit tot ⟨die⟩ lewende El.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "verlang"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "kwyn weg"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "na die howe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "en my vlees"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "juig uit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewende"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:03.121207374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 32:33",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "En Jahweh sê aan Mosje: Wie gedurende ⟨dit⟩ aan My gesondig het, hom sal Ek uitwis uit my boek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En ... sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Wie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "gedurende ⟨dit⟩"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "gesondig het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan My"
+    },
+    {
+      "surface": "אמחנו",
+      "gloss": "hom sal Ek uitwis"
+    },
+    {
+      "surface": "מספרי",
+      "gloss": "uit my boek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:38.575942481Z",
+  "model": "glm-5.3"
+}

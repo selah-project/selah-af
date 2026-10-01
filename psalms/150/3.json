@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 150,
+  "translation": "Loof Hom met die stoot van die sjofar; loof Hom met die nouvel en lier.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "met die stoot"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "van die sjofar"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "met die nouvel"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "en lier"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.314751460Z",
+  "model": "glm-5.3"
+}

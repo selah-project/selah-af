@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Jahweh het vir hom gesê: Wat is ⟨is⟩ dit in jou hand? En hy het gesê: 'n Staf.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "wat dit"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "in jou hand"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "'n staf"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:24.982031162Z",
+  "model": "glm-5.3"
+}

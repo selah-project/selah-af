@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En ek sal jou tot 'n groot nasie maak, en ek sal jou seën, en ek sal jou naam groot maak, en jy, wees 'n seën.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "en ek sal jou maak"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "tot 'n nasie"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "en ek sal jou seën"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "en ek sal groot maak"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "jou naam"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en wees"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "'n seën"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:12.653203419Z",
+  "model": "glm-5.3"
+}

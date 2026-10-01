@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Spreuke van Sjelomo. 'n Wyse seun verbly 'n vader, maar 'n dwase seun ⟨is⟩ die verdriet van sy moeder.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Spreuke"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wyse"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "verbly"
+    },
+    {
+      "surface": "אב",
+      "gloss": "'n vader"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "maar 'n seun"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "dwase"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "die verdriet"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van sy moeder"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:25.500881219Z",
+  "model": "glm-5.3"
+}

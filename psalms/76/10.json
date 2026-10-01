@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Toe Elohim opgestaan het vir ⟨את⟩ die gerig, om te red al die ootmoediges van die aarde. Sela.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "toe ... opgestaan het"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "vir ⟨את⟩ die gerig"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "om te red"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "die ootmoediges"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:21.839904381Z",
+  "model": "glm-5.3"
+}

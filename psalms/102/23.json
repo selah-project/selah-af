@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "wanneer die volke tesame vergader word, en ⟨die⟩ koninkryke, om ⟨את⟩ Jahweh te dien.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "wanneer vergader word"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "en koninkryke"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "om te dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:16.125387138Z",
+  "model": "glm-5.3"
+}

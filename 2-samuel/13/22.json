@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 13:22",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Absalom het nie met Amnon gepraat, nie tot kwaad nie en nie tot goed nie, want Absalom het ⟨את⟩ Amnon gehaat oor die saak dat hy ⟨את⟩ Tamar, sy suster, verneder het",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "En nie"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gepraat"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "למרע",
+      "gloss": "tot kwaad"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en nie tot"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "het gehaat"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absalom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amnon"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Amnon"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "hy verneder het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tamar"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Tamar"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "sy suster"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:21.688969062Z",
+  "model": "glm-5.3"
+}

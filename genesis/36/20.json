@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Dit is die seuns van Seïr, die Horiet, bewoners van die land: Lotan en Sjobal en Sibeon en Ana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Seïr"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "die Horiet"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "bewoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Lotan"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "en Sjobal"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "en Sibeon"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "en Ana"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:13.429235977Z",
+  "model": "glm-5.3"
+}

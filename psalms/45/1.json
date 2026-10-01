@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Aan die voorsigter, oor Sjosjannim, van die seuns van Korag, 'n Masjkil, 'n lied van liefdes.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Aan die voorsigter"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Sjosjannim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n Masjkil"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "van liefdes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:11.041051297Z",
+  "model": "glm-5.3"
+}

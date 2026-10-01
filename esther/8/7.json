@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 8:7",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning Agasweros sê vir Ester die koningin en vir Mordegai die Jood: Kyk, die huis van Haman het ek aan Ester gegee, en ⟨את⟩ hom het hulle aan die boom opgehang, omdat hy sy hand teen die Jode uitgesteek het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אחשורש",
+      "gloss": "Agasweros"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "vir Ester"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "die koningin"
+    },
+    {
+      "surface": "ולמרדכי",
+      "gloss": "en vir Mordegai"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "die Jood"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het ek gegee"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "aan Ester"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "en ⟨את⟩ hom",
+      "marks": "hom (opgehang)"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "het hulle opgehang"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "hy"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uitgesteek het"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "teen die Jode"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:11.537695650Z",
+  "model": "glm-5.3"
+}

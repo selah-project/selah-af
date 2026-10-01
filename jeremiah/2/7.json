@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 2:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Ek het ⟨את⟩ julle gebring na die land van die karmel, om sy vrugte en sy goed te eet; maar toe julle inkom, het julle ⟨את⟩ My land onrein gemaak en My erfenis tot 'n gruwel gestel.",
+  "tokens": [
+    {
+      "surface": "ואביא",
+      "gloss": "En Ek het gebring"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "van die karmel"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "sy vrugte"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "en sy goed"
+    },
+    {
+      "surface": "ותבאו",
+      "gloss": "maar toe julle inkom"
+    },
+    {
+      "surface": "ותטמאו",
+      "gloss": "het ... onrein gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "My land"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "My land"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "en My erfenis"
+    },
+    {
+      "surface": "שמתם",
+      "gloss": "het julle gestel"
+    },
+    {
+      "surface": "לתועבה",
+      "gloss": "tot 'n gruwel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:44.874172314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Alle woorde ⟨is⟩ vermoeiend; 'n man kan nie spreek nie; die oog word nie versadig deur te sien nie, en die oor word nie gevul deur te hoor nie.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alle"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "vermoeiend"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "word versadig"
+    },
+    {
+      "surface": "עין",
+      "gloss": "die oog"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "deur te sien"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "word gevul"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "die oor"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "deur te hoor"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:44.123992862Z",
+  "model": "glm-5.3"
+}

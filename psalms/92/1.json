@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "'n Mizmor, 'n lied, vir die dag van die Sjabbat.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "vir die dag"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "van die Sjabbat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.534474288Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Soos 'n voël wat rondswerf, soos 'n swawel wat wegvlieg, so kom 'n onverdiende vloek nie tot rus nie.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "soos 'n voël"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "wat rondswerf"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "soos 'n swawel"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "wat wegvlieg"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "'n vloek"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "onverdiende"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kom tot rus"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:29.959017171Z",
+  "model": "glm-5.3"
+}

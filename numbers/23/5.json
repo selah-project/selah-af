@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Jahweh het 'n woord in die mond van Bilam gesit, en ⟨hy⟩ het gesê: Keer terug na Balak, en so moet jy spreek.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in die mond van"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Balak"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "en so"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "moet jy spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:12.669661347Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 8:25",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hulle sê: Gee, ons gee. En hulle het ⟨die⟩ mantel uitgesprei, en hulle het daarheen gewerp, elkeen ⟨את⟩ die ring van sy buit.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "En hulle sê"
+    },
+    {
+      "surface": "נתון",
+      "gloss": "gee"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ons gee"
+    },
+    {
+      "surface": "ויפרשו",
+      "gloss": "En hulle het uitgesprei"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mantel"
+    },
+    {
+      "surface": "השמלה",
+      "gloss": "die mantel"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "en hulle het gewerp"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "נזם",
+      "gloss": "die ring"
+    },
+    {
+      "surface": "שללו",
+      "gloss": "van sy buit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:00.611991836Z",
+  "model": "glm-5.3"
+}

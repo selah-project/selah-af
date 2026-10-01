@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 29:20",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Dawid sê aan die hele vergadering: Seën tog ⟨את⟩ Jahweh jul Elohim! En die hele vergadering het Jahweh, die Elohim van hulle vaders, geseën, en hulle het gebuig en hul neergewerp voor Jahweh en voor die koning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "aan die hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "seën"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jul Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "jul Elohim"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "en hulle het geseën"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "אבתיהם",
+      "gloss": "hulle vaders"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "en hulle het gebuig"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hul neergewerp"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "voor Jahweh"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "en voor die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:53:19.725958059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het reg en tsedek gedoen; laat my geensins aan my onderdrukkers oor nie.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ek het gedoen"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geensins"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "laat my nie oor nie"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "aan my onderdrukkers"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:42.734880848Z",
+  "model": "glm-5.3"
+}

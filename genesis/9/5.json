@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En voorwaar, ⟨את⟩ julle bloed vir julle lewens sal ek eis; uit die hand van elke dier sal ek dit eis, en uit die hand van die mens — uit die hand van elke man, sy broer — sal ek ⟨את⟩ die lewe van die mens eis.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "En voorwaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle bloed"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "julle bloed"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "vir julle lewens"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "sal ek eis"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "dier"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "sal ek dit eis"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "sal ek eis"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die lewe van die mens"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:25.863382255Z",
+  "model": "glm-5.3"
+}

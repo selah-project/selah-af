@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En Mosje het ⟨את⟩ hulle uittogte volgens hulle etappes geskryf op bevel van Jahweh, en dit is hulle etappes volgens hulle uittogte.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "en hy het geskryf"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle uittogte"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "hulle uittogte"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "volgens hulle etappes"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פי",
+      "gloss": "bevel van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "en dit is"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "hulle etappes"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "volgens hulle uittogte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:25.620354274Z",
+  "model": "glm-5.3"
+}

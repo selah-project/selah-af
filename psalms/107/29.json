@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hy maak die storm stil tot ⟨'n⟩ bedaardheid, en hulle golwe word gesag.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "maak stil"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "storm"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "tot bedaardheid"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "en word gesag"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "hulle golwe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.725540878Z",
+  "model": "glm-5.3"
+}

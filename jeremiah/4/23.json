@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Ek het ⟨את⟩ die aarde gesien, en kyk — woest en leeg; en na die hemel, en hulle lig ⟨is⟩ daar nie.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "woest"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "en leeg"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "hulle lig"
+    }
+  ],
+  "timestamp": "2026-09-30T22:29:26.882595814Z",
+  "model": "glm-5.3"
+}

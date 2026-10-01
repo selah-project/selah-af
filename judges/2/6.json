@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jehosjoea het ⟨את⟩ die volk weggestuur, en die seuns van Jisraël het gegaan, elkeen na sy erfdeel, om ⟨את⟩ die land in besit te neem.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het weggestuur"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "na sy erfdeel"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "om in besit te neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:39.357795350Z",
+  "model": "glm-5.3"
+}

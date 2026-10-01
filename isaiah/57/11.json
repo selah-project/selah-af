@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 57:11",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "En ⟨את⟩ wie het jy gedra en gevrees, dat jy gelieg het? En ⟨את⟩ my het jy nie gedink nie, dit nie op jou hart geplaas nie. Is dit nie ek wat swyg, van ouds af — ⟨את⟩ en my vrees jy nie?",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wie"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "דאגת",
+      "gloss": "het jy gedra"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "en gevrees"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תכזבי",
+      "gloss": "jy gelieg het"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "en ⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכרת",
+      "gloss": "het jy gedink"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "geplaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "jou hart"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מחשה",
+      "gloss": "wat swyg"
+    },
+    {
+      "surface": "ומעלם",
+      "gloss": "van ouds af"
+    },
+    {
+      "surface": "ואותי",
+      "gloss": "⟨את⟩ en my"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "vrees jy"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:01.145268223Z",
+  "model": "glm-5.3"
+}

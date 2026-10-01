@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die begin van sy koninkryk was Babel en Ereg en Akkad en Kalne, in die land Sjinear.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "En ... was"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die begin"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "van sy koninkryk"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "en Ereg"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "en Akkad"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "en Kalne"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Sjinear"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:50.161338388Z",
+  "model": "glm-5.3"
+}

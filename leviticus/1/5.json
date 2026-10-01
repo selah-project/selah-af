@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy slag ⟨את⟩ die seun van die bees voor Jahweh se gesig, en die seuns van Aharon, die priesters, bring ⟨את⟩ die bloed naby en sprenkel ⟨את⟩ die bloed rondom op die altaar wat by die ingang van die tent van ontmoeting is.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "en hy slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seun van die bees"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "van die bees"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor die gesig van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "en hulle bring naby"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "en hulle sprenkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang van"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "die tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:37.455545636Z",
+  "model": "glm-5.3"
+}

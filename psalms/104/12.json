@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 104:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Bo hulle woon die voëls van die hemel; uit tussen die takke laat hulle hul stem hoor.",
+  "tokens": [
+    {
+      "surface": "עליהם",
+      "gloss": "bo hulle"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "voëls"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "ישכון",
+      "gloss": "woon"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "uit tussen"
+    },
+    {
+      "surface": "עפאים",
+      "gloss": "die takke"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "laat hulle hoor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "hul stem"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:12.764399460Z",
+  "model": "glm-5.3"
+}

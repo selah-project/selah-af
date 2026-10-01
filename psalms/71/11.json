@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 71:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "wat sê: Elohim het hom verlaat — jaag agter hom aan en gryp hom, want daar is geen redder nie.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "wat sê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "het hom verlaat"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "jaag agter aan"
+    },
+    {
+      "surface": "ותפשוהו",
+      "gloss": "en gryp hom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:24.769966899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "⟨Daar is⟩ 'n stem van een wat roep in die wildernis: Maak gereed die weg van Jahweh, maak reg in die woestyn 'n grootpad vir onse Elohim.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "'n stem"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "van een wat roep"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die wildernis"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "Maak gereed"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "maak reg"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "'n grootpad"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "vir onse Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:31.021298087Z",
+  "model": "glm-5.3"
+}

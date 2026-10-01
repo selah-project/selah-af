@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Rol van my af smaad en veragting, want u getuienisse het ek bewaar.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rol af"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "smaad"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "en veragting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "u getuienisse"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "het ek bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:03.162962251Z",
+  "model": "glm-5.3"
+}

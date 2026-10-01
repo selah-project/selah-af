@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Lot het na hulle uitgegaan by die ingang, en die deur het hy agter hom toegemaak.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "en hy het uitgegaan"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "na hulle"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "en die deur"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "het toegemaak"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "agter hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:08.591597190Z",
+  "model": "glm-5.3"
+}

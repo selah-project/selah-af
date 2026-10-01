@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Hy het vervloeking liefgehad, en dit het hom ontmoet; hy het geen behae in ⟨die⟩ seëning gehad nie, en dit het ver van hom gebly.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "het liefgehad"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "vervloeking"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "het hom ontmoet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae gehad"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "in ⟨die⟩ seëning"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "en dit het ver gebly"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "van hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:16.390701564Z",
+  "model": "glm-5.3"
+}

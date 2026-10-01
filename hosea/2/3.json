@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Sê vir julle broers: Ammi, en vir julle susters: Rugama.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "vir julle broers"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ammi (my volk)"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "en vir julle susters"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rugama (bemindes)"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:46.146861974Z",
+  "model": "glm-5.3"
+}

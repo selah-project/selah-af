@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die seuns van Gomer: Askenas en Rifat en Togarma.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "van Gomer"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Askenas"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "en Rifat"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "en Togarma"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:00.391523415Z",
+  "model": "glm-5.3"
+}

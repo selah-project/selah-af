@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Dawid het dit gehoor, en hy het ⟨את⟩ Joab gestuur en ⟨את⟩ die hele leër van die helde.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het gehoor"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hele leër van die helde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "leër"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "van die helde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:21.902721266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En aan hierdie sal julle onrein word: elkeen wat hulle karkas aanraak, sal onrein wees tot die aand.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "en aan hierdie"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "sal julle onrein word"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "wat aanraak"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "hulle karkas"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "sal onrein wees"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "die aand"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:16.175798369Z",
+  "model": "glm-5.3"
+}

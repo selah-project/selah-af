@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Sy weerligte het die wêreld verlig; die aarde het gesien en gebewe.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "het verlig"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "sy weerligte"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "en gebewe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.383540930Z",
+  "model": "glm-5.3"
+}

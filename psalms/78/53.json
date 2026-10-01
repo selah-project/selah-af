@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het hulle veilig gelei, en hulle het nie gevrees nie; en ⟨את⟩ hulle vyande het die see bedek.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "het hulle gelei"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "veilig"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "het gevrees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle vyande"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "het bedek"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:29.640707006Z",
+  "model": "glm-5.3"
+}

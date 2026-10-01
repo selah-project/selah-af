@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Net aan die sondes van Jerobeam, seun van Nebat, waarmee hy Jisraël ⟨את⟩ laat sondig het, het hy vaskleef; daarvan het hy nie afgewyk nie.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Net"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "aan die sondes"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "van Jerobeam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "Nebat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "hy het laat sondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "het hy vaskleef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "סר",
+      "gloss": "afgewyk"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:56.528628717Z",
+  "model": "glm-5.3"
+}

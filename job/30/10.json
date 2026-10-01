@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 30:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Hulle verafsku my, hulle het ver van my weggebly, en voor my aangesig het hulle hul spoeg nie terughou nie.",
+  "tokens": [
+    {
+      "surface": "תעבוני",
+      "gloss": "hulle verafsku my"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "hulle het ver weggebly"
+    },
+    {
+      "surface": "מני",
+      "gloss": "van my"
+    },
+    {
+      "surface": "ומפני",
+      "gloss": "en voor my aangesig"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "het hulle terughou"
+    },
+    {
+      "surface": "רק",
+      "gloss": "spoeg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:19.439049831Z",
+  "model": "glm-5.3"
+}

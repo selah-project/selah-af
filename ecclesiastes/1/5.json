@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die son gaan op, en die son kom in, en hyg na sy plek — hy wat daar opgaan, ⟨is⟩ daar.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "en gaan op"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en kom in"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "die son"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "sy plek"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "hyg"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "opgaan"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:44.123335540Z",
+  "model": "glm-5.3"
+}

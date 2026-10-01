@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die hele vergadering het ⟨את⟩ hulle stem verhef en geskreeu, en die volk het dié nag gehuil.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "het verhef"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "geskreeu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle stem"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "hulle stem"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "gehuil"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "nag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "dié"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:12.654872773Z",
+  "model": "glm-5.3"
+}

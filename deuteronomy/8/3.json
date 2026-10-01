@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 8:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het jou verneder en jou laat honger ly en jou ⟨את⟩ die man laat eet wat jy nie geken het nie en jou vaders nie geken het nie, om jou te laat weet dat die mens nie van brood alleen sal lewe nie, maar van alles wat uit die mond van Jahweh uitgaan, sal die mens lewe.",
+  "tokens": [
+    {
+      "surface": "ויענך",
+      "gloss": "en hy het jou verneder"
+    },
+    {
+      "surface": "וירעבך",
+      "gloss": "jou laat honger ly"
+    },
+    {
+      "surface": "ויאכלך",
+      "gloss": "jou laat eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die man"
+    },
+    {
+      "surface": "המן",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "jy geken het"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "geken het"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jou vaders"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "הודעך",
+      "gloss": "jou te laat weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "על",
+      "gloss": "van"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "sal lewe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "כי",
+      "gloss": "maar"
+    },
+    {
+      "surface": "על",
+      "gloss": "van"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "wat uitgaan"
+    },
+    {
+      "surface": "פי",
+      "gloss": "uit die mond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "sal lewe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:31.480783156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 2:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Jahweh — gebroke word sy teëstanders; in die hemele sal ⟨hy⟩ oor hulle donder; Jahweh sal die eindes van die aarde oordeel, en ⟨hy⟩ sal krag gee aan sy koning en die horing verhoog van sy Masjiag.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "gebroke word"
+    },
+    {
+      "surface": "מריבו",
+      "gloss": "sy teëstanders"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "sal ⟨hy⟩ donder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "sal oordeel"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "die eindes van"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en ⟨hy⟩ sal gee"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "aan sy koning"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "en verhoog"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "die horing"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "van sy Masjiag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:39:47.821982221Z",
+  "model": "glm-5.3"
+}

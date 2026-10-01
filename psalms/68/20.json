@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Geseënd ⟨is⟩ Adonai; dag vir dag laai Hy ⟨voordeel⟩ op ons; ⟨die⟩ El van ons redding. Sela.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geseënd"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "יום",
+      "gloss": "vir dag"
+    },
+    {
+      "surface": "יעמס",
+      "gloss": "laai Hy op"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨die⟩ El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "van ons redding"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:44.407106864Z",
+  "model": "glm-5.3"
+}

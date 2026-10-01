@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Toe het hy ⟨את⟩ die portiek van die poort gemeet, vanaf die huis af: een riet.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Toe het hy gemeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die portiek van die poort"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "die portiek"
+    },
+    {
+      "surface": "השער",
+      "gloss": "van die poort"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "vanaf die huis af"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "riet"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T22:56:47.034578549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Húlle — met strydwaens, en húlle — met perde; maar ons, in die naam van Jahweh ons Elohim, gedenk ons.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "húlle"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "met strydwaens"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "en húlle"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "met perde"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "maar ons"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "gedenk ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.293367593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "⟨את⟩ die klein-uil, en ⟨את⟩ die ooruil, en die wit-uil",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klein-uil"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "die klein-uil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die ooruil"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "die ooruil"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "en die wit-uil"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:47.380194212Z",
+  "model": "glm-5.3"
+}

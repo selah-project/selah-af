@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "'n Vreemde het ek geword vir my broers, en 'n uitlandige vir die seuns van my moeder.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "'n vreemde"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "het ek geword"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "vir my broers"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "en 'n uitlandige"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "van my moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:27.991449232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Vuur sal deurgaans brand op die altaar; dit mag nie uitgaan nie.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Vuur"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "deurgaans"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "mag uitgaan nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:23.118396848Z",
+  "model": "glm-5.3"
+}

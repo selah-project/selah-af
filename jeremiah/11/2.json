@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 11:2",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hoort ⟨את⟩ die woorde van hierdie verbond, en spreek hulle tot die manne van Jehoeda en tot die inwoners van Jerusjalajim:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "hoort"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van hierdie verbond"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "van die verbond"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ודברתם",
+      "gloss": "en spreek hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die inwoners"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:40.576401877Z",
+  "model": "glm-5.3"
+}

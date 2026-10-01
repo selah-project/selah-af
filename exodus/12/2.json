@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hierdie maand ⟨is⟩ vir julle die hoof van maande; ⟨hy⟩ ⟨is⟩ die eerste vir julle van die maande van ⟨die⟩ jaar.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "die maand"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "van maande"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "van die maande"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "van die jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:03.980416655Z",
+  "model": "glm-5.3"
+}

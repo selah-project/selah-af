@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En een en veertig jaar het hy in Jerusjalajim geregeer; en die naam van sy moeder was Maäga, dogter van Awisjalom.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "En veertig"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "en een"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het geregeer"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "van sy moeder"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maäga"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "Awisjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:24.528410384Z",
+  "model": "glm-5.3"
+}

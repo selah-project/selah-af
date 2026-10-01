@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En dit ⟨is⟩ die geskrif wat geskryf ⟨is⟩: MENE, MENE, TEKEL, ufarsin.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "die geskrif"
+    },
+    {
+      "surface": "די",
+      "gloss": "wat"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "geskryf ⟨is⟩"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "MENE"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "TEKEL"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ufarsin"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:43.266821785Z",
+  "model": "glm-5.3"
+}

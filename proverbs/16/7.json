@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Wanneer Jahweh die weë van 'n man behaag, maak Hy selfs sy vyande vrede ⟨את⟩ met hom.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "wanneer ... behaag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "die weë"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "גם",
+      "gloss": "selfs"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "sy vyande"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "maak vrede"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "hyself — hierdie את is die voorsetsel 'met', nie die lydendevoorwerpsmerker nie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:11.198604435Z",
+  "model": "glm-5.3"
+}

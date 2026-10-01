@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Die kleed aangetrek het die lammers, die kleinvee, en die valleie omhul hulle met graan; hulle juig, ja, hulle sing.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "het die kleed aangetrek"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "lammers"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "en die valleie"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "omhul"
+    },
+    {
+      "surface": "בר",
+      "gloss": "graan"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "hulle juig"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "hulle sing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:19.909607980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Jahweh het gesien dat Lea ⟨die⟩ gehate een was, en hy het haar moedskom ⟨את⟩ geopen; maar Ragel was onvrugbaar.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "gehat"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Lea"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "het geopen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar moedskom"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "haar moedskom"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "maar Ragel"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "onvrugbaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:59.293914513Z",
+  "model": "glm-5.3"
+}

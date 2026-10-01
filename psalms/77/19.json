@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Die geluid van U donder ⟨was⟩ in die warrelwind; die bliksems het die wêreld verlig; die aarde het gebewe en geskud.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "die geluid"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "van U donder"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "in die warrelwind"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "het verlig"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "die bliksems"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "het gebewe"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "en geskud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:21.570985463Z",
+  "model": "glm-5.3"
+}

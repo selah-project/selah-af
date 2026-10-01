@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 1:6",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Van die palm van die voet tot by die kop is daar niks heel in ⟨hom⟩ nie; wond en kneusing en vars hou — hulle is nie toegedruk nie en nie verbind nie en nie met olie sag gemaak nie.",
+  "tokens": [
+    {
+      "surface": "מכף",
+      "gloss": "van die palm"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "van die voet"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar niks"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in ⟨hom⟩"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "heel"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "wond"
+    },
+    {
+      "surface": "וחבורה",
+      "gloss": "en kneusing"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "en hou"
+    },
+    {
+      "surface": "טריה",
+      "gloss": "vars"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "toegedruk"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "verbind"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רככה",
+      "gloss": "sag gemaak"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "met olie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:31.078042277Z",
+  "model": "glm-5.3"
+}

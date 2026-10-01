@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 30:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En Jahweh jou Elohim sal jou hart besny, en ⟨את⟩ die hart van jou nageslag, om Jahweh jou Elohim lief te hê met jou hele hart en met jou hele siel, ter wille van jou lewe.",
+  "tokens": [
+    {
+      "surface": "ומל",
+      "gloss": "en sal besny"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou hart"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "jou hart"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die hart van jou nageslag"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "van jou nageslag"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "om lief te hê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "met jou hele"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "hart"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en met jou hele"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "siel"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "jou lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:20.116799888Z",
+  "model": "glm-5.3"
+}

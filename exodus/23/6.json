@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Moenie die reg van jou behoeftige buig in sy geding nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "buig"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "die reg"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "van jou behoeftige"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "in sy geding"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:50.855788987Z",
+  "model": "glm-5.3"
+}

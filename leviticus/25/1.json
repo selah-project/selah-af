@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Jahweh het met Mosje gepraat op berg Sinaj, met die woord:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "en het gepraat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "op berg"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Sinaj"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "met die woord"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:00.607386576Z",
+  "model": "glm-5.3"
+}

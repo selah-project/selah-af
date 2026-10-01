@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En Mosje het gesê: Ook jy moet in ons hand slagoffers en brandoffers gee, en ons sal ⟨hulle⟩ vir Jahweh ons Elohim berei.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet gee"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in ons hand"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "slagoffers"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "en brandoffers"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "en ons sal berei"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:08.667280054Z",
+  "model": "glm-5.3"
+}

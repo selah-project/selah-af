@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Veertig jaar het ek 'n afsku gehad van daardie geslag, en ek het gesê: ⟨dit is⟩ 'n volk wat dwaal van hart, hulle ⟨is⟩ dit, en hulle ken my weë nie.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "het ek 'n afsku gehad"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "van daardie geslag"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en ek het gesê"
+    },
+    {
+      "surface": "עם",
+      "gloss": "'n volk"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "wat dwaal"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van hart"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle ⟨is⟩ dit"
+    },
+    {
+      "surface": "והם",
+      "gloss": "en hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ken"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:26.490343913Z",
+  "model": "glm-5.3"
+}

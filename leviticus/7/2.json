@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Op die plek waar hulle ⟨את⟩ die brandoffer slag, sal hulle ⟨את⟩ die skuldoffer slag, en ⟨את⟩ sy bloed sal hy sprinkel teen die altaar rondom.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "op die plek"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "sal hulle slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "sal hulle slag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skuldoffer"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "die skuldoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy bloed"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "sy bloed"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "sal hy sprinkel"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:56:21.026927738Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Maar soveel as hulle ⟨את⟩ hom onderdruk het, net so het hy vermeerder en net so het hy uitgebreek; en hulle is verskrik vanweë die kinders van Jisraël.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "Maar soveel as"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "hulle onderdruk"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom, die volk Jisraël"
+    },
+    {
+      "surface": "כן",
+      "gloss": "net so"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "hy vermeerder"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": ""
+    },
+    {
+      "surface": "וכן",
+      "gloss": "en net so"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "hy breek uit"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "en hulle is verskrik"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanweë"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.185648994Z",
+  "model": "glm-5.3"
+}

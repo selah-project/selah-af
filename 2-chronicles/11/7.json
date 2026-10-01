@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ Beit-Tsoer, en ⟨את⟩ Sogo, en ⟨את⟩ Adullam,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Beit-Tsoer"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Beit"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsoer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Sogo"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Sogo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Adullam"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Adullam"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:09.564235513Z",
+  "model": "glm-5.3"
+}

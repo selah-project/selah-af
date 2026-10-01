@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 24:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Saul het drie duisend uitgesoekte manne uit die hele Jisraël geneem en het gegaan om ⟨את⟩ Dawid en sy manne te soek, op die voorpunt van die rotse van die wildebokke.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Saul"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "manne"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "uitgesoekte"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "het gegaan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "en sy manne"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die voorpunt"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "van die rotse"
+    },
+    {
+      "surface": "היעלים",
+      "gloss": "van die wildebokke"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:11.173962006Z",
+  "model": "glm-5.3"
+}

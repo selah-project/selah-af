@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 2:4",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En kyk, Boas kom van Bet-g-Legem af, en hy sê vir die snyers: Jahweh ⟨sy⟩ met julle; en hulle sê vir hom: Mag Jahweh jou seën.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Boas"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "van Bet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-g-Legem af"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לקוצרים",
+      "gloss": "vir die snyers"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "mag hy jou seën"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:34.797777561Z",
+  "model": "glm-5.3"
+}

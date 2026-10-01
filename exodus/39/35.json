@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "⟨את⟩ die ark van die getuienis en ⟨את⟩ sy drastawwe, en ⟨את⟩ die versoendeksel.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die getuienis"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "van die getuienis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy drastawwe"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sy drastawwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die versoendeksel"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "die versoendeksel"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:58.551206208Z",
+  "model": "glm-5.3"
+}

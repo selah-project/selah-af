@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Hy laat gras uitspruit vir die vee, en plante vir die diens van die mens, om brood uit die aarde te laat uitgaan,",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "laat uitspruit"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "gras"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "vir die vee"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "en plante"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "vir die diens"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om te laat uitgaan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:47.440559256Z",
+  "model": "glm-5.3"
+}

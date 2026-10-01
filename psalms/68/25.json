@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Hulle het u optogte gesien, o Elohim, die optogte van my El, my koning, in die heiligdom.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "u optogte"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "die optogte"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "van my El"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "my koning"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "in die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:54.729405321Z",
+  "model": "glm-5.3"
+}

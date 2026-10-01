@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 10:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Is my dae nie min nie? Laat ⟨U⟩ ophou, wend ⟨dit⟩ van my af, en ek sal 'n bietjie verhelder word.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Is dit nie"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "min"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "my dae"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "laat ⟨U⟩ ophou"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "wend"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "en ek sal verhelder word"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "'n bietjie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:28.960422465Z",
+  "model": "glm-5.3"
+}

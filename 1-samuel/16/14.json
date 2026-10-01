@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die roeag van Jahweh het van Sjaúl gewyk, en 'n slegte roeag van ⟨את⟩ Jahweh het hom verskrik.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "en die roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "het gewyk"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaúl"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "en dit het hom verskrik"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "'n roeag"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "slegte"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:26.723273005Z",
+  "model": "glm-5.3"
+}

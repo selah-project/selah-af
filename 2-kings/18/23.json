@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 18:23",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En nou, gee tog 'n pand ⟨את⟩ aan my heer ⟨את⟩ die koning van Assur, en ek sal vir jou tweeduisend perde gee as jy in staat is om vir jou ruiters op hulle te sit.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "התערב",
+      "gloss": "gee 'n pand"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heer (אדני)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "aan my heer"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning (מלך)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "en ek sal gee"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "tweeduisend"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "perde"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "jy in staat is"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te sit"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "רכבים",
+      "gloss": "ruiters"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:22.549752111Z",
+  "model": "glm-5.3"
+}

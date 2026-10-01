@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "Geseënd ⟨is⟩ Jahweh, die Elohim van Jisraël, van die ewigheid af en tot in ewigheid. Amen, en amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Geseënd"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "van die ewigheid af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "in ewigheid"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "en amen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:25.639327583Z",
+  "model": "glm-5.3"
+}

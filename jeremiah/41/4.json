@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "En dit het gebeur op die tweede dag van die doodmaak van ⟨את⟩ Gedalja — en geen man het ⟨dit⟩ geweet nie.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "van die doodmaak van"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gedalja"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Gedalja"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en geen man"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "het geweet"
+    }
+  ],
+  "timestamp": "2026-09-30T22:41:29.344927119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Die woorde van Agoer, seun van Jake — die las. Die man sê: vir Itiël, vir Itiël en Ukal ⟨het ek my uitgeput⟩.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Die woorde"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "van Agoer"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "van Jake"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "die las"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "die man"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "vir Itiël"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "vir Itiël"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en Ukal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:13:35.140760252Z",
+  "model": "glm-5.3"
+}

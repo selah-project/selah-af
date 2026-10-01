@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh het aan Sjelomo in die nag verskyn en vir hom gesê: Ek het ⟨את⟩ jou gebed gehoor, en Ek het hierdie plek vir My uitgekies as 'n huis van offerande.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en hy het verskyn"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "in die nag"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ek het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gebed"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "jou gebed"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "en Ek het uitgekies"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir My"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "as 'n huis"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "van offerande"
+    }
+  ],
+  "timestamp": "2026-10-01T00:55:17.440747778Z",
+  "model": "glm-5.3"
+}

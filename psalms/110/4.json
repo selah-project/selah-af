@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Jahweh het gesweer en sal Hom nie bedink nie: jy ⟨is⟩ 'n priester vir ewig, na die wyse van Malki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "het gesweer"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en sal nie"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "Hom bedink"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "'n priester"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "die wyse"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "van Malki-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.628545974Z",
+  "model": "glm-5.3"
+}

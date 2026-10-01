@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "geluid van sweep en geluid van dawerende wiel, en perd wat vaar, en wa wat spring",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "geluid"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "van sweep"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "en geluid"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "dawerende"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "wiel"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "en perd"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "wat vaar"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "en wa"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "wat spring"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:02.534235190Z",
+  "model": "glm-5.3"
+}

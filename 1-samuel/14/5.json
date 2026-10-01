@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die een tandrots het uitgesteek noord, oorkant Migmas, en die ander suid, oorkant Géwa.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "Die tandrots"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "die een"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "uitgesteek"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "noord"
+    },
+    {
+      "surface": "מול",
+      "gloss": "oorkant"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Migmas"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "en die ander"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "suid"
+    },
+    {
+      "surface": "מול",
+      "gloss": "oorkant"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "Géwa"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:19.878878978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Mag jou hand my te hulp wees, want jou voorskrifte het ek gekies.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "jou hand"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "my te hulp"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jou voorskrifte"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "het ek gekies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:16.499929086Z",
+  "model": "glm-5.3"
+}

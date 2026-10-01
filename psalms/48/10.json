@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Ons het u gesed oorweeg, o Elohim, binne-in u paleis.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "het ons oorweeg"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "u paleis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:37.411354520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Ek sal hoor wat El Jahweh sal spreek, want hy sal sjalom spreek tot sy volk en tot sy gesiedenes — maar laat hulle nie terugkeer tot dwaselheid nie.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "ek sal hoor"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sal spreek"
+    },
+    {
+      "surface": "האל",
+      "gloss": "El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "sal spreek"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sjalom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sy gesiedenes"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "maar laat nie"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "hulle terugkeer"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "tot dwaselheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.009455691Z",
+  "model": "glm-5.3"
+}

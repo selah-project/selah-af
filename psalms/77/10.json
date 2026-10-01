@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Het El vergeet om gunstig te wees, of het hy in toorn sy barmhartighede toegesluit? Sela.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "het vergeet"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "om gunstig te wees"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "toegesluit"
+    },
+    {
+      "surface": "באף",
+      "gloss": "in toorn"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "sy barmhartighede"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:30.203921869Z",
+  "model": "glm-5.3"
+}

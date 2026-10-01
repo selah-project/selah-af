@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die manna was soos die saad van gad, en sy oog ⟨was⟩ soos die oog van die bedolach.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "en die manna"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "soos die saad"
+    },
+    {
+      "surface": "גד",
+      "gloss": "van gad"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "en sy oog"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "soos die oog"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "van die bedolach"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:47.046838317Z",
+  "model": "glm-5.3"
+}

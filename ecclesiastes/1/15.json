@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Wat krom ⟨is⟩, kan nie reggemaak word nie; en wat ontbreek, kan nie getel word nie.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "wat krom is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "reggemaak word"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "en wat ontbreek"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "kan"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "getel word"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:20.253026767Z",
+  "model": "glm-5.3"
+}

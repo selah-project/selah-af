@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "En Jisraël het gesê aan Josef: Kyk, ek gaan sterf, maar Elohim sal met julle wees en julle terugbring ⟨את⟩ na die land van julle vaders.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gaan sterf"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "en sal wees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "en sal terugbring"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "van julle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T20:42:43.952666118Z",
+  "model": "glm-5.3"
+}

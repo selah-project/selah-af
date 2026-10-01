@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Hulle sal juig, die woestyn en die droë land, en die Araba sal bly wees en sal bloei soos die narsingsblom.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "sal juig"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "die woestyn"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "en die droë land"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "en sal bly wees"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "die Araba"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "en sal bloei"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "soos die narsingsblom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:25.826138263Z",
+  "model": "glm-5.3"
+}

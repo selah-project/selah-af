@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "My Elohim, oor my is my siel neergedruk; daarom dink ek aan U, uit die land van die Jarden en die Hermons, van die berg Mitsar.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "is neergedruk"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "dink ek aan U"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "van die Jarden"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "en die Hermons"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "van die berg"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "Mitsar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:09.095568226Z",
+  "model": "glm-5.3"
+}

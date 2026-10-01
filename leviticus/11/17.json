@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "en ⟨את⟩ die kos-uil en ⟨את⟩ die sjalag en ⟨את⟩ die jansjof",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die kos-uil"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "die kos-uil"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die sjalag"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "die sjalag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die jansjof"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "die jansjof"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:47.550295821Z",
+  "model": "glm-5.3"
+}

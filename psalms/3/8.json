@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Staan op, Jahweh! Red my, my Elohim, want u het ⟨את⟩ al my vyande op die wang geslaan, die tande van die goddeloses gebreek.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "red my"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "u het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al my vyande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "op die wang"
+    },
+    {
+      "surface": "שני",
+      "gloss": "die tande"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "gebreek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.716166231Z",
+  "model": "glm-5.3"
+}

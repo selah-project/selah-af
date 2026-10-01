@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 11:11",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hulle het ⟨את⟩ al die siel wat daarin was volgens die mond van die swaard geslaan, in die ban gedoen — daar het nie enige asem oorgebly nie — en ⟨את⟩ Chatsor met vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die siel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "die siel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "volgens die mond"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "in die ban gedoen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "oorgebly"
+    },
+    {
+      "surface": "כל",
+      "gloss": "enige"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "asem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "met vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:48.316278982Z",
+  "model": "glm-5.3"
+}

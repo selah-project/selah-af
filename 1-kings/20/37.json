@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 20:37",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Toe vind hy 'n ander man en sê: Slaan my tog. En die man het hom geslaan, geslaande en wondende.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "Toe vind hy"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "הכיני",
+      "gloss": "Slaan my"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "En ... het geslaan hom"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslaande"
+    },
+    {
+      "surface": "ופצע",
+      "gloss": "en wondende"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:16.529089673Z",
+  "model": "glm-5.3"
+}

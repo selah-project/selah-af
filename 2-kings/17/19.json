@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 17:19",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Selfs Jehoeda het ⟨את⟩ die gebooie van Jahweh hulle Elohim nie bewaar nie, en hulle het geloop in die insettinge van Jisraël wat hulle gedoen het.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Selfs"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gebooie"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "die gebooie"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle Elohim"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "het geloop"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "in die insettinge"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "gedoen het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:49.597351459Z",
+  "model": "glm-5.3"
+}

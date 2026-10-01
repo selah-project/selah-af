@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Toe het Jahweh 'n teenstander vir Sjelomo laat opstaan — ⟨את⟩ Hadad die Edomiet, van die geslag van die koning — hy was in Edom.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Toe het ... laat opstaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "'n teenstander"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "vir Sjelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Hadad die Edomiet"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadad"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "die Edomiet"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "van die geslag"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "in Edom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:24.534211263Z",
+  "model": "glm-5.3"
+}

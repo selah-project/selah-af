@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Enosj het negentig jaar geleef en ⟨את⟩ Kenan verwek.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "het geleef"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Enosj"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "negentig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Kenan"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Kenan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:28.977717696Z",
+  "model": "glm-5.3"
+}

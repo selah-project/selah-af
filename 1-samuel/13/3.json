@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En Jonatan het ⟨את⟩ die Filistynse wagpos by Geva geslaan, en die Filistyne het ⟨dit⟩ gehoor; en Sjaoel het met die sjofar in die hele land geblaas om te sê: Laat die Hebreeërs hoor!",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "en het geslaan"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Jonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Filistynse wagpos"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "wagpos"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistynse"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "by Geva"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "en het gehoor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "en Sjaoel"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "het geblaas"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "met die sjofar"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "laat hoor"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "die Hebreeërs"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:14.173589628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Wees en vreemdeling maak hulle dood, en weeskinders vermoor hulle.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "wees"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "en vreemdeling"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "maak hulle dood"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "en weeskinders"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "vermoor hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:17.482945867Z",
+  "model": "glm-5.3"
+}

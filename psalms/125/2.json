@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 125,
+  "translation": "Jerushjalajim — berge ⟨is⟩ rondom dit, en Jahweh ⟨is⟩ rondom sy volk, van nou af en tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerushjalajim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nou af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:42.541169710Z",
+  "model": "glm-5.3"
+}

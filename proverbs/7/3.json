@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Bind hulle op jou vingers, skryf hulle op ⟨die⟩ tabel van jou hart.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "bind hulle"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "jou vingers"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "skryf hulle"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "tabel"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "van jou hart"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.960077615Z",
+  "model": "glm-5.3"
+}

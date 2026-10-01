@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh sal ⟨את⟩ Jehoeda as sy erfdeel beërwe op die grond van die heiligdom, en Hy sal weer Jerusjalajim kies.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "En ... sal beërwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoeda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "as sy erfdeel"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "die grond"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "en Hy sal kies"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "weer"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:08:33.480398767Z",
+  "model": "glm-5.3"
+}

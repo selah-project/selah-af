@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 30:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "Die ryke sal nie vermeerder nie, en die arme sal nie verminder nie, van die helfte van die sjekel af, om ⟨את⟩ die offerande van Jahweh te gee, om versoening te doen oor jul siele.",
+  "tokens": [
+    {
+      "surface": "העשיר",
+      "gloss": "Die ryke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "sal vermeerder"
+    },
+    {
+      "surface": "והדל",
+      "gloss": "en die arme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ימעיט",
+      "gloss": "sal verminder"
+    },
+    {
+      "surface": "ממחצית",
+      "gloss": "van die helfte af"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "van die sjekel"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die offerande van Jahweh"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "die offerande van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om versoening te doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jul siele"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:02.856605337Z",
+  "model": "glm-5.3"
+}

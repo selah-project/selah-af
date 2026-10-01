@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En ⟨את⟩ die tweede sal hy as brandoffer maak volgens die verordening; en die priester versoen hom oor sy sonde wat hy gedoen het, en dit word hom vergewe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die tweede"
+    },
+    {
+      "surface": "השני",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "sal maak"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "as brandoffer"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "volgens die verordening"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en versoen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "oor sy sonde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "en vergewe word"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:28.797997118Z",
+  "model": "glm-5.3"
+}

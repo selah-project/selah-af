@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En Human het homself bedwing en gekom na sy huis; en hy het gestuur en ⟨את⟩ sy vriende laat kom en ⟨את⟩ Seresj, sy vrou.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "en hy het homself bedwing"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Human"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "en gekom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en laat kom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vriende"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "sy vriende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Seresj"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "Seresj"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:42.639198988Z",
+  "model": "glm-5.3"
+}

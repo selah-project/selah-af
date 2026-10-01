@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Want my lewe ⟨is⟩ ten einde in verdriet, en my jare in gekerm; my krag het gestruikel deur my ongeregtigheid, en my bene ⟨is⟩ verdor.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "⟨is⟩ ten einde"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "in verdriet"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "my lewe"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "en my jare"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "in gekerm"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "het gestruikel"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "deur my ongeregtigheid"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "en my bene"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "⟨is⟩ verdor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:27.021466650Z",
+  "model": "glm-5.3"
+}

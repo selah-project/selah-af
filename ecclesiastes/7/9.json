@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Wees nie haastig in jou roeag om toornig te word nie, want toorn rus in die boesem van dwase.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "wees haastig"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "in jou roeag"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "om toornig te word"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "in die boesem"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwase"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "rus"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:28.460570048Z",
+  "model": "glm-5.3"
+}

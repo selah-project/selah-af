@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En Mosje en Aharon en sy seuns het daaruit hulle hande en hulle voete gewas, ⟨את⟩ hulle hande en ⟨את⟩ hulle voete.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "en hulle het gewas"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daaruit"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "en Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle voete"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "hulle voete"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:21.587681362Z",
+  "model": "glm-5.3"
+}

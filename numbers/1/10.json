@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Vir die seuns van Josef — vir Efrajim: Eljisjama, seun van Ammichoed; vir Menasje: Gamliël, seun van Pedasoer.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "van Josef"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "vir Efrajim"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Eljisjama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "van Ammichoed"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "vir Menasje"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Gamliël"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "van Pedasoer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:50.158771852Z",
+  "model": "glm-5.3"
+}

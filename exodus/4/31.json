@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die volk het geglo, en hulle het gehoor dat Jahweh ⟨את⟩ die seuns van Jisraël besoek het, en dat hy ⟨את⟩ hulle ellende gesien het; en hulle het hul gebuig en hul neergebuig.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "en het geglo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "en hulle het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "besoek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle ellende"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "hulle ellende"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "en hulle het hul gebuig"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "en hul neergebuig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:16.020431348Z",
+  "model": "glm-5.3"
+}

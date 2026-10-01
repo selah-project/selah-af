@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Op die dag van die eerste maand, op die eerste ⟨van⟩ die maand, moet jy ⟨את⟩ die Misjkan, die tent van samekoms, oprig.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "op een"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "van die maand"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "moet jy oprig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Misjkan"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Misjkan"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:18.302597224Z",
+  "model": "glm-5.3"
+}

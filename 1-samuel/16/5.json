@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 16:5",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hy het gesê: Vreedzaam; om te slag vir Jahweh het ek gekom; heilig julle, en kom saam met ⟨את⟩ my na die slagoffer. En hy het ⟨את⟩ Jisai en ⟨את⟩ sy seuns geheilig, en hulle na die slagoffer geroep.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vreedzaam"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "om te slag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "het ek gekom"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "heilig julle"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "en kom"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "met ⟨את⟩ my"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "na die slagoffer"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "en hy het geheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisai"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "na die slagoffer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:00.448646110Z",
+  "model": "glm-5.3"
+}

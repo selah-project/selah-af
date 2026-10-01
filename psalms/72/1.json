@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 72,
+  "translation": "Van Sjelomo. O Elohim, gee u regte aan die koning, en u tsedek aan die seun van die koning.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u regte"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "aan die koning"
+    },
+    {
+      "surface": "תן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en u tsedek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "aan die seun van"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:00.533631747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Laat jou vader en jou moeder bly wees, en laat sy wat jou gebaar het, jubel.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "laat … bly wees"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "jou vader"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "en jou moeder"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "en laat … jubel"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "sy wat jou gebaar het"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:54.665556038Z",
+  "model": "glm-5.3"
+}

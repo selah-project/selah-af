@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Daar sal ek 'n horing laat uitspruit vir Dawid, ek het 'n lamp gereël vir my gesalfde.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Daar"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "sal laat uitspruit"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "'n horing"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "het ek gereël"
+    },
+    {
+      "surface": "נר",
+      "gloss": "'n lamp"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "vir my gesalfde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:52.871627808Z",
+  "model": "glm-5.3"
+}

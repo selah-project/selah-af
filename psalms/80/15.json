@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "Elohim Tsewaot, tog keer terug, aanskou uit die hemel en sien, en besoek hierdie wingerdstok.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "aanskou"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "uit die hemel"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "en besoek"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "wingerdstok"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.335818824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Heilig ⟨ is ⟩ Jisraël vir Jahweh, die eersteling van sy oes; almal wat hom eet, sal skuldig word — onheil sal oor hulle kom, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "die eersteling"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "van sy oes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "wat hom eet"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "sal skuldig word"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:28:22.085908990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 10:9",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Wyn en sterk drank — mag jy en jou seuns ⟨את⟩ jou nie drink wanneer julle by die tent van samekoms ingaan nie, en julle sal nie sterf nie; ⟨'n⟩ ewige verordening vir julle geslagte.",
+  "tokens": [
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en sterk drank"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "drink"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "en jou seuns"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ jou",
+      "marks": "jou (met jou)"
+    },
+    {
+      "surface": "בבאכם",
+      "gloss": "wanneer julle ingaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "sal julle sterf"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "verordening"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "vir julle geslagte"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:36.568339453Z",
+  "model": "glm-5.3"
+}

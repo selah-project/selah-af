@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Raw-Sjake het teruggekeer en die koning van Assjoer gevind ⟨את⟩ terwyl hy teen Libna veg, want hy het gehoor dat hy van Lagis af vertrek het.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "רב",
+      "gloss": "Raw-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "Sjake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "en gevind"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning van Assjoer"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning van"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assjoer"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "veg"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "hy het gehoor"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "vertrek het"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "van Lagis af"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:39.831354835Z",
+  "model": "glm-5.3"
+}

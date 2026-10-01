@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Ek het ⟨את⟩ my huis verlaat, ⟨את⟩ my erfdeel laat vaar; ek het ⟨את⟩ die geliefde van my siel in die palm van haar vyande gegee.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "ek het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my huis"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my huis"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "laat vaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my erfdeel"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "my erfdeel"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geliefde van my siel"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "die geliefde"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "van my siel"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "in die palm"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "van haar vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:58.937091438Z",
+  "model": "glm-5.3"
+}

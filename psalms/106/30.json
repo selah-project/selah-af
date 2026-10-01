@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Toe het Pinechas opgestaan en ⟨geoordeel⟩, en die plaag is gestuit.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Pinechas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "⟨geoordeel⟩"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "is gestuit"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "die plaag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:36.207008307Z",
+  "model": "glm-5.3"
+}

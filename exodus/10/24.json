@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Toe roep Paro na Mosje en sê: Gaan, dien ⟨את⟩ Jahweh — net julle kleinvee en julle beeste moet agterbly; ook julle kleintjies mag saam met julle gaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "toe roep hy"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "dien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "רק",
+      "gloss": "net"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "julle kleinvee"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "en julle beeste"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "moet agterbly"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "julle kleintjies"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "mag gaan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "saam met julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:25.844790764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "wat geen owerste het nie, geen opsigter of heerser ⟨vir haar⟩ nie —",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen … het nie"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨vir haar⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "owerste"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "opsigter"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "of heerser"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:46.396982287Z",
+  "model": "glm-5.3"
+}

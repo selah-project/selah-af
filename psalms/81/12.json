@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Maar my volk het nie geluister na my stem nie, en Jisraël het nie na my verlang nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Maar nie"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het geluister"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "na my stem"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "en Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "het verlang"
+    },
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:20.813434392Z",
+  "model": "glm-5.3"
+}

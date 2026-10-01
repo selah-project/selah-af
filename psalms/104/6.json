@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 104,
+  "translation": "Die diepte het U soos 'n kleed daarmee bedek; bo die berge het die water gestaan.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "die diepte"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "soos 'n kleed"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "het U bedek"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "die berge"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "מים",
+      "gloss": "die water"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:40.173804087Z",
+  "model": "glm-5.3"
+}

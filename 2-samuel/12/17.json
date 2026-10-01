@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 12:17",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En die oudstes van sy huis het oor hom opgestaan om hom van die grond af op te rig, maar hy wou nie, en hy het nie ⟨את⟩ vir hulle brood nie.",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "die oudstes"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "van sy huis"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "om hom op te rig"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die grond af"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "hy wou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "het hy gebring"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "vir hulle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:49.488894487Z",
+  "model": "glm-5.3"
+}

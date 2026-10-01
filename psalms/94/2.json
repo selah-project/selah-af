@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Verhef jou, Regter van ⟨die⟩ aarde, bring terug vergelding oor die hoëmoediges!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Verhef jou"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Regter"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "vergelding"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "die hoëmoediges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.520792487Z",
+  "model": "glm-5.3"
+}

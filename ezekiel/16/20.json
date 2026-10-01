@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 16:20",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En jy het ⟨את⟩ jou seuns en ⟨את⟩ jou dogters wat jy my gebaar het, geneem en hulle vir hulle as voedsel geoffer. Is jou hoerery 'n klein ding?",
+  "tokens": [
+    {
+      "surface": "ותקחי",
+      "gloss": "en jy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seuns"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jou seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou dogters"
+    },
+    {
+      "surface": "בנותיך",
+      "gloss": "jou dogters"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדת",
+      "gloss": "jy gebaar het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "ותזבחים",
+      "gloss": "en jy het hulle geoffer"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "as voedsel"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "is dit 'n klein ding"
+    },
+    {
+      "surface": "מתזנתך",
+      "gloss": "jou hoerery"
+    }
+  ],
+  "timestamp": "2026-09-30T22:48:44.536821447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 3:4",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die heraut roep met krag: aan julle word gesê, ⟨aan⟩ die volke, nasies en tale —",
+  "tokens": [
+    {
+      "surface": "וכרוזא",
+      "gloss": "en die heraut"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "roep"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "met krag"
+    },
+    {
+      "surface": "לכון",
+      "gloss": "aan julle"
+    },
+    {
+      "surface": "אמרין",
+      "gloss": "word gesê"
+    },
+    {
+      "surface": "עממיא",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "אמיא",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "ולשניא",
+      "gloss": "en tale"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:25.524552448Z",
+  "model": "glm-5.3"
+}

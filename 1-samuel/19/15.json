@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 19:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Sjaul het ⟨את⟩ die boodskappers gestuur om Dawid te sien, deur te sê: Bring hom in die bed na my op, om hom te dood.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en het gestuur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boodskappers"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "die boodskappers"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "bring op"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "hom ⟨את⟩",
+      "marks": "in die bed"
+    },
+    {
+      "surface": "במטה",
+      "gloss": "in die bed"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "להמתו",
+      "gloss": "om hom te dood"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:27.633600959Z",
+  "model": "glm-5.3"
+}

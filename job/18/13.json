@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 18:13",
+  "book": "job",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Dit eet die ledemate van sy vel; die eersgeborene van die dood eet sy ledemate.",
+  "tokens": [
+    {
+      "surface": "יאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "die ledemate"
+    },
+    {
+      "surface": "עורו",
+      "gloss": "van sy vel"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "sy ledemate"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "die eersgeborene"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:33.072485658Z",
+  "model": "glm-5.3"
+}

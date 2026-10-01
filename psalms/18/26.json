@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Met ⟨die⟩ gesedi betoon U gesed; met ⟨die⟩ volmaakte man betoon U Uself volmaak.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "gesedi"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "betoon U gesed"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "man"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaakte"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "betoon U Uself volmaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:42.076138924Z",
+  "model": "glm-5.3"
+}

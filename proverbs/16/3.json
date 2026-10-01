@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Rol jou werke op Jahweh af, en jou planne sal vasstaan.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Rol"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op ... af"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "jou werke"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "en sal vasstaan"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "jou planne"
+    }
+  ],
+  "timestamp": "2026-10-01T00:10:09.333130346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En daar was in Jisjuroen 'n koning, toe die hoofde van ⟨die⟩ volk vergader is, die stamme van Jisraël tesame.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "in Jisjuroen"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "'n koning"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "toe ... vergader is"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die hoofde"
+    },
+    {
+      "surface": "עם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "die stamme"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:51.663804711Z",
+  "model": "glm-5.3"
+}

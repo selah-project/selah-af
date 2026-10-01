@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Staan op, Jahweh! Laat die sterflike nie sterk word nie; laat die nasies geoordeel word voor U aangesig.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Laat ... nie"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "sterk word"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "die sterflike"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "geoordeel word"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "על",
+      "gloss": "voor"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "U aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:45.759964525Z",
+  "model": "glm-5.3"
+}

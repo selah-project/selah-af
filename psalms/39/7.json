@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Sekerlik, in 'n skynbeeld wandel die mens; sekerlik, tevergeens rumoer hulle; hy hoop dit op en weet nie wie dit gaan versamel nie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "in 'n skynbeeld"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "wandelt"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "אך",
+      "gloss": "sekerlik"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "tevergeens"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "rumoer hulle"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "hoop hy op"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "dit gaan versamel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:01.440620707Z",
+  "model": "glm-5.3"
+}

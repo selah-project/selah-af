@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 63:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 63,
+  "translation": "So sal ek u seën solank ek lewe; in u Naam sal ek my handpalms ophef.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "sal ek u seën"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "solank ek lewe"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "in u Naam"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "sal ek ophef"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "my handpalms"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:02.322986622Z",
+  "model": "glm-5.3"
+}

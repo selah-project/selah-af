@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 166,
+  "ref": "psalms 119:166",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het gehoop op jou verlossing, Jahweh, en jou gebooie het ek gedoen.",
+  "tokens": [
+    {
+      "surface": "שברתי",
+      "gloss": "ek het gehoop"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "op jou verlossing"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומצותיך",
+      "gloss": "en jou gebooie"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "het ek gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:32.782929009Z",
+  "model": "glm-5.3"
+}

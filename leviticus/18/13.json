@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die naaktheid van jou moeder se suster mag jy nie ontbloot nie, want sy is ⟨die⟩ vlees van jou moeder.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "suster"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van jou moeder"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mag jy ontbloot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "vlees"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "van jou moeder"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy is"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:39.567290125Z",
+  "model": "glm-5.3"
+}

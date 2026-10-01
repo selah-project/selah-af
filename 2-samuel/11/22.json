@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En die boodskapper het gegaan en gekom en aan Dawid ⟨את⟩ alles aangekondig wat Joab hom gestuur het om te sê.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "die boodskapper"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en gekom"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "en aangekondig"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "hy hom gestuur het"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:22.468115971Z",
+  "model": "glm-5.3"
+}

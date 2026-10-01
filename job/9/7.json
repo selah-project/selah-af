@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Hy wat tot die son sê dat hy nie skyn nie, en die sterre verseël.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "tot die son"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "skyn nie"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "en"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "die sterre"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "verseël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:17.267914992Z",
+  "model": "glm-5.3"
+}

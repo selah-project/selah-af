@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "En dit sal Jahweh beter behaag as 'n os, 'n bul met horings en gesplete hoewe.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "en dit sal beter behaag"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "משור",
+      "gloss": "as 'n os"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n bul"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "met horings"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "en gesplete hoewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:59.414530591Z",
+  "model": "glm-5.3"
+}

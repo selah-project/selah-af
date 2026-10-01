@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Gelukkig jou manne, gelukkig hierdie dienaars van jou, wat gedurig voor jou staan, wat ⟨את⟩ jou wysheid hoor.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "jou manne"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "jou dienaars"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "wat staan"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "voor jou"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "wat hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou wysheid"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "jou wysheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:19.839748835Z",
+  "model": "glm-5.3"
+}

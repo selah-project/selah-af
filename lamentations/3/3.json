@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Voorwaar teen my keer hy terug, hy keer sy hand om die hele dag.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Voorwaar"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "keer hy terug"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "hy keer om"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:49.673497518Z",
+  "model": "glm-5.3"
+}

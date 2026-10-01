@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 38:3",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "En hy het ⟨את⟩ al die gereedskap van die altaar gemaak: ⟨את⟩ die potte en ⟨את⟩ die skoppies en ⟨את⟩ die skinkbakke, ⟨את⟩ die vurke en ⟨את⟩ die vuurpanne; al sy gereedskap het hy van koper gemaak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die gereedskap"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "gereedskap"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "van die altaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die potte"
+    },
+    {
+      "surface": "הסירת",
+      "gloss": "die potte"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die skoppies"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "die skoppies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die skinkbakke"
+    },
+    {
+      "surface": "המזרקת",
+      "gloss": "die skinkbakke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vurke"
+    },
+    {
+      "surface": "המזלגת",
+      "gloss": "die vurke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die vuurpanne"
+    },
+    {
+      "surface": "המחתת",
+      "gloss": "die vuurpanne"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gereedskap"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het hy gemaak"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:40.093140753Z",
+  "model": "glm-5.3"
+}

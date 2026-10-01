@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Die Elohim van sy gesed sal my tegemoetkom; Elohim sal my laat aanskoue ⟨wat geskied met⟩ my vyande.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Die Elohim"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "van sy gesed"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "sal my tegemoetkom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "sal my laat aanskoue"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "my vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:22.033405691Z",
+  "model": "glm-5.3"
+}

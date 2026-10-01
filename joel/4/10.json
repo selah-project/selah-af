@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 4:10",
+  "book": "joel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Slaan jul grawe tot swaarde en jul snoeimesse tot spere; die swakke moet sê: 'n held ⟨is⟩ ek.",
+  "tokens": [
+    {
+      "surface": "כתו",
+      "gloss": "slaan"
+    },
+    {
+      "surface": "אתיכם",
+      "gloss": "jul grawe"
+    },
+    {
+      "surface": "לחרבות",
+      "gloss": "tot swaarde"
+    },
+    {
+      "surface": "ומזמרתיכם",
+      "gloss": "en jul snoeimesse"
+    },
+    {
+      "surface": "לרמחים",
+      "gloss": "tot spere"
+    },
+    {
+      "surface": "החלש",
+      "gloss": "die swakke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "moet sê"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "'n held"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:42.156535686Z",
+  "model": "glm-5.3"
+}

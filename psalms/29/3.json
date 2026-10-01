@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Die stem van Jahweh ⟨is⟩ oor die waters; El van die eer ⟨het⟩ gedonder, Jahweh oor baie waters.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Die stem"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "van die eer"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "het gedonder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:44.858943711Z",
+  "model": "glm-5.3"
+}

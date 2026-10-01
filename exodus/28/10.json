@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "ses van hulle name op die een steen, en ⟨את⟩ die name van die ses oorblywendes op die tweede steen, volgens hulle geboortes",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "ses"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "van hulle name"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "die steen"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "die een"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die name van die ses oorblywendes"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "die name"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "van die ses"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "oorblywendes"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "die steen"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "volgens hulle geboortes"
+    }
+  ],
+  "timestamp": "2026-09-30T20:50:40.197922228Z",
+  "model": "glm-5.3"
+}

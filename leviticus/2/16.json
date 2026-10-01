@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 2:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die priester sal ⟨את⟩ die gedenkdeel daarvan laat rook — van sy gebreekte korrels en van sy olie, bo-op al sy wierook — 'n vuuroffer vir Jahweh.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "en laat rook"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gedenkdeel daarvan"
+    },
+    {
+      "surface": "אזכרתה",
+      "gloss": "die gedenkdeel daarvan"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "van sy gebreekte korrels"
+    },
+    {
+      "surface": "ומשמנה",
+      "gloss": "en van sy olie"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "לבנתה",
+      "gloss": "sy wierook"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vuuroffer"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:39.449070949Z",
+  "model": "glm-5.3"
+}

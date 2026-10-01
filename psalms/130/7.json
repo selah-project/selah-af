@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 130,
+  "translation": "Verwag, Jisraël, op Jahweh, want by Jahweh ⟨is⟩ gesed, en by Hom ⟨is⟩ veel verlossing.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "verwag"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עם",
+      "gloss": "by"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "en veel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "by Hom"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "verlossing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:12.583068173Z",
+  "model": "glm-5.3"
+}

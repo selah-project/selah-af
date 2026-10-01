@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 50:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Naby is Hy wat my tsedek maak — wie sal met ⟨את⟩ my twis? Laat ons tesame staan. Wie is die eienaar van my regszaak? Laat hom nader kom na my.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "naby"
+    },
+    {
+      "surface": "מצדיקי",
+      "gloss": "Hy wat my tsedek maak"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "sal twis"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "met my"
+    },
+    {
+      "surface": "נעמדה",
+      "gloss": "laat ons staan"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "tesame"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "die eienaar"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "van my regszaak"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "laat hom nader kom"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:51.715407575Z",
+  "model": "glm-5.3"
+}

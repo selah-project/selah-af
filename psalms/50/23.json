@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Wie 'n dankoffer slag, eer My; en hy wat die weg reg bewandel — Ek sal hom die verlossing van Elohim laat sien.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "slag … offer"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "dankoffer"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "eer My"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "en hy bewandel"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "die weg"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "Ek sal hom laat sien"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "die verlossing van"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:39.265108836Z",
+  "model": "glm-5.3"
+}

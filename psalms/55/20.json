@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 55:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 55,
+  "translation": "El sal hoor en hulle antwoord, en ⟨hy⟩ wat van ouds troon — Sela — ⟨hulle⟩ wat geen veranderings het nie, en Elohim nie vrees nie.",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "sal hoor"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "en hulle antwoord"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en ⟨hy⟩ troon"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨hulle⟩ wat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "geen"
+    },
+    {
+      "surface": "חליפות",
+      "gloss": "veranderings"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:05.362998138Z",
+  "model": "glm-5.3"
+}

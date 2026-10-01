@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Toe neem Hanun ⟨את⟩ die dienaars van Dawid, en hy skeer hulle, en hy sny ⟨את⟩ hulle klere middeldeur, tot by die heupe, en stuur hulle weg.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Toe neem"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "Hanun"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die dienaars van Dawid"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "en hy skeer hulle"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "en hy sny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle klere"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "hulle klere"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "middeldeur"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "die heupe"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "en stuur hulle weg"
+    }
+  ],
+  "timestamp": "2026-10-01T01:07:49.252967107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "En jy sal klere van heiligheid maak vir Aharon jou broer, vir eer en vir mooiheid.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "en jy sal maak"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "klere van"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "heiligheid"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "vir Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "vir eer"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "en vir mooiheid"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:06.034724333Z",
+  "model": "glm-5.3"
+}

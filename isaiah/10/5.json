@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Wee Assur, ⟨die⟩ staf van my toorn, en die roe wat in hulle hand ⟨is⟩, my gramskap.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Assur"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "staf"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "van my toorn"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "en die roe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hulle hand"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "my gramskap"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:26.091253216Z",
+  "model": "glm-5.3"
+}

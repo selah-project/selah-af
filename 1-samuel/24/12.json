@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 24:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En my vader, sien, ja sien ⟨את⟩ die soom van jou mantel in my hand, want toe ek ⟨את⟩ die soom van jou mantel afgesny het, het ek jou nie doodgemaak nie. Weet en sien dat daar geen kwaad of oortreding in my hand ⟨is⟩ nie, en ek het nie teen jou gesondig nie, maar jy jaag ⟨את⟩ my siel om dit te neem.",
+  "tokens": [
+    {
+      "surface": "ואבי",
+      "gloss": "en my vader"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die soom van jou mantel"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die soom"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "van jou mantel"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in my hand"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בכרתי",
+      "gloss": "het ek afgesny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die soom van jou mantel"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "die soom"
+    },
+    {
+      "surface": "מעילך",
+      "gloss": "van jou mantel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "het ek jou doodgemaak"
+    },
+    {
+      "surface": "דע",
+      "gloss": "weet"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar geen"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "in my hand"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ופשע",
+      "gloss": "of oortreding"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "het ek gesondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "maar jy"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "jaag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my siel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "om dit te neem"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:51.896857889Z",
+  "model": "glm-5.3"
+}

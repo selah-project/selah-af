@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "'n Lofgesang van Dawid. Ek sal U verhef, my Eloha, die koning, en ek sal U naam seën vir ewig en altoos.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "'n Lofgesang"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ek sal U verhef"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "my Eloha"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "en ek sal seën"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "U naam"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altoos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:24.032884752Z",
+  "model": "glm-5.3"
+}

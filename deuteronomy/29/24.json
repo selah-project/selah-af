@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En hulle sal sê: Omdat hulle ⟨את⟩ die verbond van Jahweh, die Elohim van hulle vaders, verlaat het, wat Hy met hulle gesluit het toe Hy hulle uit die land van Mitsrajim laat uittrek het",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "hulle verlaat het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die verbond"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "die verbond"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gesluit het"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "toe Hy laat uittrek het"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:59.855579806Z",
+  "model": "glm-5.3"
+}

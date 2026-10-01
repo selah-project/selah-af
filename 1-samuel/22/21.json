@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Ewjathar het vir Dawid meegedeel dat Sjaul ⟨את⟩ die priesters van Jahweh gedood het.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "het meegedeel"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Ewjathar"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "vir Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "gedood het"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die priesters van Jahweh"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:32.338958366Z",
+  "model": "glm-5.3"
+}

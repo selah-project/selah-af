@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 15:22",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Mosje het ⟨את⟩ Jisraël laat wegtrek van die Rietsee, en hulle het uitgegaan na die woestyn van Sur, en hulle het drie dae in die woestyn gegaan en geen water gevind nie.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "en hy het laat wegtrek"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van die see"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "van riete (Rietsee)"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle het uitgegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "woestyn"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Sur"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "het hulle gevind"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T20:46:16.791654611Z",
+  "model": "glm-5.3"
+}

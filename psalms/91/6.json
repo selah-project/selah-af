@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "vir die pes wat in die duisternis wandel, vir die verderf wat swathalf verwoes.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "vir die pes"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "in die duisternis"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "wat wandel"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "vir die verderf"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "wat verwoes"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "swathalf"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:39.667971829Z",
+  "model": "glm-5.3"
+}

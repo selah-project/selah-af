@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 1:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle het ⟨את⟩ hulle lewens bitter gemaak met harde slawearbeid, in klei en in bakstene, en in alle werk op die veld; ⟨את⟩ al hulle werk waarmee hulle hulle laat werk het, was met wrede dwang.",
+  "tokens": [
+    {
+      "surface": "וימררו",
+      "gloss": "en hulle het bitter gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle lewens"
+    },
+    {
+      "surface": "חייהם",
+      "gloss": "hulle lewens"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "met slawearbeid"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harde"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "in klei"
+    },
+    {
+      "surface": "ובלבנים",
+      "gloss": "en in bakstene"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "en in alle"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "op die veld"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al hulle werk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "hulle werk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarmee"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "hulle hulle laat werk het"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "met wrede dwang"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.610503387Z",
+  "model": "glm-5.3"
+}

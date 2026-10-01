@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Saam ⟨is⟩ die gevanges in rustigheid; hulle hoor nie die stem van die drijwer nie.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "saam"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "die gevanges"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "⟨is⟩ in rustigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "hulle hoor"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "van die drijwer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:17.837202904Z",
+  "model": "glm-5.3"
+}

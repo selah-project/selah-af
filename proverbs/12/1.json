@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Wie tugtige liefhet, het kennis lief; maar hy wat bestraffing haat, is beesagtig.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "liefhet"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tugtige"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "het lief"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "maar haat"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "bestraffing"
+    },
+    {
+      "surface": "בער",
+      "gloss": "beesagtig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:42.016219787Z",
+  "model": "glm-5.3"
+}

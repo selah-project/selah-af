@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek het julle ⟨את⟩ op daardie tyd al die woorde ⟨את⟩ gebied wat julle moet doen.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "en ek het gebied"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ julle"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "op"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie tyd"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alle die woorde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "julle moet doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:58.889290582Z",
+  "model": "glm-5.3"
+}

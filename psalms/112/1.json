@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Loof Jah! Hoe gelukkig ⟨is⟩ die man wat ⟨את⟩ Jahweh vrees, wat grootlik behae het in sy gebooie.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "in sy gebooie"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae het"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "grootlik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:59.444227492Z",
+  "model": "glm-5.3"
+}

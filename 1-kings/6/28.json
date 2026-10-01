@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het ⟨את⟩ die kerubs met goud oorgetrek.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "en hy het oorgetrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kerubs"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "die kerubs"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "met goud"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:05.499919921Z",
+  "model": "glm-5.3"
+}

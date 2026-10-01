@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En 'n man wat sy lêging aan 'n dier gee, dood moet hy gemaak word, en ⟨את⟩ die dier moet julle doodmaak.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "sy lêging"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "aan 'n dier"
+    },
+    {
+      "surface": "מות",
+      "gloss": "dood"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet hy gemaak word"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die dier"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "die dier"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "moet julle doodmaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:51.245970370Z",
+  "model": "glm-5.3"
+}

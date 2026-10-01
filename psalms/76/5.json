@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "Straalhelder is U, magtiger as die berge van prooi.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Straalhelder"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "magtiger"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "as die berge van"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "prooi"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:39.511865612Z",
+  "model": "glm-5.3"
+}

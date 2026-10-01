@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 131,
+  "translation": "Seiker het ek gelyk gemaak en stilgemaak my siel, soos 'n gespeende kind by sy moeder; soos 'n gespeende kind teenoor my is my siel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Seiker"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "het ek gelyk gemaak"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "en stilgemaak"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "soos 'n gespeende kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "by"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "soos 'n gespeende kind"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teenoor"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:09.898021617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Want Hy het deure van koper gebreek enstawe van yster gekap.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "het gebreek"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "deure"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "van koper"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "enstawe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van yster"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "gekap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:34.710534632Z",
+  "model": "glm-5.3"
+}

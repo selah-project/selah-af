@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 90,
+  "translation": "Maak ons bly soos die dae wat U ons verneder het, die jare wat ons kwaad gesien het.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Maak ons bly"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "soos die dae"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "wat U ons verneder het"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "die jare"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "wat ons gesien het"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:24.713519563Z",
+  "model": "glm-5.3"
+}

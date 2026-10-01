@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "want ek was afgunstig op die roekelosees, die voorspoed van die goddelosees ⟨het ek⟩ gesien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "was ek afgunstig"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "op die roekelosees"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "die voorspoed"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddelosees"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "gesien"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:10.967229844Z",
+  "model": "glm-5.3"
+}

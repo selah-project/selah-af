@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Elohim mag jy nie laster nie, en 'n owerste in jou volk mag jy nie vervloek nie.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mag jy laster"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "en 'n owerste"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "in jou volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mag jy vervloek"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:00.625827050Z",
+  "model": "glm-5.3"
+}

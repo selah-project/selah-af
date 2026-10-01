@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 21:8",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En die seuns van Jisraël het aan die Levi's hierdie stede gegee, ⟨את⟩ hierdie stede en ⟨את⟩ hulle weivelde, soos Jahweh beveel het deur die hand van Mosje, deur die lot.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "En … het gegee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "aan die Levi's"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie stede"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "hierdie stede"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle weivelde"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "hulle weivelde"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "beveel het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand van"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "deur die lot"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:40.037698937Z",
+  "model": "glm-5.3"
+}

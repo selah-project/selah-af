@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 68,
+  "translation": "Vanuit u paleis, bo-oor Jerusjalajim — vir U sal konings geskenke bring.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "vanuit u paleis"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-oor"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "sal hulle bring"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "שי",
+      "gloss": "geskenke"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:58.651524087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Met lengte van dae sal Ek hom versadig en hom My redding laat sien.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "lengte"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "van dae"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "sal Ek hom versadig"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "en hom laat sien"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "My redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:37.149389045Z",
+  "model": "glm-5.3"
+}

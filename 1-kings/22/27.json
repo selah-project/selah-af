@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "en jy moet sê: So sê die koning: Sit ⟨את⟩ hierdie man in ⟨die⟩ gevangenis, en laat hom brood van benoudheid eet en water van benoudheid drink, totdat ek in vrede terugkom.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "en jy moet sê"
+    },
+    {
+      "surface": "כה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "sit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie man"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "van gevangenis"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "en laat hom eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "en water"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "van benoudheid"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ek kom"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "in vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:25.303567148Z",
+  "model": "glm-5.3"
+}

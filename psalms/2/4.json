@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Hy wat in die hemele sit, lag; Adonai spot met hulle.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Hy wat sit"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemele"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "lag"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "spot"
+    },
+    {
+      "surface": "למו",
+      "gloss": "met hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:40.907166538Z",
+  "model": "glm-5.3"
+}

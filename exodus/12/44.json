@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En elke slaaf, 'n man se dienaar, vir geld gekoop — as jy hom besny het, dan mag hy daarvan eet.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "slaaf"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man se"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "aankoop"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "vir geld"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "as jy besny het"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "mag hy eet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:15.920274466Z",
+  "model": "glm-5.3"
+}

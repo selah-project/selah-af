@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 9:12",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die volk het nie teruggekeer na hom wat ⟨hulle⟩ slaan nie, en ⟨את⟩ Jahweh Tsewaot het hulle nie gesoek nie.",
+  "tokens": [
+    {
+      "surface": "והעם",
+      "gloss": "en die volk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שב",
+      "gloss": "teruggekeer"
+    },
+    {
+      "surface": "עד",
+      "gloss": "na"
+    },
+    {
+      "surface": "המכהו",
+      "gloss": "hom wat hulle slaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh Tsewaot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Tsewaot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "gesoek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:16:11.470630992Z",
+  "model": "glm-5.3"
+}

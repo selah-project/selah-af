@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die naaktheid van jou broer se vrou mag jy nie ontbloot nie — dit is die naaktheid van jou broer.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "vrou"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van jou broer"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mag jy ontbloot"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "van jou broer"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:39.567798192Z",
+  "model": "glm-5.3"
+}

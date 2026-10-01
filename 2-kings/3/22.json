@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het vroeg in die môre opgestaan, en die son het geskyn op die water, en Moab het gesien, van oorkant af, ⟨את⟩ die water — rooi soos bloed.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "en hulle het vroeg opgestaan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "en die son"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "het geskyn"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle het gesien"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "van oorkant af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die water"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "rooi"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "soos bloed"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:09.682360628Z",
+  "model": "glm-5.3"
+}

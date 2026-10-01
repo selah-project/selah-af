@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 115,
+  "translation": "Jisraël, vertrou op Jahweh; hulle hulp en hulle skild ⟨is⟩ hy.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "vertrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "op Jahweh"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "hulle hulp"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "en hulle skild"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:34.663615576Z",
+  "model": "glm-5.3"
+}

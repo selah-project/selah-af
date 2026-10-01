@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 19:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die vissers ⟨sal⟩ sug; almal wat 'n hoek in die rivier werp, sal treur, en die wat nette oor die oppervlak van die water uitsprei, sal wegkwyn.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "sal sug"
+    },
+    {
+      "surface": "הדיגים",
+      "gloss": "die vissers"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "sal treur"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "משליכי",
+      "gloss": "wat werp"
+    },
+    {
+      "surface": "ביאור",
+      "gloss": "in die rivier"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "'n hoek"
+    },
+    {
+      "surface": "ופרשי",
+      "gloss": "en die wat uitsprei"
+    },
+    {
+      "surface": "מכמרת",
+      "gloss": "nette"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "מים",
+      "gloss": "van die water"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "sal wegkwyn"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:35.904848324Z",
+  "model": "glm-5.3"
+}

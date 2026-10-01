@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En dit is wat julle van hulle nie mag eet nie: die nesjer, en die peres, en die aznajá.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "En dit"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "mag julle eet"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "die nesjer"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "en die peres"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "en die aznajá"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:46.826025942Z",
+  "model": "glm-5.3"
+}

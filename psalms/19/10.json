@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Die vrees van Jahweh ⟨is⟩ rein, staan vas vir ewig; die regsbevele van Jahweh ⟨is⟩ waarheid, altesaam regverdig.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "rein"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "staan vas"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "regsbevele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "regverdig"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "altesaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:30.373682315Z",
+  "model": "glm-5.3"
+}

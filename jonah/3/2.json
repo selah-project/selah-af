@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Staan op, gaan na Ninewe, die groot stad, en roep daartoe ⟨את⟩ die roeping wat Ek met jou spreek.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "staan op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ninewe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "die groot"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "en roep"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "daartoe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die roeping"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "die roeping"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "met jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:29.118317705Z",
+  "model": "glm-5.3"
+}

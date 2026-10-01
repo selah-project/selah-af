@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "⟨Die⟩ seun van een jaar ⟨was⟩ Sjaoel toe hy koning geword het, en twee jaar het hy oor Jisraël geregeer.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van een jaar"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "in sy koningskap"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het geregeer"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:14.173031202Z",
+  "model": "glm-5.3"
+}

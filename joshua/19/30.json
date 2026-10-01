@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Uma, en Apek, en Regob: twee-en-twintig stede en hul dorpe.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "En Uma"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "en Apek"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "en Regob"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "stede"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "twintig"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en twee"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "en hul dorpe"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:19.455604794Z",
+  "model": "glm-5.3"
+}

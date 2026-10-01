@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En twaalf leeus het daar gestaan op die ses trappe, aan hierdie kant en aan dié kant; so is daar nie gemaak vir enige koninkryk nie.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "En twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(twaalf)"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "leeus"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "שש",
+      "gloss": "die ses"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "trappe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "aan hierdie kant"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "en aan dié kant"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "is gemaak"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir enige"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "koninkryk"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:39.944953140Z",
+  "model": "glm-5.3"
+}

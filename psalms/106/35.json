@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 106:35",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "En hulle het hulleself onder die nasies vermeng en hulle dade geleer.",
+  "tokens": [
+    {
+      "surface": "ויתערבו",
+      "gloss": "en hulle het hulleself vermeng"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "וילמדו",
+      "gloss": "en geleer"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hulle dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:27.959091192Z",
+  "model": "glm-5.3"
+}

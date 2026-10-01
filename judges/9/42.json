@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die dag daarna het ⟨dit⟩ gebeur: die volk het uitgegaan ⟨na⟩ die veld, en hulle het dit aan Awimeleg berig.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "het gebeur"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "die dag daarna"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "het uitgegaan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "die veld"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "en hulle het berig"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "aan Awimeleg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:36:07.103074448Z",
+  "model": "glm-5.3"
+}

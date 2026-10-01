@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Spreek tot Serubbabel, goewerneur van Jehoeda, en sê: Ek skud ⟨את⟩ ⟨die⟩ hemel en ⟨את⟩ ⟨die⟩ aarde.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Serubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "goewerneur"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "skud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:06:04.047673601Z",
+  "model": "glm-5.3"
+}

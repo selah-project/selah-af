@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 9:4",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En as hulle weggevoer word in gevangenskap voor hulle vyande uit, van daar af sal ek ⟨את⟩ die swaard beveel, en dit sal hulle doodmaak; en ek sal my oog op hulle vestig vir kwaad en nie vir goed nie.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hulle weggevoer word"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "in gevangenskap"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor … uit"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "hulle vyande"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar af"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "sal ek beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die swaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "והרגתם",
+      "gloss": "en dit sal hulle doodmaak"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "en ek sal vestig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "op hulle"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "vir kwaad"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "vir goed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:03:54.179396168Z",
+  "model": "glm-5.3"
+}

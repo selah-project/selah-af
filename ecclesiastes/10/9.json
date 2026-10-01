@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Wie stene verskuif, word daardeur geskaad; wie hout kloof, word daardeur in gevaar gebring.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "wie verskuif"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "stene"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "word geskaad"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "daardeur"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "wie kloof"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "hout"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "word in gevaar gebring"
+    },
+    {
+      "surface": "בם",
+      "gloss": "daardeur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:17.363980187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 142,
+  "translation": "'n Maskiel van Dawid, toe hy in die grot was: 'n gebed.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "'n Maskiel"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "to hy was"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "in die grot"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "'n gebed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:09.515612480Z",
+  "model": "glm-5.3"
+}

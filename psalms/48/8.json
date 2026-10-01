@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Deur 'n roeag van die ooste laat U skepe van Tarsjis bars.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "deur 'n roeag"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "van die ooste"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "laat U bars"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "skepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "van Tarsjis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.843355780Z",
+  "model": "glm-5.3"
+}

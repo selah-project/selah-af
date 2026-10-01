@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Die swaar werk moet op die manne lê, en hulle moet daarin werk; en moenie hulle ag slaan op woorde van leuens nie.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "moet swaar wees"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "die werk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle moet werk"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "moet hulle ag slaan"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "op woorde"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "van leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:54.380498510Z",
+  "model": "glm-5.3"
+}

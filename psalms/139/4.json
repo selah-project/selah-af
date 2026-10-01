@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Want daar is nie 'n woord op my tong nie — kyk, Jahweh, U ken dit geheel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "op my tong"
+    },
+    {
+      "surface": "הן",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "U ken"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "dit geheel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:24.292148067Z",
+  "model": "glm-5.3"
+}

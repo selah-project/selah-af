@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jahweh het ⟨את⟩ hulle van daar verstrooi oor die oppervlak van die hele aarde, en hulle het opgehou om die stad te bou.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "het verstrooi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "en hulle het opgehou"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "om te bou"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:58.610822280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 3:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy sal van die slagoffer van die gelieden 'n vuurgawe vir Jahweh aanbring: ⟨את⟩ die vet wat die ingewande bedek, en ⟨את⟩ al die vet wat op die ingewande ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "En hy sal aanbring"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "van die slagoffer"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "van die gelieden"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vuurgawe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vet"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "wat bedek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingewande"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die ingewande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:26.211637706Z",
+  "model": "glm-5.3"
+}

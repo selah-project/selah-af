@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "'n Sjabbat van Sjabbaton is dit vir julle, en julle sal ⟨את⟩ jul siele verneder — 'n ewige insetting.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "'n Sjabbat"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "van Sjabbaton"
+    },
+    {
+      "surface": "היא",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "en julle sal verneder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jul siele"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "jul siele"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "'n insetting"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ewige"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:46.286574931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Laat my tong aan my verhemelte kleef as ek u nie gedenk nie, as ek ⟨את⟩ Jerusjalajim nie laat uitkom bo-op die hoof van my vreugde nie.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "laat kleef"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "my tong"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "aan my verhemelte"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "ek u gedenk"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ek laat uitkom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jerusjalajim"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo-op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "van my vreugde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:52.258931878Z",
+  "model": "glm-5.3"
+}

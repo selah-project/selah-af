@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 24:19",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En sy klaar af om hom te laat drink, en sy sê: Ook vir jou kamels sal ek skep, totdat hulle klaar gedrink het.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "en sy klaar af"
+    },
+    {
+      "surface": "להשקתו",
+      "gloss": "om hom te laat drink"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "לגמליך",
+      "gloss": "vir jou kamels"
+    },
+    {
+      "surface": "אשאב",
+      "gloss": "sal ek skep"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "hulle klaar"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "gedrink het"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:52.213596836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En aan die seuns van Aharon ⟨die⟩ priester het hulle ⟨את⟩ ⟨die⟩ stad van toevlug vir ⟨die⟩ doodslaaner gegee — ⟨את⟩ Chebron en ⟨את⟩ sy weiveld, en ⟨את⟩ Libna en ⟨את⟩ sy weiveld.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "en aan die seuns"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨die⟩ priester"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "het hulle gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨die⟩ stad van toevlug"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "van toevlug"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "vir ⟨die⟩ doodslaaner"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chebron"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Chebron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weiveld"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy weiveld"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Libna"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy weiveld"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "sy weiveld"
+    }
+  ],
+  "timestamp": "2026-09-30T21:31:46.662818222Z",
+  "model": "glm-5.3"
+}

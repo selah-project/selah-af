@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Want my heupe is vol verskroeierende gloed, en daar is geen gesondheid in my vlees nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "my heupe"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "is vol"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "verskroeierende gloed"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "gesondheid"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "in my vlees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:29.962404310Z",
+  "model": "glm-5.3"
+}

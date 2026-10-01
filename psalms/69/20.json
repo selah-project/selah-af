@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "U ken my smaad en my skande en my vernedering; voor U is al my teëstanders.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "ken"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "my smaad"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "en my skande"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "en my vernedering"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "my teëstanders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:53.623883613Z",
+  "model": "glm-5.3"
+}

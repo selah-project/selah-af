@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 2:23",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en sy leër en hulle geteldees: vyf en dertig duisend en vier honderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leër"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "en hulle geteldees"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "en dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:17.703322105Z",
+  "model": "glm-5.3"
+}

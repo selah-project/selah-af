@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Dit is jou lot, die aandeel van jou mate van ⟨את⟩ My af, sê Jahweh, omdat jy ⟨את⟩ My vergeet het en op leuens vertrou het.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "is jou lot"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "die aandeel"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "van jou mate"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "van ⟨את⟩ My af",
+      "marks": "van My"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "jy ... vergeet het"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ My",
+      "marks": "My"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "en ... vertrou het"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "op leuens"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:06.559298781Z",
+  "model": "glm-5.3"
+}

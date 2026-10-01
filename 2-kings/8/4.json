@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die koning was besig om met Gegasi, die dienaar van die man van Elohim, te spreek, om te sê: Vertel my tog ⟨את⟩ al die groot dade wat Elisa gedoen het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "was besig om te spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gegasi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "die dienaar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "Vertel"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die groot dade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "die groot dade"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:58.123473193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 20:15",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "en jy moet ⟨את⟩ jou gesed nie afsny van my huis tot in ewigheid nie, ook nie wanneer Jahweh ⟨את⟩ die vyande van Dawid uitroei, elkeen van die oppervlak van die aarde nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "jy afsny"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou gesed"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "jou gesed"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "van"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "my huis"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ook nie"
+    },
+    {
+      "surface": "בהכרת",
+      "gloss": "wanneer uitroei"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vyande van Dawid"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "die vyande"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:31.864350324Z",
+  "model": "glm-5.3"
+}

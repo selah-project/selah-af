@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Awraham het gesê: Ek, ek sal sweer.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ek sal sweer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:14.540361673Z",
+  "model": "glm-5.3"
+}

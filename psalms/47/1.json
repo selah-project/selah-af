@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Vir die koorleier, vir die seuns van Korag, 'n mizmor.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns van"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.764110148Z",
+  "model": "glm-5.3"
+}

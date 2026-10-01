@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 11:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jahweh het vir Mosje gesê: Paro sal nie na julle luister nie, om my wonders te vermeerder in die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En … het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "sal luister"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "na julle"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "למען",
+      "gloss": "om"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "te vermeerder"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "my wonders"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:57.248045327Z",
+  "model": "glm-5.3"
+}

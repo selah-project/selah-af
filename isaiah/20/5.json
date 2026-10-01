@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hulle ⟨is⟩ verslae en beskaam oor Kus, hulle verwagting, en oor Mitsrajim, hulle sieraad.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "en hulle ⟨is⟩ verslae"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "en beskaam"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "oor Kus"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "hulle verwagting"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "hulle sieraad"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:16.638696353Z",
+  "model": "glm-5.3"
+}

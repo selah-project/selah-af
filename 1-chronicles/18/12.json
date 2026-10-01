@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Awisjai, die seun van Tserujah, het ⟨את⟩ Edom geslaan in die soutvallei — agttien duisend.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "En Awisjai"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "van Tserujah"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "het geslaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Edom"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edom"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "in"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "die soutvallei"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "agttien"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "agttien"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:31.229782206Z",
+  "model": "glm-5.3"
+}

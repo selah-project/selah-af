@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die koning het na Tsiba, Sja'oel se dienskneg, geroep en vir hom gesê: Alles wat aan Sja'oel en aan die hele ⟨h⟩uis van hom behoort het, gee ek aan die seun van jou heer.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "geroep"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Tsiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "dienskneg"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sja'oel"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היה",
+      "gloss": "behoort het"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sja'oel"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "en aan die hele"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "huis van hom"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "gee ek"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "aan die seun"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "jou heer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:18.554096978Z",
+  "model": "glm-5.3"
+}

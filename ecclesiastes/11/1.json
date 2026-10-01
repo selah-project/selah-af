@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Stuur jou brood uit op die oppervlak van die water, want in die menigte dae sal jy dit vind.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "stuur uit"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "jou brood"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die oppervlak"
+    },
+    {
+      "surface": "המים",
+      "gloss": "van die water"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "in die menigte"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "sal jy dit vind"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:45.407928316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Die goddelose sal ⟨dit⟩ sien en kwaad word; hy sal sy tande kners en wegsmelt; die begeerte van die goddeloses sal vergaan.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "sal sien"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "en kwaad word"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "sy tande"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "sal kners"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "en wegsmelt"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "die begeerte"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sal vergaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:51.215307784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Jahweh is jou bewaarder, Jahweh is jou skadu aan jou regterhand.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "jou bewaarder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "jou skadu"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jou regter"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.018111355Z",
+  "model": "glm-5.3"
+}

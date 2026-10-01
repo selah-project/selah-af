@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 138:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 138,
+  "translation": "Op die dag toe ek geroep het, het U my geantwoord; U het my vermoedig in my siel met krag.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Op die dag"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "toe ek geroep het"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "het U my geantwoord"
+    },
+    {
+      "surface": "תרהבני",
+      "gloss": "U het my vermoedig"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "in my siel"
+    },
+    {
+      "surface": "עז",
+      "gloss": "met krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:40.272735526Z",
+  "model": "glm-5.3"
+}

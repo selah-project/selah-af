@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 61,
+  "translation": "Van die einde van die aarde af sal ek na U roep; as my hart oorweldig word, sal U my lei na die rots wat hoër is as ek.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "van die einde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na U"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "sal ek roep"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "as ... oorweldig word"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "na die rots"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "wat hoër is"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "as ek"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "sal U my lei"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.595562391Z",
+  "model": "glm-5.3"
+}

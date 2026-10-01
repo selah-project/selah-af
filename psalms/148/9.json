@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Berge en alle heuwels, vrugtebome en sedersbome, almal;",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "berge"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "heuwels"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "bome"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrugte-"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en alle"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "seders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:09.021650117Z",
+  "model": "glm-5.3"
+}

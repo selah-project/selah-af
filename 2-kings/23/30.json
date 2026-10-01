@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En sy dienaars het hom, sterwend, per wa van Megiddo weggevoer en hom na Jerusjalajim gebring en hom in sy graf begrawe; en die volk van die land het ⟨את⟩ Jehoagaz, seun van Josjia, geneem en hulle het hom gesalf en hulle het hom as koning aangestel in plaats van sy vader.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "en hulle het hom laat ry"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sy dienaars"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sterwend"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "van Megiddo"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "en hulle het hom gebring"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "na Jerusjalajim"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "en hulle het hom begrawe"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "in sy graf"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hulle het geneem"
+    },
+    {
+      "surface": "עם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehoagaz"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Jehoagaz"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjia"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "en hulle het gesalf"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "en hulle het as koning aangestel"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in plaats van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:07.118693298Z",
+  "model": "glm-5.3"
+}

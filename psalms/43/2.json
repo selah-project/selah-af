@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "Want U is ⟨die⟩ Elohim van my vesting — waarom het U my verwerp? Waarom gaan ek treurend rond onder ⟨die⟩ verdrukking van ⟨die⟩ vyand?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "van my vesting"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "het U my verwerp"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "treurend"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "gaan ek rond"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "onder verdrukking"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:13.194161880Z",
+  "model": "glm-5.3"
+}

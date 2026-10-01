@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Want hulle het kwaad teen U gerig; hulle het 'n bose plan beraam — hulle sal geensins daartoe in staat wees nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "hulle het gerig"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen U"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "hulle het beraam"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "'n bose plan"
+    },
+    {
+      "surface": "בל",
+      "gloss": "geensins"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "sal hulle in staat wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:33.052832644Z",
+  "model": "glm-5.3"
+}

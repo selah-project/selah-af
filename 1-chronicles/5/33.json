@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Merajot het ⟨את⟩ Amarja verwek, en Amarja het ⟨את⟩ Achitoev verwek.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Merajot"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amarja"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarja"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "en Amarja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Achitoev"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Achitoev"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:03.730871655Z",
+  "model": "glm-5.3"
+}

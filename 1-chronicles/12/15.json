@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hierdie ⟨is⟩ van die seuns van Gad, hoofde van die leër: die kleinste ⟨was⟩ vir honderd, en die grootste vir duisend.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "van die seuns van"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "hoofde"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "van die leër"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "vir honderd"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "die kleinste"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "en die grootste"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "vir duisend"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:18.359419680Z",
+  "model": "glm-5.3"
+}

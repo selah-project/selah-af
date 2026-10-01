@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hy wat sy vader of ⟨of⟩ sy moeder slaan — sterwe moet hy gedood word.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "en hy wat slaan"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "of sy moeder"
+    },
+    {
+      "surface": "מות",
+      "gloss": "sterwe"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "moet hy gedood word"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:18.316635943Z",
+  "model": "glm-5.3"
+}

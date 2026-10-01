@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Behandel goed u dienskneg, dat ek mag lewe en u woord mag bewaar.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Behandel goed"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienskneg"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "dat ek mag lewe"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "en mag bewaar"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "u woord"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:57.658750479Z",
+  "model": "glm-5.3"
+}

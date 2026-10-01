@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Daarna sal die kinders van Jisraël terugkeer en Jahweh hul Elohim soek, en ⟨את⟩ Dawid hul koning; en hulle sal bewe na Jahweh en na sy goedheid, aan die einde van die dae.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Daarna"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "sal terugkeer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "en soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh hul Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hul Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid hul koning"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "hul koning"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "en hulle sal bewe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en na"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "sy goedheid"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "aan die einde van"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "die dae"
+    }
+  ],
+  "timestamp": "2026-09-30T22:58:34.938734392Z",
+  "model": "glm-5.3"
+}

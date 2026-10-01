@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 33:25",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En die volk van die land het ⟨את⟩ al die samesweerders teen koning Amon doodgeslaan, en die volk van die land het ⟨את⟩ Josjijahoe, sy seun, in sy plek as koning laat regeer.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "het doodgeslaan"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die samesweerders"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הקשרים",
+      "gloss": "die samesweerders"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "konink"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "het as koning laat regeer"
+    },
+    {
+      "surface": "עם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Josjijahoe"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Josjijahoe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-10-01T01:02:06.908177333Z",
+  "model": "glm-5.3"
+}

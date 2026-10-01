@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En as hulle daarin blaas, dan vergader die hele vergadering by jou by die ingang van die tente van ontmoeting.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "En as hulle blaas"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "dan vergader"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by jou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "van die tente"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van ontmoeting"
+    }
+  ],
+  "timestamp": "2026-09-30T21:07:17.307359561Z",
+  "model": "glm-5.3"
+}

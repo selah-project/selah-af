@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Loof ⟨את⟩ Jahweh van ⟨die⟩ aarde af, see-monsters en al die dieptes:",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde af"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "see-monsters"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "die dieptes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:31.390608449Z",
+  "model": "glm-5.3"
+}

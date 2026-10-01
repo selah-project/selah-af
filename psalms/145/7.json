@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "Die gedagtenis van u oorvloedige goedheid sal hulle laat uittestroom, en u tsedek sal hulle bejubel.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "die gedagtenis"
+    },
+    {
+      "surface": "רב",
+      "gloss": "oorvloedige"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "van u goedheid"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "sal hulle laat uittestroom"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "en u tsedek"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "sal hulle bejubel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:14.470591410Z",
+  "model": "glm-5.3"
+}

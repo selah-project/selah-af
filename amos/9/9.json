@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 9:9",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Want kyk, ek gee bevel, en ek skud ⟨את⟩ die huis van Jisraël onder al die nasies, soos gesif word in 'n sif, en geen enkele korrel sal op die aarde val nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "gee bevel"
+    },
+    {
+      "surface": "והנעותי",
+      "gloss": "en ek skud"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "onder al"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "ינוע",
+      "gloss": "gesif word"
+    },
+    {
+      "surface": "בכברה",
+      "gloss": "in 'n sif"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "sal val"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "'n enkele korrel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "op die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:03:16.373914385Z",
+  "model": "glm-5.3"
+}

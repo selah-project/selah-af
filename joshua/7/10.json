@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Jahweh sê tot Jehosjoea: Staan op! Waarom val jy so op jou gesig?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Staan op"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jy"
+    },
+    {
+      "surface": "למה",
+      "gloss": "waarom"
+    },
+    {
+      "surface": "זה",
+      "gloss": "so"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "val"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou gesig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:23.719161174Z",
+  "model": "glm-5.3"
+}

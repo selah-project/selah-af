@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Brood het julle nie geëet nie, en wyn en sterk drank het julle nie gedrink nie, sodat julle weet dat ek Jahweh, julle Elohim, ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "het julle geëet"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "en wyn"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "en sterk drank"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "het julle gedrink"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "julle weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:23.392733392Z",
+  "model": "glm-5.3"
+}

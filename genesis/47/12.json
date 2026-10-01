@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "En Josef het sy vader en sy broers en die hele huis van sy vader onderhou met brood, volgens die mond van die kindertjies.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "en onderhou"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy vader"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy broers"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die hele huis van sy vader"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "van sy vader"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "volgens die mond van"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "die kindertjies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:47.599473028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,113 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 18:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die koning het ⟨את⟩ Joab en ⟨את⟩ Awisjai en ⟨את⟩ Itai beveel deur te sê: handel sag vir my seun weë, vir die jongman, vir Awbsjalom. En die hele volk het gehoor toe die koning ⟨את⟩ al die owerstes beveel het oor die saak van Awbsjalom.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "en het beveel"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Awisjai"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "Awisjai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Itai"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "Itai"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "deur te sê"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "sag"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "vir die jongman"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "vir Awbsjalom"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "בצות",
+      "gloss": "toe beveel het"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die owerstes"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "die owerstes"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awbsjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:31.869035278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 24:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Bileam het ⟨את⟩ sy oë opgehef, en hy het ⟨את⟩ Jisraël gesien, woonagtig volgens sy stamme; en die roeag van Elohim was op hom.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "het opgehef"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bileam"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy oë"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "sy oë"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en hy het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jisraël"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "woonagtig"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "volgens sy stamme"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en dit was"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:28.816622749Z",
+  "model": "glm-5.3"
+}

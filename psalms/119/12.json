@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Geseënd ⟨is⟩ U, Jahweh; leer my u insettinge.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "u insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:05.727067414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Met hulle skape en met hulle beeste sal hulle gaan om Jahweh ⟨את⟩ te soek, maar hulle sal Hom nie vind nie; Hy het ⟨Himself⟩ van hulle onttrek.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "met hulle skape"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "en met hulle beeste"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "sal hulle gaan"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "sal hulle vind"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Hy het onttrek"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "van hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:20.245090530Z",
+  "model": "glm-5.3"
+}

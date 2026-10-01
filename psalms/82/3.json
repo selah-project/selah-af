@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 82,
+  "translation": "Spreek reg vir ⟨die⟩ swakke en ⟨die⟩ wees, ⟨die⟩ verdrukte en ⟨die⟩ behoeftige — maak hulle tsedek!",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "spreek reg"
+    },
+    {
+      "surface": "דל",
+      "gloss": "vir ⟨die⟩ swakke"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "en ⟨die⟩ wees"
+    },
+    {
+      "surface": "עני",
+      "gloss": "⟨die⟩ verdrukte"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "en ⟨die⟩ behoeftige"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "maak hulle tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:46.660716782Z",
+  "model": "glm-5.3"
+}

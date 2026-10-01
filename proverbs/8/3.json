@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Aan die kant van die poorte, by die mond van die stad, by die ingang van die deure roep sy uit",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "aan die kant van"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "die poorte"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "by die mond van"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "van die deure"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "roep sy uit"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:48.062761436Z",
+  "model": "glm-5.3"
+}

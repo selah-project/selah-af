@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En die towenaars het so met hulle slimmerye gedaan om ⟨את⟩ die luise voort te bring, maar hulle kon nie; en die luise was op die mens en op die vee.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "en hulle het gedaan"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "die towenaars"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "met hulle slimmerye"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "om voort te bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die luise"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "die luise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "hulle kon"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en daar was"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "die luise"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "op die mens"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "en op die vee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:28.563377376Z",
+  "model": "glm-5.3"
+}

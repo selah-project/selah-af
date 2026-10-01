@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "Buite sal die swaard ⟨את⟩ beroof, en in die binnekamers skrik — ook die jongman, ook die jongvrou, die suigeling saam met die man van grys hare.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "buite"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "sal beroof"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "en in die binnekamers"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "skrik"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "die jongman"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "die jongvrou"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "die suigeling"
+    },
+    {
+      "surface": "עם",
+      "gloss": "saam met"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "van grys hare"
+    }
+  ],
+  "timestamp": "2026-09-30T21:25:38.391162265Z",
+  "model": "glm-5.3"
+}

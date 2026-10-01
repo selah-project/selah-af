@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ek het gedwaal soos 'n verdwaalde skaap — soek jou dienskneg, want jou gebooie het ek nie vergeet nie.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "ek het gedwaal"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "soos 'n skaap"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "verdwaalde"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienskneg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "jou gebooie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "het ek vergeet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:16.500862096Z",
+  "model": "glm-5.3"
+}

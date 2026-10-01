@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Hulle swaard sal in hulle eie hart kom, en hulle boë sal gebreek word.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "hulle swaard"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "in hulle hart"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "en hulle boë"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "sal gebreek word"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:49.184427293Z",
+  "model": "glm-5.3"
+}

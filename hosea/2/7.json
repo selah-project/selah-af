@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 2:7",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Want gehoereer het hulle moeder, geskaam het sy wat hulle verwek het, want sy het gesê: Ek sal agternaan my minnaars, wat my brood gee en my water, my wol en my vlas, my olie en my drank.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "זנתה",
+      "gloss": "gehoereer het"
+    },
+    {
+      "surface": "אמם",
+      "gloss": "hulle moeder"
+    },
+    {
+      "surface": "הבישה",
+      "gloss": "geskaam het"
+    },
+    {
+      "surface": "הורתם",
+      "gloss": "sy wat hulle verwek het"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "sy het gesê"
+    },
+    {
+      "surface": "אלכה",
+      "gloss": "ek sal agternaan"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "מאהבי",
+      "gloss": "my minnaars"
+    },
+    {
+      "surface": "נתני",
+      "gloss": "wat gee"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "my brood"
+    },
+    {
+      "surface": "ומימי",
+      "gloss": "en my water"
+    },
+    {
+      "surface": "צמרי",
+      "gloss": "my wol"
+    },
+    {
+      "surface": "ופשתי",
+      "gloss": "en my vlas"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "my olie"
+    },
+    {
+      "surface": "ושקויי",
+      "gloss": "en my drank"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:15.206796167Z",
+  "model": "glm-5.3"
+}

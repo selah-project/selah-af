@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 8:22",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Jahweh het my verworwe as begin van sy weg, van ouds af, voor sy werke, van toe af.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קנני",
+      "gloss": "het my verworwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "as begin"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "van sy weg"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "van ouds af"
+    },
+    {
+      "surface": "מפעליו",
+      "gloss": "voor sy werke"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "van toe af"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:57.118073202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 25:18",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En julle moet ⟨את⟩ my insettinge doen en ⟨את⟩ my gebooie hou en ⟨את⟩ hulle doen, en julle moet op die land woon in veiligheid.",
+  "tokens": [
+    {
+      "surface": "ועשיתם",
+      "gloss": "en julle moet doen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my insettinge"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my gebooie"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle hou"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en julle moet doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩ hulle"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "en julle moet woon"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "in veiligheid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:02:58.190140982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy sê: Vir môre. En ⟨hy⟩ sê: Soos jou woord ⟨is dit⟩ — sodat jy weet dat daar niemand soos Jahweh ons Elohim ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "vir môre"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "soos jou woord"
+    },
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "jy weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar niemand … nie"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "soos Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:04.085549068Z",
+  "model": "glm-5.3"
+}

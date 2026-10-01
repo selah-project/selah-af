@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 10:12",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Lewe en gesed het U met my gedoen, en U besoek het my roeag bewaak.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Lewe"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "en gesed"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "het U gedoen"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "ופקדתך",
+      "gloss": "en U besoek"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "het bewaak"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:08.726565896Z",
+  "model": "glm-5.3"
+}

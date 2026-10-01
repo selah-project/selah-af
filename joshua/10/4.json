@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 10:4",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Klim op na my en help my, dat ons ⟨את⟩ Gibeon slaan, want dit het vrede gemaak met ⟨את⟩ Jehosjoea en met ⟨את⟩ die seuns van Jisraël.",
+  "tokens": [
+    {
+      "surface": "עלו",
+      "gloss": "Klim op"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ועזרני",
+      "gloss": "en help my"
+    },
+    {
+      "surface": "ונכה",
+      "gloss": "dat ons slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gibeon"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Gibeon"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "השלימה",
+      "gloss": "dit het vrede gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jehosjoea"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "met Jehosjoea"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:28:58.394614315Z",
+  "model": "glm-5.3"
+}

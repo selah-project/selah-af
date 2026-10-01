@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy het ⟨את⟩ Lo-Rechama gespeen, en sy het swanger geword en 'n seun gebaar.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "en sy het gespeen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lo-Rechama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Rechama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "en sy het swanger geword"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "en gebaar"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:44.349569273Z",
+  "model": "glm-5.3"
+}

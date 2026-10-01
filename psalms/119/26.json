@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 119:26",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My weë het ek vertel, en U het my geantwoord; leer my U insettinge.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "my weë"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "het ek vertel"
+    },
+    {
+      "surface": "ותענני",
+      "gloss": "en U het my geantwoord"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "U insettinge"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:59.918496144Z",
+  "model": "glm-5.3"
+}

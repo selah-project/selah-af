@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die priester sal ⟨את⟩ die brandoffer en ⟨את⟩ die minga op die altaar laat opgaan; en die priester sal vir hom versoening doen, en hy sal rein wees.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "en sal laat opgaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die minga"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die minga"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "en sal versoening doen"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "en hy sal rein wees"
+    }
+  ],
+  "timestamp": "2026-09-30T20:58:48.046103534Z",
+  "model": "glm-5.3"
+}

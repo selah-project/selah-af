@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Maak julle hart nie hard soos by Meriba, soos op die dag van Massa in die wildernis nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "maak hard"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "julle hart"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "soos by Meriba"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "soos op die dag"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "van Massa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die wildernis"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:43.179366354Z",
+  "model": "glm-5.3"
+}

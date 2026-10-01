@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek het in daardie tyd ⟨את⟩ julle regters beveel en gesê: Luister tussen julle broers, en spreek reg tussen ⟨tussen⟩ 'n man en tussen sy broer en tussen sy bywoner.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "En ek het beveel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle regters"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "julle regters"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in die tyd"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Luister"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "julle broers"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "en spreek reg"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "reg"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "sy bywoner"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:07.582278679Z",
+  "model": "glm-5.3"
+}

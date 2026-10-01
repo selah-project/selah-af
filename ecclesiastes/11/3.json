@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "As ⟨die⟩ wolke vol is, stort hulle reën uit op die aarde; en as 'n boom in die suide val, en of in die noorde — op die plek waar die boom val, daar ⟨is⟩ hy.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "vol is"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "die wolke"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "reën"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "stort hulle uit"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en of"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "val"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "'n boom"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "in die suide"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en of"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "in die noorde"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "op die plek"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "waar val"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨is⟩ hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:45.408567617Z",
+  "model": "glm-5.3"
+}

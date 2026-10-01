@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 46:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Aan wie sal julle my gelyk stel, en my gelyk maak, en my vergelyk, dat ons gelyk kan wees?",
+  "tokens": [
+    {
+      "surface": "למי",
+      "gloss": "aan wie"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "sal julle my gelyk stel"
+    },
+    {
+      "surface": "ותשוו",
+      "gloss": "en my gelyk maak"
+    },
+    {
+      "surface": "ותמשלוני",
+      "gloss": "en my vergelyk"
+    },
+    {
+      "surface": "ונדמה",
+      "gloss": "dat ons gelyk kan wees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:24:20.415119661Z",
+  "model": "glm-5.3"
+}

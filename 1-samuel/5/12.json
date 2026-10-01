@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 5:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "En die manne wat nie gesterf het nie, is met swelsels geslaan, en die geroep van die stad het tot in die hemel opgegaan.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "En die manne"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "gesterf het nie"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "is geslaan"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "met swelsels"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "en het opgegaan"
+    },
+    {
+      "surface": "שועת",
+      "gloss": "die geroep"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "tot in die hemel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:48.752847951Z",
+  "model": "glm-5.3"
+}

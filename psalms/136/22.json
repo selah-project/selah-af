@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 136,
+  "translation": "'n Erfenis aan Jisraël, Sy dienaar, want tot in ewigheid ⟨is⟩ Sy gesed.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "'n erfenis"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "aan Jisraël"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Sy dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Sy gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:57.741321732Z",
+  "model": "glm-5.3"
+}

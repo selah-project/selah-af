@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 19:3",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En die roeag van Mitsrajim sal leeg word in sy midde, en sy raad sal Ek verslind; en hulle sal die idole raadpleeg, en die fluisteraars, en die geeste van die dooies, en die kenners.",
+  "tokens": [
+    {
+      "surface": "ונבקה",
+      "gloss": "en sal leeg word"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "in sy midde"
+    },
+    {
+      "surface": "ועצתו",
+      "gloss": "en sy raad"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "sal Ek verslind"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "en hulle sal raadpleeg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "die idole"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "האטים",
+      "gloss": "die fluisteraars"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "die geeste van die dooies"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "die kenners"
+    }
+  ],
+  "timestamp": "2026-09-30T22:18:07.748329376Z",
+  "model": "glm-5.3"
+}

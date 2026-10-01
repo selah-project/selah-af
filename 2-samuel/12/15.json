@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Natan gaan na sy huis toe, en Jahweh tref ⟨את⟩ die kind wat die vrou van Uría aan Dawid gebaar het, en dit was ongeneeslik siek.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en gaan"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Natan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "en tref"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kind"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "gebaar het"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "van Uría"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "en was ongeneeslik siek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:59.110226281Z",
+  "model": "glm-5.3"
+}

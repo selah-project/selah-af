@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En sy gee hom ⟨את⟩ Bilha haar slavin as vrou, en Jaäkow gaan in tot haar.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "en sy gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Bilha"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Bilha"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "haar slavin"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "as vrou"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en … gaan in"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "tot haar"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:19.783862928Z",
+  "model": "glm-5.3"
+}

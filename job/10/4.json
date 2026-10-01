@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Het U oë van vlees, of sien U soos 'n sterflike mens sien?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "het U oë"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "van vlees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "soos ... sien"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "'n sterflike mens"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "U sien"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:58.567274189Z",
+  "model": "glm-5.3"
+}

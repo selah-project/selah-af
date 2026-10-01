@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die dogter van Paro sê vir haar: Gaan. En die jongmeisie het gegaan en ⟨את⟩ die moeder van die kind geroep.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "בת",
+      "gloss": "die dogter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "en sy het gegaan"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "die jongmeisie"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "en sy het geroep"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die moeder"
+    },
+    {
+      "surface": "אם",
+      "gloss": "die moeder"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "van die kind"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.904458316Z",
+  "model": "glm-5.3"
+}

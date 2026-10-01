@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "'n Bywoner en 'n huurling sal daarvan nie eet nie.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "'n Bywoner"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "en 'n huurling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarvan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:04.041578563Z",
+  "model": "glm-5.3"
+}

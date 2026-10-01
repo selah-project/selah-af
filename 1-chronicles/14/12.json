@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En hulle het daar ⟨את⟩ hulle gode agtergelaat, en Dawid het gesê, en hulle is in die vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "En hulle het agtergelaat"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle gode"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hulle gode"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en ... het gesê"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "en hulle is verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:36.445996157Z",
+  "model": "glm-5.3"
+}

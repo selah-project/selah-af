@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "wat die hemel maak en die aarde, ⟨את⟩ die see en ⟨את⟩ alles wat in hulle ⟨is⟩; hy wat trou vir ewig bewaar.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "maak"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "en die aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die see"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "hy wat bewaar"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "trou"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:37.777048748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 148,
+  "translation": "Loof Jah! Loof ⟨את⟩ Jahweh uit die hemele, loof Hom in die hoogtes.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemele"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "loof Hom"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "in die hoogtes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:30.499222798Z",
+  "model": "glm-5.3"
+}

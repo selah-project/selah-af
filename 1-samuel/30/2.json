@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 30:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En hulle het ⟨את⟩ die vroue wat daarin was, gevange geneem, van klein tot groot; hulle het nie 'n man doodgemaak nie, maar hulle weggevoer en op hulle weg gegaan.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "en hulle het gevange geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vroue"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "die vroue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "מקטן",
+      "gloss": "van klein"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "hulle het doodgemaak"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "וינהגו",
+      "gloss": "en hulle het weggevoer"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "לדרכם",
+      "gloss": "op hulle weg"
+    }
+  ],
+  "timestamp": "2026-10-01T00:02:28.191970810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Hierdie ⟨is hulle⟩ wat die ⟨Jordaan⟩ oorgesteek het in die eerste maand, terwyl dit bo al sy oewers vol was, en hulle het ⟨את⟩ al die valleie laat vlug, na die ooste en na die weste.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "oorgesteek het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Jordaan"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "die eerste"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "terwyl dit"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "vol was"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "sy oewers"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "en hulle het laat vlug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die valleie"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "die valleie"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "na die ooste"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "en na die weste"
+    }
+  ],
+  "timestamp": "2026-10-01T00:48:18.359722742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 6:30",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Toe sê die manne van die stad aan Joas: Bring ⟨את⟩ jou seun uit, dat hy sterwe, want hy het ⟨את⟩ die altaar van Baal afgebreek en ook die Asjera gekap wat daarby was.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Toe sê"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Joas"
+    },
+    {
+      "surface": "הוצא",
+      "gloss": "Bring … uit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou seun"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "dat hy sterwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "hy het afgebreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar van Baal"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "van Baal"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "en dat"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "gekap het"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "die Asjera"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarby was"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:23.649909103Z",
+  "model": "glm-5.3"
+}

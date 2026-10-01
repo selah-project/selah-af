@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 12:15",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hulle sal weet dat ek Jahweh ⟨is⟩, wanneer ek hulle verstrooi onder die nasies en hulle uitstrooi in die lande.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en hulle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהפיצי",
+      "gloss": "wanneer ek verstrooi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "onder die nasies"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "onder die nasies"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "en ek uitstrooi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "in die lande"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "in die lande"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:43.571280304Z",
+  "model": "glm-5.3"
+}

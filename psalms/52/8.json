@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "En regverdiges sal sien en vrees en oor hom lag.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "En sal sien"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "regverdiges"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en vrees"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "en oor hom"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "lag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:39.037404184Z",
+  "model": "glm-5.3"
+}

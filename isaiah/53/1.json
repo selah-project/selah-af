@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 53,
+  "translation": "Wie het geglo aan wat ons gehoor het? En die arm van Jahweh — aan wie is dit geopenbaar?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "het geglo"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "aan wat ons gehoor het"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "en die arm"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "is geopenbaar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:02.387760386Z",
+  "model": "glm-5.3"
+}

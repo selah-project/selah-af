@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 9:7",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En u sal ⟨את⟩ die huis van Agab, u heer, tref, en Ek sal die bloed van my dienaars die profete wreek, en die bloed van al die dienaars van Jahweh, uit die hand van Isebel.",
+  "tokens": [
+    {
+      "surface": "והכיתה",
+      "gloss": "en u sal tref"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Agab"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "u heer"
+    },
+    {
+      "surface": "ונקמתי",
+      "gloss": "en Ek sal wreek"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "van my dienaars"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "die profete"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "en die bloed"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "van Isebel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:21.638189524Z",
+  "model": "glm-5.3"
+}

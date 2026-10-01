@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Die bloedlosser self sal ⟨את⟩ die moordenaar doodmaak; by sy teëkoms van hom, hy self sal hom doodmaak.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "losser"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "van die bloed"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy self"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "sal doodmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die moordenaar"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "die moordenaar"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "by sy teëkoms"
+    },
+    {
+      "surface": "בו",
+      "gloss": "van hom"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy self"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "sal hom doodmaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:48.375321923Z",
+  "model": "glm-5.3"
+}

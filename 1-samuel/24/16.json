@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En mag Jahweh as regter wees en oordeel tussen my en tussen jou, en ⟨hy⟩ sien, en ⟨hy⟩ bepleit ⟨את⟩ my regsaak, en ⟨hy⟩ doen my reg uit jou hand.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en mag wees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "as regter"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "en oordeel"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "tussen my"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "en tussen jou"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en sien"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "en bepleit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my regsaak"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "my regsaak"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "en doen my reg"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "uit jou hand"
+    }
+  ],
+  "timestamp": "2026-10-01T00:01:43.787205530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 8:7",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Dawid het ⟨את⟩ die goue skilde wat op die dienaars van Hadadézer was, geneem en hulle na Jerusjalajim gebring.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "het geneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goue skilde"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "skilde"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "goue"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Hadadézer"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:51:30.014770073Z",
+  "model": "glm-5.3"
+}

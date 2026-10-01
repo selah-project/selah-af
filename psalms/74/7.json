@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "⟨Hulle⟩ het vuur in jou heiligdom gestuur; tot op die aarde het hulle die Misjkan van jou Naam ontheilig.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "⟨hulle⟩ het gestuur"
+    },
+    {
+      "surface": "באש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "in jou heiligdom"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "tot op die aarde"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "het hulle ontheilig"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "die Misjkan"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "van jou Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:32.842950514Z",
+  "model": "glm-5.3"
+}

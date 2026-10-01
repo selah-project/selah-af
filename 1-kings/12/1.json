@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Ragjawam het na Sjegem gegaan, want na Sjegem het heel Jisraël gekom om hom ⟨את⟩ tot koning te maak.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Ragjawam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "na Sjegem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "na Sjegem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "het gekom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "om koning te maak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Ragjawam)"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:08.753177115Z",
+  "model": "glm-5.3"
+}

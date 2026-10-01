@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Toe val Awraham op sy aangesig, en Elohim het met hom ⟨את⟩ gespreek en gesê:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "toe val"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en gespreek"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "met hom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:32:37.818513684Z",
+  "model": "glm-5.3"
+}

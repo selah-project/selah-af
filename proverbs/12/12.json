@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die goddelose begeer die net van slegte manne, maar die wortel van die regverdiges gee ⟨vrug⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "begeer"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die goddelose"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "die net"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "van slegte manne"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "maar die wortel"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van die regverdiges"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:25.839391959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 3:9",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Hulle antwoord en sê vir Nebukadnesar, die koning: O koning, leef tot in ewigheid!",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "Hulle antwoord"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "לנבוכדנצר",
+      "gloss": "vir Nebukadnesar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "O koning"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "leef"
+    }
+  ],
+  "timestamp": "2026-10-01T00:33:22.561107440Z",
+  "model": "glm-5.3"
+}

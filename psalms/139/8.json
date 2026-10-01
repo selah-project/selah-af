@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "As ek opvaar ⟨na⟩ die hemel — daar ⟨is⟩ U; en as ek in Sjeol my bed uitsprei — kyk, U ⟨is daar⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ek opvaar"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U ⟨is⟩"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "en as ek uitsprei"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "in Sjeol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "kyk, U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:09.977036769Z",
+  "model": "glm-5.3"
+}

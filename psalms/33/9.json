@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Want Hy het gesê, en ⟨dit⟩ het geword; Hy het beveel, en ⟨dit⟩ het gestaan.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het geword"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en dit het gestaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:24.017713577Z",
+  "model": "glm-5.3"
+}

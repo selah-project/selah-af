@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Sê nie vir jou naaste: 'Gaan en kom terug, en môre sal ek gee', terwyl daar ⟨dit⟩ ⟨את⟩ by jou ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "vir jou naaste"
+    },
+    {
+      "surface": "לך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "en kom terug"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "en môre"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "sal ek gee"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "terwyl daar ⟨is⟩"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou",
+      "marks": "by jou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:24.721855142Z",
+  "model": "glm-5.3"
+}

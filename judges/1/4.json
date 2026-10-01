@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 1:4",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jehoeda het opgetrek, en Jahweh het ⟨את⟩ die Kanaäniet en die Perizziet in hulle hand gegee; en hulle het hulle geslaan in Besek, tienduisend man.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "en hy het opgetrek"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Kanaäniet"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "die Kanaäniet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en die Perizziet"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hulle hand"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "en hulle het hulle geslaan"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "in Besek"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tien"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:09.131391374Z",
+  "model": "glm-5.3"
+}

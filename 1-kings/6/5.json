@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 6:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het teen die muur van die huis 'n syvleuel rondom gebou, ⟨את⟩ die mure van die huis rondom, van die heikal en van die debir; en hy het sykamers rondom gemaak.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "en hy het gebou"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "muur"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יצוע",
+      "gloss": "'n syvleuel"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die mure"
+    },
+    {
+      "surface": "קירות",
+      "gloss": "mure"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "van die heikal"
+    },
+    {
+      "surface": "ולדביר",
+      "gloss": "en van die debir"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "sykamers"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:56.091260578Z",
+  "model": "glm-5.3"
+}

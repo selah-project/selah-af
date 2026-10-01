@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Die mond van die regverdige murmel wysheid, en sy tong spreek reg.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "die mond"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "murmel"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "en sy tong"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:13.048747598Z",
+  "model": "glm-5.3"
+}

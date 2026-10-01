@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 11:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Sjelomo het gedoen wat sleg ⟨is⟩ in die oë van Jahweh, en hy het nie volkome agter Jahweh aangehou nie, soos Dawid sy vader.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "wat sleg is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "volkome"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כדוד",
+      "gloss": "soos Dawid"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:10.150977593Z",
+  "model": "glm-5.3"
+}

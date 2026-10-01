@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Vrede sal kom; hulle sal rus op hulle beddens, elkeen wat reguit voor hom wandel.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "sal kom"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "vrede"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "sal rus"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "hulle beddens"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wat wandel"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "reguit voor hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:21.416296387Z",
+  "model": "glm-5.3"
+}

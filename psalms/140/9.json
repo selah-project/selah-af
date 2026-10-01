@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 140,
+  "translation": "Moenie gee nie, Jahweh, ⟨את⟩ die begeertes van die goddelose; ⟨את⟩ sy plan moenie laat uitkom nie; laat hulle hul nie verhef nie. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "die begeertes"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van die goddelose"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "sy plan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "laat uitkom"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "verhef hulle hul"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:05.692809405Z",
+  "model": "glm-5.3"
+}

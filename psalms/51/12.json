@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Skep vir my 'n rein hart, Elohim, en vernuwe 'n vaste roeag binne-in my.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "rein"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "skep"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "en 'n roeag"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "vaste"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "vernuwe"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "binne-in my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:23.618860200Z",
+  "model": "glm-5.3"
+}

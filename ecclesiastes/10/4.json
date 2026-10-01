@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "As die roeag van die heerser teen jou opstyg, verlaat jou plek nie, want genesing laat groot misdade bedaar.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "van die heerser"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "opstyg"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "jou plek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "verlaat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "genesing"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "laat bedaar"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "misdade"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:40.777822101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "En julle sal ou voorraad eet, lank geberg, en die oue sal julle voor die nuwe uithaal.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "julle sal eet"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "ou voorraad"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "lank geberg"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "die oue"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "die nuwe"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "sal julle uithaal"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:17.703710019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "'n land wat Jahweh jou Elohim deursoek ⟨את⟩; gedurig ⟨is⟩ die oë van Jahweh jou Elohim daarop, van die begin van die jaar tot die einde van die jaar.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "deursoek"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die land)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "van die begin"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "van die jaar"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "die einde"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "van die jaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:43.583213170Z",
+  "model": "glm-5.3"
+}

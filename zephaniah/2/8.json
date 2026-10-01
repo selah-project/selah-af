@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 2:8",
+  "book": "zephaniah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Ek het die smaad van Moab gehoor en die lasteringe van die seuns van Ammon, wat my volk gesmaad het ⟨את⟩ en hulle teen hulle grens verhef het.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "Ek het gehoor"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "die smaad"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "van Moab"
+    },
+    {
+      "surface": "וגדופי",
+      "gloss": "en die lasteringe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "van Ammon"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "gesmaad het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "ויגדילו",
+      "gloss": "en hulle verhef het"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "hulle grens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:07:56.024933800Z",
+  "model": "glm-5.3"
+}

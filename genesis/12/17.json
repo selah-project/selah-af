@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het ⟨את⟩ Paro met groot plae geslaan, en ⟨את⟩ sy huis, oor die saak van Sarai, die vrou van Awram.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "en het geslaan"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Paro"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "met plae"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy huis"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "sy huis"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Sarai"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:47.608382590Z",
+  "model": "glm-5.3"
+}

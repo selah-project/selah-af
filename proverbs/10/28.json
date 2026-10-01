@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Die verwagting van die regverdiges ⟨is⟩ blydskap, maar die hoop van die goddeloses sal vergaan.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "die verwagting"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "van die regverdiges"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "blydskap"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "maar die hoop"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "sal vergaan"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:21.158485874Z",
+  "model": "glm-5.3"
+}

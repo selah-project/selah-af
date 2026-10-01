@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 48:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 48,
+  "translation": "Soos u naam ⟨is⟩, o Elohim, so ⟨is⟩ u lof tot aan die eindes van ⟨die⟩ aarde; tsedek vul u regterhand.",
+  "tokens": [
+    {
+      "surface": "כשמך",
+      "gloss": "soos u naam"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "u lof"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot aan"
+    },
+    {
+      "surface": "קצוי",
+      "gloss": "die eindes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van aarde"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "vul"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "u regterhand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:37.411619240Z",
+  "model": "glm-5.3"
+}

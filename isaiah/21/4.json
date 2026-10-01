@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 21:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "My hart dwaal rond, skrik het my verskrik: ⟨את⟩ die skemerte van my begeerte het hy vir my tot bewerigheid gestel.",
+  "tokens": [
+    {
+      "surface": "תעה",
+      "gloss": "dwaal rond"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "skrik"
+    },
+    {
+      "surface": "בעתתני",
+      "gloss": "het my verskrik"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die skemerte van my begeerte"
+    },
+    {
+      "surface": "נשף",
+      "gloss": "die skemerte"
+    },
+    {
+      "surface": "חשקי",
+      "gloss": "van my begeerte"
+    },
+    {
+      "surface": "שם",
+      "gloss": "het gestel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "לחרדה",
+      "gloss": "tot bewerigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:51.107895536Z",
+  "model": "glm-5.3"
+}

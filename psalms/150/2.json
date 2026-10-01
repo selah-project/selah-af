@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 150,
+  "translation": "Loof Hom in sy magtige dade; loof Hom ooreenkomstig die oorvloed van sy grootheid.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "in sy magtige dade"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Loof Hom"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "oreenkomstig die oorvloed"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "van sy grootheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:17.314581384Z",
+  "model": "glm-5.3"
+}

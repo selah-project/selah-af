@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Jahweh het op die vloed gesit, en Jahweh sit as koning vir ewig.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "op die vloed"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en sit"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:15.698411598Z",
+  "model": "glm-5.3"
+}

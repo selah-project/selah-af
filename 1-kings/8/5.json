@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 8:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En koning Sjelomo en die hele vergadering van Jisraël wat by hom vergader ⟨את⟩ was, ⟨את⟩ was met hom voor die ark, en hulle slag kleinvee en beeste as offer wat nie vertel en nie getel kan word nie, weens die menigte.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "en koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "vergadering"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "הנועדים",
+      "gloss": "wat vergader"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ met hom",
+      "marks": "met hom (H854, voorsetsel 'by\/met', nie die voorwerpsmerker nie)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "slag as offer"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en beeste"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "vertel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימנו",
+      "gloss": "getel"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "weens die menigte"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:55.411191533Z",
+  "model": "glm-5.3"
+}

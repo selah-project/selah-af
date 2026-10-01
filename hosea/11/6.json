@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨die⟩ swaard sal kom oor sy stede, en dit sal 'n einde maak aan sy grendels en verteer — deur hulle eie beraadslae.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "en sal kom"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "swaard"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "oor sy stede"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "en sal 'n einde maak"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "aan sy grendels"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en sal verteer"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "deur hulle eie beraadslae"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:47.589029714Z",
+  "model": "glm-5.3"
+}

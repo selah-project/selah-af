@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het gesê: omdat hulle ⟨את⟩ my Tora wat ek voor hulle gestel het, verlaat het, en nie na my stem geluister het nie en nie daarin gewandel het nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "על",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "hulle verlaat het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my Tora"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "my Tora"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek gestel het"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "voor hulle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "geluister het"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "na my stem"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "gewandel het"
+    },
+    {
+      "surface": "בה",
+      "gloss": "daarin"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:25.329931195Z",
+  "model": "glm-5.3"
+}

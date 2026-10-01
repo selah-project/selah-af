@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 51,
+  "translation": "Verberg u aangesig van my sondes, en delg al my ongeregtighede uit.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "verberg"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "van my sondes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "my ongeregtighede"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "delg uit"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:23.618588356Z",
+  "model": "glm-5.3"
+}

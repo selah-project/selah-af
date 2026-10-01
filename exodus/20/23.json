@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Julle mag nie ⟨את⟩ saam met my gode van silwer maak nie, en gode van goud mag julle vir julleself nie maak nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "moet julle maak"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "saam met my ⟨את⟩"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "gode"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "van silwer"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "en gode"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "van goud"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "moet julle maak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julleself"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:38.911534491Z",
+  "model": "glm-5.3"
+}

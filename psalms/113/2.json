@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 113,
+  "translation": "Sy die naam van Jahweh geseënd, van nou af en tot in ewigheid.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Sy"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "geseënd"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "van nou af"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "in ewigheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:31.528167600Z",
+  "model": "glm-5.3"
+}

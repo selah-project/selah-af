@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En die dienaars van Amon het teen hom gespan, en hulle het ⟨את⟩ die koning in sy huis doodgemaak.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "en hulle het gespan"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "die dienaars van"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "teen hom"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "en hulle het doodgemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "in sy huis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:12:22.169855253Z",
+  "model": "glm-5.3"
+}

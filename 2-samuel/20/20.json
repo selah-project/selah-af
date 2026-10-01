@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Joab het geantwoord en gesê: Dit sy ver van my, ver van my, dat ek sou verslind of verwoes!",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "en hy het geantwoord"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "dit sy ver"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ver"
+    },
+    {
+      "surface": "לי",
+      "gloss": "van my"
+    },
+    {
+      "surface": "אם",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ek sou verslind"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "of"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "verwoes"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:25.822281678Z",
+  "model": "glm-5.3"
+}

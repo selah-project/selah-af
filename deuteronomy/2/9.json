@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 2:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Jahweh sê vir my: Moenie Moab ⟨את⟩ vaspen nie, en moenie oorlog teen hulle ontketen nie, want Ek gee jou nie van sy land as besitting nie, want aan die seuns van Lot het Ek ⟨את⟩ Ar as besitting gegee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "vaspen"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Moab"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en moenie"
+    },
+    {
+      "surface": "תתגר",
+      "gloss": "ontketen"
+    },
+    {
+      "surface": "בם",
+      "gloss": "teen hulle"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "gee Ek"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "van sy land"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "as besitting"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "aan die seuns"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "het Ek gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ar"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ar"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "as besitting"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:28.918250580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Jahweh het Hom bekend gemaak, oordeel het Hy gedoen; in die werk van sy hande is ⟨die⟩ goddelose verstrik. Higgajon. Sela.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "het Hom bekend gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "oordeel"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "in die werk"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "is verstrik"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "goddelose"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higgajon"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:45.759236160Z",
+  "model": "glm-5.3"
+}

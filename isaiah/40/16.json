@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En die Libanon is nie genoeg om te verbrand nie, en sy diere ⟨is⟩ nie genoeg vir 'n brandoffer nie.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "en die Libanon"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is nie"
+    },
+    {
+      "surface": "די",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "בער",
+      "gloss": "om te verbrand"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "en sy diere"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is nie"
+    },
+    {
+      "surface": "די",
+      "gloss": "genoeg"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "brandoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:57.755987352Z",
+  "model": "glm-5.3"
+}

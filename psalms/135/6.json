@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Alles wat Jahweh behaag het, het ⟨hy⟩ gedoen — in ⟨die⟩ hemel en in ⟨die⟩ aarde, in ⟨die⟩ seë en in al die dieptes.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behaag het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gedoen"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "in die hemel"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "en in die aarde"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in die seë"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en in al"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "die dieptes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:24.257776713Z",
+  "model": "glm-5.3"
+}

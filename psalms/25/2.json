@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "My Elohim, op U vertrou ek; laat my nie beskaam word nie, laat my vyande nie oor my juig nie.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "My Elohim"
+    },
+    {
+      "surface": "בך",
+      "gloss": "op U"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "vertrou ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "beskaam word ek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat nie"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "juig"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "my vyande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "oor my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.944782314Z",
+  "model": "glm-5.3"
+}

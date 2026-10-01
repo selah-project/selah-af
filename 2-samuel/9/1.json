@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Dawid het gesê: Is daar nog iemand oor van die huis van Sjawoel, dat ek met hom gesed mag doen ter wille van Jehonatan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "is daar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "is daar"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "oor is"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "van die huis van"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjawoel"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "en ek mag doen"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    }
+  ],
+  "timestamp": "2026-09-30T21:52:02.261020657Z",
+  "model": "glm-5.3"
+}

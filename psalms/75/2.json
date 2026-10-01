@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 75:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "Ons bring danksêring aan u, Elohim, ons bring danksêring, en naby ⟨is⟩ u Naam; hulle vertel u wonders.",
+  "tokens": [
+    {
+      "surface": "הודינו",
+      "gloss": "ons bring danksêging"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "הודינו",
+      "gloss": "ons bring danksêging"
+    },
+    {
+      "surface": "ווקרוב",
+      "gloss": "en naby"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "u Naam"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "hulle vertel"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "u wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:47.333907393Z",
+  "model": "glm-5.3"
+}

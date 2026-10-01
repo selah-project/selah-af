@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My siel kom tot 'n einde vir u redding; vir u woord wag ek vol hoop.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "kom tot 'n einde"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "vir u redding"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "vir u woord"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "wag ek vol hoop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:34.299425781Z",
+  "model": "glm-5.3"
+}

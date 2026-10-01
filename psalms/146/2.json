@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Ek sal Jahweh loof tydens my lewe; ek sal singspeel vir my Elohim solank ek ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ek sal loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "tydens my lewe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ek sal singspeel"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "vir my Elohim"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "solank ek ⟨is⟩"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:23.596672693Z",
+  "model": "glm-5.3"
+}

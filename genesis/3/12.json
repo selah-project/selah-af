@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die mens het gesê: Die vrou wat U by my gegee het, sy het aan my van die boom gegee, en ek het geëet.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "die vrou"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "U gegee het"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "by my"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "מן",
+      "gloss": "van"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "en ek het geëet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:14.664856598Z",
+  "model": "glm-5.3"
+}

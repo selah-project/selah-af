@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En dit het gebeur toe Agab ⟨את⟩ Elia sien, dat Agab vir hom gesê het: Is dit jy, die versteurder van Jisraël?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "toe … sien"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elia"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Agab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Is dit jy"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨jy⟩"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "versteurder"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:48.843040552Z",
+  "model": "glm-5.3"
+}

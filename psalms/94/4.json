@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "Hulle laat opwel, hulle spreek oortreding, al die werkers van nietigheid verhef hulleself.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Hulle laat opwel"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hulle spreek"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "oortreding"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "verhef hulleself"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "die werkers van"
+    },
+    {
+      "surface": "און",
+      "gloss": "nietigheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.521137042Z",
+  "model": "glm-5.3"
+}

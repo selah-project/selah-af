@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Jehonatan het ⟨את⟩ die bo-mantel wat op hom was, uitgetrek en dit aan Dawid gegee, en sy klede, en tot sy swaard en tot sy boog en tot sy gordel.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "En hy het uitgetrek"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bo-mantel"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "die bo-mantel"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom was"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "en hy het dit gegee"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "aan Dawid"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "en sy klede"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "sy swaard"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "sy boog"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "sy gordel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:13.800973312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Want ek het die weë van Jahweh bewaar, en ek het nie goddeloos gehandel teen my Elohim nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ek het bewaar"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "die weë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "het ek goddeloos gehandel"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "teen my Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:18.693704263Z",
+  "model": "glm-5.3"
+}

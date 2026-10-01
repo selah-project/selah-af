@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En hulle het ⟨את⟩ die veelkleurige kleed gestuur en dit na hulle vader gebring, en gesê: Dit het ons gevind; ken nou tog ⟨of⟩ die kleed jou seun s'n is of nie.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "gestuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die veelkleurige kleed"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "kleed"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "veelkleurige"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "gebring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "hulle vader"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "het ons gevind"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ken"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou tog"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "die kleed"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun s'n"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:39:07.284401553Z",
+  "model": "glm-5.3"
+}

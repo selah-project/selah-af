@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "Is ⟨sy⟩ gesed vir altyd uitgewis, ⟨is⟩ sy woord vir geslag en geslag geëindig?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "is uitgewis"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "vir altyd"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨sy⟩ gesed"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "geëindig"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:30.203474848Z",
+  "model": "glm-5.3"
+}

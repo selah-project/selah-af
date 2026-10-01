@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 99,
+  "translation": "Verhoog Jahweh ons Elohim, en buig julleself neer by sy heilige berg, want heilig ⟨is⟩ Jahweh ons Elohim.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Verhoog"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "en buig julleself neer"
+    },
+    {
+      "surface": "להר",
+      "gloss": "by die berg"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sy heilige"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:06.449222212Z",
+  "model": "glm-5.3"
+}

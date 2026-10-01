@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Elohim, U het my geleer vanaf my jeug, en tot hier toe verkondig ek U wonders.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "het my geleer"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "vanaf my jeug"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier toe"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "verkondig ek"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "U wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:42.239448079Z",
+  "model": "glm-5.3"
+}

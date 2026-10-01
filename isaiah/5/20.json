@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 5:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Wee hulle wat sê tot die kwaad: goed, en tot die goed: kwaad; wat donkerheid stel vir lig, en lig vir donkerheid; wat bitter stel vir soet, en soet vir bitter!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "hulle wat sê"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "tot die kwaad"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ולטוב",
+      "gloss": "en tot die goed"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wat stel"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "donkerheid"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "vir lig"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en lig"
+    },
+    {
+      "surface": "לחשך",
+      "gloss": "vir donkerheid"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wat stel"
+    },
+    {
+      "surface": "מר",
+      "gloss": "bitter"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "vir soet"
+    },
+    {
+      "surface": "ומתוק",
+      "gloss": "en soet"
+    },
+    {
+      "surface": "למר",
+      "gloss": "vir bitter"
+    }
+  ],
+  "timestamp": "2026-09-30T22:15:37.899833706Z",
+  "model": "glm-5.3"
+}

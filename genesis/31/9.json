@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "So het Elohim ⟨את⟩ die vee van julle vader weggevat en aan my gegee.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "het weggevat"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vee"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "van julle vader"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:52.020462044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "Geen vyand sal hom afpers nie, en 'n seun van onreg sal hom nie onderdruk nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sal afpers"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "vyand"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "en 'n seun van"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "onreg"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "sal hom onderdruk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:58.725946282Z",
+  "model": "glm-5.3"
+}

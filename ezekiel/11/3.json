@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "die wat sê: dit ⟨kom⟩ nie naby nie — bou huise! ⟨Dit⟩ ⟨is⟩ die pot, en ons ⟨is⟩ die vlees.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "die wat sê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "naby"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "bou"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "huise"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "die pot"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "en ons"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "die vlees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:47:54.335608280Z",
+  "model": "glm-5.3"
+}

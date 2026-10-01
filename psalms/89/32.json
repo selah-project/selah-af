@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 89,
+  "translation": "as hulle my insettinge ontheilig en my gebooie nie bewaar nie,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "ontheilig"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "en my gebooie"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bewaar"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:50.019142722Z",
+  "model": "glm-5.3"
+}

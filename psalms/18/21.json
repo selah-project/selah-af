@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Jahweh het my vergeld na my tsedek, na die reinheid van my hande het Hy my teruggegee.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "het my vergeld"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "na my tsedek"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "na die reinheid"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van my hande"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "het Hy teruggegee"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:18.693376890Z",
+  "model": "glm-5.3"
+}

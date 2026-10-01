@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 144,
+  "translation": "Hy wat oorwinning gee aan konings, wat ⟨את⟩ Dawid, sy kneg, verlos van die swaard van kwaad.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Hy wat gee"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "oorwinning"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "aan konings"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "wat verlos"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sy kneg"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "van kwaad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:09.188839494Z",
+  "model": "glm-5.3"
+}

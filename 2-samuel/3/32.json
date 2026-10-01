@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 3:32",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hulle het ⟨את⟩ Awner in Gebron begrawe; en die koning het ⟨את⟩ sy stem verhef en by die graf van Awner geween, en die hele volk het geween.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "En hulle het begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Gebron"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en hy het verhef"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy stem"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "sy stem"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "en geween"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "die graf"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "en hulle het geween"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:43.128801798Z",
+  "model": "glm-5.3"
+}

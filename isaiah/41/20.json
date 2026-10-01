@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 41:20",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 41,
+  "translation": "sodat hulle sien en ken en oorweeg en saam insiet dat die hand van Jahweh dit gedoen het en die Heilige van Jisraël dit geskep het.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "hulle sien"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en ken"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "en oorweeg"
+    },
+    {
+      "surface": "וישכילו",
+      "gloss": "en insiet"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "saam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "en die Heilige"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "בראה",
+      "gloss": "geskep het"
+    }
+  ],
+  "timestamp": "2026-09-30T22:23:29.493622344Z",
+  "model": "glm-5.3"
+}

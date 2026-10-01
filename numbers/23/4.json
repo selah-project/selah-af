@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Elohim kom Bilam teë, en hy sê aan Hom: ⟨את⟩ die sewe altare het ek gereedgestel, en ek laat 'n bul en 'n ram op die altaar opgaan.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "en Hy het teëgekom"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Bilam"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan Hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die sewe altare"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "die sewe"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "het ek gereedgestel"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "en ek laat opgaan"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n bul"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "en 'n ram"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "op die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:19.888039524Z",
+  "model": "glm-5.3"
+}

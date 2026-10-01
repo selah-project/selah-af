@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 2:17",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Toe het Daniël na sy huis gegaan en die saak bekend gemaak aan Hananja, Misjaël en Azarja, sy metgeselle.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Toe"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "na sy huis"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "gegaan"
+    },
+    {
+      "surface": "ולחנניה",
+      "gloss": "en aan Hananja"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Misjaël"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "en Azarja"
+    },
+    {
+      "surface": "חברוהי",
+      "gloss": "sy metgeselle"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "bekend gemaak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:32.895878095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 3:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die priester laat hulle as rook opgaan op die altaar — brood van vuuroffer, 'n geur van verkwikking; al die vet behoort aan Jahweh.",
+  "tokens": [
+    {
+      "surface": "והקטירם",
+      "gloss": "en laat hulle as rook opgaan"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "van vuuroffer"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "'n geur"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "van verkwikking"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "die vet"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:38.104049671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 38,
+  "translation": "Adonai, voor U ⟨is⟩ al my verlange, en my gesug ⟨is⟩ nie van U af versteek nie.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "voor U"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "my verlange"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "en my gesug"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "van U af"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "versteek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:28.800987739Z",
+  "model": "glm-5.3"
+}

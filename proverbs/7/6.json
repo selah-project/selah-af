@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Want by ⟨die⟩ venster van my huis, deur my traliewerk het ek uitgekyk.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "by ⟨die⟩ venster"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "van my huis"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "deur"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "my traliewerk"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "het ek uitgekyk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:33:00.921742164Z",
+  "model": "glm-5.3"
+}

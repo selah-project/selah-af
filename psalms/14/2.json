@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Jahweh het vanuit die hemel neargekyk op die seuns van ⟨die⟩ mens, om te sien of daar 'n verstandige is, een wat ⟨את⟩ Elohim soek.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "vanuit die hemel"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "het neargekyk"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "om te sien"
+    },
+    {
+      "surface": "היש",
+      "gloss": "of daar is"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "'n verstandige"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:47.328357145Z",
+  "model": "glm-5.3"
+}

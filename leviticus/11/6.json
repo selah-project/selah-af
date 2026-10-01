@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En ⟨את⟩ die haas, omdat sy ⟨die⟩ herkous opbring, maar die hoef nie gesplyt het nie — onrein ⟨is⟩ sy vir julle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die haas"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "die haas"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "opbring"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "herkous"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "en die hoef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "gesplyt het"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "onrein"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:28.690473970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 127,
+  "translation": "Voorspoedig ⟨is⟩ die man wat ⟨את⟩ sy pylkoker met hulle gevul het; hulle sal nie beskaam word nie, want hulle sal ⟨את⟩ die vyande in die poort aanspreek.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Voorspoedig"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevul het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy pylkoker"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "sy pylkoker"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "sal beskaam word nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "hulle sal aanspreek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vyande"
+    },
+    {
+      "surface": "אויבים",
+      "gloss": "die vyande"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:52.385711437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Daar mag vir jou in jou huis nie 'n efa en 'n efa wees nie, 'n groot en 'n klein nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "mag wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "in jou huis"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "'n efa"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "en 'n efa"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "'n groot"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "en 'n klein"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:50.013349356Z",
+  "model": "glm-5.3"
+}

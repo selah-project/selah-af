@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 103:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 103,
+  "translation": "Loof Jahweh, al sy werke, in alle plekke van sy heerskappy; loof, my siel, ⟨את⟩ Jahweh!",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "sy werke"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in alle"
+    },
+    {
+      "surface": "מקמות",
+      "gloss": "plekke"
+    },
+    {
+      "surface": "ממשלתו",
+      "gloss": "van sy heerskappy"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "loof"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:14.509641835Z",
+  "model": "glm-5.3"
+}

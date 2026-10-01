@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Sjaul het boodskappers gestuur om ⟨את⟩ Dawid te neem, en sy het gesê: Hy is siek.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en het gestuur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "om te neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "siek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:27.633360687Z",
+  "model": "glm-5.3"
+}

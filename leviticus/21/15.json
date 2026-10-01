@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 21:15",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En hy mag sy nageslag onder sy volk nie ontheilig nie; want ek ⟨is⟩ Jahweh wat hom heilig.",
+  "tokens": [
+    {
+      "surface": "ו לא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "ontheilig"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "sy nageslag"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "onder sy volk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "wat hom heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:58.889725894Z",
+  "model": "glm-5.3"
+}

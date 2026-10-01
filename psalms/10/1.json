@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hoekom, Jahweh, staan U in ⟨die⟩ verte? U hul U weg in tye van benoudheid.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Hoekom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staan U"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "in die verte"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "hul U weg"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "in tye"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "van benoudheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:38.658438362Z",
+  "model": "glm-5.3"
+}

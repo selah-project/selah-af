@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Hierdie ⟨is⟩ die seuns van Sem, volgens hul families, volgens hul tale, in hul lande, volgens hul nasies.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Hierdie"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Sem"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hul families"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "volgens hul tale"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "in hul lande"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "volgens hul nasies"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:28.017978964Z",
+  "model": "glm-5.3"
+}

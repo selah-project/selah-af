@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 7:1",
+  "book": "job",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Is daar nie 'n diensplig vir die sterflike mens op die aarde nie, en soos die dae van 'n dagloner ⟨is⟩ sy dae?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is daar nie"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "'n diensplig"
+    },
+    {
+      "surface": "לאנוש",
+      "gloss": "vir die sterflike mens"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "וכימי",
+      "gloss": "en soos die dae van"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "'n dagloner"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "sy dae"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:49.176111803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 78:23",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "En hy het die wolke van bo af beveel, en die deure van die hemel oopgemaak;",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "En hy het beveel"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "die wolke"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "van bo af"
+    },
+    {
+      "surface": "ודלתי",
+      "gloss": "en die deure"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "van die hemel"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "oopgemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:56.277948036Z",
+  "model": "glm-5.3"
+}

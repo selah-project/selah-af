@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 22:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Soos water is ek uitgestort, en al my bene ⟨is⟩ uitmekaar geskei; my hart ⟨het geword⟩ soos was, gesmelt binne-in my ingewande.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "soos water"
+    },
+    {
+      "surface": "נשפכתי",
+      "gloss": "is ek uitgestort"
+    },
+    {
+      "surface": "והתפרדו",
+      "gloss": "en ⟨is⟩ uitmekaar geskei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "my bene"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨het geword⟩"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my hart"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "soos was"
+    },
+    {
+      "surface": "נמס",
+      "gloss": "gesmelt"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "my ingewande"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:53.315451175Z",
+  "model": "glm-5.3"
+}

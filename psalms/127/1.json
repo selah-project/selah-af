@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 127,
+  "translation": "Lied van die opgangs, van Sjalomo. As Jahweh die huis nie bou nie, tevergeefs het ⟨sy⟩ bouers daarin gearbei; as Jahweh die stad nie bewaar nie, tevergeefs waak die wag.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangs"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "van Sjalomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "het gearbei"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "⟨sy⟩ bouers"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "bewaar"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "tevergeefs"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "waak"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "die wag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:47.085845034Z",
+  "model": "glm-5.3"
+}

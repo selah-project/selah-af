@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 19:8",
+  "book": "job",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "My pad het hy toegemuur en ek kan nie deurgaan nie, en op my paaie plaas hy duisternis.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "my pad"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "het hy toegemuur"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "kan ek deurgaan"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "נתיבותי",
+      "gloss": "my paaie"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "duisternis"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "plaas hy"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:30.654222960Z",
+  "model": "glm-5.3"
+}

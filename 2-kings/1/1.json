@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Moab het in opstand gekom teen Jisraël ná die dood van Agab.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "het in opstand gekom"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Moab"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "teen Jisraël"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ná"
+    },
+    {
+      "surface": "מות",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:41.612716779Z",
+  "model": "glm-5.3"
+}

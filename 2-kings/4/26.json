@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 4:26",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Hardloop nou tog haar tegemoet en sê vir haar: Is dit sjalom met jou? Is dit sjalom met jou man? Is dit sjalom met die kind? En sy sê: Sjalom.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "nou"
+    },
+    {
+      "surface": "רוץ",
+      "gloss": "Hardloop"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "haar tegemoet"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Is dit sjalom"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Is dit sjalom"
+    },
+    {
+      "surface": "לאישך",
+      "gloss": "met jou man"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Is dit sjalom"
+    },
+    {
+      "surface": "לילד",
+      "gloss": "met die kind"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "En sy sê"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Sjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:32.136580206Z",
+  "model": "glm-5.3"
+}

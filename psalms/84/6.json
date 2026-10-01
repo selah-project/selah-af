@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Hoe gelukkig ⟨is⟩ die mens wie se krag in u ⟨is⟩: paaie ⟨is⟩ in hulle hart.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "hoe gelukkig"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wie se"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "paaie"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "in hulle hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:53.669776691Z",
+  "model": "glm-5.3"
+}

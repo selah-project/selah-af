@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 16:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Baäsa het met sy vaders gaan slaap, en hy is begrawe in Tirtsá; en Éla sy seun het in sy plek geregeer.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "het gaan slaap"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Baäsa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "en hy is begrawe"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "in Tirtsá"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "en ... het geregeer"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Éla"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "in sy plek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:00.555744828Z",
+  "model": "glm-5.3"
+}

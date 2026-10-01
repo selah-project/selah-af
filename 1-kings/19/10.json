@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 19:10",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En hy sê: Ywrig het ek geyw vir Jahweh, die Elohim van Tsewaot, want die seuns van Jisraël het u verbod verlaat — ek bedoel u verbond — ⟨את⟩ u altare het hulle afgebreek, en ⟨את⟩ u profete met die swaard gedood, en ek is oorgebly, ek alleen, en hulle soek ⟨את⟩ my siel om dit te neem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ywrig"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "het ek geyw"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "van Tsewaot"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "het verlaat"
+    },
+    {
+      "surface": "בריתך",
+      "gloss": "u verbond"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u altare"
+    },
+    {
+      "surface": "מזבחתיך",
+      "gloss": "u altare"
+    },
+    {
+      "surface": "הרסו",
+      "gloss": "het afgebreek"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u profete"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "u profete"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "het gedood"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "ואותר",
+      "gloss": "en ek is oorgebly"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "en hulle soek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my siel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לקחתה",
+      "gloss": "om dit te neem"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:05.762404146Z",
+  "model": "glm-5.3"
+}

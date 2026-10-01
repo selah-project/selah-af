@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 3:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "en Ek het gesê: Ek sal julle ⟨את⟩ optrek uit die verdrukking van Mitsrajim, na die land van die Kanaäniet en die Chittiet en die Emoriet en de Perizziet en die Chiwwiet en die Jebusiet, na 'n land wat vloei van melk en heuning.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "en Ek het gesê"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "Ek sal optrek"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "uit die verdrukking"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "van die Kanaäniet"
+    },
+    {
+      "surface": "ו החתי",
+      "gloss": "en die Chittiet"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "en die Emoriet"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "en die Perizziet"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "en die Chiwwiet"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "en die Jebusiet"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "wat vloei"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "van melk"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en heuning"
+    }
+  ],
+  "timestamp": "2026-09-30T20:44:47.019875564Z",
+  "model": "glm-5.3"
+}

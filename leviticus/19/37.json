@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En julle moet ⟨את⟩ al my insettinge en ⟨את⟩ al my regsreëls onderhou en ⟨את⟩ hulle doen: ek ⟨is⟩ Jahweh.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "en julle moet onderhou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al my insettinge"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "my insettinge"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al my regsreëls"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "my regsreëls"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en julle moet doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "al my insettinge en regsreëls"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:49.837185706Z",
+  "model": "glm-5.3"
+}

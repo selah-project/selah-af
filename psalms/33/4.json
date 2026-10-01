@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Want regop ⟨is⟩ die woord van Jahweh, en al sy werk ⟨is⟩ in trou.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "regop"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "sy werk"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "in trou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:42.367271127Z",
+  "model": "glm-5.3"
+}

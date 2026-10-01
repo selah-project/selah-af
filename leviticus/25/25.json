@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "As jou broer verarm en van sy besitting verkoop het, en sy verlosser gekom het — die een wat naby aan hom is — dan los hy ⟨את⟩ die verkoopte van sy broer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "verarm"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "jou broer"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "en verkoop het"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "van sy besitting"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "en gekom het"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "sy verlosser"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "die naaste"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "dan los hy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die verkoopte van sy broer"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "die verkoopte"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "van sy broer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:19.746767998Z",
+  "model": "glm-5.3"
+}

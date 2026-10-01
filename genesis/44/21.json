@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 44:21",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "En u het tot u dienaars gesê: Bring hom na my af, en ek sal my oog op hom set.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en u het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "u dienaars"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "bring hom af"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "ואשימה",
+      "gloss": "en ek sal set"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:41.738085839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ek weeg vir hulle ⟨את⟩ die silwer en ⟨את⟩ die goud en ⟨את⟩ die voorwerpe — die offerhande van die huis van ons Elohim — wat die koning en sy raadgewers en sy owerstes en die hele Jisraël wat gevind is, opgehef het.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "en ek weeg"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die voorwerpe"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "die voorwerpe"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "die offerhande van"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "wat opgehef het"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "en sy raadgewers"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "en sy owerstes"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en die hele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "wat gevind is"
+    }
+  ],
+  "timestamp": "2026-10-01T00:39:01.850390417Z",
+  "model": "glm-5.3"
+}

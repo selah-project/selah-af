@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 46:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "En die seuns van Simon: Jemüël en Jamin en Ogad en Jagin en Sochar en Sjaul, die seun van ⟨die⟩ Kanaänitiese vrou.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "En die seuns van"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Simon"
+    },
+    {
+      "surface": "ימואל",
+      "gloss": "Jemüël"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "en Jamin"
+    },
+    {
+      "surface": "ואהד",
+      "gloss": "en Ogad"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "en Jagin"
+    },
+    {
+      "surface": "וצחר",
+      "gloss": "en Sochar"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "en Sjaul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "הכנענית",
+      "gloss": "⟨die⟩ Kanaänitiese vrou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:35.282835207Z",
+  "model": "glm-5.3"
+}

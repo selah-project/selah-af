@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 124,
+  "ref": "psalms 119:124",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Handel met jou dienskneg volgens jou gesed, en leer my jou insettinge.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Handel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienskneg"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "volgens jou gesed"
+    },
+    {
+      "surface": "וחקיך",
+      "gloss": "en jou insettinge"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "leer my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:42.736608921Z",
+  "model": "glm-5.3"
+}

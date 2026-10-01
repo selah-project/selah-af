@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 45,
+  "translation": "Ek ⟨is⟩ Jahweh, en daar is geen ander nie; buite my is daar geen Elohim nie; ek omgord jou, en jy het my nie geken nie.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ander"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "buite my"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar geen"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ek omgord jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "het jy my geken"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:39.733079339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 59:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 59,
+  "translation": "Kyk, die hand van Jahweh ⟨is⟩ nie te kort om te red nie, en sy oor ⟨is⟩ nie te swaar om te hoor nie.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "קצרה",
+      "gloss": "te kort"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מהושיע",
+      "gloss": "om te red"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "te swaar"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "sy oor"
+    },
+    {
+      "surface": "משמוע",
+      "gloss": "om te hoor"
+    }
+  ],
+  "timestamp": "2026-09-30T22:27:25.193373248Z",
+  "model": "glm-5.3"
+}

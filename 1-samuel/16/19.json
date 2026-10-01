@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En Sjaul het boodskappers na Jisai gestuur en gesê: Stuur na my toe ⟨את⟩ Dawid jou seun, wat by die kleinvee ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaul"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Jisai"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "jou seun"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "by die kleinvee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:43.050253440Z",
+  "model": "glm-5.3"
+}

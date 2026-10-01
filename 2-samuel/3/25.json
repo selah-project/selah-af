@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Jy het ⟨את⟩ Awner, seun van Ner, geken — dat hy gekom het om jou te verlei, en om ⟨את⟩ jou uitgaan en ⟨את⟩ jou ingaan te ken, en om ⟨את⟩ alles te ken wat jy doen.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "jy het geken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Ner"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "om jou te verlei"
+    },
+    {
+      "surface": "בא",
+      "gloss": "hy gekom het"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "en om te ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou uitgaan"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "jou uitgaan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou ingaan"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "jou ingaan"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "en om te ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "doen"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:36.501019834Z",
+  "model": "glm-5.3"
+}

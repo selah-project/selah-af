@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 5:3",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "tien vetbeeste, en twintig beeste uit die weiveld, en honderd kleinvee — buiten die ram en die gemsbok en die takbok en gemeste voëls.",
+  "tokens": [
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "beeste"
+    },
+    {
+      "surface": "בראים",
+      "gloss": "vet"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "en twintig"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "beeste"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "uit die weiveld"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "en honderd"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "kleinvee"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "buiten"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "die ram"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "en die gemsbok"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "en die takbok"
+    },
+    {
+      "surface": "וברברים",
+      "gloss": "en voëls"
+    },
+    {
+      "surface": "אבוסים",
+      "gloss": "gemeste"
+    }
+  ],
+  "timestamp": "2026-09-30T22:00:20.049393234Z",
+  "model": "glm-5.3"
+}

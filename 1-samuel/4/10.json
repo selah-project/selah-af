@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 4:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die Filistyne het geveg, en Jisraël is verslaan, en ⟨hulle het gevlug⟩, elkeen na sy tent toe; en die slagting was baie groot, en daar het van Jisraël dertig duisend voetgangers geval.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "En ... het geveg"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "וינגף",
+      "gloss": "is verslaan"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "het gevlug"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "na sy tent toe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "was"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "die slagting"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "voetgangers"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:07.160984160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 6:7",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle het aan die volk gesê: Trek verby en gaan om ⟨את⟩ die stad, en die gewapendes moet verbytrek voor die ark van Jahweh uit.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "Trek verby"
+    },
+    {
+      "surface": "וסבו",
+      "gloss": "en gaan om"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "והחלוץ",
+      "gloss": "en die gewapendes"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "moet verbytrek"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:27:07.908081486Z",
+  "model": "glm-5.3"
+}

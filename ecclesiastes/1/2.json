@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hewel hawalim, sê Kóhelet, hewel hawalim — ⟨die⟩ alles ⟨is⟩ hewel.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Hewel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hawalim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kóhelet"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hewel"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "hawalim"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨die⟩ alles"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "hewel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:08.312835549Z",
+  "model": "glm-5.3"
+}

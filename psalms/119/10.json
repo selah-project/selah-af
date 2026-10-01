@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 119:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Met my hele hart het ek U gesoek; laat my nie afdwaal van u gebooie nie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "met my hele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "hart"
+    },
+    {
+      "surface": "דרשתיך",
+      "gloss": "het ek U gesoek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat ... nie"
+    },
+    {
+      "surface": "תשגני",
+      "gloss": "my afdwaal"
+    },
+    {
+      "surface": "ממצותיך",
+      "gloss": "van u gebooie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:05.726805978Z",
+  "model": "glm-5.3"
+}

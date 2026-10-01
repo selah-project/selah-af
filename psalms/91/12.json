@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Op handpalms sal hulle jou dra, sodat jy jou voet nie teen 'n klip stoot nie.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "handpalms"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "sal hulle jou dra"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat ... nie"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "jy stamp"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "teen 'n klip"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "jou voet"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:27.352862052Z",
+  "model": "glm-5.3"
+}

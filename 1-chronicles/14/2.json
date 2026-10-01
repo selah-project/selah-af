@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 14:2",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Dawid het geweet dat Jahweh hom bevestig het as koning oor Jisraël, omdat sy koninkskap hoog verhef is, ter wille van sy volk Jisraël.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "bevestig het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "as koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "verhef is"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "hoog"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sy koninkskap"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ter wille van"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:10.792045298Z",
+  "model": "glm-5.3"
+}

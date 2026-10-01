@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Want voordat die kind ken om te roep: my vader en my moeder, sal ⟨hy⟩ ⟨את⟩ die rykdom van Damaskes en ⟨את⟩ die buit van Samaria wegdra voor die koning van Assur.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "voordat"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ken"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "die kind"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "om te roep"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "en my moeder"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "sal ⟨hy⟩ wegdra"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die rykdom van Damaskes"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "die rykdom"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "van Damaskes"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die buit van Samaria"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "die buit"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "van Samaria"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assur"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:17.269744475Z",
+  "model": "glm-5.3"
+}

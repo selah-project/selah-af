@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En hy sê vir hulle: Ken julle ⟨את⟩ Lawan, die seun van Nagor? En hulle sê: Ons ken ⟨hom⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "ken julle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Lawan"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Lawan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Nagor"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ons ken"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:20.820243954Z",
+  "model": "glm-5.3"
+}

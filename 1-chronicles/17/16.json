@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "Toe kom koning Dawid in en gaan sit voor Jahweh, en hy sê: Wie is ek, Jahweh Elohim, en wat is my huis, dat U my tot hiertoe gebring het?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "toe kom ... in"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en gaan sit"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "אני",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "is my huis"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "U my gebring het"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "hiertoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:50:38.196243389Z",
+  "model": "glm-5.3"
+}

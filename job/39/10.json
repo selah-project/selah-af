@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 39:10",
+  "book": "job",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "Kan jy die reëm met sy tou in die voor vasmaak, of sal hy die valleie agter jou spit?",
+  "tokens": [
+    {
+      "surface": "התקשר",
+      "gloss": "Kan jy ... vasmaak"
+    },
+    {
+      "surface": "רים",
+      "gloss": "die reëm"
+    },
+    {
+      "surface": "בתלם",
+      "gloss": "in die voor"
+    },
+    {
+      "surface": "עבתו",
+      "gloss": "met sy tou"
+    },
+    {
+      "surface": "אם",
+      "gloss": "of"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "sal hy spit"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "die valleie"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "agter jou"
+    }
+  ],
+  "timestamp": "2026-10-01T00:22:21.259633864Z",
+  "model": "glm-5.3"
+}

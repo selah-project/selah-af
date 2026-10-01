@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning het ⟨את⟩ die silwer en ⟨את⟩ die goud in Jerusjalajim soos klippe gegee, en ⟨את⟩ die seders het hy gegee soos die sikomore wat in die laagte ⟨is⟩, in oorvloed.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die silwer"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die silwer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die goud"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "die goud"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "soos klippe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die seders"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "die seders"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gegee"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "soos die sikomore"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "in die laagte"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "in oorvloed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:53:21.746220613Z",
+  "model": "glm-5.3"
+}

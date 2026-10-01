@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 16:5",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En ⟨'n⟩ troon word in gesed vasgereg, en ⟨iemand⟩ sit daarop in trou, in die tent van Dawid, wat reg spreek en na ⟨את⟩ die reg soek en haastig is in tsedek.",
+  "tokens": [
+    {
+      "surface": "והוכן",
+      "gloss": "word vasgereg"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "in gesed"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "'n troon"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "en sit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "in trou"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "in die tent"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "wat reg spreek"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "en soek"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg",
+      "marks": null
+    },
+    {
+      "surface": "ומהר",
+      "gloss": "en haastig is"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "in tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:17:53.621675885Z",
+  "model": "glm-5.3"
+}

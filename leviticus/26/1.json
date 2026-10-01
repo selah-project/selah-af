@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 26:1",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Julle mag vir julle geen nietige gode maak, en 'n uitgekerfde beeld of 'n gedenksteen mag julle vir julle nie oprig nie, en 'n klip met 'n afbeelding mag julle in julle land nie neersit om daarop neer te buig nie; want ek is Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "maak"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "אלילם",
+      "gloss": "nietige gode"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "en 'n uitgekerfde beeld"
+    },
+    {
+      "surface": "ומצבה",
+      "gloss": "of 'n gedenksteen"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "oprig"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en 'n klip"
+    },
+    {
+      "surface": "משכית",
+      "gloss": "met 'n afbeelding"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "neersit"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "in julle land"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "om neer te buig"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:19.604874978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "'n Las van die woord van Jahweh oor Jisraël, deur die hand van Malági.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "'n Las"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "van Malági"
+    }
+  ],
+  "timestamp": "2026-09-30T23:10:09.327105837Z",
+  "model": "glm-5.3"
+}

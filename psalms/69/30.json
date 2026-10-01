@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "En ek ⟨is⟩ arm en vol pyn; u verlossing, Elohim, ⟨sal⟩ my op hoogte stel.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en ek"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "en vol pyn"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "u verlossing"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "my op hoogte stel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:59.414105363Z",
+  "model": "glm-5.3"
+}

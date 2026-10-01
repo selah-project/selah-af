@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En Dawid het ⟨את⟩ die seuns van Aharon bymekaargesit, en ⟨את⟩ die Leviete.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "en hy het bymekaargesit"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Leviete"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Leviete"
+    }
+  ],
+  "timestamp": "2026-10-01T00:49:14.225253286Z",
+  "model": "glm-5.3"
+}

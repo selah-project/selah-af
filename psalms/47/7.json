@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Speel vir Elohim, speel; speel vir ons Koning, speel!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Speel"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "vir Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "Speel"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "vir ons Koning"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:52.136417858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 29:24",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "en jy sal die alles op die handpalms van Aharon sit en op die handpalms van sy seuns, en jy sal hulle ⟨את⟩ as 'n wuifgawe voor Jahweh wuif.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "en jy sal sit"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "die alles"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "die handpalms van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "die handpalms van"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "en jy sal wuif"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "as 'n wuifgawe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:00.352564710Z",
+  "model": "glm-5.3"
+}

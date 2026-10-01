@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 80,
+  "translation": "'n Wingerdstok uit Mitsrajim het U weggevoer; U het nasies verdryf en hom geplant.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "'n wingerdstok"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "het U weggevoer"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "het U verdryf"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "en hom geplant"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:21.441996118Z",
+  "model": "glm-5.3"
+}

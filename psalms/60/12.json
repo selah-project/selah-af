@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 60:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "Was dit nie U nie, Elohim, wat ons verwerp het? En U, Elohim, trek nie uit met ons leërskare nie.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "was dit nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wat ons verwerp het"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "trek uit"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "met ons leërskare"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:28.751647965Z",
+  "model": "glm-5.3"
+}

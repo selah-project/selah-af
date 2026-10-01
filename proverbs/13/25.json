@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 13:25",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "⟨Die⟩ tsedek eet tot versadiging van sy siel, maar die buik van die goddeloses ontbreek ⟨voedsel⟩.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "tot versadiging"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "van sy siel"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "maar die buik"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "תחסר",
+      "gloss": "ontbreek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:01.226037512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Ruk my weg van my vyande, Jahweh; by U het ek my verskuil.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "ruk my weg"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "van my vyande"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "by U"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "het ek my verskuil"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:15.169307418Z",
+  "model": "glm-5.3"
+}

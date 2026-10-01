@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Baie herders het my wingerd bederwe, hulle het ⟨את⟩ my erfdeel vertrap; hulle het ⟨את⟩ die erfdeel van my begeerte tot 'n woestynwoestenis gemaak.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "herders"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "het bederwe"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "my wingerd"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "het vertrap"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my erfdeel"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "my erfdeel"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die erfdeel van my begeerte"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "die erfdeel"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "van my begeerte"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "tot 'n woestyn"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "woestenis"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:17.063964505Z",
+  "model": "glm-5.3"
+}

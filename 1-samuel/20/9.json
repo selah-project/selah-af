@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 20:9",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Jehonatan het gesê: Ver vere dit van jou! Want as ek weet — sal ek weet — dat die kwaad deur my vader besluit is om oor jou te kom, en sou ek ⟨את⟩ nie aan jou bekendmaak nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Jehonatan"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "ver vere"
+    },
+    {
+      "surface": "לך",
+      "gloss": "van jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ek weet"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sal ek weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "besluit is"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "deur"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om te kom"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "oor jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit (die saak)"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "sou ek bekendmaak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:38.765045378Z",
+  "model": "glm-5.3"
+}

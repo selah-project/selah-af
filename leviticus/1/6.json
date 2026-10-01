@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy trek die vel van die brandoffer af en kap dit in sy stukke.",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "en hy trek die vel af"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die brandoffer"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "en hy kap in stukke"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "in sy stukke"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:37.455874965Z",
+  "model": "glm-5.3"
+}

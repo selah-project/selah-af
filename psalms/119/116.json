@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Ondersteun my volgens jou uitspraak, dat ek mag lewe; en laat my nie beskaam staan oor my verwagting nie.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "ondersteun my"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "volgens jou uitspraak"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "dat ek mag lewe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en laat nie"
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "my beskaam staan"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "oor my verwagting"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:32.832326776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Kyk, dae kom, sê Jahweh, en ek sal ⟨את⟩ die huis van Jisraël en ⟨את⟩ die huis van Jehoeda saai, saad van mens en saad van bees.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kom"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "en ek sal saai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jisraël"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis van Jehoeda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "saad"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mens"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "en saad"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "van bees"
+    }
+  ],
+  "timestamp": "2026-09-30T22:36:29.857258289Z",
+  "model": "glm-5.3"
+}

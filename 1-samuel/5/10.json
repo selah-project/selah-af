@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 5:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Toe stuur hulle ⟨את⟩ die ark van die Elohim na Ekeron; en toe die ark van die Elohim in Ekeron aankom, het die Ekeroniete uitgeroep en gesê: Bring ⟨את⟩ die ark van die Elohim van Jisraël rond na my toe om my dood te maak en ⟨את⟩ my volk!",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Toe stuur hulle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "na Ekeron"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "en dit het gebeur"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "toe ... aankom"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "in Ekeron"
+    },
+    {
+      "surface": "ויזעקו",
+      "gloss": "het uitgeroep"
+    },
+    {
+      "surface": "העקרנים",
+      "gloss": "die Ekeroniete"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "הסבו",
+      "gloss": "bring rond"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my toe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van die Elohim van Jisraël"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "om my dood te maak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:48.752352666Z",
+  "model": "glm-5.3"
+}

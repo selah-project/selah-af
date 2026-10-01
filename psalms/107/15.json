@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 107:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hulle moet Jahweh dank vir sy gesed en sy wonderwerke vir die seuns van ⟨die⟩ mens.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "hulle moet dank"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en sy wonderwerke"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "vir die seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:34.710355545Z",
+  "model": "glm-5.3"
+}

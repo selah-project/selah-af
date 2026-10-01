@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 1:16",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hy moet ⟨את⟩ sy krop met sy vere verwyder en dit langs die altaar aan die oostekant gooi, na die plek van die as.",
+  "tokens": [
+    {
+      "surface": "והסיר",
+      "gloss": "en moet verwyder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy krop"
+    },
+    {
+      "surface": "מראתו",
+      "gloss": "sy krop"
+    },
+    {
+      "surface": "בנצתה",
+      "gloss": "met sy vere"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "en gooi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "langs"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "aan die oostekant"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "die plek"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "van die as"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:39.689164310Z",
+  "model": "glm-5.3"
+}

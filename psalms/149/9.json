@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 149,
+  "translation": "om aan hulle ⟨את⟩ ⟨die⟩ geskrewe reg te volbring — dit ⟨is⟩ die heerlikheid vir al sy getroues. Loof Jah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "om te volbring"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "reg"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "geskrewe"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "heerlikheid"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir al"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "sy getroues"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:01.983879260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 34:28",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "⟨את⟩ Hulle kleinvee en ⟨את⟩ hulle beeste en ⟨את⟩ hulle donkies en ⟨את⟩ wat in die stad was en ⟨את⟩ wat in die veld was, het hulle geneem.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kleinvee"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "hulle kleinvee"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle beeste"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "hulle beeste"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle donkies"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "hulle donkies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat in die stad was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wat in die veld was"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "het hulle geneem"
+    }
+  ],
+  "timestamp": "2026-09-30T20:38:38.247345970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 7:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En terwyl Sjemuël die brandoffer laat opgaan het, het die Filistyne nader getrek vir die oorlog teen Jisraël; maar Jahweh het op daardie dag met 'n groot gedruis oor die Filistyne gedonder en hulle in verwarring gebring, en hulle is voor Jisraël geslaan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "en terwyl"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "laat opgaan"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "נגשו",
+      "gloss": "nader getrek"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir die oorlog"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "teen Jisraël"
+    },
+    {
+      "surface": "וירעם",
+      "gloss": "gedonder"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "met 'n gedruis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "in verwarring gebring"
+    },
+    {
+      "surface": "וינגפו",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:12.176777216Z",
+  "model": "glm-5.3"
+}

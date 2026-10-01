@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "As ek honger word, sal ek nie aan jou sê nie, want myne ⟨is⟩ die wêreld en sy volheid.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "As"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ek honger word"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sal ek sê"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nie, want"
+    },
+    {
+      "surface": "לי",
+      "gloss": "myne ⟨is⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "en sy volheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:35.393028869Z",
+  "model": "glm-5.3"
+}

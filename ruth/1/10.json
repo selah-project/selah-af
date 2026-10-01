@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En hulle het aan haar gesê: ⟨את⟩⟨by⟩ jou sal ons terugkeer na jou volk.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "aan haar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ by jou"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "sal ons terugkeer"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "na jou volk"
+    }
+  ],
+  "timestamp": "2026-10-01T01:06:42.960701274Z",
+  "model": "glm-5.3"
+}

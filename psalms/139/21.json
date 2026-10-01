@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 139:21",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "Haat ek nie hulle wat U haat, Jahweh, nie? En met hulle wat teen U in opstand kom, twis ek nie?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "hat ek nie … nie?"
+    },
+    {
+      "surface": "משנאיך",
+      "gloss": "hulle wat U haat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשנא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "ובתקוממיך",
+      "gloss": "met hulle wat teen U in opstand kom"
+    },
+    {
+      "surface": "אתקוטט",
+      "gloss": "twis ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:11.191124787Z",
+  "model": "glm-5.3"
+}

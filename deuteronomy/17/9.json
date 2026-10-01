@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "en jy sal kom by ⟨die⟩ priesters, die Lewiete, en by ⟨die⟩ regter wat ⟨is⟩ in daardie dae, en jy sal vra, en hulle sal aan jou ⟨את⟩ die woord van ⟨die⟩ reg bekend maak",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "en jy sal kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "⟨die⟩ priesters"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "die Lewiete"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en by"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "⟨die⟩ regter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "in daardie dae"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "en jy sal vra"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "en hulle sal bekend maak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woord van die reg"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "van ⟨die⟩ reg"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:58.025637932Z",
+  "model": "glm-5.3"
+}

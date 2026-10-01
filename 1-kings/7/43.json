@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "en ⟨את⟩ die tien onderstelle, en ⟨את⟩ die tien wasbekkens op die onderstelle",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tien onderstelle"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "die onderstelle"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "tien"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die tien wasbekkens"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "die wasbekkens"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "tien"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "die onderstelle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:32.135653335Z",
+  "model": "glm-5.3"
+}

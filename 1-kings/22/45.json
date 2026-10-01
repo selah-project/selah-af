@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En Jehosjoea het vrede gemaak met ⟨die⟩ koning van Jisraël.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "en hy het vrede gemaak"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨die⟩ koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:03.948711208Z",
+  "model": "glm-5.3"
+}

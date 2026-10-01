@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 39,
+  "translation": "⟨את⟩ die tafel, ⟨את⟩ al sy gerei, en ⟨את⟩ die brood van die aangesig.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die tafel"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "die tafel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al sy gerei"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "sy gerei"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die brood van die aangesig"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "die brood"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "van die aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:58.551353864Z",
+  "model": "glm-5.3"
+}

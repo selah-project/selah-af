@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Want U het ons ondersoek, o Elohim; U het ons gesuiwer soos silwer gesuiwer word.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "het U ons ondersoek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "het U ons gesuiwer"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "soos die smeltproses"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:26.858898701Z",
+  "model": "glm-5.3"
+}

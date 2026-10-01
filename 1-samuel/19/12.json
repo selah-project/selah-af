@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mikal het ⟨את⟩ Dawid deur die venster laat afsak, en hy het gegaan en gevlug en ontkom.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "en sy het laat afsak"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Mikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "deur"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "die venster"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "en gevlug"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "en ontkom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:03.070291777Z",
+  "model": "glm-5.3"
+}

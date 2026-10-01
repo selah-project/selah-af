@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En hy het uitgebring ⟨את⟩ die seun van die koning, en op hom gesit ⟨את⟩ die kroon en ⟨את⟩ die getuienis; en hulle het ⟨את⟩ hom koning gemaak en hom gesalf, en hulle het die hand geklap en gesê: Mag die koning lewe!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "en hy het uitgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seun van die koning"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en gesit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kroon"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "die kroon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die getuienis"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "die getuienis"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "hulle het koning gemaak"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (die koningsseun)"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "en hom gesalf"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "en hulle het geklap"
+    },
+    {
+      "surface": "כף",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mag lewe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T22:10:14.748216175Z",
+  "model": "glm-5.3"
+}

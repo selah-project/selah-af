@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 17:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En hulle het ⟨את⟩ hulle seuns en ⟨את⟩ hulle dogters deur die vuur laat deurgaan, en het waarsêery waarsê en gesê, en hulleself verkoop om die kwaad te doen in die oë van Jahweh, om hom te terg.",
+  "tokens": [
+    {
+      "surface": "ויעבירו",
+      "gloss": "laat deurgaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle seuns"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "hulle seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle dogters"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "hulle dogters"
+    },
+    {
+      "surface": "באש",
+      "gloss": "deur die vuur"
+    },
+    {
+      "surface": "ויקסמו",
+      "gloss": "het waarsêery waarsê"
+    },
+    {
+      "surface": "קסמים",
+      "gloss": "waarsêery"
+    },
+    {
+      "surface": "וינחשו",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "ויתמכרו",
+      "gloss": "hulleself verkoop"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "להכעיסו",
+      "gloss": "om hom te terg"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:49.596840948Z",
+  "model": "glm-5.3"
+}

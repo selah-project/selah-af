@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Jahweh het koning geword — laat die aarde juig, laat die baie eilande bly wees.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het koning geword"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "laat juig"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "laat bly wees"
+    },
+    {
+      "surface": "איים",
+      "gloss": "eilande"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:46.382777083Z",
+  "model": "glm-5.3"
+}

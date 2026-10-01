@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "En hulle sal weet dat dit u hand is — u, Jahweh, het dit gedoen.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "en hulle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "u hand"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "u"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "het dit gedoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:01.429117265Z",
+  "model": "glm-5.3"
+}

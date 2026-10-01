@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "'n Vrou van guns hou eer vas, en gewelddadiges hou rykdom vas.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "'n vrou van"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "hou ... vas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "en gewelddadiges"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "hou vas"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "rykdom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:12.885048771Z",
+  "model": "glm-5.3"
+}

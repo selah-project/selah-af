@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 2:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die herders het gekom en hulle weggedrywe; en Mosje het opgestaan en hulle gered en ⟨את⟩ hulle kleinvee laat drink.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en het gekom"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "die herders"
+    },
+    {
+      "surface": "ויגרשום",
+      "gloss": "en hulle weggedrywe"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ויושען",
+      "gloss": "en hulle gered"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en laat drink"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle kleinvee"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "hulle kleinvee"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:20.617431249Z",
+  "model": "glm-5.3"
+}

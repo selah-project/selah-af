@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "U het die ongeregtigheid van u volk gedra, al hulle sondes het U bedek. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "U het gedra"
+    },
+    {
+      "surface": "עון",
+      "gloss": "die ongeregtigheid"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "van u volk"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "het U bedek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "hulle sondes"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:22.869619981Z",
+  "model": "glm-5.3"
+}

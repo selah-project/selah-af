@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 139,
+  "translation": "My vormlose liggaam het u oë gesien, en op u boek is hulle almal geskrywe — dae is geform, en nog was daar nie een van hulle nie.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "my vormlose liggaam"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "u oë"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "u boek"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "is hulle almal"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "geskrywe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "is geform"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nog nie"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "van hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:29.280403558Z",
+  "model": "glm-5.3"
+}

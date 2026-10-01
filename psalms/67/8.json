@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Elohim sal ons seën, en al die einders van die aarde sal ⟨את⟩ Hom vrees.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "seën ons"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "en sal vrees"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "Hom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "die einders"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:45.586391516Z",
+  "model": "glm-5.3"
+}

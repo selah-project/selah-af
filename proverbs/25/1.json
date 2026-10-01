@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Ook hierdie ⟨is⟩ spreuke van Sjelomo, wat die manne van Gizkijahoe, koning van Jehoeda, oorgeskryf het.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ook"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "spreuke"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "van Sjelomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "oorgeskryf het"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "die manne"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "van Gizkijahoe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:14.072479134Z",
+  "model": "glm-5.3"
+}

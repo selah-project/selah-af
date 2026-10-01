@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 34:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Gee bevel aan ⟨את⟩ die kinders van Jisraël en sê vir hulle: wanneer julle kom in die land Kenaän — dit ⟨is⟩ die land wat vir julle as erfdeel sal val, die land Kenaän volgens sy grense —",
+  "tokens": [
+    {
+      "surface": "צו",
+      "gloss": "Gee bevel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kinders van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "wanneer"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "באים",
+      "gloss": "kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "sal val"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "as erfdeel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Kenaän"
+    },
+    {
+      "surface": "לגבלתיה",
+      "gloss": "volgens sy grense"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:49.006294545Z",
+  "model": "glm-5.3"
+}

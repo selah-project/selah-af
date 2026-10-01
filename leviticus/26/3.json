@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "As julle in my insettinge wandel, en ⟨את⟩ my gebooie onderhou en ⟨את⟩ hulle doen,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "in my insettinge"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "wandel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my gebooie"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "my gebooie"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "onderhou"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "en doen"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:19.605672281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "en ⟨את⟩ elke raaf na sy soort",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "elke raaf"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "raaf"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "na sy soort"
+    }
+  ],
+  "timestamp": "2026-09-30T21:19:47.379919853Z",
+  "model": "glm-5.3"
+}

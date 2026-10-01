@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Gaan na die suide en draai om na die noorde; draai om, draai om gaan die roeag, en op sy kringe keer die roeag terug.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "die suide"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "en draai om"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "die noorde"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "draai om"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "draai om"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en op"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "sy kringe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "keer terug"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "die roeag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:44.123615274Z",
+  "model": "glm-5.3"
+}

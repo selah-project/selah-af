@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 5:11",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Julle self — gaan, versamel vir julle strooi waar julle dit vind, want niks sal van julle werk verminder word nie — ⟨את⟩ nie één woord nie.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "julle self"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "versamel"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "strooi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "waar"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "julle dit vind"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "niks"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "sal verminder word"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "van julle werk"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "nie één woord nie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:54.380924018Z",
+  "model": "glm-5.3"
+}

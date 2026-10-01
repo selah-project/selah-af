@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En ⟨את⟩ julle velde en ⟨את⟩ julle wingerde en julle olyfbome, die beste, sal hy neem en gee aan sy dienaars.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle velde"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "julle velde"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "julle wingerde"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "julle wingerde"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "en julle olyfbome"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "die beste"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "sal hy neem"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "en gee"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "aan sy dienaars"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:59.673197563Z",
+  "model": "glm-5.3"
+}

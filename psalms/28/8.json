@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Jahweh ⟨is⟩ hulle krag, en ⟨is⟩ 'n vesting van verlossings vir sy gesalfde — hy.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "למו",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "en 'n vesting"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "van verlossings"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "vir sy gesalfde"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:49.904705833Z",
+  "model": "glm-5.3"
+}

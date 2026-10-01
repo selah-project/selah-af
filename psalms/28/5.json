@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Want hulle let nie op die werke van Jahweh nie, en nie op die maaksel van sy hande nie; hy sal hulle afbreek en hulle nie opbou nie.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "let op"
+    },
+    {
+      "surface": "אל",
+      "gloss": "op"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "die werke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en nie op"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "die maaksel"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "van sy hande"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "hy sal hulle afbreek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "hulle opbou"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:49.902989482Z",
+  "model": "glm-5.3"
+}

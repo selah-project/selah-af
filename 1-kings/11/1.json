@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En koning Sjelomo het baie vreemde vroue liefgehad, en ⟨את⟩ die dogter van Paro: Moabitiese, Ammonitiese, Edomitiese, Sidonitiese en Hetitiese.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Sjelomo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "het liefgehad"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "vroue"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die dogter van Paro"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "Moabitiese"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "Ammonitiese"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "Edomitiese"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "Sidonitiese"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "Hetitiese"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:26.646395414Z",
+  "model": "glm-5.3"
+}

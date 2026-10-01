@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En 'n vreemdeling sal jy nie onderdruk nie, en julle — julle ken ⟨את⟩ die siel van die vreemdeling, want vreemdelinge was julle in die land Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "en 'n vreemdeling"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "sal jy onderdruk"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "julle ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die siel van die vreemdeling"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "siel"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "van die vreemdeling"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "vreemdelinge"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "was julle"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:57.499262044Z",
+  "model": "glm-5.3"
+}

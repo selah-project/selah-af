@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "wat gesê het: Laat ons vir onsself in besit neem ⟨את⟩ die weivelde van Elohim.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "gesê het"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "laat ons in besit neem"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir onsself"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die weivelde"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "weivelde"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:33.879128176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Die hele dag is my smaad voor my, en die skaamte van my aangesig het my toegewelk.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "dag"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "my smaad"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "voor my"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "en die skaamte"
+    },
+    {
+      "surface": "פני",
+      "gloss": "van my aangesig"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "het my toegewelk"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.665244676Z",
+  "model": "glm-5.3"
+}

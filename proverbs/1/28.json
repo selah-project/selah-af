@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 1:28",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "dan sal hulle my roep en ek sal nie antwoord nie; hulle sal my ydelik soek en my nie vind nie",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "dan"
+    },
+    {
+      "surface": "יקראנני",
+      "gloss": "sal hulle my roep"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "sal ek antwoord"
+    },
+    {
+      "surface": "ישחרנני",
+      "gloss": "sal hulle my ydelik soek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "my vind"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:58.710783398Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 20:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Awraham het oor Sara, sy vrou, gesê: sy ⟨is⟩ my suster; toe het Awimeleg, koning van Gerar, gestuur en ⟨את⟩ Sara geneem.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "oor"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "my suster"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "toe het hy gestuur"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Awimeleg"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "van Gerar"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sara"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:43.155116938Z",
+  "model": "glm-5.3"
+}

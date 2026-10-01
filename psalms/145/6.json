@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 145,
+  "translation": "En die mag van u vreesaanjaende dade sal hulle vertel, en u grootheid sal ek verhaal.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "en die mag"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "van u vreesaanjaende dade"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "sal hulle vertel"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "en u grootheid"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "sal ek verhaal"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:14.470377959Z",
+  "model": "glm-5.3"
+}

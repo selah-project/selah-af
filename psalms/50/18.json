@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "As jy 'n dief sien, dan hardloop jy saam met hom, en met egbrekers is ⟨is⟩ jou deel.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "jy sien"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "'n dief"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "dan hardloop jy"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "saam met hom"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "en met"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "egbrekers"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "jou deel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.894331201Z",
+  "model": "glm-5.3"
+}

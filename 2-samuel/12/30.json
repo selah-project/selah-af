@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 12:30",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En hy het ⟨את⟩ die kroon van hulle koning van sy kop af geneem, en sy gewig ⟨was⟩ 'n talent goud met 'n waardevolle klip, en dit het op Dawid se kop gekom; en die buit van die stad het hy uitgebring, baie veel.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en hy het geneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kroon van hulle koning"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "die kroon"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "van hulle koning"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van af"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "sy kop"
+    },
+    {
+      "surface": "ומשקלה",
+      "gloss": "en sy gewig"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "'n talent"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "goud"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en 'n klip"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "waardevolle"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "en dit het gekom"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "en die buit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "het hy uitgebring"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "baie"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "veel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:14.714506176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die naaktheid van jou vader se broer mag jy nie ontbloot nie; by sy vrou mag jy nie nader kom nie — sy is jou tannie.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "die naaktheid"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "broer"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "van jou vader"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "mag jy ontbloot"
+    },
+    {
+      "surface": "אל",
+      "gloss": "by"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "mag jy nader kom"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "jou tannie"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy is"
+    }
+  ],
+  "timestamp": "2026-09-30T20:59:39.567564344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En hy het aan hom gesê: As u aangesig nie meegaan nie, laat ons nie hiervandaan opgaan nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אין",
+      "gloss": "nie"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "meegaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "laat ons nie"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "opgaan"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "hiervandaan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:53:24.540761792Z",
+  "model": "glm-5.3"
+}

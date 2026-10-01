@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "In dié nag is Belșassar, die koning van ⟨die⟩ Chaldeërs, doodgemaak.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "In dié"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "nag"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "is doodgemaak"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Belșassar"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "van die Chaldeërs"
+    }
+  ],
+  "timestamp": "2026-10-01T00:32:35.964890951Z",
+  "model": "glm-5.3"
+}

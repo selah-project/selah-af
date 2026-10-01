@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 94,
+  "translation": "As ek sê: my voet gly — dan skraag u gesed my, Jahweh.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek sê"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "gly"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "my voet"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "u gesed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "skraag my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:36.388766882Z",
+  "model": "glm-5.3"
+}

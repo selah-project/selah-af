@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Die hemel het sy tsedek verkondig, en al die volke het sy glans gesien.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "het verkondig"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "sy tsedek"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "die volke"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "sy glans"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.334468607Z",
+  "model": "glm-5.3"
+}

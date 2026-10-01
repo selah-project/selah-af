@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 10:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Van die dae van ⟨die⟩ Gibea af het Jisraël gesondig; daar het hulle gestaan; oorlog sal hulle nie in Gibea bereik nie, oor die seuns van verdorwenheid.",
+  "tokens": [
+    {
+      "surface": "מימי",
+      "gloss": "van die dae af"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "⟨die⟩ Gibea"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "het gesondig"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "het hulle gestaan"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תשיגם",
+      "gloss": "sal hulle bereik"
+    },
+    {
+      "surface": "בגבעה",
+      "gloss": "in Gibea"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "oorlog"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "עלוה",
+      "gloss": "verdorwenheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:01.646854776Z",
+  "model": "glm-5.3"
+}

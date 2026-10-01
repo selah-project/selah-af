@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En sy het aan hulle gesê: So sê Jahweh, die Elohim van Jisraël: Sê vir die man wat julle ⟨את⟩ na my gestuur het:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "En sy het gesê"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "כה",
+      "gloss": "So"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Sê"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vir die man"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "gestuur het"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle (na my)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:20.699182076Z",
+  "model": "glm-5.3"
+}

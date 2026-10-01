@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nahum 1:4",
+  "book": "nahum",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Hy raas met die see en dit droog op, en al die riviere laat hy verdor; Basjan verlep, en Karmel, en die bloeisel van die Libanon verlep.",
+  "tokens": [
+    {
+      "surface": "גוער",
+      "gloss": "raas"
+    },
+    {
+      "surface": "בים",
+      "gloss": "met die see"
+    },
+    {
+      "surface": "ויבשהו",
+      "gloss": "en dit droog op"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "die riviere"
+    },
+    {
+      "surface": "החריב",
+      "gloss": "laat verdor"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verlep"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Basjan"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "en Karmel"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "en die bloeisel"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "van die Libanon"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "verlep"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:18.195820499Z",
+  "model": "glm-5.3"
+}

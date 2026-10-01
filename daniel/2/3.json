@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die koning het aan hulle gesê: 'n Droom het ek gedroom, en my roeag is ontsteld om ⟨את⟩ die droom te ken.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "aan hulle"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "'n droom"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "het ek gedroom"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "en is ontsteld"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "om te ken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die droom"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "die droom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:36.250314960Z",
+  "model": "glm-5.3"
+}

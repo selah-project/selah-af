@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 42:16",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Stuur een van julle, en hy moet julle broer gaan haal, en julle, bly gevange, en laat julle woorde getoets word of daar waarheid ⟨את⟩ by julle ⟨is⟩; en indien nie — so seker as Paro leef, spioene ⟨is⟩ julle.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "stuur"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "van julle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en hy moet gaan haal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "julle broer"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "julle broer"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "en julle"
+    },
+    {
+      "surface": "האסרו",
+      "gloss": "bly gevange"
+    },
+    {
+      "surface": "ויבחנו",
+      "gloss": "en laat getoets word"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "julle woorde"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "die waarheid"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "by julle (die waarheid)"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en indien"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dan (so seker as)"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "spioene"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:40:49.530221265Z",
+  "model": "glm-5.3"
+}

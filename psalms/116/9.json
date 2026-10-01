@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Ek sal wandel voor Jahweh, in die lande van die lewendes.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "ek sal wandel"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "in die lande"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "van die lewendes"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:33.757848129Z",
+  "model": "glm-5.3"
+}

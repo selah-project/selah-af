@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Hy ⟨is⟩ Jahweh ons Elohim; oor die hele aarde ⟨is⟩ sy regspraak.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Hy"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "sy regspraak"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:02.821247257Z",
+  "model": "glm-5.3"
+}

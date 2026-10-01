@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "micah 3:8",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Maar ék — ek is vol krag, ⟨את⟩ die roeag van Jahweh, en reg en sterkte, om aan Jaäkow sy oortreding te verkondig en aan Jisraël sy sonde.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Maar inteendeel"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ek is vol"
+    },
+    {
+      "surface": "כח",
+      "gloss": "krag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die roeag van Jahweh"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en reg"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "en sterkte"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "om te verkondig"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "aan Jaäkow"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "sy oortreding"
+    },
+    {
+      "surface": "ולישראל",
+      "gloss": "en aan Jisraël"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sy sonde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:04:59.612840141Z",
+  "model": "glm-5.3"
+}

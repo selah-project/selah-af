@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Elke man moet sy moeder en sy vader vrees, en ⟨את⟩ my Sjabbatte moet julle hou: ek ⟨is⟩ Jahweh julle Elohim.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "en sy vader"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "moet julle vrees"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "my Sjabbatte"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "my Sjabbatte"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "moet julle hou"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "joue Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:37.962355793Z",
+  "model": "glm-5.3"
+}

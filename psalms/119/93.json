@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Tot in ewigheid sal ek jou voorskrifte nie vergeet nie, want deur hulle het jy my laat lewe.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "sal ek vergeet"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "jou voorskrifte"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "בם",
+      "gloss": "deur hulle"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "het jy my laat lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:10.840745581Z",
+  "model": "glm-5.3"
+}

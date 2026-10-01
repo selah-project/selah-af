@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ek het ⟨את⟩ die gemor van die seuns van Jisraël gehoor. Spreek met hulle en sê: Tussen die aandtye sal julle vleis eet, en in die môre sal julle met brood versadig word; en julle sal weet dat ek Jahweh julle Elohim ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ek het gehoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gemor van die seuns van Jisraël"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "gemor"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "spreek"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "met hulle"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en sê"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "die aandtye"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "vleis"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "en in die môre"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "sal julle versadig word"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "en julle sal weet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:41.945498423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 22:2",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En jy, seun van die mens, sal jy oordeel, sal jy oordeel ⟨את⟩ ⟨die⟩ stad van die bloede? En jy moet aan haar bekendmaak ⟨את⟩ al haar gruwels.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "sal jy oordeel"
+    },
+    {
+      "surface": "התשפט",
+      "gloss": "sal jy oordeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad van die bloede"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "stad"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "van die bloede"
+    },
+    {
+      "surface": "והודעתה",
+      "gloss": "en jy moet aan haar bekendmaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al haar gruwels"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "תועבותיה",
+      "gloss": "haar gruwels"
+    }
+  ],
+  "timestamp": "2026-09-30T22:50:46.435393062Z",
+  "model": "glm-5.3"
+}

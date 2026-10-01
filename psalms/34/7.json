@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Hierdie ellendige het geroep, en Jahweh het gehoor, en uit al sy benoudhede het hy hom gered.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ellendige"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "het geroep"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "en Jahweh"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "en uit al"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "sy benoudhede"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "het hy hom gered"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:15.874173098Z",
+  "model": "glm-5.3"
+}

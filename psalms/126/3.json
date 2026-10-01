@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 126,
+  "translation": "Jahweh het groot dinge met ons gedoen; ons was bly.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "het groot dinge gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te doen"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "met ons"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ons was"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "bly"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:36.159734007Z",
+  "model": "glm-5.3"
+}

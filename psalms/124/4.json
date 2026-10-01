@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 124,
+  "translation": "toe sou die waters ons weggespoel het, die stroom oor ons siel gegaan ⟨het⟩ —",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "toe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "die waters"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "sou ons weggespoel het"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "die stroom"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "gegaan"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ons siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:16.493759368Z",
+  "model": "glm-5.3"
+}

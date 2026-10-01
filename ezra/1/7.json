@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning Koresh het ⟨את⟩ die voorwerpe van die huis van Jahweh uitgebring, wat Newukadnetsar uit Jerusjalajim uitgebring en in die huis van sy god geplaas het.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "En die koning"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "Koresh"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "het uitgebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die voorwerpe van die huis van Jahweh"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "die voorwerpe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "uitgebring"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Newukadnetsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "uit Jerusjalajim"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "en geplaas het"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "van sy god"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:50.150258251Z",
+  "model": "glm-5.3"
+}

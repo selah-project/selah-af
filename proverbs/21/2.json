@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Elke weg van 'n man ⟨is⟩ reg in sy eie oë, maar Jahweh weeg die harte.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "weg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "van 'n man"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reg"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy eie oë"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "maar ... weeg"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "die harte"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:37.067379525Z",
+  "model": "glm-5.3"
+}

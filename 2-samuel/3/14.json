@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Dawid het boodskappers gestuur na Isj-Bosjet, seun van Sja'loel, om te sê: Gee ⟨את⟩ my vrou, ⟨את⟩ Migal, wat ek vir my verloof het vir honderd voorhuide van Filistyne.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en hy het gestuur"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "boodskappers"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Isj-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Bosjet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sja'loel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vrou"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "my vrou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Migal"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Migal"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "ek verloof het"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "vir honderd"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "voorhuide"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "van Filistyne"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:12.334689838Z",
+  "model": "glm-5.3"
+}

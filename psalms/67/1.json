@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 67,
+  "translation": "Vir die koorleier, op snaarinstrumente. 'n Mizmor, 'n lied.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "op snaarinstrumente"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "'n lied"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:50.532710616Z",
+  "model": "glm-5.3"
+}

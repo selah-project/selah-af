@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 24:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Kyk, Jahweh maak die aarde leeg en verwoes haar, en Hy verwring haar oppervlak en verstrooi haar bewoners.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בוקק",
+      "gloss": "maak leeg"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ובולקה",
+      "gloss": "en verwoes haar"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "en verwring"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "haar oppervlak"
+    },
+    {
+      "surface": "והפיץ",
+      "gloss": "en verstrooi"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "haar bewoners"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:28.054795003Z",
+  "model": "glm-5.3"
+}

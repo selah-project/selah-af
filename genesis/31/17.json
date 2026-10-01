@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jaäkow het opgestaan en ⟨את⟩ sy seuns en ⟨את⟩ sy vroue op die kamele gelaai",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "gelaai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy vroue"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "sy vroue"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "die kamele"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:48.668396047Z",
+  "model": "glm-5.3"
+}

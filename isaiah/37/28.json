@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "En jou sit en jou uitgaan en jou ingaan — ek het dit geweet, en ⟨את⟩ jou woeding teen My.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "En jou sit"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "en jou uitgaan"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "en jou ingaan"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ek het geweet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "jou woeding teen My"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "jou woeding"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "teen My"
+    }
+  ],
+  "timestamp": "2026-09-30T22:21:57.824237839Z",
+  "model": "glm-5.3"
+}

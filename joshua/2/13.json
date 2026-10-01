@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 2:13",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en julle sal ⟨את⟩ my vader en ⟨את⟩ my moeder en ⟨את⟩ my broers en ⟨את⟩ my susters en ⟨את⟩ al wat hulle het, in die lewe hou, en julle sal ⟨את⟩ ons siele uit ⟨die⟩ dood red.",
+  "tokens": [
+    {
+      "surface": "והחיתם",
+      "gloss": "en julle sal in die lewe hou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my vader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my moeder"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "my moeder"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my broers"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broers"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "my susters"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "my susters"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al wat hulle het"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle het"
+    },
+    {
+      "surface": "והצלתם",
+      "gloss": "en julle sal red"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons siele"
+    },
+    {
+      "surface": "נפשתינו",
+      "gloss": "ons siele"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "uit die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:57.006592281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En Joab, seun van Tseruja, het geweet dat die hart van die koning op Absjalom ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Tseruja"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לב",
+      "gloss": "hart"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Absjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:31.714345136Z",
+  "model": "glm-5.3"
+}

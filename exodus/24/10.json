@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hulle het ⟨את⟩ Elohim van Jisraël gesien, en onder sy voete was soos 'n werk van wit paguitsteen, en soos die wese van ⟨die⟩ hemel vir helderheid.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "en hulle het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Elohim van Jisraël"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "en onder"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sy voete"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "soos 'n werk"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "van wit"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "⟨die⟩ paguitsteen"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "en soos die wese"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "van ⟨die⟩ hemel"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "vir helderheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:58:16.724754495Z",
+  "model": "glm-5.3"
+}

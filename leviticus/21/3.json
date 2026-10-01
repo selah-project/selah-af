@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "en vir sy suster, die jongedogter wat naby hom is, wat nog nie aan 'n man ⟨gehoort⟩ het nie — vir haar mag hy hom onrein maak.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "en vir sy suster"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "die jongedogter"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "wat naby is"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "aan hom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sy was"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan 'n man"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "mag hy hom onrein maak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:19.782321063Z",
+  "model": "glm-5.3"
+}

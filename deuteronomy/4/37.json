@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En omdat hy ⟨את⟩ jou vaders liefgehad het, het hy hulle saad ná hulle uitverkies en jou voor sy aangesig uitgebring, met sy groot mag, uit Mitsrajim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "en omdat"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "liefgehad het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou vaders"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "jou vaders"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "het hy uitverkies"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "hulle saad"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ná hulle"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "en jou uitgebring"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "voor sy aangesig"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "met sy mag"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "groot"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "uit Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:54.946434308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hy het vir die huis vensters gemaak van skuins gerame, toegemaak.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "vir die huis"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "vensters"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "van skuins gerame"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "toegemaak"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:38.919010195Z",
+  "model": "glm-5.3"
+}

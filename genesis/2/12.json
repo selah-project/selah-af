@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En die goud van daardie land ⟨is⟩ goed; daar ⟨is⟩ die bedolag en die sjoham-steen.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "En die goud"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "die bedolag"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "en die steen"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "van sjoham"
+    }
+  ],
+  "timestamp": "2026-10-01T01:05:31.105927985Z",
+  "model": "glm-5.3"
+}

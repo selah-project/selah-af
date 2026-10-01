@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 47,
+  "translation": "Elohim het geheers oor ⟨die⟩ nasies; Elohim het gesit op ⟨die⟩ troon van sy heiligheid.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "het geheers"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "nasies"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "het gesit"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "troon"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "van sy heiligheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.372458852Z",
+  "model": "glm-5.3"
+}

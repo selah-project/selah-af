@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Ek het geweet dat daar geen goed in hulle is nie, behalwe om te juig en om goed te doen in sy lewe.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ek het geweet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "behalwe"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "om te juig"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "en om te doen"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "in sy lewe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:45.336308680Z",
+  "model": "glm-5.3"
+}

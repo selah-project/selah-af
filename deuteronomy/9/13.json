@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het met my gespreek, om te sê: Ek het ⟨את⟩ hierdie volk gesien, en kyk, ⟨dit is⟩ 'n volk hard van nek ⟨is dit⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ek het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "עם",
+      "gloss": "'n volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "hard"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "van nek"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "is dit"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:59.520588566Z",
+  "model": "glm-5.3"
+}

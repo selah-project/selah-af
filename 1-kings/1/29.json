@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 1:29",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die koning het gesweer en gesê: So seker as Jahweh lewe, wat ⟨את⟩ my siel uit elke benoudheid losgeloop het",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "en het gesweer"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "חי",
+      "gloss": "leef"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "losgeloop het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my siel"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "uit elke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benoudheid"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:20.021187012Z",
+  "model": "glm-5.3"
+}

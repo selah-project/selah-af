@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 6:8",
+  "book": "zechariah",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Toe het hy my toegeroep en met my gespreek en gesê: Sien, dié wat uittree na die land van die noorde, het ⟨את⟩ my roeag laat rus in die land van die noorde.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "toe het hy toegeroep"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "my"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "en gespreek"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "sien"
+    },
+    {
+      "surface": "היוצאים",
+      "gloss": "dié wat uittree"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "van die noorde"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "het laat rus"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my roeag"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "my roeag"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "van die noorde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:09:14.964412352Z",
+  "model": "glm-5.3"
+}

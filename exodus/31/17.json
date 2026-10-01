@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "Tussen My en tussen die kinders van Jisraël ⟨is dit⟩ 'n teken vir ewig, want ses dae lank het Jahweh ⟨את⟩ die hemel en ⟨את⟩ die aarde gemaak, en op die sewende dag het Hy gerus en versnap.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "tussen My"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אות",
+      "gloss": "'n teken"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ses"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hemel"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die aarde"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "en op die dag"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "die sewende"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "het gerus"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "en versnap"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:50.440305321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 34:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "Vrees ⟨את⟩ Jahweh, sy heiliges, want daar is geen gebrek vir sy vreesders nie.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "sy heiliges"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is geen"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "gebrek"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "vir sy vreesders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:11.173711189Z",
+  "model": "glm-5.3"
+}

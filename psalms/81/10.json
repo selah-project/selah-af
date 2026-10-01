@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Geen vreemde El sal in jou wees nie, en jy sal jou nie buig voor 'n vreemde god nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Geen ... nie"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "vreemde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "jy sal jou buig"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "vir 'n god"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "vreemde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:20.812648962Z",
+  "model": "glm-5.3"
+}

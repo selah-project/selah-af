@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 70:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Mag hulle juig en mag hulle bly wees in u, almal wat u soek; en mag hulle wat u redding liefhet, gedurig sê: Mag Elohim groot word!",
+  "tokens": [
+    {
+      "surface": "ישישו",
+      "gloss": "mag hulle juig"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en mag hulle bly wees"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in u"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "מבקשיך",
+      "gloss": "wat u soek"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en mag hulle sê"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "mag groot word"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "wat liefhet"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "u redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:11.214319887Z",
+  "model": "glm-5.3"
+}

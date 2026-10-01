@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Dit ⟨is⟩ tyd om te handel vir Jahweh; hulle het u Tora verydel.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "om te handel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "hulle het verydel"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:29.064061081Z",
+  "model": "glm-5.3"
+}

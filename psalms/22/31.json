@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "'n Nageslag sal hom dien; aan Adonai sal dit vertel word vir ⟨die⟩ geslag wat kom.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "'n nageslag"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "sal hom dien"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "sal vertel word"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "aan Adonai"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "vir die geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:09.639420059Z",
+  "model": "glm-5.3"
+}

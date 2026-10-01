@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "Vir die koorleier. 'n Psalm van Dawid. Elohim van my lof, moenie swyg nie.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Vir die koorleier"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n Psalm"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "van my lof"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "swyg nie"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:23.136507398Z",
+  "model": "glm-5.3"
+}

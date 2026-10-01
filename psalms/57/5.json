@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "My siel ⟨is⟩ binne-in leeus; ek lê neer onder brandendes — seuns van die mensdom — hulle tande ⟨is⟩ 'n spies en pyle, en hulle tong 'n skerp swaard.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "binne-in"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "leeus"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ek lê neer"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "brandendes"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mensdom"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hulle tande"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "'n spies"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "en pyle"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "en hulle tong"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "'n swaard"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "skerp"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:57.705281941Z",
+  "model": "glm-5.3"
+}

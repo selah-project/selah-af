@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "Moenie my weggooi in die tyd van grysheid nie; wanneer my krag opraak, moenie my verlaat nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "my weggooi"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "in die tyd van"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "grysheid"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "wanneer ... opraak"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "my krag"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "my verlaat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:24.768633309Z",
+  "model": "glm-5.3"
+}

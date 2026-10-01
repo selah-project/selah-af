@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Verdryf ⟨die⟩ spotter, en ⟨die⟩ twis gaan uit, en geding en smaad hou op.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "verdryf"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "spotter"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en gaan uit"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "twis"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "en hou op"
+    },
+    {
+      "surface": "דין",
+      "gloss": "geding"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "en smaad"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:21.878295225Z",
+  "model": "glm-5.3"
+}

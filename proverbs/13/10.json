@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Slegs deur hoogmoed kom twis, maar by diegene wat ⟨את⟩ raadpleeg ⟨is⟩ wysheid.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "slegs"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "deur hoogmoed"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kom"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "twis"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "maar ⟨את⟩",
+      "marks": "diegene wat raadpleeg"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "diegene wat raadpleeg"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wysheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:22.550299543Z",
+  "model": "glm-5.3"
+}

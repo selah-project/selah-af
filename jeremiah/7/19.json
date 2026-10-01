@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 7:19",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "My — is dit ⟨את⟩ my wat hulle terg? sê Jahweh; is dit nie ⟨את⟩ hulleself nie, tot die skande van hulle eie gesigte?",
+  "tokens": [
+    {
+      "surface": "האתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "הם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "מכעסים",
+      "gloss": "terg"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "is dit nie"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulleself",
+      "marks": "hulleself"
+    },
+    {
+      "surface": "למען",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "die skande van"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "hulle gesigte"
+    }
+  ],
+  "timestamp": "2026-09-30T22:30:52.894508235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En Mosje het ⟨את⟩ Aharon en ⟨את⟩ sy seuns nader gebring, en ⟨את⟩ hulle met water gewas.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hy het nader gebring"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy seuns"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "en hy het gewas"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ hulle"
+    },
+    {
+      "surface": "במים",
+      "gloss": "met water"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:56.761591802Z",
+  "model": "glm-5.3"
+}

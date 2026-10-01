@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En Abimeleg sê vir Awraham: Wat het jy gesien, dat jy ⟨את⟩ hierdie ding gedoen het?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En sê"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Abimeleg"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Wat"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "het jy gesien"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "jy gedoen het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie ding"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die ding"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:02.475128069Z",
+  "model": "glm-5.3"
+}

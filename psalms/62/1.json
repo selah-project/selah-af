@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "Vir die koorleier, oor Jedoetoen; 'n lied van Dawid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleier"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Jedoetoen"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n lied"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:20.214965504Z",
+  "model": "glm-5.3"
+}

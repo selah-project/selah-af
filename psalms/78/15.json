@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Hy het rotse in die woestyn gekloof en hulle laat drink soos uit groot dieptes.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "het gekloof"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "rotse"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "en laat drink"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "soos uit dieptes"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "groot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:54.464143951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 81,
+  "translation": "Want 'n insetting vir Jisraël ⟨is dit⟩, 'n reg vir ⟨die⟩ Elohim van Jaäkow.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חק",
+      "gloss": "insetting"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "'n reg"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "vir die Elohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "van Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:50.523752663Z",
+  "model": "glm-5.3"
+}

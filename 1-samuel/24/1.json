@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En Dawid het van daar opgegaan en in die skuilplekke van Ein-Gedi gaan woon.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "het opgegaan"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "משם",
+      "gloss": "van daar"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "het gaan woon"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "in die skuilplekke"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ein"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Gedi"
+    }
+  ],
+  "timestamp": "2026-09-30T21:47:11.173415246Z",
+  "model": "glm-5.3"
+}

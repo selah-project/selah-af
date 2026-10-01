@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 44,
+  "translation": "Hoewel ⟨u⟩ ons verbrysel het in 'n plek van jakkalse, en ons met die skaduwee van die dood bedek het.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "hoewel"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "⟨u⟩ het ons verbrysel"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in 'n plek van"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "jakkalse"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "en het bedek"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ons"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "met die skaduwee van die dood"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:19.370665878Z",
+  "model": "glm-5.3"
+}

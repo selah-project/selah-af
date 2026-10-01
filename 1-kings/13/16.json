@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy het gesê: Ek kan nie terugkeer met ⟨את⟩ jou nie, en ingaan met ⟨את⟩ jou nie; en ek sal nie brood eet en nie water drink met ⟨את⟩ jou in hierdie plek nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "kan ek"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "terugkeer"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "met ⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "en ingaan"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "met ⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "drink"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "met ⟨את⟩ jou",
+      "marks": "jou"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "in die plek"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T22:02:30.698703930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 5:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Spreek met die kinders van Jisraël: as 'n man of 'n vrou een van die sondes van die mens doen deur ontrou te pleeg teenoor Jahweh, dan is daardie siel skuldig.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "או",
+      "gloss": "of"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "as"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "hulle doen"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "een van"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "die sondes"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "van die mens"
+    },
+    {
+      "surface": "למעל",
+      "gloss": "om ontrou te pleeg"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ontrou"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "teenoor Jahweh"
+    },
+    {
+      "surface": "ואשמה",
+      "gloss": "dan is ... skuldig"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "daardie siel"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:02.943393847Z",
+  "model": "glm-5.3"
+}

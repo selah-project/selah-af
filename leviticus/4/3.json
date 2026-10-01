@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 4:3",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "as die gesalfde priester sonig tot skuld van die volk, dan bring ⟨hy⟩ vir sy sonde wat hy gedoen het 'n jong bul, 'n seun van die beesvee, volmaak, aan Jahweh, as sondoffer.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "die gesalfde"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "sonig"
+    },
+    {
+      "surface": "לאשמת",
+      "gloss": "tot skuld van"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "dan bring"
+    },
+    {
+      "surface": "על",
+      "gloss": "vir"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sy sonde"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "hy gedoen het"
+    },
+    {
+      "surface": "פר",
+      "gloss": "'n jong bul"
+    },
+    {
+      "surface": "בן",
+      "gloss": "'n seun van"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "die beesvee"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "volmaak"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "as sondoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:53.502873023Z",
+  "model": "glm-5.3"
+}

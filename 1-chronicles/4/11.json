@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Keloeb, die broer van Sugah, het ⟨את⟩ Megir verwek; hy is die vader van Esjton.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "En Keloeb"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "die broer"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "van Sugah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Megir"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Megir"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "vader"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "van Esjton"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:23.366472917Z",
+  "model": "glm-5.3"
+}

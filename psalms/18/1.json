@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Vir die koordirigent, van die dienskneg van Jahweh, van Dawid, wat ⟨את⟩ die woorde van hierdie lied vir Jahweh gespreek het, op die dag toe Jahweh ⟨את⟩ hom gered het uit die palm van al sy vyande en uit die hand van Saul.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koordirigent"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "van die dienskneg"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die woorde van hierdie lied"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "die woorde"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "van hierdie lied"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag toe"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "gered het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom (Dawid)"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "uit die palm"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van al"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sy vyande"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Saul"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:53.473639322Z",
+  "model": "glm-5.3"
+}

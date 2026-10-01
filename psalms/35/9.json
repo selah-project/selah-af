@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "En my siel sal jubel in Jahweh, sy sal vreugde skep in sy redding.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "en my siel"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "sal jubel"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "sal vreugde skep"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "in sy redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:17.884881875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En nou, my seun, luister na my stem, na wat ek ⟨את⟩ jou beveel.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "En nou"
+    },
+    {
+      "surface": "בני",
+      "gloss": "my seun"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "luister"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "na my stem"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "na wat"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "beveel"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:06.136804197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 73,
+  "translation": "Uit vet gaan hulle oog uit; hulle oortref die verbeelings van die hart.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "gaan uit"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "uit vet"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "hulle oog"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "hulle oortref"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "die verbeelings"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "van die hart"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:15.292254784Z",
+  "model": "glm-5.3"
+}

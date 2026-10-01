@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Jahweh onse Elohim het in ons hand gegee, ook ⟨את⟩ Og, koning van Basjan, en ⟨את⟩ sy hele volk; en ons het hom geslaan tot daar geen oorlewende vir hom oorgelaat is nie.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "onse Elohim"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "in ons hand"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Og, koning van Basjan"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Og"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "van Basjan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "en ons het hom geslaan"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "nie"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "oorgelaat is"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "'n oorlewende"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:17.295874207Z",
+  "model": "glm-5.3"
+}

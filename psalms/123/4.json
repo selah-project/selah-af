@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 123,
+  "translation": "Baie versadig ⟨is⟩ ons siel met die gespot van die sorgvryes, met die veragting van die hoogmoediges.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Baie"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "versadig"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ons siel"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "met die gespot"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "van die sorgvryes"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "met die veragting"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "van die hoogmoediges"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:37.644547628Z",
+  "model": "glm-5.3"
+}

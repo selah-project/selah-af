@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 1:34",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die Emoriet het ⟨את⟩ die seuns van Dan die berg in gedwing, want hulle het hulle nie laat afsak na die laagte nie.",
+  "tokens": [
+    {
+      "surface": "וילחצו",
+      "gloss": "het gedwing"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "die Emoriet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Dan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "die berg in"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "hulle het hulle laat"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "afsak"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "na die laagte"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:42.511427516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Hoekom is jou stieres weggevee? Hy het nie bly staan nie, want Jahweh het hom weggestamp.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Hoekom"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "is weggevee"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "jou stieres"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "het bly staan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "het hom weggestamp"
+    }
+  ],
+  "timestamp": "2026-09-30T22:41:54.775577023Z",
+  "model": "glm-5.3"
+}

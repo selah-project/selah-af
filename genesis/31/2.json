@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jaäkow het ⟨את⟩ die aangesig van Laban gesien, en kyk, dit was nie met hom soos gister en eergister nie.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die aangesig van Laban"
+    },
+    {
+      "surface": "פני",
+      "gloss": "die aangesig"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "van Laban"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "dit was nie"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "met hom"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "soos gister"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "en eergister"
+    }
+  ],
+  "timestamp": "2026-09-30T20:36:41.832301778Z",
+  "model": "glm-5.3"
+}

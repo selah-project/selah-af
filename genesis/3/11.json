@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En hy het gesê: Wie het aan jou meegedeel dat jy naak ⟨is⟩? Het jy van die boom geëet waarvan ek jou beveel het om nie daarvan te eet nie?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "het meegedeel"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan jou"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "naak"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "המן",
+      "gloss": "het jy van"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "waarvan"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ek jou beveel het"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "om nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "te eet"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "daarvan"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "het jy geëet"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:14.664662144Z",
+  "model": "glm-5.3"
+}

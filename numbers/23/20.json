@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Kyk, om te seën het ek ontvang; en ⟨Hy⟩ seën, en ek kan dit nie terugroep nie.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "om te seën"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "het ek ontvang"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "en ⟨Hy⟩ seën"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "kan ek dit terugroep"
+    }
+  ],
+  "timestamp": "2026-09-30T21:12:28.249210641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 92,
+  "translation": "En my oog het gekyk op die wat my beloer, op die wat teen my opstaan, die kwaaddoeners — my ore sal hoor ⟨hulle eind⟩.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "en het gekyk"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "my oog"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "op die wat my beloer"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "op die wat opstaan"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "die kwaaddoeners"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "sal hoor"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "my ore"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:34.809621264Z",
+  "model": "glm-5.3"
+}

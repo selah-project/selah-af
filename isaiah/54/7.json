@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 54:7",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 54,
+  "translation": "Vir 'n klein oomblik het ek jou verlaat, en met groot barmhartighede sal ek jou versamel.",
+  "tokens": [
+    {
+      "surface": "ברגע",
+      "gloss": "'n oomblik"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "עזבתיך",
+      "gloss": "het ek jou verlaat"
+    },
+    {
+      "surface": "וברחמים",
+      "gloss": "en met barmhartighede"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "groot"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "sal ek jou versamel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:25:38.386523084Z",
+  "model": "glm-5.3"
+}

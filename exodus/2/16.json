@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 2:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En aan die priester van Midjan ⟨was⟩ daar sewe dogters, en hulle kom en skep water en vul ⟨את⟩ die trogge om die kleinvee van hulle vader te laat drink.",
+  "tokens": [
+    {
+      "surface": "ולכהן",
+      "gloss": "en aan die priester"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "van Midjan"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "sewe"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "dogters"
+    },
+    {
+      "surface": "ותבאנה",
+      "gloss": "en hulle kom"
+    },
+    {
+      "surface": "ותדלנה",
+      "gloss": "en hulle skep water"
+    },
+    {
+      "surface": "ותמלאנה",
+      "gloss": "en hulle vul"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die trogge"
+    },
+    {
+      "surface": "הרהטים",
+      "gloss": "die trogge"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "om te laat drink"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "die kleinvee"
+    },
+    {
+      "surface": "אביהן",
+      "gloss": "hulle vader"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:41.207037408Z",
+  "model": "glm-5.3"
+}

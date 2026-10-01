@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Die verdwene blaar — sal U hom verskrik, en ⟨את⟩ droë strooi najag?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "die blaar"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "verdwene"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "sal U verskrik"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "droë strooi"
+    },
+    {
+      "surface": "קש",
+      "gloss": "strooi"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "droë"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "sal U najag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:52.506822894Z",
+  "model": "glm-5.3"
+}

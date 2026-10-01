@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Roem nie oor môre nie, want jy weet nie wat 'n dag sal voortbring nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "roem"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "jy weet"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "sal voortbring"
+    },
+    {
+      "surface": "יום",
+      "gloss": "'n dag"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:34.298143372Z",
+  "model": "glm-5.3"
+}

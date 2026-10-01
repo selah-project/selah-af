@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Want verdrukking maak 'n wyse mal, en 'n geskenk vernietig ⟨את⟩ die hart.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "verdrukking"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "maak mal"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "'n wyse"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "en vernietig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hart"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "'n geskenk"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:56.728159385Z",
+  "model": "glm-5.3"
+}

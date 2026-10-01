@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 97,
+  "translation": "Tsijon het gehoor en was bly, en die dogters van Jehoeda het gejuig oor u regsgedinge, Jahweh.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "en was bly"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsijon"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "en het gejuig"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "die dogters"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "oor"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u regsgedinge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:51.334834745Z",
+  "model": "glm-5.3"
+}

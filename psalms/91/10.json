@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 91,
+  "translation": "Geen onheil sal jou tref, en geen plage sal naby jou tent kom nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "sal tref"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "onheil"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "en geen plage"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "sal naby kom"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "aan jou tent"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:27.352474261Z",
+  "model": "glm-5.3"
+}

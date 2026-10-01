@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 29:24",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En die priesters het hulle geslag, en hulle het ⟨את⟩ hulle bloed op die altaar gesondig, om versoening te doen oor heel Jisraël; want vir heel Jisraël, het die koning gesê, ⟨is⟩ die brandoffer en die sondoffer.",
+  "tokens": [
+    {
+      "surface": "וישחטום",
+      "gloss": "en die priesters het hulle geslag"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "ויחטאו",
+      "gloss": "en hulle het gesondig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle bloed"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "hulle bloed"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "op die altaar"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "om versoening te doen"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "העולה",
+      "gloss": "die brandoffer"
+    },
+    {
+      "surface": "והחטאת",
+      "gloss": "en die sondoffer"
+    }
+  ],
+  "timestamp": "2026-10-01T01:01:08.986544743Z",
+  "model": "glm-5.3"
+}

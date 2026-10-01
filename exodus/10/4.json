@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Want as jy weier om ⟨את⟩ my volk weg te stuur, kyk, ek bring môre die sprinkane binne jou grense.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "weier"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "om weg te stuur"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my volk"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "my volk"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, ek"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "bring"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "môre"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "sprinkane"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "binne jou grense"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:43.438110562Z",
+  "model": "glm-5.3"
+}

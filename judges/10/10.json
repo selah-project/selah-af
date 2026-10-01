@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die seuns van Jisraël het tot Jahweh geroep en gesê: Ons het teen jou gesondig, want ons het ⟨את⟩ ons Elohim verlaat en ⟨את⟩ die Baäls gedien.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "het geroep"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ons het gesondig"
+    },
+    {
+      "surface": "לך",
+      "gloss": "teen jou"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "ons het verlaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ons Elohim"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "en gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baäls"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baäls"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:22.346839512Z",
+  "model": "glm-5.3"
+}

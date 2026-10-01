@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ sy aangesig regop gehou, ⟨en hy het dit vas gehou⟩ totdat ⟨hy⟩ beskaamd was; en die man van die Elohim het geween.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hy het regop gehou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy aangesig"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sy aangesig"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "⟨en hy het dit vas gehou⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "בש",
+      "gloss": "beskaamd"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "en hy het geween"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van die Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:54.518238540Z",
+  "model": "glm-5.3"
+}

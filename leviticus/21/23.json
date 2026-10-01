@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 21:23",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Net tot ⟨die⟩ voorhangsel mag hy nie ingaan nie, en tot ⟨die⟩ altaar mag hy nie nader kom nie, want 'n gebrek is in hom; en hy mag ⟨את⟩ my heiligdomme nie ontheilig nie, want ek ⟨is⟩ Jahweh wat hulle heilig.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "die voorhangsel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "mag hy ingaan"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "en tot"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "mag nader kom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מום",
+      "gloss": "'n gebrek"
+    },
+    {
+      "surface": "בו",
+      "gloss": "in hom"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יחלל",
+      "gloss": "mag ontheilig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my heiligdomme"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "my heiligdomme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "wat hulle heilig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:01:23.962853977Z",
+  "model": "glm-5.3"
+}

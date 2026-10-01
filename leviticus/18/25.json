@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En die aarde is onrein geword, en Ek het haar ongeregtigheid op haar besoek, en die aarde het ⟨את⟩ haar bewoners uitgebraak.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "en is onrein geword"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "en Ek het besoek"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "haar ongeregtigheid"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "op haar"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "en het uitgebraak"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar bewoners"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "haar bewoners"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:00.724287022Z",
+  "model": "glm-5.3"
+}

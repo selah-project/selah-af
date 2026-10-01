@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Gevalle ⟨is⟩ die kroon van ons hoof; wee nou vir ons, want ons het gesondig.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "gevalle"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "die kroon"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "van ons hoof"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "wee"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nou"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "vir ons"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ons het gesondig"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:08.213159127Z",
+  "model": "glm-5.3"
+}

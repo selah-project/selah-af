@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Kosbaar ⟨is⟩ in die oë van Jahweh die dood van sy getroues.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Kosbaar"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "die dood"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "van sy getroues"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:19.474604146Z",
+  "model": "glm-5.3"
+}

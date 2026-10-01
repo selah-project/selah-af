@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 105,
+  "translation": "Tot die tyd dat sy woord gekom het — die woord van Jahweh het hom gelouter.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Tot"
+    },
+    {
+      "surface": "עת",
+      "gloss": "die tyd"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "sy woord"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "het hom gelouter"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:17.409992757Z",
+  "model": "glm-5.3"
+}

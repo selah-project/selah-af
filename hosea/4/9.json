@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 4:9",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En dit sal wees: soos ⟨die⟩ volk, so ⟨die⟩ priester; en ek sal sy weë oor hom besoek, en sy dade sal ek aan hom terugbesorg.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "En dit sal wees"
+    },
+    {
+      "surface": "כעם",
+      "gloss": "soos die volk"
+    },
+    {
+      "surface": "ככהן",
+      "gloss": "so die priester"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "en ek sal besoek"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "sy weë"
+    },
+    {
+      "surface": "ומעלליו",
+      "gloss": "en sy dade"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "sal ek terugbesorg"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:08.264739661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "sodat Hy ⟨את⟩ jou vandag vir Hom as 'n volk kan bevestig, en ⟨hy⟩ vir jou tot Elohim kan wees, soos Hy met jou gespreek het, en soos Hy aan jou vaders gesweer het, aan Awraham, aan Jitsgak en aan Jaäkow.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "sodat"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "kan bevestig"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "jou"
+    },
+    {
+      "surface": "היום",
+      "gloss": "vandag"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "as 'n volk"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "en ⟨hy⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kan wees"
+    },
+    {
+      "surface": "לך",
+      "gloss": "vir jou"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "לך",
+      "gloss": "met jou"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "en soos"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "gesweer het"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "aan jou vaders"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "aan Awraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "aan Jitsgak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "en aan Jaäkow"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:19.382422205Z",
+  "model": "glm-5.3"
+}

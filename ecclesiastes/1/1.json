@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Die woorde van Kóhelet, seun van Dawid, koning in Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Die woorde"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "van Kóhelet"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "in Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-10-01T00:27:08.312598002Z",
+  "model": "glm-5.3"
+}

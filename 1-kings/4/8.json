@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "en dit is hulle name: Ben-Chur, in die bergland van Efraim.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "en dit is"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "hulle name"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ben-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Chur"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "in die bergland van"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efraim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:05.028712730Z",
+  "model": "glm-5.3"
+}

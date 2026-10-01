@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "En as dit 'n vrou is, dan ⟨is⟩ jou skatting dertig sjekel.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "En as"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "dit is"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "dan ⟨is⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "jou skatting"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "dertig"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "sjekel"
+    }
+  ],
+  "timestamp": "2026-09-30T21:03:53.962459588Z",
+  "model": "glm-5.3"
+}

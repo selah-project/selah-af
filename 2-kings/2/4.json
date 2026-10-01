@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 2:4",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En Elia het vir hom gesê: Elisa, bly tog hier, want Jahweh het my na Jerigo gestuur. Hy sê: So seker as Jahweh lewe en so seker as jou siel lewe, ek sal jou nie verlaat nie. En hulle het by Jerigo aangekom.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elia"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "שב",
+      "gloss": "bly"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "פה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "het my gestuur"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerigo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "hy sê"
+    },
+    {
+      "surface": "חי",
+      "gloss": "lewe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "en ... lewe"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אעזבך",
+      "gloss": "ek jou verlaat"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "hulle het aangekom"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Jerigo"
+    }
+  ],
+  "timestamp": "2026-09-30T22:06:47.154178302Z",
+  "model": "glm-5.3"
+}

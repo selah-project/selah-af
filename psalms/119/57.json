@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Jahweh is my deel; ek het gesê ⟨om⟩ u woorde te bewaar.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "my deel"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "te bewaar"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "u woorde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.103773413Z",
+  "model": "glm-5.3"
+}

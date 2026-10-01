@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En ek het ook gesê: Ek verdryf hulle ⟨את⟩ nie voor julle uit nie, en hulle sal vir julle tot flenters in die sy wees, en hulle gode sal vir julle tot 'n strik wees.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ek het gesê"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "verdryf"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle (die inwoners)"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "voor julle uit"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "en hulle sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "tot flenters in die sy"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "en hulle gode"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "tot 'n strik"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:22.757527449Z",
+  "model": "glm-5.3"
+}

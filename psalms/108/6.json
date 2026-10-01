@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 108,
+  "translation": "Verhef U bo ⟨die⟩ hemele, o Elohim, en oor die hele aarde u heerlikheid.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "verhef U"
+    },
+    {
+      "surface": "על",
+      "gloss": "bo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "hemele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "aarde"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "u heerlikheid"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:03.567109378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En ek het ⟨את⟩ die gordel gekoop volgens die woord van Jahweh, en ek het dit om my heupe gesit.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "En ek het gekoop"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gordel"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "die gordel"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "volgens die woord"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "en ek het gesit"
+    },
+    {
+      "surface": "על",
+      "gloss": "om"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "my heupe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:39.868981716Z",
+  "model": "glm-5.3"
+}

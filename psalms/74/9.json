@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 74,
+  "translation": "Ons tekens het ons nie gesien nie; daar is nie meer 'n profeet nie, en daar is nie ⟨את⟩ ons een wat weet hoe lank nie.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "ons tekens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "het ons gesien"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "'n profeet"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ons",
+      "marks": "ons (die gemeenskap by wie niemand weet hoe lank nie)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wat weet"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe lank"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:33.978904766Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En dit is aan Joab meegedeel: Kyk, die koning huil en rou oor Awbsjalom.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "en dit is meegedeel"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "aan Joab"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "huil"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "en rou"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awbsjalom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:55:47.077457698Z",
+  "model": "glm-5.3"
+}

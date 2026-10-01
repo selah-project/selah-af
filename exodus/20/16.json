@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Jy mag nie ⟨teen⟩ jou naaste 'n vals getuie antwoord nie.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "teen jou naaste"
+    },
+    {
+      "surface": "עד",
+      "gloss": "'n getuie"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "vals"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:23.406910829Z",
+  "model": "glm-5.3"
+}

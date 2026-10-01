@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "En ⟨die⟩ Mitsriërs was besig om te begrawe ⟨את⟩ die wat Jahweh onder hulle geslaan het, al die eersgeborenes; en aan hulle gode het Jahweh oordele voltrek.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "En die Mitsriërs"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "was besig om te begrawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wat Jahweh geslaan het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "die wat"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslaan het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "die eersgeborenes"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "en aan hulle gode"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "het voltrek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "oordele"
+    }
+  ],
+  "timestamp": "2026-09-30T21:15:25.620751565Z",
+  "model": "glm-5.3"
+}

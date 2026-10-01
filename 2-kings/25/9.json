@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hy het ⟨את⟩ die huis van Jahweh en ⟨את⟩ die huis van die koning en ⟨את⟩ al die huise van Jerusjalajim verbrand, en ⟨את⟩ elke groot huis het hy in die vuur verbrand.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "en hy het verbrand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die huis"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "al die huise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "die huise"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "elke groot huis"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "het hy verbrand"
+    },
+    {
+      "surface": "באש",
+      "gloss": "in die vuur"
+    }
+  ],
+  "timestamp": "2026-09-30T22:13:53.292573047Z",
+  "model": "glm-5.3"
+}

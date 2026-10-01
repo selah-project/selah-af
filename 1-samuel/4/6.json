@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 4:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die Filistyne het ⟨את⟩ die klank van die oorlogskreet gehoor en gesê: Wat ⟨beteken⟩ hierdie groot oorlogskreet in die laer van die Hebreeë? En hulle het geweet dat die ark van Jahweh in die laer gekom het.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "en hulle het gehoor"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "die Filistyne"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "van die oorlogskreet"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle het gesê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "התרועה",
+      "gloss": "van die oorlogskreet"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "groot"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "in die laer"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "van die Hebreeë"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "en hulle het geweet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "בא",
+      "gloss": "gekom het"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "die laer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:41:25.163349666Z",
+  "model": "glm-5.3"
+}

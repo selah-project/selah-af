@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "genesis 24:56",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Maar hy sê vir hulle: Hou my nie terug nie — Jahweh het my weg laat slaag; stuur my weg, dat ek kan gaan na my meester toe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "maar hy sê"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאחרו",
+      "gloss": "hou my terug"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "my ⟨את⟩",
+      "marks": "my — die kneg self as voorwerp van תאחרו"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "het laat slaag"
+    },
+    {
+      "surface": "דרתי",
+      "gloss": "my weg"
+    },
+    {
+      "surface": "שלחוני",
+      "gloss": "stuur my weg"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "dat ek kan gaan"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "na my meester toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:35:02.316197668Z",
+  "model": "glm-5.3"
+}

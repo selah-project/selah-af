@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "want Jahweh julle Elohim is die wat met julle meegaan om vir julle te stry teen julle vyande, om ⟨את⟩ julle te red.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "julle Elohim"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "die wat gaan"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "met julle"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "om te stry"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "עם",
+      "gloss": "teen"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "om te red"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "julle"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:46.284313706Z",
+  "model": "glm-5.3"
+}

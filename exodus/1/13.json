@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Mitsrajim het ⟨את⟩ die seuns van Jisraël laat diens doen met wrede dwang.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het laat diens doen"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "met wrede dwang"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:22.609394217Z",
+  "model": "glm-5.3"
+}

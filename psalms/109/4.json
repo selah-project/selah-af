@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 109,
+  "translation": "In plek van my liefde het hulle my aangekla, maar ék — gebed.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "In plek van"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "my liefde"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "het hulle my aangekla"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "maar ék"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "gebed"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:23.137162698Z",
+  "model": "glm-5.3"
+}

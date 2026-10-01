@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het die bul van die sondoffer nagebring, en Aharon en sy seuns het hulle hande op die kop van die bul van die sondoffer gelê.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "nagebring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bul van die sondoffer"
+    },
+    {
+      "surface": "פר",
+      "gloss": "die bul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondoffer"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "gelê"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle hande"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die kop"
+    },
+    {
+      "surface": "פר",
+      "gloss": "van die bul"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:35.881936963Z",
+  "model": "glm-5.3"
+}

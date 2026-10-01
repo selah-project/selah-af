@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Tel ⟨את⟩ die hoof van die seuns van Kehat, uit die midde van die seuns van Levi, volgens hulle families, volgens hulle vaderhuise:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Tel … die hoof van (lig)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoof van die seuns van Kehat"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "hoof"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Kehat"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "uit die midde van"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "volgens hulle families"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "volgens die huis van"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "hulle vaders"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:56.732878562Z",
+  "model": "glm-5.3"
+}

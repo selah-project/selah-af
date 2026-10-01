@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 121,
+  "translation": "Jahweh sal jou bewaar vir alle kwaad; hy sal ⟨את⟩ jou siel bewaar.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "sal jou bewaar"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "vir alle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "hy sal bewaar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou siel"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "jou siel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:13.019700364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Want daarheen het stamme opgegaan, stamme van Jah, 'n getuienis vir Jisraël, om die Naam van Jahweh te dank.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "daarheen"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "het opgegaan"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "stamme"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "'n getuienis"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "vir Jisraël"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "om te dank"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "die Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:17.093577935Z",
+  "model": "glm-5.3"
+}

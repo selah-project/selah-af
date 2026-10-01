@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "En tot die goddelose het Elohim gesê: Wat het jy daaraan om My insettinge te vertel, en om My verbond op jou mond te dra?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "en tot die goddelose"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "het gesê"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "het jy daaraan"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "om te vertel"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "My insettinge"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "en om te dra"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "My verbond"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "op"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "jou mond"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:49.318018261Z",
+  "model": "glm-5.3"
+}

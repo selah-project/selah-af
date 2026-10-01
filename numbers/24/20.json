@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 24:20",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "En hy het ⟨את⟩ Amalek gesien, en hy het sy spreuk opgehef en gesê: Eerste van die nasies is Amalek, en sy einde — vergaan tot vernietiging.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "En hy het gesien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amalek"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Amalek"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "en hy het opgehef"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "sy spreuk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en gesê"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "Eerste"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "is Amalek"
+    },
+    {
+      "surface": "ואחריתו",
+      "gloss": "en sy einde"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "vernieling"
+    }
+  ],
+  "timestamp": "2026-09-30T23:59:39.335442750Z",
+  "model": "glm-5.3"
+}

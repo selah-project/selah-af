@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "om die armes met silwer te koop en die behoeftige vir 'n paar sandale, en die afval van die koring te verkoop?",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "om te koop"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "met silwer"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "die armes"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en die behoeftige"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "vir"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "'n paar sandale"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "en die afval"
+    },
+    {
+      "surface": "בר",
+      "gloss": "van die koring"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "te verkoop"
+    }
+  ],
+  "timestamp": "2026-09-30T23:03:29.394544121Z",
+  "model": "glm-5.3"
+}

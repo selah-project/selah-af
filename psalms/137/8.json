@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 137,
+  "translation": "Dogter van Babel, die verwoeste — gelukkig is hy wat aan u vergeld ⟨את⟩ u vergelding, wat u ons aangedoen het.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Dogter"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "van Babel"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "die verwoeste"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig is"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "hy wat vergeld"
+    },
+    {
+      "surface": "לך",
+      "gloss": "aan u"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u vergelding"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "u vergelding"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "wat u aangedoen het"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "aan ons"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:52.259434354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En dit sal gebeur op daardie dag: Ek sal ⟨את⟩ die boog van Jisraël breek in die dal van Jizreël.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "en dit sal gebeur"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "op die dag"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "sal Ek breek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boog van Jisraël"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "boog"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "in die dal"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Jizreël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:59:44.348728243Z",
+  "model": "glm-5.3"
+}

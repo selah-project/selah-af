@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 50:22",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 50,
+  "translation": "Verstaan tog hierdie, julle wat Elohim vergeet, sodat ek nie verskeur nie en daar geen redder ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "Verstaan"
+    },
+    {
+      "surface": "נא",
+      "gloss": "tog"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "wat (Elohim) vergeet"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "פן",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "אטרף",
+      "gloss": "verskeur"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar geen … is"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "redder"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:39.264876525Z",
+  "model": "glm-5.3"
+}

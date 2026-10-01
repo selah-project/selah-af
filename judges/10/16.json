@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En hulle het ⟨את⟩ die gode van die vreemde uit hul midde weggeneem en ⟨את⟩ Jahweh gedien — en sy siel het kort geword oor die lyd van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "En hulle het weggeneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die gode van die vreemde"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die gode van"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "die vreemde"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "uit hul midde"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "en het kort geword"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy siel"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "oor die lyd van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:35:35.241428985Z",
+  "model": "glm-5.3"
+}

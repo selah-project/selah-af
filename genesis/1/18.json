@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 1:18",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "en om te heers oor die dag en oor die nag, en om te skei tussen ⟨die⟩ lig en tussen ⟨die⟩ duisternis; en Elohim het gesien dat dit goed ⟨is⟩",
+  "tokens": [
+    {
+      "surface": "ולמשל",
+      "gloss": "en om te heers"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "oor die dag"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "en oor die nag"
+    },
+    {
+      "surface": "ולהבדיל",
+      "gloss": "en om te skei"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "האור",
+      "gloss": "die lig"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "die duisternis"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "en het gesien"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:28.638977828Z",
+  "model": "glm-5.3"
+}

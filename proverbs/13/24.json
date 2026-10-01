@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 13:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Wie sy stok terughou, haat sy seun; maar wie hom liefhet, soek hom vroeg met tug.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "terughou"
+    },
+    {
+      "surface": "שבטו",
+      "gloss": "sy stok"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "haat"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    },
+    {
+      "surface": "ואהבו",
+      "gloss": "maar liefhet hom"
+    },
+    {
+      "surface": "שחרו",
+      "gloss": "soek vroeg"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "tug"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:31.902016037Z",
+  "model": "glm-5.3"
+}

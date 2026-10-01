@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 1:24",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En die spioene sien 'n man uit die stad uitkom, en hulle sê vir hom: Wys ons asseblief ⟨את⟩ die ingang van die stad, en ons sal ⟨met⟩ jou gesed bewys.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "die spioene"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "uitkom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "en hulle sê"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "הראנו",
+      "gloss": "wys"
+    },
+    {
+      "surface": "נא",
+      "gloss": "asseblief"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ingang van die stad"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "die ingang"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "van die stad"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "en ons sal bewys"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨met⟩ jou"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    }
+  ],
+  "timestamp": "2026-09-30T21:32:36.137903431Z",
+  "model": "glm-5.3"
+}

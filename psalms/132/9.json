@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 132,
+  "translation": "Laat jou priesters hulle met tsedek beklee, en laat jou getroues van blydskap juig.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "jou priesters"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "laat ... beklee"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "met tsedek"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "en jou getroues"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "laat juig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.709570169Z",
+  "model": "glm-5.3"
+}

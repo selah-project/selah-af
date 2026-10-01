@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Aharon het nader gekom na die altaar, en het geslag ⟨את⟩ die kalf van die sondoffer wat vir hom ⟨was⟩.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "en hy het nader gekom"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "en hy het geslag"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kalf van die sondoffer"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "die kalf"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "van die sondoffer"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:31.495942488Z",
+  "model": "glm-5.3"
+}

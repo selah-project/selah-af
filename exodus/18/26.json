@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hulle het ⟨את⟩ die volk ten alle tye geoordeel; ⟨את⟩ die moeilike saak het hulle na Mosje gebring, en elke klein saak het húlle self geoordeel.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "en hulle het geoordeel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ten alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die moeilike saak"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "moeilike"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "het hulle gebring"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en elke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "saak"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "klein"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "het geoordeel"
+    },
+    {
+      "surface": "הם",
+      "gloss": "húlle self"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:41.187764390Z",
+  "model": "glm-5.3"
+}

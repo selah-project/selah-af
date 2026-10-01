@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "Die Kohelet het gesoek om woorde van behae te vind, en geskrewe ⟨is⟩ reg — woorde van waarheid.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "het gesoek"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "die Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "om te vind"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorde van"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "behae"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "en geskrewe"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reg"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorde van"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "waarheid"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:43.197976540Z",
+  "model": "glm-5.3"
+}

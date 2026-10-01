@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 17:22",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En Dawid het ⟨את⟩ die goedere van hom af gelaat in die hand van die bewaarder van die goedere, en hy het na die slagorde gehardloop, en gekom, en na die vrede van sy broers gevra.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "het gelaat"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die goedere"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "die goedere"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "van hom af"
+    },
+    {
+      "surface": "על",
+      "gloss": "in"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "die bewaarder"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "van die goedere"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "en gehardloop"
+    },
+    {
+      "surface": "המערכה",
+      "gloss": "na die slagorde"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "en gekom"
+    },
+    {
+      "surface": "וישאל",
+      "gloss": "gevra"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "van sy broers"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "na die vrede"
+    }
+  ],
+  "timestamp": "2026-09-30T21:44:51.781936735Z",
+  "model": "glm-5.3"
+}

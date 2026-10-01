@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 3:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "'n Mizmor van Dawid, toe hy gevlug het van die aangesig van Awgsjalom, sy seun.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Mizmor"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "toe hy gevlug het"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "van die aangesig van"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Awgsjalom"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "sy seun"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:27.934126245Z",
+  "model": "glm-5.3"
+}

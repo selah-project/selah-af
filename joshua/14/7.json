@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 14:7",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Die seun van veertig jaar was ek toe Mosje, die dienaar van Jahweh, my gestuur het van Kadeg-Barnea om ⟨את⟩ die land te verken, en ek het hom 'n woord teruggebring soos dit met my hart was.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "die seun van"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "veertig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ek"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "toe ... gestuur het"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "die dienaar van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ my",
+      "marks": "my"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "van Kadeg"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "om te verken"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ואשב",
+      "gloss": "en ek het teruggebring"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "'n woord"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "my hart"
+    }
+  ],
+  "timestamp": "2026-09-30T21:30:12.974352271Z",
+  "model": "glm-5.3"
+}

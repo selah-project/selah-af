@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Vergruisd ⟨is⟩ my siel van verlange na u regte, te alle tyd.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "Vergruisd"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "van verlange"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "u regte"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "te alle"
+    },
+    {
+      "surface": "עת",
+      "gloss": "tyd"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:57.659421494Z",
+  "model": "glm-5.3"
+}

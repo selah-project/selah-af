@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En hulle het hom op die perde gebring en hom ⟨את⟩ begrawe met sy vaders in die stad van Jehoeda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "hulle het hom gebring"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "die perde"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "en hulle het begrawe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "sy vaders"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "in die stad"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "van Jehoeda"
+    }
+  ],
+  "timestamp": "2026-10-01T01:01:57.673805594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "In die weg van wysheid het ek jou onderrig; ek het jou laat loop in die paaie van reg.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "In die weg"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "van wysheid"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "het ek jou onderrig"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "het ek jou laat loop"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "in die paaie"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "van reg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:32:09.983576058Z",
+  "model": "glm-5.3"
+}

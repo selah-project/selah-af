@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 21:5",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En Izebel, sy vrou, het by hom ingestap en tot hom gespreek: Wat is dit? Jou roeag is stroop en jy eet geen brood nie.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "en sy het ingestap"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "by hom"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "sy vrou"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "en sy het gespreek"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hom"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "זה",
+      "gloss": "is dit"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "jou roeag"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "stroop"
+    },
+    {
+      "surface": "ואינך",
+      "gloss": "en jy is nie"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:40.452078126Z",
+  "model": "glm-5.3"
+}

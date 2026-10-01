@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "Julle mag nie steel nie, en julle mag nie lieg nie, en julle mag nie met mekaar bedrieg nie — 'n man met sy naaste.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "mag steel"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "mag lieg"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "mag bedrieg"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "met sy naaste"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:06.560791422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En die koning Agasjweros het 'n dwangbelasting gelê op die land en op die eilande van die see.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en het gelê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "Agasjweros"
+    },
+    {
+      "surface": "מס",
+      "gloss": "dwangbelasting"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "en die eilande"
+    },
+    {
+      "surface": "הים",
+      "gloss": "van die see"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:13.832849527Z",
+  "model": "glm-5.3"
+}

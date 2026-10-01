@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 3:7",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En die seuns van Jisraël het ⟨את⟩ die kwaad gedoen in die oë van Jahweh, en hulle het Jahweh hul Elohim vergeet, en hulle het ⟨את⟩ die Baälim en ⟨את⟩ die Asjerot gedien.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "En hulle het gedaan"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die kwaad"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die kwaad"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וישכחו",
+      "gloss": "en hulle het vergeet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh hul Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "hul Elohim"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "en hulle het gedien"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Baälim"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "die Baälim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die Asjerot"
+    },
+    {
+      "surface": "האשרות",
+      "gloss": "die Asjerot"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:20.101664603Z",
+  "model": "glm-5.3"
+}

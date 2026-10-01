@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "En sy byvrou — haar naam ⟨is⟩ Reüma — sy ook het ⟨את⟩ Tebag en ⟨את⟩ Gagam en ⟨את⟩ Tagasj en ⟨את⟩ Maäga gebaar.",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "En sy byvrou"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "haar naam"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "Reüma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "het gebaar"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "sy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Tebag"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "Tebag"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Gagam"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "Gagam"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tagasj"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "Tagasj"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Maäga"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Maäga"
+    }
+  ],
+  "timestamp": "2026-09-30T20:33:04.426661748Z",
+  "model": "glm-5.3"
+}

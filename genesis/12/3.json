@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 12:3",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En ek sal seën dié wat jou seën, en dié wat jou vervloek, sal ek vervloek; en in jou sal geseën word al die families van die aarde.",
+  "tokens": [
+    {
+      "surface": "ואברכה",
+      "gloss": "en ek sal seën"
+    },
+    {
+      "surface": "מברכיך",
+      "gloss": "dié wat jou seën"
+    },
+    {
+      "surface": "ומקללך",
+      "gloss": "en dié wat jou vervloek"
+    },
+    {
+      "surface": "אאר",
+      "gloss": "sal ek vervloek"
+    },
+    {
+      "surface": "ונברכו",
+      "gloss": "en geseën sal word"
+    },
+    {
+      "surface": "בך",
+      "gloss": "in jou"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "die families"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:12.653341785Z",
+  "model": "glm-5.3"
+}

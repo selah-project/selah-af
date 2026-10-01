@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 106,
+  "translation": "Hy het hulle gered uit die hand van die hater, en hulle losgekoop uit die hand van die vyand.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "gered hulle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "van die hater"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "losgekoop hulle"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "van die vyand"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:15.169971312Z",
+  "model": "glm-5.3"
+}

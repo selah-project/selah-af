@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "en die priesters kon nie staan om te dien vanwee die wolk nie, want die heerlikheid van Jahweh het die huis van Jahweh gevul ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en … nie"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "kon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "om te dien"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "vanwee"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "die wolk"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevul het"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "die heerlikheid van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die huis van Jahweh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis van"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:06.802637436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "Julle woning is midde-in bedrog; deur bedrog weier hulle om ⟨את⟩ My te ken, sê Jahweh.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "julle woning is"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "midde-in"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "bedrog"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "deur bedrog"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "weier hulle"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "om te ken"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ My",
+      "marks": "My"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T22:31:17.981160898Z",
+  "model": "glm-5.3"
+}

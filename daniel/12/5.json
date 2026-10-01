@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 12:5",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En ek, Daniël, het gesien, en kyk, twee ander het gestaan, een hier aan die rand van die rivier en een daar aan die rand van die rivier.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "en ek het gesien"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Daniël"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twee"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ander"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "het gestaan"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "hier"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "aan die rand"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "van die rivier"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "en een"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "לשפת",
+      "gloss": "aan die rand"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "van die rivier"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:43.466343940Z",
+  "model": "glm-5.3"
+}

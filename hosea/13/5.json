@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Ek het jou geken in die woestyn, in die land van grote dors.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ek"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "het jou geken"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "in die woestyn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die land"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "van grote dors"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:28.665380582Z",
+  "model": "glm-5.3"
+}

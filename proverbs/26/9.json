@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Soos 'n doring wat opkom in die hand van 'n dronkaard, so ⟨is⟩ 'n spreekwoord in die mond van dwaasen.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "'n doring"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "opkom"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "van 'n dronkaard"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "en 'n spreekwoord"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "in die mond"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "van dwaasen"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:07.986873196Z",
+  "model": "glm-5.3"
+}

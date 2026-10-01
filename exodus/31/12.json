@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "En Jahweh het met Mosje gespreek en gesê:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "met"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "en gesê"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:20.552733382Z",
+  "model": "glm-5.3"
+}

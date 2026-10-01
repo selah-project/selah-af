@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 10:20",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "⟨את⟩ Jahweh jou Elohim moet jy vrees, ⟨את⟩ Hom moet jy dien, en aan Hom moet jy vasklew, en by sy Naam moet jy sweer.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh jou Elohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "moet jy vrees"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ Hom",
+      "marks": "Hom (Jahweh)"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "moet jy dien"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "en aan Hom"
+    },
+    {
+      "surface": "תדבק",
+      "gloss": "moet jy vasklew"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "en by sy Naam"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "moet jy sweer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:52.612197881Z",
+  "model": "glm-5.3"
+}

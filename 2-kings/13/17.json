@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 13:17",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy het gesê: Maak die venster oos toe oop; en hy het dit oopgemaak. En Elisa het gesê: Skiet; en hy het geskiet. En hy het gesê: 'n Pyl van redding van Jahweh, en 'n pyl van redding oor Aram; en jy sal ⟨את⟩ Aram slaan in Afek, tot vernietiging toe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En hy het gesê"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "Maak oop"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "die venster"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "oos"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "en hy het dit oopgemaak"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elisa"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "Skiet"
+    },
+    {
+      "surface": "ויור",
+      "gloss": "en hy het geskiet"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "'n Pyl"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "van redding"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "en 'n pyl"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "van redding"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "oor Aram"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "en jy sal slaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "in Afek"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "vernietiging"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:00.621347756Z",
+  "model": "glm-5.3"
+}

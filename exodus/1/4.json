@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Dan en Naftali, Gad en Asjer.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "en Naftali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gad"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en Asjer"
+    }
+  ],
+  "timestamp": "2026-09-30T20:43:38.330054547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Soos sneeu in die somer en soos reën in die oestyd, so pas eer nie by 'n dwaas nie.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "soos sneeu"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "in die somer"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "en soos reën"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "in die oestyd"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "pas by"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "'n dwaas"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:29.958591803Z",
+  "model": "glm-5.3"
+}

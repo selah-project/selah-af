@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Hy wat hulle harte as een vorm, Hy wat verstaan na al hulle dade.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Hy wat vorm"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "as een"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "hulle harte"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "Hy wat verstaan"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "hulle dade"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:37.143536418Z",
+  "model": "glm-5.3"
+}

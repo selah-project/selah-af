@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 4:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En die seun van Sjaoel het gehoor dat Awner dood ⟨was⟩ in Gevron, en sy hande het verslap, en heel Jisraël was verskrik.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "en hy het gehoor"
+    },
+    {
+      "surface": "בן",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaoel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מת",
+      "gloss": "dood"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Awner"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "in Gevron"
+    },
+    {
+      "surface": "וירפו",
+      "gloss": "en het verslap"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sy hande"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "en heel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "was verskrik"
+    }
+  ],
+  "timestamp": "2026-09-30T21:50:27.572625357Z",
+  "model": "glm-5.3"
+}

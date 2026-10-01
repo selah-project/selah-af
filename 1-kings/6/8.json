@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 6:8",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Die opening van die middelste sykamer was na die regterskouer van die huis, en met windingtrappe gaan ⟨hulle⟩ op na die middelste, en van die middelste na die derde.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "die opening"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "van die sykamer"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "die middelste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "skouer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "die regter"
+    },
+    {
+      "surface": "ובלולים",
+      "gloss": "en met windingtrappe"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "gaan hulle op"
+    },
+    {
+      "surface": "על",
+      "gloss": "na"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "die middelste"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en van"
+    },
+    {
+      "surface": "התיכנה",
+      "gloss": "die middelste"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "die derde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:59:56.092050337Z",
+  "model": "glm-5.3"
+}

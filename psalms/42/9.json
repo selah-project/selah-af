@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "Bedags sal Jahweh sy gesed gebied, en in die nag ⟨is⟩ sy lied met my, 'n gebed tot ⟨את⟩ die El van my lewe.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "bedags"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "sal gebied"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "sy gesed"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "en in die nag"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "lied"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "met my"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "'n gebed"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "tot die El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "van my lewe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:16:45.191019697Z",
+  "model": "glm-5.3"
+}

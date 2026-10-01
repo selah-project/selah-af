@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 58,
+  "translation": "En die mens sal sê: voorwaar, daar is vrug vir die regverdige; voorwaar, daar is Elohim, regters in die aarde.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en sal sê"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "die mens"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "vrug"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "vir die regverdige"
+    },
+    {
+      "surface": "אך",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "יש",
+      "gloss": "daar is"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "regters"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:43.641404325Z",
+  "model": "glm-5.3"
+}

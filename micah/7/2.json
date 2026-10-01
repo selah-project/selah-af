@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 7:2",
+  "book": "micah",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Die vroom het vergaan uit die land, en die opregte onder die mense ⟨is⟩ daar nie; almal lê in hinderlaag vir bloed — 'n man jag ⟨את⟩ sy broer met 'n net.",
+  "tokens": [
+    {
+      "surface": "אבד",
+      "gloss": "het vergaan"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "Die vroom"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en die opregte"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "onder die mense"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨is⟩ daar nie"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "almal"
+    },
+    {
+      "surface": "לדמים",
+      "gloss": "vir bloed"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "lê in hinderlaag"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy broer"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "sy broer"
+    },
+    {
+      "surface": "יצודו",
+      "gloss": "jag"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "met 'n net"
+    }
+  ],
+  "timestamp": "2026-09-30T23:06:06.502752951Z",
+  "model": "glm-5.3"
+}

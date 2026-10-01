@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Van Dawid, 'n mizmor. Sê Jahweh tot my heer: sit aan my regterhand, totdat ek jou vyande as 'n voetbank vir jou voete lê.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n mizmor"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "sê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "tot my heer"
+    },
+    {
+      "surface": "שב",
+      "gloss": "sit"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "aan my regterhand"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ek lê"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "jou vyande"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "as 'n voetbank"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "vir jou voete"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:19.627858684Z",
+  "model": "glm-5.3"
+}

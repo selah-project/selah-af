@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 60:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 60,
+  "translation": "U het u volk ⟨die⟩ harde laat sien; U het ons wyn van gewankel laat drink.",
+  "tokens": [
+    {
+      "surface": "הראיתה",
+      "gloss": "U het laat sien"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "u volk"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "harde"
+    },
+    {
+      "surface": "השקיתנו",
+      "gloss": "U het ons laat drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "תרעלה",
+      "gloss": "van gewankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:44.201140130Z",
+  "model": "glm-5.3"
+}

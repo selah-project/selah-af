@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "En hy het gesê: As hulle vir vrede uitgegaan het, gryp hulle lewendig; en as hulle vir oorlog uitgegaan het, gryp hulle lewendig.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "vir vrede"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hulle uitgegaan het"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "gryp hulle"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewendig"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "en as"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "vir oorlog"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "hulle uitgegaan het"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "lewendig"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "gryp hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:17.935418714Z",
+  "model": "glm-5.3"
+}

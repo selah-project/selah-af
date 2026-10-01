@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Jehosjoea het in daardie tyd teruggekeer en ⟨את⟩ Chatsor ingeneem, en ⟨את⟩ sy koning met die swaard geslaan, want Chatsor ⟨is⟩ vroeër die hoof van al hierdie koninkryke.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "in die tyd"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "daardie"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "het ingeneem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Chatsor"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy koning"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "sy koning"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "geslaan"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "met die swaard"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Chatsor"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "vroeër"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "die hoof"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "hierdie"
+    }
+  ],
+  "timestamp": "2026-09-30T21:29:48.315932750Z",
+  "model": "glm-5.3"
+}

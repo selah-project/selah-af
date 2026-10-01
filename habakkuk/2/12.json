@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Wee hom wat 'n stad met bloed bou, en 'n vestingstad met onreg grondves!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Wee"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "bou"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "'n stad"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "met bloed"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "en grondves"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "'n vestingstad"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "met onreg"
+    }
+  ],
+  "timestamp": "2026-09-30T23:05:57.432083807Z",
+  "model": "glm-5.3"
+}

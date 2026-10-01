@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Die see ⟨het dit⟩ gesien en ⟨is⟩ gevlug; die Jordaan ⟨het⟩ teruggekeer ⟨na⟩ agtertoe.",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "het gesien"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "en is gevlug"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "na agtertoe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:42.143528433Z",
+  "model": "glm-5.3"
+}

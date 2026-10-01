@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "⟨'n⟩ Wyse man hou regspraak met ⟨את⟩ ⟨'n⟩ dwaas, en hy woed en hy lag, en daar ⟨is⟩ geen rus nie.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wyse"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "hou regspraak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "'n dwaas"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "en hy woed"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "en hy lag"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is nie"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "rus"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:55.421758999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En 'n newel het opge Styg uit die aarde, en dit het ⟨את⟩ die hele oppervlak van die grond gevog.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "en 'n newel"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "opgestyg"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "gevog"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele oppervlak"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "פני",
+      "gloss": "oppervlak"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "van die grond"
+    }
+  ],
+  "timestamp": "2026-09-30T20:28:18.044227511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 4:1",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Mordegai het ⟨את⟩ alles wat gedoen is, geweet; toe skeur Mordegai ⟨את⟩ sy klere en trek 'n sak aan, en as, en gaan uit in die midde van die stad en roep 'n groot en bitter geroep uit.",
+  "tokens": [
+    {
+      "surface": "ומרדכי",
+      "gloss": "en Mordegai"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "het geweet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "alles"
+    },
+    {
+      "surface": "כל",
+      "gloss": "alles"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "gedoen is"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "toe skeur"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Mordegai"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy klere"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "sy klere"
+    },
+    {
+      "surface": "וילבש",
+      "gloss": "en trek aan"
+    },
+    {
+      "surface": "שק",
+      "gloss": "'n sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "en gaan uit"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die midde van"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "en roep uit"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "'n geroep"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": " groot"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "en bitter"
+    }
+  ],
+  "timestamp": "2026-10-01T00:29:50.423553447Z",
+  "model": "glm-5.3"
+}

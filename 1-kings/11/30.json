@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En Agia het die nuwe kleed wat op hom was gegryp en dit in twaalf stukke geskeur.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "en gegryp het"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Agia"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "die kleed"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "nuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom was"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "en dit geskeur"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "twaalf"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(twaalf)"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "in stukke"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:03.967890040Z",
+  "model": "glm-5.3"
+}

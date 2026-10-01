@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "Want by U ⟨is⟩ die fontein van die lewe; in u lig sal ons lig sien.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "by U"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "die fontein"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "van die lewe"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "in u lig"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "sal ons sien"
+    },
+    {
+      "surface": "אור",
+      "gloss": "lig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:18.772534442Z",
+  "model": "glm-5.3"
+}

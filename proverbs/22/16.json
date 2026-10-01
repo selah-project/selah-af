@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "onderdruk die arm om vir hom te vermeerder; gee aan die ryke — net tot gebrek.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "onderdruk"
+    },
+    {
+      "surface": "דל",
+      "gloss": "die arm"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "om te vermeerder"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "aan die ryke"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "tot gebrek"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:05.691473021Z",
+  "model": "glm-5.3"
+}

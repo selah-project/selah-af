@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 76,
+  "translation": "In Jehoeda is Elohim bekend; in Jisraël ⟨is⟩ sy Naam groot.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "bekend"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Jehoeda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "groot"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "sy Naam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:38.147594927Z",
+  "model": "glm-5.3"
+}

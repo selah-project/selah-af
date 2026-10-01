@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Hulle verdeel my klere onder hulle, en oor my kleed werp hulle die lot.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "verdeel hulle"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "my klere"
+    },
+    {
+      "surface": "להם",
+      "gloss": "onder hulle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "my kleed"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "werp hulle"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "die lot"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:56.591539876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "By die hoôr van die oor hoor hulle ⟨my⟩; seuns van die vreemde veins gehoorsaamheid aan my.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "by die hoor"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "van die oor"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "hoor hulle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "my"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "van die vreemde"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "veins"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:26.390270951Z",
+  "model": "glm-5.3"
+}

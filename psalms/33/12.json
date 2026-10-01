@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Voorspoedig ⟨is⟩ ⟨die⟩ nasie wie se Elohim Jahweh ⟨is⟩, ⟨die⟩ volk wat Hy as erfdeel vir Hom uitgekies het.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "voorspoedig"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "die nasie"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "wie se Elohim"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "uitgekies het"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "as erfdeel"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir Hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:24.018601263Z",
+  "model": "glm-5.3"
+}

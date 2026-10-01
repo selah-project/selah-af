@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "En hy het ⟨את⟩ die wasbak gestel tussen die tent van samekoms en die altaar, en daar water gegee om mee te was.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hy het gestel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die wasbak"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "die wasbak"
+    },
+    {
+      "surface": "בין",
+      "gloss": "tussen"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tent"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "van samekoms"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "en tussen"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gegee"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "daar"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "om mee te was"
+    }
+  ],
+  "timestamp": "2026-09-30T20:55:21.587509189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Skatte van onreg baat nie, maar tsedek red van die dood.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "baat"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "skatte"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "van onreg"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "maar tsedek"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "red"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:08:25.501168922Z",
+  "model": "glm-5.3"
+}

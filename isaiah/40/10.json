@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 40,
+  "translation": "Kyk, Adonai Jahweh kom met krag, en sy arm heers vir hom; kyk, sy loon is ⟨את⟩ by hom, en sy werk voor hom.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "met krag"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kom"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "en sy arm"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "heers"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "sy loon"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "by hom"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "en sy werk"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "voor hom"
+    }
+  ],
+  "timestamp": "2026-09-30T22:22:53.850757077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Toe het hulle tot Jahweh geroep in hulle benoudheid, en uit hulle benoudhede het Hy hulle gered.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Toe het hulle geroep"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "in hulle benoudheid"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "uit hulle benoudhede"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "het Hy hulle gered"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:43.162820828Z",
+  "model": "glm-5.3"
+}

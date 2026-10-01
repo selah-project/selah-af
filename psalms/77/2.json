@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "My stem ⟨is⟩ tot Elohim, en ek roep; my stem ⟨is⟩ tot Elohim, en ⟨dat hy⟩ luister na my.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "en ek roep"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "my stem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "tot"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "en ⟨dat hy⟩ luister"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:58.204761877Z",
+  "model": "glm-5.3"
+}

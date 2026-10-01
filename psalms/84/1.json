@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 84,
+  "translation": "Vir die koorleier, op die Gittit; van die seuns van Korag, 'n psalm.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "vir die koorleider"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "die Gittit"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "van Korag"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "'n psalm"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:03.120728503Z",
+  "model": "glm-5.3"
+}

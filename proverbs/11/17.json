@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "⟨Die⟩ man van gesed vergeld sy eie siel, maar wie sy eie vlees versteur, ⟨is⟩ wreed.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "vergeld"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "sy eie siel"
+    },
+    {
+      "surface": "איש",
+      "gloss": "man"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "maar ... versteur"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "sy eie vlees"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "wreed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:12.798477243Z",
+  "model": "glm-5.3"
+}

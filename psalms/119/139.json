@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "My ywer het my verteer, want my teëstanders het U woorde vergeet.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "het my verteer"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "my ywer"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "het vergeet"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "U woorde"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "my teëstanders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:39.778805661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die koning van Jisraël sê aan Elísa, toe hy ⟨את⟩ hulle sien: My vader, sal ek slaan, sal ek slaan?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "koning"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aan"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Elísa"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "toe hy sien"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "hulle"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "sal ek slaan"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "sal ek slaan"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "my vader"
+    }
+  ],
+  "timestamp": "2026-09-30T22:07:34.679446214Z",
+  "model": "glm-5.3"
+}

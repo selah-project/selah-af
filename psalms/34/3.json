@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "In Jahweh roem my siel; laat die sagmoediges hoor en laat hulle vrolik wees.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "in Jahweh"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "roem"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "laat hoor"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "die sagmoediges"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "en laat hulle vrolik wees"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:29.477888569Z",
+  "model": "glm-5.3"
+}

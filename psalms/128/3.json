@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 128,
+  "translation": "Jou vrou ⟨is⟩ soos 'n vrugbare wingerdstok in die binnehowe van jou huis; jou kinders soos olyfplantjies rondom jou tafel.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "jou vrou"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "soos 'n wingerdstok"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "vrugbare"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "in die binnehowe"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "van jou huis"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "jou kinders"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "soos olyfplantjies"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "olywe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "jou tafel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:23.580322036Z",
+  "model": "glm-5.3"
+}

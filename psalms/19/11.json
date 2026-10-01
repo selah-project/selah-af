@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "⟨Hulle is⟩ begeerliker as goud, ja as baie fyn goud, en soeter as heuning en druppels van die heuningraat.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "begeerliker"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "as goud"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "en as fyn goud"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baie"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "en soeter"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "as heuning"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "en druppels"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "van die heuningraat"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:30.374602061Z",
+  "model": "glm-5.3"
+}

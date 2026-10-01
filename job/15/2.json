@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 15:2",
+  "book": "job",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "Sal ⟨die⟩ wyse antwoord met kennis van roeag, en sy buik met ⟨die⟩ oostewind vul?",
+  "tokens": [
+    {
+      "surface": "החכם",
+      "gloss": "die wyse"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "antwoord"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kennis"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "roeag"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "en vul"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "oostewind"
+    },
+    {
+      "surface": "בטנו",
+      "gloss": "sy buik"
+    }
+  ],
+  "timestamp": "2026-10-01T00:17:01.512285464Z",
+  "model": "glm-5.3"
+}

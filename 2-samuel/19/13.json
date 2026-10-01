@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 19:13",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "My broers is julle, my gebeente en my vlees is julle; en hoekom sal julle die laastes wees om ⟨את⟩ die koning terug te bring?",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "my broers"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "my gebeente"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "en my vlees"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "julle"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "en hoekom"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "sal julle wees"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "die laastes"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "om terug te bring"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die koning"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:56:16.070912666Z",
+  "model": "glm-5.3"
+}

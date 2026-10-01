@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 69,
+  "translation": "Ek het weggesink in die diep slyk, en daar is geen staanplek nie; ek het gekom in die dieptes van waters, en 'n stroomvloed het my oorstroom.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "ek het weggesink"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "in"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "diep slyk"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "staanplek"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ek het gekom"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "in die dieptes van"
+    },
+    {
+      "surface": "מים",
+      "gloss": "waters"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "en 'n stroomvloed"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "het my oorstroom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:52.710150724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Loof Jah, want goed ⟨is⟩ Jahweh; speel musiek vir sy naam, want dit ⟨is⟩ aangenaam.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Loof"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Jah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "speel musiek"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "vir sy naam"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "aangenaam"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:25.413331761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die priester bring hulle naby voor Jahweh se aangesig, en hy maak ⟨את⟩ sy sondoffer en ⟨את⟩ sy brandoffer.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "En hy bring naby"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "en hy maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy sondoffer"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "sy sondoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sy brandoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sy brandoffer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:55.769506424Z",
+  "model": "glm-5.3"
+}

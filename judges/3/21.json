@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "En Ehud stuur ⟨את⟩ sy linkerhand uit en neem ⟨את⟩ die swaard van sy regterdy, en steek dit in sy maag.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "en stuur"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "Ehud"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy linkerhand"
+    },
+    {
+      "surface": "יד",
+      "gloss": "hand"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sy linker-"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "en neem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die swaard"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "die swaard"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "van"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "dy"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sy regter-"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "en steek dit"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "in sy maag"
+    }
+  ],
+  "timestamp": "2026-09-30T21:34:06.145218397Z",
+  "model": "glm-5.3"
+}

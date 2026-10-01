@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 71,
+  "translation": "En U tsedek, o Elohim, tot ⟨in⟩ die hoogte — U wat groot dinge gedoen het: Elohim, wie ⟨is⟩ soos U?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "en U tsedek"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "die hoogte"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "gedoen het"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "groot dinge"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "soos U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:42.240273252Z",
+  "model": "glm-5.3"
+}

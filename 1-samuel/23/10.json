@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En Dawid het gesê: Jahweh, Elohim van Jisraël, u dienaar het sekerlik gehoor dat Sjaoel soek om na Keïla te kom, om die stad te verwoes om my ontwil.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "sekerlik gehoor"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "u dienaar"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "soek"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Sjaoel"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "om te kom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "Keïla"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "om te verwoes"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "om my ontwil"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:42.955172226Z",
+  "model": "glm-5.3"
+}

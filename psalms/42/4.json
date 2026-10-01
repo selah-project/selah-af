@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 42,
+  "translation": "My traan was vir my brood dag en nag, terwyl hulle die hele dag vir my sê: waar is jou Elohim?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "my traan"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "dag"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "en nag"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "terwyl hulle sê"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "איה",
+      "gloss": "waar"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "is jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:04.158687416Z",
+  "model": "glm-5.3"
+}

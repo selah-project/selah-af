@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "en die naam van die ander ⟨is⟩ Elieser, want die Elohim van my vader ⟨was⟩ my hulp, en hy het my gered van die swaard van Paro.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "en die naam"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "van die ander"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Elieser"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "van my vader"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "my hulp"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "en hy het my gered"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "van die swaard"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    }
+  ],
+  "timestamp": "2026-09-30T20:48:26.524230989Z",
+  "model": "glm-5.3"
+}

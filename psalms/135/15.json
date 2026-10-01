@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 135,
+  "translation": "Die beelde van die nasies ⟨is⟩ silwer en goud, werk van die hande van ⟨die⟩ mens.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "die beelde"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "van die nasies"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "silwer"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "en goud"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "werk"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "van die hande"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "van mens"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:01.828342685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 110,
+  "translation": "Adonai aan jou regterhand verbrysel konings in die dag van sy toorn.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "על",
+      "gloss": "aan"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "jou regterhand"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "verbrysel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "in die dag"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "van sy toorn"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:12.929037904Z",
+  "model": "glm-5.3"
+}

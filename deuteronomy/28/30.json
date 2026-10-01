@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "'n Vrou sal jy verloof, en 'n ander man sal haar beslaap; 'n huis sal jy bou, en jy sal nie daarin woon nie; 'n wingerd sal jy plant, en jy sal nie daarvan geniet nie.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "sal jy verloof"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en 'n man"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "sal haar beslaap"
+    },
+    {
+      "surface": "בית",
+      "gloss": "'n huis"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "sal jy bou"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "sal jy woon"
+    },
+    {
+      "surface": "בו",
+      "gloss": "daarin"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "'n wingerd"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "sal jy plant"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "sal jy daarvan geniet"
+    }
+  ],
+  "timestamp": "2026-09-30T21:24:35.793356216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "Na my sal hulle roep: my Elohim, ons — Jisraël — het U geken.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "na my"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "sal hulle roep"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "my Elohim"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "het ons U geken"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T23:00:26.397350224Z",
+  "model": "glm-5.3"
+}

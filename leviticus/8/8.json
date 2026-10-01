@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hy het ⟨את⟩ die borsplaat op hom gesit, en in die borsplaat ⟨את⟩ die Uriem en ⟨את⟩ die Toemim gedoen.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "en hy het gesit"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die borsplaat"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "die borsplaat"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "en hy het gedoen"
+    },
+    {
+      "surface": "אל",
+      "gloss": "in"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "die borsplaat"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Uriem"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "die Uriem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die Toemim"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "die Toemim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:56.762023526Z",
+  "model": "glm-5.3"
+}

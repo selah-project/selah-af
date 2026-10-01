@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "Daar ⟨is⟩ 'n weg wat reg lyk voor 'n man, maar die einde daarvan ⟨is⟩ weë van die dood.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Daar is"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "'n weg"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "reg"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "maar die einde daarvan"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "weë"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:42.760238074Z",
+  "model": "glm-5.3"
+}

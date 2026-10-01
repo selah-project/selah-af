@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ek sal vuur stuur teen die muur van Tsor, en dit sal sy kastele verteer.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "En ek sal stuur"
+    },
+    {
+      "surface": "אש",
+      "gloss": "vuur"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "teen die muur"
+    },
+    {
+      "surface": "צר",
+      "gloss": "van Tsor"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "en dit sal verteer"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "sy kastele"
+    }
+  ],
+  "timestamp": "2026-09-30T23:01:49.145497750Z",
+  "model": "glm-5.3"
+}

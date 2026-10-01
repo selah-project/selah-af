@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 57:10",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 57,
+  "translation": "Deur die menigte van jou weë het jy jou afgemat — jy het nie gesê: ⟨dit is⟩ hopeloos nie; die lewe van jou hand het jy gevind; daarom het jy nie siek geword nie.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "deur die menigte"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "van jou weë"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "het jy jou afgemat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "het jy gesê"
+    },
+    {
+      "surface": "נואש",
+      "gloss": "hopeloos"
+    },
+    {
+      "surface": "חית",
+      "gloss": "die lewe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "van jou hand"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "het jy gevind"
+    },
+    {
+      "surface": "על",
+      "gloss": "daarom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "om daardie rede"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "het jy siek geword"
+    }
+  ],
+  "timestamp": "2026-09-30T22:26:01.144958522Z",
+  "model": "glm-5.3"
+}

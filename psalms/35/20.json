@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Want nie van sjalom praat hulle, en oor die stiltes van die land bedink hulle woorde van bedrog.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "van sjalom"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "praat hulle"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "die stiltes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die land"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "woorde"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "van bedrog"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "bedink hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:39.055636455Z",
+  "model": "glm-5.3"
+}

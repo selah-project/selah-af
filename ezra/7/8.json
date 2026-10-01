@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En hy het in Jerusjalajim aangekom in die vyfde maand — dit ⟨is⟩ die sewende jaar van die koning",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "En hy het aangekom"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "in Jerusjalajim"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "in die maand"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "vyfde"
+    },
+    {
+      "surface": "היא",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "die jaar"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sewende"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "van die koning"
+    }
+  ],
+  "timestamp": "2026-10-01T00:37:20.570220479Z",
+  "model": "glm-5.3"
+}

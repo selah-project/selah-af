@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 86,
+  "translation": "'n Gebed van Dawid. Neig, Jahweh, u oor, antwoord my, want arm en behoeftig ⟨is⟩ ek.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "'n Gebed"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Neig"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "u oor"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "antwoord my"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עני",
+      "gloss": "arm"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "en behoeftig"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:56.691392355Z",
+  "model": "glm-5.3"
+}

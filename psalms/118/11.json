@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 118,
+  "translation": "Hulle het my omring, ja, my omring; in die Naam van Jahweh — voorwaar, ek sal hulle afkap.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "hulle het my omring"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "my omring"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "in die Naam"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ek sal hulle afkap"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:42.623664721Z",
+  "model": "glm-5.3"
+}

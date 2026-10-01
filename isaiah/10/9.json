@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "Is Kalno nie soos Karkemis nie? Is Hamat nie soos Arpad nie? Is Sjomeron nie soos Damaskes nie?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "is nie"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "soos Karkemis"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Kalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "soos Arpad"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamat"
+    },
+    {
+      "surface": "אם",
+      "gloss": "is"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "soos Damaskes"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Sjomeron"
+    }
+  ],
+  "timestamp": "2026-10-01T00:03:44.859333005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 66,
+  "translation": "Seën ons Elohim, o volke, en laat die stem van sy lof gehoor word.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Seën"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "o volke"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ons Elohim"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "en laat gehoor word"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "van sy lof"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.187464317Z",
+  "model": "glm-5.3"
+}

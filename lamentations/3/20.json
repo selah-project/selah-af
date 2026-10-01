@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Dink daarop, dink; my siel buig neer binne my.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "dink"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "daarop dink"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "en buig neer"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:05.757864775Z",
+  "model": "glm-5.3"
+}

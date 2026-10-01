@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Sal sy verhewenheid julle nie verskrik ⟨את⟩nie, en sy skrik op julle val?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Sal ... nie"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "sy verhewenheid"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "verskrik"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩julle",
+      "marks": "julle"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "en sy skrik"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "val"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "op julle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:16:11.629783631Z",
+  "model": "glm-5.3"
+}

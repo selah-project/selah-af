@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Hongrig, ja, dorsig — hulle siel in hulle word bedek ⟨met floute⟩.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "hongrig"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ja"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "dorsig"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "hulle siel"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "in hulle"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "word bedek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:26:33.437110772Z",
+  "model": "glm-5.3"
+}

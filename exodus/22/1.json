@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "As in die deurbraak die dief gevind word en ⟨hy⟩ geslaan word en sterf — geen bloed ⟨is⟩ vir hom nie.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "in die deurbraak"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "gevind word"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "die dief"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "en geslaan word"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "en hy sterf"
+    },
+    {
+      "surface": "אין",
+      "gloss": "is daar geen"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bloed(skuld)"
+    }
+  ],
+  "timestamp": "2026-09-30T20:49:30.602840913Z",
+  "model": "glm-5.3"
+}

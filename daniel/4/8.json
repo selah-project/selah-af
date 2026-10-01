@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 4:8",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Die boom het groot geword en sterk geword, en sy hoogte het tot aan die hemel gestrek, en sy aansig tot by die einde van die hele aarde.",
+  "tokens": [
+    {
+      "surface": "רבה",
+      "gloss": "het groot geword"
+    },
+    {
+      "surface": "אילנא",
+      "gloss": "die boom"
+    },
+    {
+      "surface": "ותקף",
+      "gloss": "en sterk geword"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "en sy hoogte"
+    },
+    {
+      "surface": "ימטא",
+      "gloss": "het gestrek"
+    },
+    {
+      "surface": "לשמיא",
+      "gloss": "tot aan die hemel"
+    },
+    {
+      "surface": "וחזותה",
+      "gloss": "en sy aansig"
+    },
+    {
+      "surface": "לסוף",
+      "gloss": "tot by die einde"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van die hele"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "aarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:33:20.645076486Z",
+  "model": "glm-5.3"
+}

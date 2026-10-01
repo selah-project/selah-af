@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 30:11",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En hulle vind 'n man, 'n Mitsri, in die veld, en hulle neem ⟨את⟩ hom na Dawid toe en gee vir hom brood, en hy eet; en hulle laat hom water drink.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "vind"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "'n Mitsri"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "in die veld"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "neem"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na … toe"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "eet"
+    },
+    {
+      "surface": "וישקהו",
+      "gloss": "laat hom drink"
+    },
+    {
+      "surface": "מים",
+      "gloss": "water"
+    }
+  ],
+  "timestamp": "2026-09-30T21:48:06.482215906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "Wend weg van my af, al julle daders van nietigheid, want Jahweh het die stem van my geween gehoor.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Wend weg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "van my af"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "daders"
+    },
+    {
+      "surface": "און",
+      "gloss": "van nietigheid"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "het gehoor"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die stem"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "van my geween"
+    }
+  ],
+  "timestamp": "2026-10-01T00:05:45.853237976Z",
+  "model": "glm-5.3"
+}

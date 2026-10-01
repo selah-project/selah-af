@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En nou, konings, handel verstandig; laat julle tug, o regters van die aarde.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "konings"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "handel verstandig"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "laat julle tug"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "regters"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:16.084946433Z",
+  "model": "glm-5.3"
+}

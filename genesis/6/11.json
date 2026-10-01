@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En die aarde was verdorwe voor ⟨die⟩ Elohim se aangesig, en die aarde was vol geweld.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "En was verdorwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor ... se aangesig"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "en was vol"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die aarde"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    }
+  ],
+  "timestamp": "2026-09-30T20:29:20.993392010Z",
+  "model": "glm-5.3"
+}

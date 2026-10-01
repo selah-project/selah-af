@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 102,
+  "translation": "Want u diensknegte het welbehae in ⟨את⟩ haar stene en ⟨את⟩ haar stof sal hulle begunstig.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "het welbehae in"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "u diensknegte"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "haar stene"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "haar stene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "haar stof"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "haar stof"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "sal hulle begunstig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:25:27.437860936Z",
+  "model": "glm-5.3"
+}

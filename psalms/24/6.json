@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Dit ⟨is⟩ die geslag van die wat Hom soek, van die wat u aangesig soek — Jaäkow. Sela.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Dit"
+    },
+    {
+      "surface": "דור",
+      "gloss": "die geslag"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "van die wat Hom soek"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "van die wat soek"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "u aangesig"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Jaäkow"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.880996953Z",
+  "model": "glm-5.3"
+}

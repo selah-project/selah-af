@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die manne van Babel het ⟨את⟩ Sukkot-Benot gemaak, en die manne van Koet het ⟨את⟩ Nergal gemaak, en die manne van Gamat het ⟨את⟩ Asjima gemaak.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "en die manne van"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Babel"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Sukkot-Benot"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "Sukkot"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "-Benot"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en die manne van"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Koet"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Nergal"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "Nergal"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "en die manne van"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Gamat"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Asjima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "Asjima"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:53.912099038Z",
+  "model": "glm-5.3"
+}

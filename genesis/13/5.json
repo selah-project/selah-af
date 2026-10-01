@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En ook aan Lot, die wat met Awraham ⟨את⟩ gegaan het, was daar skape en beeste en tente.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "aan Lot"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "die wat gegaan het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Awraham"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awraham"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was daar"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "skape"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "en beeste"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "en tente"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:22.102675559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Jy sal hulle verbreek met 'n staf van yster, soos 'n vat van 'n pottebakker sal jy hulle verbrysel.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "jy sal hulle verbreek"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "met 'n staf"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "van yster"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "soos 'n vat"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "van 'n pottebakker"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "sal jy hulle verbrysel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:16.084539853Z",
+  "model": "glm-5.3"
+}

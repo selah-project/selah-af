@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 36:9",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En 'n erfdeel mag nie rondgedraai word van een stam na 'n ander stam nie, want elkeen aan sy erfdeel moet ⟨hulle⟩ vasklem, die stamme van die seuns van Jisraël.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "mag rondgedraai word"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "'n erfdeel"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "van een stam"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "na 'n stam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "'n ander"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "בנחלתו",
+      "gloss": "aan sy erfdeel"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "moet ⟨hulle⟩ vasklem"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "die stamme"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:12.777542192Z",
+  "model": "glm-5.3"
+}

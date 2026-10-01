@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En Ester het gesê: Die man — teëstander en vyand — is hierdie bose Haman. En Haman was verskrik voor die aangesig van die koning en die koningin.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Ester"
+    },
+    {
+      "surface": "איש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "צר",
+      "gloss": "teëstander"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "en vyand"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Haman"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "die bose"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "en Haman"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "was verskrik"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "voor die aangesig van"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "en die koningin"
+    }
+  ],
+  "timestamp": "2026-10-01T00:31:05.322281316Z",
+  "model": "glm-5.3"
+}

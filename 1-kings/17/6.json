@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die kraaie het vir hom brood en vleis gebring in die môre, en brood en vleis in die aand; en uit die spruit het hy gedrink.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "en die kraaie"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "het gebring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "brood"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vleis"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "in die môre"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "en brood"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "en vleis"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "in die aand"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "en uit"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "die spruit"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "het hy gedrink"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:23.988742262Z",
+  "model": "glm-5.3"
+}

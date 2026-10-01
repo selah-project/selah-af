@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 2:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Soen die seun, lest hy ontvlam en julle op die weg vergaan, want net 'n bietjie sal sy toorn brand; gelukkig is almal wat by hom skuil.",
+  "tokens": [
+    {
+      "surface": "נשקו",
+      "gloss": "soen"
+    },
+    {
+      "surface": "בר",
+      "gloss": "die seun"
+    },
+    {
+      "surface": "פן",
+      "gloss": "lest"
+    },
+    {
+      "surface": "יאנף",
+      "gloss": "hy ontvlam"
+    },
+    {
+      "surface": "ותאבדו",
+      "gloss": "en julle vergaan"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "op die weg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "sal brand"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "net 'n bietjie"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "sy toorn"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "gelukkig"
+    },
+    {
+      "surface": "כל",
+      "gloss": "almal"
+    },
+    {
+      "surface": "חוסי",
+      "gloss": "wat skuil"
+    },
+    {
+      "surface": "בו",
+      "gloss": "by hom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:11:16.085419576Z",
+  "model": "glm-5.3"
+}

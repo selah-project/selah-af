@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Meetlyne het vir my geval in aangename ⟨plekke⟩; ja, ⟨erf⟩-land mooi, ja, vir my.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "Meetlyne"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "het geval"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "in aangename ⟨plekke⟩"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "⟨erf⟩-land"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "mooi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "vir my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:29.475120702Z",
+  "model": "glm-5.3"
+}

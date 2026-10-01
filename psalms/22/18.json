@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 22,
+  "translation": "Ek tel al my bene; hulle ⟨self⟩ staar, hulle kyk na my.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ek tel"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "my bene"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle ⟨self⟩"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "staar hulle"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "kyk hulle"
+    },
+    {
+      "surface": "בי",
+      "gloss": "na my"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:56.591260208Z",
+  "model": "glm-5.3"
+}

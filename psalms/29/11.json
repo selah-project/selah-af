@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "Jahweh gee krag aan sy volk; Jahweh seën ⟨את⟩ sy volk met vrede.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "aan sy volk"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy volk"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "sy volk"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "met vrede"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:15.698571405Z",
+  "model": "glm-5.3"
+}

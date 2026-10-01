@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En die hart van Paro het verhard geraak, en hy het ⟨את⟩ die seuns van Jisraël nie laat gaan nie, soos Jahweh gespreek het deur die hand van Mosje.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "het verhard geraak"
+    },
+    {
+      "surface": "לב",
+      "gloss": "die hart"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "van Paro"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "laat gaan"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die seuns van Jisraël"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "van Mosje"
+    }
+  ],
+  "timestamp": "2026-09-30T23:57:45.539094230Z",
+  "model": "glm-5.3"
+}

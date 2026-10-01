@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 36:4",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En al die wysses wat ⟨את⟩ al die werk van die heiligdom maak, het gekom, elkeen van sy eie werk af wat hulle maak —",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "en hulle het gekom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "החכמים",
+      "gloss": "die wysses"
+    },
+    {
+      "surface": "העשים",
+      "gloss": "wat maak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "al die werk van die heiligdom"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "werk"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elke man"
+    },
+    {
+      "surface": "ממלאכתו",
+      "gloss": "van sy werk af"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "המה",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "maak"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:36.220383107Z",
+  "model": "glm-5.3"
+}

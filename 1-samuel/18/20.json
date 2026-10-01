@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 18:20",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Migal, die dogter van Sjaooel, het ⟨את⟩ Dawid liefgekry, en hulle het dit aan Sjaooel berig, en die saak was reg in sy oë.",
+  "tokens": [
+    {
+      "surface": "ותאהב",
+      "gloss": "en sy het liefgekry"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "Migal"
+    },
+    {
+      "surface": "בת",
+      "gloss": "dogter"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjaooel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Dawid"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "en hulle het berig"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjaooel"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "en dit was reg"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "die saak"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "in sy oë"
+    }
+  ],
+  "timestamp": "2026-09-30T21:46:12.020912749Z",
+  "model": "glm-5.3"
+}

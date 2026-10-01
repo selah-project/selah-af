@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "En so het dit vir hom gebeur: die volk het ⟨את⟩ hom in die poort vertrap, en hy het gesterwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En dit het gebeur"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "כן",
+      "gloss": "so"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "het vertrap"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "in die poort"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hy het gesterwe"
+    }
+  ],
+  "timestamp": "2026-09-30T22:08:47.483743287Z",
+  "model": "glm-5.3"
+}

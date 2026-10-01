@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 36,
+  "translation": "En hy het ⟨את⟩ die planke vir die Misjkan gemaak van sittimhout, staande.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "en hy het gemaak"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die planke"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "die planke"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "vir die Misjkan"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "van hout"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "van sittim"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "staande"
+    }
+  ],
+  "timestamp": "2026-09-30T20:54:18.022870814Z",
+  "model": "glm-5.3"
+}

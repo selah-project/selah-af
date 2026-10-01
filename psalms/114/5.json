@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 114,
+  "translation": "Wat ⟨het⟩ jou gebeur, die see, dat jy vlug, die Jordaan, dat jy agtertoe draai?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "jou"
+    },
+    {
+      "surface": "הים",
+      "gloss": "die see"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "jy vlug"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jordaan"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "jy draai"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "agtertoe"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:07.741066159Z",
+  "model": "glm-5.3"
+}

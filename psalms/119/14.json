@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 119:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "In die weg van u getuienisse het ek gejuig, soos oor ⟨die⟩ hele rykdom.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "van u getuienisse"
+    },
+    {
+      "surface": "ששתי",
+      "gloss": "het ek gejuig"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "soos oor"
+    },
+    {
+      "surface": "כל",
+      "gloss": "heel"
+    },
+    {
+      "surface": "הון",
+      "gloss": "rykdom"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:50.869531690Z",
+  "model": "glm-5.3"
+}

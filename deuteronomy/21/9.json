@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En jy sal ⟨die⟩ onskuldige bloed uit jou midde wegdoen, want jy doen wat reg is in die oë van Jahweh.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "en jy"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "sal wegdoen"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨die⟩ bloed"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "onskuldige"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "uit jou midde"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "jy doen"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "wat reg is"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    }
+  ],
+  "timestamp": "2026-09-30T21:21:14.240129138Z",
+  "model": "glm-5.3"
+}

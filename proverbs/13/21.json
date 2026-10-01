@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "Kwaad jaag sondaars na, en ⟨את⟩ die regverdiges vergeld ⟨Hy⟩ goed.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "sondaars"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "jaag na"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die regverdiges"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "die regverdiges"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "vergeld"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    }
+  ],
+  "timestamp": "2026-10-01T00:09:31.901511598Z",
+  "model": "glm-5.3"
+}

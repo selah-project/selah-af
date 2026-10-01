@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "En hy het gesê: Daar ⟨is⟩ vir my 'n woord na jou toe; en sy het gesê: Spreek.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "'n woord"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "na jou toe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy het gesê"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Spreek"
+    }
+  ],
+  "timestamp": "2026-09-30T21:58:09.751069651Z",
+  "model": "glm-5.3"
+}

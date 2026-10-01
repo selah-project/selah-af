@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 95,
+  "translation": "Kom, laat ons juig vir Jahweh, laat ons jubel vir die rots van ons redding.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "laat ons juig"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "laat ons jubel"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "vir die rots"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "van ons redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:32.740935420Z",
+  "model": "glm-5.3"
+}

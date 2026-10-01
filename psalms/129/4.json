@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 129,
+  "translation": "Jahweh ⟨is⟩ regverdige — ⟨hy⟩ het die toue van die goddeloses afgekap",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "regverdige"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "het ... afgekap"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "die toue"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:31.218239743Z",
+  "model": "glm-5.3"
+}

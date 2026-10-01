@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die seuns van ⟨die⟩ ander Elam, duisend tweehonderd vier en vyftig.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Elam"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ander"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "tweehonderd"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftig"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "en vier"
+    }
+  ],
+  "timestamp": "2026-10-01T00:36:11.016678948Z",
+  "model": "glm-5.3"
+}

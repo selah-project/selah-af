@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 46,
+  "translation": "Die nasies bulder, die koninkryke wankel; Hy het met sy stem gelui — die aarde smelt.",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "bulder"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "wankel"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "die koninkryke"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "het gelui"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "met sy stem"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "smelt"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:17:51.108356913Z",
+  "model": "glm-5.3"
+}

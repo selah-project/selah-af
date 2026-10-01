@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Dit is die name van die seuns van Aharon, die gesalfde priesters wat ⟨hulle⟩ hande gevul is om as priester te dien.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "dit"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "name"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns van"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "die gesalfdes"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "gevul is"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "hulle hande"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om as priester te dien"
+    }
+  ],
+  "timestamp": "2026-09-30T21:05:01.393267347Z",
+  "model": "glm-5.3"
+}

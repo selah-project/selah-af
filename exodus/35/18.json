@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "⟨את⟩ die penne van die Misjkan en ⟨את⟩ die penne van die voorhof, en ⟨את⟩ hulle toue;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die penne van die Misjkan"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die penne"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "van die Misjkan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die penne van die voorhof"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "die penne"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "van die voorhof"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "hulle toue"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "hulle toue"
+    }
+  ],
+  "timestamp": "2026-09-30T20:52:51.426411449Z",
+  "model": "glm-5.3"
+}

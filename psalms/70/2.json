@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 70,
+  "translation": "Elohim, om my te red; Jahweh, tot my hulp — haas U!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "om my te red"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "tot my hulp"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "haas U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:20:56.250548038Z",
+  "model": "glm-5.3"
+}

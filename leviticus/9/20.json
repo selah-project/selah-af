@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En hulle het ⟨את⟩ die vette op die borsstukke gesit, en hy het die vette op die altaar laat rook.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "en hulle het gesit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die vette"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "die vette"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "die borsstukke"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "en hy het laat rook"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "die vette"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:32.182681642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 122:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 122,
+  "translation": "Lied van die opgangs, van Dawid. Ek was bly toe ⟨hulle⟩ vir my sê: na die huis van Jahweh laat ons gaan.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangs"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "Ek was bly"
+    },
+    {
+      "surface": "באמרים",
+      "gloss": "toe sê"
+    },
+    {
+      "surface": "לי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "בית",
+      "gloss": "huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "laat ons gaan"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:17.091028396Z",
+  "model": "glm-5.3"
+}

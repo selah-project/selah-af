@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Die eerstes van jou graan, jou mos en jou olie, en die eerstes van die skeersel van jou kleinvee — jy moet dit aan hom gee.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Die eerstes"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "van jou graan"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "jou mos"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "en jou olie"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "en die eerstes"
+    },
+    {
+      "surface": "גז",
+      "gloss": "van die skeersel"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "van jou kleinvee"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "moet jy gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:00:39.185700144Z",
+  "model": "glm-5.3"
+}

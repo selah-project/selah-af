@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En Jahweh het ⟨את⟩ hierdie woord die volgende dag gedoen, en al die vee van Mitsrajim het gevrek; maar van die vee van die seuns van Jisraël het nie een gevrek nie.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "het gedoen"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hierdie woord"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "hierdie woord"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "die volgende dag"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "het gevrek"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "die vee"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "van Mitsrajim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "maar van die vee"
+    },
+    {
+      "surface": "בני",
+      "gloss": "van die seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "מת",
+      "gloss": "gevrek"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "een"
+    }
+  ],
+  "timestamp": "2026-09-30T20:45:45.483318732Z",
+  "model": "glm-5.3"
+}

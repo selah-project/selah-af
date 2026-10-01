@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "Vanuit die vaste plek van sy woning kyk Hy skerp na al die bewoners van die aarde.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Vanuit die vaste plek"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "van sy woning"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "kyk skerp"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "כל",
+      "gloss": "al"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die bewoners"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:37.142855479Z",
+  "model": "glm-5.3"
+}

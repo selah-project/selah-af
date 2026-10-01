@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 107,
+  "translation": "Húlle sien die dade van Jahweh, en sy wonders in die diepte.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "húlle"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "sien"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "die dade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "en sy wonders"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "in die diepte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:07:13.735757171Z",
+  "model": "glm-5.3"
+}

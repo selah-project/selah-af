@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 16:7",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hulle sal nie vir hulle brood breek by die rou om iemand te troos oor 'n dooie nie, en hulle sal hulle nie laat drink ⟨את⟩ 'n beker troos wees oor sy vader en oor sy moeder nie.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יפרסו",
+      "gloss": "sal brood breek"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "על",
+      "gloss": "by"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "die rou"
+    },
+    {
+      "surface": "לנחמו",
+      "gloss": "om te troos"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "מת",
+      "gloss": "'n dooie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "ישקו",
+      "gloss": "sal laat drink"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ hulle",
+      "marks": "'n beker troos"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "'n beker"
+    },
+    {
+      "surface": "תנחומים",
+      "gloss": "troos"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "en oor"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "sy moeder"
+    }
+  ],
+  "timestamp": "2026-09-30T22:32:24.972629831Z",
+  "model": "glm-5.3"
+}

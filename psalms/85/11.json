@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 85,
+  "translation": "Gesed en emet het mekaar ontmoet; tsedek en sjalom het mekaar gesoen.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "en emet"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "het mekaar ontmoet"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "en sjalom"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "het mekaar gesoen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:12.010123917Z",
+  "model": "glm-5.3"
+}

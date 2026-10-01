@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En daar is in haar 'n man gevind, arm, wyse, en hy het ⟨את⟩ die stad deur sy wysheid gered; maar geen mens daardie arm man onthou ⟨ nie⟩ — hy het ⟨את⟩ daardie arm man nie onthou nie.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "en daar is gevind"
+    },
+    {
+      "surface": "בה",
+      "gloss": "in haar"
+    },
+    {
+      "surface": "איש",
+      "gloss": "'n man"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "arm"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "wyse"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "en gered"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "hy"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die stad"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "die stad"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "deur sy wysheid"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "en ⟨geen⟩ mens"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "onthou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "daardie arm man"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "daardie man"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "die arm man"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "daardie"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:41.287943495Z",
+  "model": "glm-5.3"
+}

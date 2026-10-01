@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 23:8",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "Wie het ⟨את⟩ dit teen Tsor beraam, die kroonskenker, wie se handelaars vorsen ⟨is⟩, wie se Kenaäniete die geagtes van ⟨die⟩ aarde ⟨is⟩?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "het beraam"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "dit"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "dit"
+    },
+    {
+      "surface": "על",
+      "gloss": "teen"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsor"
+    },
+    {
+      "surface": "המעטירה",
+      "gloss": "die kroonskenker"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wie se"
+    },
+    {
+      "surface": "סחריה",
+      "gloss": "handelaars"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "vorsen"
+    },
+    {
+      "surface": "כנעניה",
+      "gloss": "Kenaäniete"
+    },
+    {
+      "surface": "נכבדי",
+      "gloss": "die geagtes"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "van die aarde"
+    }
+  ],
+  "timestamp": "2026-09-30T22:19:06.001799860Z",
+  "model": "glm-5.3"
+}

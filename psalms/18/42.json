@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "Hulle roep om hulp, maar daar is geen redder nie; tot Jahweh, maar hy antwoord hulle nie.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "hulle roep om hulp"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "maar daar is nie"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "'n redder"
+    },
+    {
+      "surface": "על",
+      "gloss": "tot"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "maar nie"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "hy antwoord hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T23:13:33.677056819Z",
+  "model": "glm-5.3"
+}

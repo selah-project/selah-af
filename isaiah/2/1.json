@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Die woord wat Jesjajahoe, seun van Amots, gesien het oor Jehoeda en Jerusjalajim.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Die woord"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "gesien het"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Jesjajahoe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Amots"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "en Jerusjalajim"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:43.704393560Z",
+  "model": "glm-5.3"
+}

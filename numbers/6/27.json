@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 6,
+  "translation": "En hulle sal ⟨את⟩ my naam op die seuns van Jisraël lê, en Ek sal hulle seën.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "en hulle sal lê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my naam"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "my naam"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die seuns van"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "en Ek"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "sal hulle seën"
+    }
+  ],
+  "timestamp": "2026-09-30T21:06:06.711857402Z",
+  "model": "glm-5.3"
+}

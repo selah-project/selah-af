@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 52,
+  "translation": "Jy het kwaad lief bo goed, leuen bo om tsedek te spreek. Sela.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Jy het lief"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaad"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "bo goed"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "leuen"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "bo om te spreek"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "tsedek"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-09-30T23:18:39.036116624Z",
+  "model": "glm-5.3"
+}

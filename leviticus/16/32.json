@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 16:32",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En die priester wat gesalf word en wie se hand gevul word om priester te wees in sy vader se plek, hy sal versoening doen en ⟨את⟩ die linne klere aantrek, die klere van die heiligdom.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "en hy sal versoening doen"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "ימשח",
+      "gloss": "gesalf word"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hom"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "gevul word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy hand"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sy hand"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "om priester te wees"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "in die plek van"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sy vader"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "en hy sal aantrek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die linne klere"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "die klere"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "van die linne"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "die klere"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "van die heiligdom"
+    }
+  ],
+  "timestamp": "2026-09-30T21:00:46.286793901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 37,
+  "translation": "Hou op met toorn en verlaat woede; gloei nie om net kwaad te doen nie.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Hou op met"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "toorn"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "en verlaat"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "woede"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "gloei"
+    },
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "om kwaad te doen"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:56.369599272Z",
+  "model": "glm-5.3"
+}

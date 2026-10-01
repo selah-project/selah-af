@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 116,
+  "translation": "Toue van die dood het my omring, en die noutes van Sjeol het my gevind; benoudheid en smart vind ek.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "het my omring"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "toue"
+    },
+    {
+      "surface": "מות",
+      "gloss": "van die dood"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "en die noutes"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "van Sjeol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "het my gevind"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "benoudheid"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "en smart"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "vind ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:51.356750406Z",
+  "model": "glm-5.3"
+}

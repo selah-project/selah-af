@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "Hy wat die roeag dophou, sal nie saai nie; en hy wat na die wolke kyk, sal nie oes nie.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "dophou"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "die roeag"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "sal saai"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "en kyk"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "na die wolke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "sal oes"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:45.408719463Z",
+  "model": "glm-5.3"
+}

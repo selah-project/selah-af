@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 75,
+  "translation": "En al die horings van die goddeloses sal ek afkap; verhoog sal die horings van die regverdige word.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "en al"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "die horings"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "van die goddeloses"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "sal ek afkap"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "verhoog"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "die horings"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "van die regverdige"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:15.002531639Z",
+  "model": "glm-5.3"
+}

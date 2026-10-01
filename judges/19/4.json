@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En sy skoonvader, die vader van die jongmeisie, het hom vasgehou, en hy het by ⟨את⟩ hom gebly drie dae; en hulle het geëet en gedrink en daar oornag.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "het vasgehou"
+    },
+    {
+      "surface": "בו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "sy skoonvader"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "van die jongmeisie"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "het gebly"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "by ⟨את⟩ hom"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "drie"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "en hulle het geëet"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "en gedrink"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "en oornag"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    }
+  ],
+  "timestamp": "2026-09-30T21:38:34.253936826Z",
+  "model": "glm-5.3"
+}

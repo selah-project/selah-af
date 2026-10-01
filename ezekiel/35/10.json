@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 35:10",
+  "book": "ezekiel",
+  "lang": "af",
+  "chapter": 35,
+  "translation": "Omdat jy gesê het: ⟨את⟩ die twee nasies en ⟨את⟩ die twee lande — aan my behoort hulle, en ons sal ⟨dit⟩ in besit neem — terwyl Jahweh daar was.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "omdat"
+    },
+    {
+      "surface": "אמרך",
+      "gloss": "jy gesê het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die twee nasies"
+    },
+    {
+      "surface": "שני",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "die nasies"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die twee lande"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "twee"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "die lande"
+    },
+    {
+      "surface": "לי",
+      "gloss": "aan my"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "behoort hulle"
+    },
+    {
+      "surface": "וירשנוה",
+      "gloss": "en ons sal dit in besit neem"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "terwyl Jahweh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "daar"
+    },
+    {
+      "surface": "היה",
+      "gloss": "was"
+    }
+  ],
+  "timestamp": "2026-09-30T22:55:17.121495205Z",
+  "model": "glm-5.3"
+}

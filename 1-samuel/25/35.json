@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 25:35",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En Dawid het uit haar hand geneem ⟨את⟩ wat sy vir hom gebring het, en vir haar gesê: Gaan in vrede na jou huis toe; kyk, ek het na jou stem geluister en jou aangesig opgelig.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en geneem"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "מידה",
+      "gloss": "uit haar hand"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wat sy vir hom gebring het"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "sy gebring het"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "en vir haar"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "gesê"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "gaan"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "in vrede"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "na jou huis"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ek het geluister"
+    },
+    {
+      "surface": "בקולך",
+      "gloss": "na jou stem"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "en opgelig"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "jou aangesig"
+    }
+  ],
+  "timestamp": "2026-09-30T21:49:24.376146896Z",
+  "model": "glm-5.3"
+}

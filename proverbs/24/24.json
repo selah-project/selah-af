@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 24:24",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Hy wat vir die goddelose sê: jy ⟨is⟩ regverdige — volke sal hom vervloek, nasies sal gruw vir hom.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "hy wat sê"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "vir die goddelose"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "regverdige"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "sal hom vervloek"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "volke"
+    },
+    {
+      "surface": "יזעמוהו",
+      "gloss": "sal gruw vir hom"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "nasies"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:03.359590837Z",
+  "model": "glm-5.3"
+}

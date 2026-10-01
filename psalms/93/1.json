@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 93,
+  "translation": "Jahweh het ⟨as⟩ koning geregeer, majesteit het Hy aangetrek; Jahweh het krag aangetrek, Hom daarmee omgord; ook staan die wêreld vas, dit sal glad nie wankel nie.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "het koning geword"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "majesteit"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "het aangetrek"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "aangetrek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "עז",
+      "gloss": "krag"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "het Hom omgord"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ook"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "staan vas"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "die wêreld"
+    },
+    {
+      "surface": "בל",
+      "gloss": "glad nie"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "sal wankel"
+    }
+  ],
+  "timestamp": "2026-09-30T23:24:57.768210419Z",
+  "model": "glm-5.3"
+}

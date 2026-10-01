@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "af",
+  "chapter": 5,
+  "translation": "Dit ⟨is⟩ beter dat jy nie 'n gelofte aflê nie, as om 'n gelofte af te lê en nie te betaal nie.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "beter"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "dat"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "jy 'n gelofte aflê"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "as om 'n gelofte af te lê"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "betaal"
+    }
+  ],
+  "timestamp": "2026-10-01T00:28:09.391665254Z",
+  "model": "glm-5.3"
+}

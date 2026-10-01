@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 30:16",
+  "book": "job",
+  "lang": "af",
+  "chapter": 30,
+  "translation": "En nou — my siel word oor my uitgestort; dae van ellende gryp my vas.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "en nou"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "oor my"
+    },
+    {
+      "surface": "תשתפך",
+      "gloss": "word uitgestort"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "יאחזוני",
+      "gloss": "gryp my vas"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "dae"
+    },
+    {
+      "surface": "עני",
+      "gloss": "van ellende"
+    }
+  ],
+  "timestamp": "2026-10-01T00:20:23.143891125Z",
+  "model": "glm-5.3"
+}

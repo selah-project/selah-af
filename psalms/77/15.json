@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 77,
+  "translation": "U ⟨is⟩ die El wat wonders doen; u krag het U onder die volke bekend gemaak.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "האל",
+      "gloss": "die El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wat doen"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "wonders"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "het U bekend gemaak"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "onder die volke"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "u krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:21:36.011771055Z",
+  "model": "glm-5.3"
+}

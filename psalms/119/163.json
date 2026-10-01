@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "Leuens het ek gehaat en versmaai; u Tora het ek liefgehad.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "leuens"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "het ek gehaat"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "en versmaai"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "het ek liefgehad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:17.978290691Z",
+  "model": "glm-5.3"
+}

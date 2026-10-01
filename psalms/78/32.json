@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 78,
+  "translation": "Met al hierdie het hulle nog gesondig, en in sy wonders het hulle nie geglo nie.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "met al"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "het hulle gesondig"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nog"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "het hulle geglo"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "in sy wonders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:16.487594421Z",
+  "model": "glm-5.3"
+}

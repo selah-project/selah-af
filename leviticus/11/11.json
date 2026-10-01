@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "af",
+  "chapter": 11,
+  "translation": "En 'n gruwel sal hulle vir julle wees; van hulle vlees sal julle nie eet nie, en ⟨את⟩ hulle aas sal julle verafsku.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "en 'n gruwel"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "sal hulle wees"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "vir julle"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "van hulle vlees"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "sal julle eet"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "hulle aas"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "hulle aas"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "sal julle verafsku"
+    }
+  ],
+  "timestamp": "2026-09-30T20:57:11.358949857Z",
+  "model": "glm-5.3"
+}

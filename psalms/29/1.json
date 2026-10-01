@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "'n Psalm van Dawid. Gee aan Jahweh, o seuns van El-im, gee aan Jahweh eer en krag.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "'n Psalm"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "van El-im"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "gee"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "aan Jahweh"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "en krag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:44.857892862Z",
+  "model": "glm-5.3"
+}

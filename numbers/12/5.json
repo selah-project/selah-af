@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 12:5",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Jahweh het in 'n pilaar van wolk neergedaal en by die ingang van die tent gaan staan, en hy het Aharon en Mirjam geroep, en hulle twee het uitgekom.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "en hy het neergedaal"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "in 'n pilaar"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "van wolk"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "en gaan staan"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "by die ingang"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "van die tent"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "en hy het geroep"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "en Mirjam"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "en hulle het uitgekom"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "hulle twee"
+    }
+  ],
+  "timestamp": "2026-09-30T21:08:21.827016971Z",
+  "model": "glm-5.3"
+}

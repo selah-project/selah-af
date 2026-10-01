@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 83,
+  "translation": "Hulle het gesê: Kom, laat ons hulle uitwis as ⟨'n⟩ nasie, en die naam van Jisraël sal nie meer in herinnering wees nie.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Hulle het gesê"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Kom"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "laat ons hulle uitwis"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "as 'n nasie"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "in herinnering sal wees"
+    },
+    {
+      "surface": "שם",
+      "gloss": "die naam"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "meer"
+    }
+  ],
+  "timestamp": "2026-09-30T23:22:37.490115158Z",
+  "model": "glm-5.3"
+}

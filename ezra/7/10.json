@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "af",
+  "chapter": 7,
+  "translation": "Want Esra het sy hart voorberei om ⟨את⟩ die Tora van Jahweh te ondersoek en om dit te doen, en om in Jisraël choq en misjpat te leer.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Esra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "het voorberei"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "om te ondersoek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die Tora van Jahweh"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "en om te doen"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "en om te leer"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "in Jisraël"
+    },
+    {
+      "surface": "חק",
+      "gloss": "choq"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "en misjpat"
+    }
+  ],
+  "timestamp": "2026-10-01T00:37:21.969655035Z",
+  "model": "glm-5.3"
+}

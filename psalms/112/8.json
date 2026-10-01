@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 112,
+  "translation": "Gesteun ⟨is⟩ sy hart, hy sal nie vrees nie, totdat hy sy teëstanders aanskou.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "Gesteun"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "sy hart"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sal hy vrees"
+    },
+    {
+      "surface": "עד",
+      "gloss": "totdat"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יראה",
+      "gloss": "aanskou"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "sy teëstanders"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:08.144077715Z",
+  "model": "glm-5.3"
+}

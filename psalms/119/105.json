@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "'n Lamp vir my voet is u woord, en 'n lig vir my pad.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "'n lamp"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "vir my voet"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "is u woord"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "en 'n lig"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "vir my pad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:28:06.953469929Z",
+  "model": "glm-5.3"
+}

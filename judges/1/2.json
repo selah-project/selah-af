@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het gesê: Jehoeda sal optrek. Kyk, ek het ⟨את⟩ die land in sy hand gegee.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Jehoeda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "sal optrek"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kyk"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ek het gegee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    }
+  ],
+  "timestamp": "2026-09-30T21:33:09.130634372Z",
+  "model": "glm-5.3"
+}

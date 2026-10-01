@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 12:4",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Awram het gegaan soos Jahweh tot hom gespreek het, en Lot het ⟨את⟩ hom vergesel; en Awram was vyf-en-sewentig jaar oud toe hy uit Charan uitgegaan het.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Awram"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "soos"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "gespreek het"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "tot hom"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "en hy het gegaan"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "hom"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Lot"
+    },
+    {
+      "surface": "ואברם",
+      "gloss": "en Awram"
+    },
+    {
+      "surface": "בן",
+      "gloss": "was ou van"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "vyf"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "en-sewentig"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "jaar"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "toe hy uitgegaan het"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "uit Charan"
+    }
+  ],
+  "timestamp": "2026-09-30T20:31:12.653516193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 13,
+  "translation": "En hy het ⟨את⟩ sy lyk in sy graf gelê, en hulle het oor hom geroukla: Ag, my broer!",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "het gelê"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy lyk"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "sy lyk"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "in sy graf"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "het geroukla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "oor hom"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "ag"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "my broer"
+    }
+  ],
+  "timestamp": "2026-09-30T22:03:18.751256002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 65:2",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 65,
+  "translation": "Vir U ⟨is⟩ stilte lof, o Elohim, in Tsijon; en vir U word ⟨die⟩ gelofte volbring.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "vir U"
+    },
+    {
+      "surface": "דמיה",
+      "gloss": "stilte"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "lof"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "in Tsijon"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "en vir U"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "word volbring"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "gelofte"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:57.743458576Z",
+  "model": "glm-5.3"
+}

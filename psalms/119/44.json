@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 119,
+  "translation": "En ek sal u Tora gedurig bewaar, vir ewig en altoos.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "en ek sal bewaar"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "u Tora"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "gedurig"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "vir ewig"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "en altoos"
+    }
+  ],
+  "timestamp": "2026-09-30T23:27:53.236703576Z",
+  "model": "glm-5.3"
+}

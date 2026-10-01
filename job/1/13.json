@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 1:13",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En ⟨dit⟩ was die dag toe sy seuns en sy dogters eet en wyn drink in die huis van hulle broer, die eersgeborene.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "En ⟨dit⟩ was"
+    },
+    {
+      "surface": "היום",
+      "gloss": "die dag"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "en sy seuns"
+    },
+    {
+      "surface": "ובנתיו",
+      "gloss": "en sy dogters"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "eet"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "en drink"
+    },
+    {
+      "surface": "יין",
+      "gloss": "wyn"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "in die huis"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "van hulle broer"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "die eersgeborene"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:33.734060297Z",
+  "model": "glm-5.3"
+}

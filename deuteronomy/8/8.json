@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "'n Land van koring en gars en wingerdstok en vyeboom en granaatappel; 'n land van olyf, olie en heuning.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "van koring"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "en gars"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "en wingerdstok"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "en vyeboom"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "en granaatappel"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "'n land"
+    },
+    {
+      "surface": "זית",
+      "gloss": "van olyf"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olie"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "en heuning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:18:35.471915128Z",
+  "model": "glm-5.3"
+}

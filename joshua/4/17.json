@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Jehosjoea het ⟨את⟩ die priesters beveel om te sê: Kom op uit die Jarden.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "het beveel"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Jehosjoea"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die priesters"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Kom op"
+    },
+    {
+      "surface": "מן",
+      "gloss": "uit"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "die Jarden"
+    }
+  ],
+  "timestamp": "2026-09-30T21:26:29.250175292Z",
+  "model": "glm-5.3"
+}

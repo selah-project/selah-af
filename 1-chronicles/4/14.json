@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "En Meönotai het ⟨את⟩ Ofra verwek, en Seraja het ⟨את⟩ Joab verwek, die vader van Ge-Garasjim — want ambagsmanne was hulle.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "en Meönotai"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ofra"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "Ofra"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "en Seraja"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "het verwek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Joab"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Joab"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "die vader van"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "Ge-"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "Garasjim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ambagsmanne"
+    },
+    {
+      "surface": "היו",
+      "gloss": "was hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:45:18.287312434Z",
+  "model": "glm-5.3"
+}

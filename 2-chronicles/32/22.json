@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 32,
+  "translation": "So het Jahweh ⟨את⟩ Gizkijahoe en ⟨את⟩ die inwoners van Jerusjalajim gered uit die hand van Sanjerib, die koning van Assjoer, en uit die hand van almal; en hy het hulle rondom laat rus.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "so het hy gered"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Gizkijahoe"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Gizkijahoe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "die inwoners van Jerusjalajim"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "die inwoners"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "van Jerusjalajim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "uit die hand"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "van Sanjerib"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "van Assjoer"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "en uit die hand"
+    },
+    {
+      "surface": "כל",
+      "gloss": "van almal"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "en hy het hulle laat rus"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-10-01T01:02:46.329690034Z",
+  "model": "glm-5.3"
+}

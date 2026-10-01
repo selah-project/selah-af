@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 143,
+  "translation": "Ek het dae van ouds onthou; ek het oor al u werke gepiekel; oor die werk van u hande peins ek.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ek het onthou"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "dae"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "van ouds"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ek het gepiekel"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "oor al"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "u werke"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "oor die werk"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "van u hande"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "peins ek"
+    }
+  ],
+  "timestamp": "2026-09-30T23:30:38.334284259Z",
+  "model": "glm-5.3"
+}

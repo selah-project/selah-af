@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 12,
+  "translation": "En Sjemuël sê vir die volk: Jahweh ⟨is dit⟩ wat ⟨את⟩ Mosje en ⟨את⟩ Aharon gemaak het, en wat ⟨את⟩ jul vadere uit die land van Mitsrajim laat opkom het.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "En Sjemuël sê"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Sjemuël"
+    },
+    {
+      "surface": "אל",
+      "gloss": "vir"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "gemaak het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mosje"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "en wat"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "laat opkom het"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jul vadere"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "jul vadere"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "uit die land van"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrajim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:43:15.607958498Z",
+  "model": "glm-5.3"
+}

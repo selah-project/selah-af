@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 8:32",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "dan hoor U in die hemel en handel, en spreek U ⟨את⟩ u dienaars in die reg: die skuldige as skuldige verklaar, om sy weg op sy kop te bring, en die regverdige as regverdige verklaar, om hom na sy tsedek te gee",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "dan U"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "hoor U"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "die hemel"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "en handel"
+    },
+    {
+      "surface": "ושפטת",
+      "gloss": "en spreek U in die reg"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u dienaars"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "u dienaars"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "as skuldige verklaar"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "die skuldige"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te bring"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "sy weg"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "op sy kop"
+    },
+    {
+      "surface": "ולהצדיק",
+      "gloss": "en as regverdige verklaar"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "die regverdige"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "om te gee"
+    },
+    {
+      "surface": "לו",
+      "gloss": "hom"
+    },
+    {
+      "surface": "כצדקתו",
+      "gloss": "na sy tsedek"
+    }
+  ],
+  "timestamp": "2026-09-30T22:01:47.137746642Z",
+  "model": "glm-5.3"
+}

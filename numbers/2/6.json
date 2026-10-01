@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "en sy leër en sy geteldes: vier en vyftig duisend en vierhonderd.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "en sy leër"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "en sy geteldes"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "vier"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "en vyftig"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "duisend"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "en vier"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderd"
+    }
+  ],
+  "timestamp": "2026-09-30T21:04:19.259014573Z",
+  "model": "glm-5.3"
+}

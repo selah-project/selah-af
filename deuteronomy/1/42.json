@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 1:42",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En Jahweh het vir my gesê: Sê vir hulle: Julle mag nie optrek en nie veg nie, want ek is nie in julle midde nie, sodat julle nie verslaan word voor julle vyande nie.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "vir my"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "sê"
+    },
+    {
+      "surface": "להם",
+      "gloss": "vir hulle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "julle mag optrek"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "תלחמו",
+      "gloss": "veg nie"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "ek is nie"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "in julle midde"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "julle verslaan word"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "voor"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "julle vyande"
+    }
+  ],
+  "timestamp": "2026-09-30T21:16:21.635222183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 26:24",
+  "book": "jeremiah",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Nietemin was die hand van Agikam seun van Safan ⟨את⟩ Jeremia, om hom nie in die hand van die volk te gee om hom dood te maak nie.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Nietemin"
+    },
+    {
+      "surface": "יד",
+      "gloss": "die hand"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "Agikam"
+    },
+    {
+      "surface": "בן",
+      "gloss": "seun van"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Safan"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "was"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ (met)",
+      "marks": "Jeremia"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Jeremia"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "sodat nie"
+    },
+    {
+      "surface": "תת",
+      "gloss": "te gee"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "in die hand van die volk"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "העם",
+      "gloss": "van die volk"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "om hom dood te maak"
+    }
+  ],
+  "timestamp": "2026-09-30T22:34:58.238978852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "Ek sal ⟨את⟩ Jahweh seën, wat my raad gegee het; ja, in nagte onderrig my niere my.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ek sal seën"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "my raad gegee het"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ja"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "in nagte"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "onderrig my"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "my niere"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:29.475454082Z",
+  "model": "glm-5.3"
+}

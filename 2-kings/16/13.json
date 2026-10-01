@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 16:13",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "En hy het ⟨את⟩ sy brandoffer en ⟨את⟩ sy minga laat opgaan in rook, en ⟨את⟩ sy drankoffer uitgegiet, en ⟨את⟩ die bloed van sy vredeoffers wat aan hom behoort, op die altaar gesprinkel.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "laat opgaan in rook"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy brandoffer"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "sy brandoffer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy minga"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "sy minga"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "uitgegiet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sy drankoffer"
+    },
+    {
+      "surface": "נסכו",
+      "gloss": "sy drankoffer"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "gesprinkel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die bloed"
+    },
+    {
+      "surface": "דם",
+      "gloss": "die bloed"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "van sy vredeoffers"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לו",
+      "gloss": "aan hom behoort"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "die altaar"
+    }
+  ],
+  "timestamp": "2026-09-30T22:11:39.534343105Z",
+  "model": "glm-5.3"
+}

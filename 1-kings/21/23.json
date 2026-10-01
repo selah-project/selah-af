@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "En ook oor Isebel het Jahweh gespreek om te sê: die honde sal ⟨את⟩ Isebel eet in die grag van Jisreël.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "en ook"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "oor Isebel"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "het gespreek"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "die honde"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "sal eet"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Isebel"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Isebel"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "in die grag"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "van Jisreël"
+    }
+  ],
+  "timestamp": "2026-09-30T22:04:49.176673298Z",
+  "model": "glm-5.3"
+}

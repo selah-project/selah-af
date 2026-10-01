@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 2:2",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 2,
+  "translation": "Daar is nie ⟨'n⟩ heilige soos Jahweh nie, want daar is niemand behalwe U nie, en daar is geen rots soos ons Elohim nie.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "daar is nie"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "heilige"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "soos Jahweh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אין",
+      "gloss": "daar is niemand"
+    },
+    {
+      "surface": "בלתך",
+      "gloss": "behalwe U"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "en daar is geen"
+    },
+    {
+      "surface": "צור",
+      "gloss": "rots"
+    },
+    {
+      "surface": "כאלהינו",
+      "gloss": "soos ons Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:40:24.222204203Z",
+  "model": "glm-5.3"
+}

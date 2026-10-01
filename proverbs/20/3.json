@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 20,
+  "translation": "Eer vir 'n man ⟨is⟩ om van stryd terug te hou; maar elke dwaas bars los in getwis.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "eer"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "vir 'n man"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "om terug te hou"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "van stryd"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "maar elke"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "dwaas"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "bars los in getwis"
+    }
+  ],
+  "timestamp": "2026-10-01T00:11:21.709492760Z",
+  "model": "glm-5.3"
+}

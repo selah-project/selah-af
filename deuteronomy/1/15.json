@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "Toe neem ek ⟨את⟩ die hoofde van julle stamme, manne, wyse en bekende, en ek het ⟨את⟩ hulle as hoofde oor julle gestel, owerstes van duisende en owerstes van honderde en owerstes van vyftige en owerstes van tiene, en ampsdraers vir julle stamme.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "Toe neem ek"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hoofde van julle stamme"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "die hoofde"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "van julle stamme"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "manne"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "wyse"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "en bekende"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "en ek het gestel"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "hulle"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "as hoofde"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "oor julle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "owerstes van"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "duisende"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en owerstes van"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "honderde"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en owerstes van"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "vyftige"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en owerstes van"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "tiene"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "en ampsdraers"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "vir julle stamme"
+    }
+  ],
+  "timestamp": "2026-09-30T21:17:07.581959966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 27:6",
+  "book": "deuteronomy",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Van volkome klippe moet jy ⟨את⟩ die altaar van Jahweh jou Elohim bou, en jy sal daarop brandoffers laat opstyg vir Jahweh jou Elohim.",
+  "tokens": [
+    {
+      "surface": "אבנים",
+      "gloss": "van klippe"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "volkome"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "moet jy bou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die altaar van Jahweh jou Elohim"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "die altaar"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    },
+    {
+      "surface": "והעלית",
+      "gloss": "en jy sal laat opstyg"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "daarop"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "brandoffers"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "vir Jahweh"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "jou Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T21:23:26.651983531Z",
+  "model": "glm-5.3"
+}

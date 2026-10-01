@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 146,
+  "translation": "Vertrou nie op edeles, nie op 'n seun van ⟨die⟩ adam by wie geen redding ⟨is⟩ nie.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nie"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "vertrou julle"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "op edeles"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "op 'n seun van"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "adam"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "by wie geen ⟨is⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "redding"
+    }
+  ],
+  "timestamp": "2026-09-30T23:31:23.596900602Z",
+  "model": "glm-5.3"
+}

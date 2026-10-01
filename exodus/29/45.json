@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 29:45",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 29,
+  "translation": "En Ek sal woon in die midde van die kinders van Jisraël, en Ek sal hulle wees tot Elohim.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "en Ek sal woon"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "in die midde"
+    },
+    {
+      "surface": "בני",
+      "gloss": "die kinders"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "van Jisraël"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "en Ek sal wees"
+    },
+    {
+      "surface": "להם",
+      "gloss": "hulle"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "tot Elohim"
+    }
+  ],
+  "timestamp": "2026-09-30T20:51:01.894101909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 27,
+  "translation": "Moenie my oorgee aan die greep van my verdrukkers nie, want valse getuies het teen my opgestaan en geweld blaas ⟨hulle⟩ uit.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "my oorgee"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "aan die greep"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "van my verdrukkers"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "het opgestaan"
+    },
+    {
+      "surface": "בי",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "getuies"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "valse"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "en blaas uit"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "geweld"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:26.731536142Z",
+  "model": "glm-5.3"
+}

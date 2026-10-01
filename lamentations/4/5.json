@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 4,
+  "translation": "Hulle wat van lekkernye geëet het, is verwoes in die strate; hulle wat in skarlak grootgemaak is, het ⟨die⟩ ashopeuwels omhels.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "hulle wat geëet het"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "van lekkernye"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "is verwoes"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "in die strate"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "hulle wat grootgemaak is"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "in"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "skarlak"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "het omhels"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "ashopeuwels"
+    }
+  ],
+  "timestamp": "2026-10-01T00:26:38.095208817Z",
+  "model": "glm-5.3"
+}

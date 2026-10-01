@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 62,
+  "translation": "En by U, Adonai, ⟨is⟩ gesed, want U vergeld aan elke man volgens sy daad.",
+  "tokens": [
+    {
+      "surface": "ולך",
+      "gloss": "en by U"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "gesed"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "U"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "vergeld"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "aan elke man"
+    },
+    {
+      "surface": "כמעשהו",
+      "gloss": "volgens sy daad"
+    }
+  ],
+  "timestamp": "2026-09-30T23:19:17.415065679Z",
+  "model": "glm-5.3"
+}

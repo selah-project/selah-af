@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 9:9",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En wat my betref — kyk, ek rig my verbond op ⟨את⟩ met julle en ⟨את⟩ met julle nageslag ná julle.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "en wat my betref"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "kyk, hier is ek"
+    },
+    {
+      "surface": "מקים",
+      "gloss": "rig op"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my verbond"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "my verbond"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ met julle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "julle nageslag"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ná julle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:30:02.508273446Z",
+  "model": "glm-5.3"
+}

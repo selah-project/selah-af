@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 9:3",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "En ek het ⟨את⟩ my aangesig gerig na Adonai, die Elohim, om te soek gebed en smekinge, met vas en sak en as.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "En ek het gerig"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "my aangesig"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonai"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "die Elohim"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "om te soek"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "gebed"
+    },
+    {
+      "surface": "ותחנונים",
+      "gloss": "en smekinge"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "met vas"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "en sak"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "en as"
+    }
+  ],
+  "timestamp": "2026-10-01T00:35:25.488742062Z",
+  "model": "glm-5.3"
+}

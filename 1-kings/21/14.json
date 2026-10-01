@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 21,
+  "translation": "Toe stuur hulle ⟨na⟩ Izebel om te sê: Nabot is gestenig, en hy ⟨is⟩ dood.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "toe stuur hulle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izebel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "om te sê"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "is gestenig"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en hy is dood"
+    }
+  ],
+  "timestamp": "2026-09-30T22:05:14.413526487Z",
+  "model": "glm-5.3"
+}

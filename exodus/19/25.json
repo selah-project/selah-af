@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "af",
+  "chapter": 19,
+  "translation": "En Mosje het na die volk afgegaan en hulle toegespreek.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "het afgegaan"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "het toegespreek"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "hulle"
+    }
+  ],
+  "timestamp": "2026-09-30T20:47:18.912450941Z",
+  "model": "glm-5.3"
+}

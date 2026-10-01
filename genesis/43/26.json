@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 43:26",
+  "book": "genesis",
+  "lang": "af",
+  "chapter": 43,
+  "translation": "En toe Josef die huis binnekom, het hulle vir hom ⟨את⟩ die geskenk wat in hulle hand was, die huis binnegebring, en hulle het voor hom negeval, tot die aarde toe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "binnekom"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Josef"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "die huis (binne)"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "het binnegebring"
+    },
+    {
+      "surface": "לו",
+      "gloss": "vir hom"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geskenk"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "die geskenk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "in hulle hand"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "die huis (binne)"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "het negeval"
+    },
+    {
+      "surface": "לו",
+      "gloss": "voor hom"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "tot die aarde toe"
+    }
+  ],
+  "timestamp": "2026-09-30T20:41:10.824023551Z",
+  "model": "glm-5.3"
+}

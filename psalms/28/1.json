@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 28,
+  "translation": "Van Dawid. Tot U, Jahweh, roep ek; my rots, moenie teen my swyg nie, laat U nie doof bly teenoor my nie — anders word ek gelykgestel met hulle wat afdaal in die put.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "tot U"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "roep ek"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "my rots"
+    },
+    {
+      "surface": "אל",
+      "gloss": "moenie"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "swyg"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "teen my"
+    },
+    {
+      "surface": "פן",
+      "gloss": "anders"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "doof bly"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "teenoor my"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "word ek gelykgestel"
+    },
+    {
+      "surface": "עם",
+      "gloss": "met"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "hulle wat afdaal"
+    },
+    {
+      "surface": "בור",
+      "gloss": "in die put"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:03.249457154Z",
+  "model": "glm-5.3"
+}

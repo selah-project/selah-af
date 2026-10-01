@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 24:5",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 24,
+  "translation": "Hy sal ⟨את⟩ seën dra van Jahweh, en tsedek van die Elohim van sy verlossing.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "sal dra"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "seën"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "van ⟨את⟩",
+      "marks": "Jahweh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "en tsedek"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "van die Elohim"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "van sy verlossing"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:32.880393405Z",
+  "model": "glm-5.3"
+}

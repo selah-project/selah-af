@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 23:10",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 23,
+  "translation": "En hy het ⟨את⟩ die hele volk laat opstel, elkeen met sy wapen in sy hand, van die regterskouer van die huis tot by die linkerskouer van die huis, by die altaar en by die huis, rondom die koning.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "en hy het laat opstel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die hele volk"
+    },
+    {
+      "surface": "כל",
+      "gloss": "die hele"
+    },
+    {
+      "surface": "העם",
+      "gloss": "volk"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "en elkeen"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "sy wapen"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "in sy hand"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "van die skouer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "die regterkant"
+    },
+    {
+      "surface": "עד",
+      "gloss": "tot by"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "die skouer"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "van die huis"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "die linkerkant"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "by die altaar"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "en by die huis"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "rondom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:59:44.323828408Z",
+  "model": "glm-5.3"
+}

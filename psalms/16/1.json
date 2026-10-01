@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 16,
+  "translation": "'n Miktam van Dawid. Bewaar my, El, want by U het ek skuiling gesoek.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "'n Miktam"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "bewaar my"
+    },
+    {
+      "surface": "אל",
+      "gloss": "El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "het ek skuiling gesoek"
+    },
+    {
+      "surface": "בך",
+      "gloss": "by U"
+    }
+  ],
+  "timestamp": "2026-09-30T23:12:39.751113266Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 1:4",
+  "book": "job",
+  "lang": "af",
+  "chapter": 1,
+  "translation": "En sy seuns het gegaan en 'n feesmaal gehou in die huis van elkeen op sy dag; en hulle het gestuur en hulle drie susters geroep om te eet en om te drink saam met hulle.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "en hulle het gegaan"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "sy seuns"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "en gehou"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "'n feesmaal"
+    },
+    {
+      "surface": "בית",
+      "gloss": "in die huis van"
+    },
+    {
+      "surface": "איש",
+      "gloss": "elkeen"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "op sy dag"
+    },
+    {
+      "surface": "ושלחו",
+      "gloss": "en hulle het gestuur"
+    },
+    {
+      "surface": "וקראו",
+      "gloss": "en geroep"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "hulle drie"
+    },
+    {
+      "surface": "אחיתיהם",
+      "gloss": "susters"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "om te eet"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "en om te drink"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "saam met hulle"
+    }
+  ],
+  "timestamp": "2026-10-01T00:14:45.925882655Z",
+  "model": "glm-5.3"
+}

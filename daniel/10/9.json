@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "af",
+  "chapter": 10,
+  "translation": "En ek hoor ⟨את⟩ die klank van sy woorde; en toe ek ⟨את⟩ die klank van sy woorde hoor, het ek verdwaas op my aangesig gelê, met my gesig na die grond toe.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "en ek hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "van sy woorde"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "en toe ek hoor"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die klank"
+    },
+    {
+      "surface": "קול",
+      "gloss": "die klank"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "van sy woorde"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "was ek"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "verdwaas"
+    },
+    {
+      "surface": "על",
+      "gloss": "op"
+    },
+    {
+      "surface": "פני",
+      "gloss": "my aangesig"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "en my gesig"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "na die grond toe"
+    }
+  ],
+  "timestamp": "2026-10-01T00:34:30.222004919Z",
+  "model": "glm-5.3"
+}

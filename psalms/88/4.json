@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 88,
+  "translation": "Want versadig ⟨is⟩ my siel met kwade dinge, en my lewe het Sjeol bereik.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Want"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "versadig"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "met kwade dinge"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "my siel"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "en my lewe"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "aan Sjeol"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "het bereik"
+    }
+  ],
+  "timestamp": "2026-09-30T23:23:54.857833215Z",
+  "model": "glm-5.3"
+}

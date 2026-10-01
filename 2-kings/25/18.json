@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "En die owerste van die slagters het ⟨את⟩ Serajah die hoofpriester geneem, en ⟨את⟩ Tsefanjah die tweede priester, en ⟨את⟩ die drie bewakers van die dorpel,",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "en het geneem"
+    },
+    {
+      "surface": "רב",
+      "gloss": "die owerste"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "van die slagters"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Serajah die hoofpriester"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Serajah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priest"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "die hoof-"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "Tsefanjah die tweede priester"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "Tsefanjah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "priester"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "die tweede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "die drie bewakers van die dorpel"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "die drie"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "bewakers"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "van die dorpel"
+    }
+  ],
+  "timestamp": "2026-09-30T22:14:36.566276982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 14,
+  "translation": "En die koning sê vir haar: Wat het jy? En sy sê: Voorwaar, 'n vrou, 'n weduwee, is ek, en my man het gesterwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "לה",
+      "gloss": "vir haar"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "מה",
+      "gloss": "wat"
+    },
+    {
+      "surface": "לך",
+      "gloss": "het jy"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "en sy sê"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "voorwaar"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "'n weduwee"
+    },
+    {
+      "surface": "אני",
+      "gloss": "is ek"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "en het gesterwe"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "my man"
+    }
+  ],
+  "timestamp": "2026-09-30T21:53:19.273417572Z",
+  "model": "glm-5.3"
+}

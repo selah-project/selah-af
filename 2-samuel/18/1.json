@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En Dawid het ⟨את⟩ die volk wat ⟨את⟩ by hom was, getel en oor hulle owerstes van duisende en owerstes van honderde aangestel.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "het getel"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Dawid"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die volk"
+    },
+    {
+      "surface": "העם",
+      "gloss": "die volk"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "wat"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ by hom"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "en aangestel"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "oor hulle"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "owerstes"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "van duisende"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "en owerstes"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "van honderde"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:53.568119226Z",
+  "model": "glm-5.3"
+}

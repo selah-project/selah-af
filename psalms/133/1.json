@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 133,
+  "translation": "'n Lied van die opgangte, van Dawid. Kyk, hoe goed en hoe aangenaam ⟨is dit⟩, broers wat saam woon, ook verenig.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "'n Lied"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "van die opgangte"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "van Dawid"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Kyk"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "goed"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "en hoe"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "aangenaam"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "woon"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "broers"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ook"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "verenig"
+    }
+  ],
+  "timestamp": "2026-09-30T23:29:18.616260662Z",
+  "model": "glm-5.3"
+}

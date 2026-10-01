@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-samuel 17:53",
+  "book": "1-samuel",
+  "lang": "af",
+  "chapter": 17,
+  "translation": "En die seuns van Jisraël het teruggekeer van die agtervolging van die Filistyne, en hulle het ⟨את⟩ hulle laer geplunder.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "het teruggekeer"
+    },
+    {
+      "surface": "בני",
+      "gloss": "seuns"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Jisraël"
+    },
+    {
+      "surface": "מדלק",
+      "gloss": "van die agtervolging"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "agter"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Filistyne"
+    },
+    {
+      "surface": "וישסו",
+      "gloss": "en hulle het geplunder"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "hulle laer"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "hulle laer"
+    }
+  ],
+  "timestamp": "2026-09-30T21:45:12.799631473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 25,
+  "translation": "Wie ⟨is⟩ hierdie man wat Jahweh vrees? Hy sal hom leer in die weg ⟨wat hy sal kies⟩.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "זה",
+      "gloss": "hierdie"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "die man"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "vrees"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "Hy sal hom leer"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "in die weg"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "wat hy sal kies"
+    }
+  ],
+  "timestamp": "2026-09-30T23:14:14.458724521Z",
+  "model": "glm-5.3"
+}

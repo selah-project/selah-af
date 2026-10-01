@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "af",
+  "chapter": 33,
+  "translation": "⟨Die⟩ raad van Jahweh staan tot in ewigheid, die planne van sy hart vir geslag en geslag.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "raad"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "tot in ewigheid"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "staan"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "planne"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "van sy hart"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "vir geslag"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "en geslag"
+    }
+  ],
+  "timestamp": "2026-09-30T23:15:24.018359453Z",
+  "model": "glm-5.3"
+}

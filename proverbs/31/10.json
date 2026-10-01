@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "af",
+  "chapter": 31,
+  "translation": "'n Vrou van mag — wie sal haar vind? Ver bo pêrels is haar waarde.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "'n vrou"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "van mag"
+    },
+    {
+      "surface": "מי",
+      "gloss": "wie"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "sal vind"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ver bo"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "pêrels"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "haar waarde"
+    }
+  ],
+  "timestamp": "2026-10-01T00:12:51.812738805Z",
+  "model": "glm-5.3"
+}

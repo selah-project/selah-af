@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 34:14",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 34,
+  "translation": "En toe hulle ⟨את⟩ die geld wat in die huis van Jahweh ingebring is, uithaal, het Chilqijahoe die priester ⟨את⟩ die boek van die Tora van Jahweh, ⟨geskryf⟩ deur die hand van Mosje, gevind.",
+  "tokens": [
+    {
+      "surface": "ובהוציאם",
+      "gloss": "en toe hulle uithaal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die geld"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "die geld"
+    },
+    {
+      "surface": "המובא",
+      "gloss": "wat ingebring is"
+    },
+    {
+      "surface": "בית",
+      "gloss": "die huis"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "het gevind"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Chilqijahoe"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "die priester"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die boek van die Tora van Jahweh"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "die boek"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "van die Tora"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Jahweh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "deur die hand"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Mosje"
+    }
+  ],
+  "timestamp": "2026-10-01T01:03:28.698284527Z",
+  "model": "glm-5.3"
+}

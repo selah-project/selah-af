@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "af",
+  "chapter": 3,
+  "translation": "Hy sit alleen en swyg, want ⟨Hy⟩ het ⟨dit⟩ op hom gelê.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Hy sit"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "alleen"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "en swyg"
+    },
+    {
+      "surface": "כי",
+      "gloss": "want"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "het gelê"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "op hom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:25:59.976306966Z",
+  "model": "glm-5.3"
+}

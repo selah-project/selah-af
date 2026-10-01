@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "af",
+  "chapter": 26,
+  "translation": "Net deur die lot sal ⟨את⟩ die land verdeel word; volgens die name van die stamme van hulle vaders sal hulle dit erf.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "net"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "deur die lot"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "sal verdeel word"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "die land"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "volgens die name"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "van die stamme"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "van hulle vaders"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "sal hulle erf"
+    }
+  ],
+  "timestamp": "2026-09-30T21:13:10.649231628Z",
+  "model": "glm-5.3"
+}

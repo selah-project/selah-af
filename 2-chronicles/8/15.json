@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "af",
+  "chapter": 8,
+  "translation": "En hulle het nie afgewyk van die gebod van die koning oor die priesters en die Leviete nie, vir enige saak en vir die skatte.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "en nie"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "het afgewyk"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "van die gebod"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "van die koning"
+    },
+    {
+      "surface": "על",
+      "gloss": "oor"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "die priesters"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "en die Leviete"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "vir enige"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "saak"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "en vir die skatte"
+    }
+  ],
+  "timestamp": "2026-10-01T00:56:22.283739482Z",
+  "model": "glm-5.3"
+}

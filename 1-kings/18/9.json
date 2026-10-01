@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 18:9",
+  "book": "1-kings",
+  "lang": "af",
+  "chapter": 18,
+  "translation": "En hy het gesê: Hoe het ek gesondig, dat jy ⟨את⟩ jou dienskneg in die hand van Agab gee om my dood te maak?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy het gesê"
+    },
+    {
+      "surface": "מה",
+      "gloss": "hoe"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "het ek gesondig"
+    },
+    {
+      "surface": "כי",
+      "gloss": "dat"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "jy"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "gee"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "jou dienskneg"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "jou dienskneg"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "in die hand"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "van Agab"
+    },
+    {
+      "surface": "להמיתני",
+      "gloss": "om my dood te maak"
+    }
+  ],
+  "timestamp": "2026-10-01T00:04:11.511915285Z",
+  "model": "glm-5.3"
+}

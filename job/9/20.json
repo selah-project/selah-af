@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 9:20",
+  "book": "job",
+  "lang": "af",
+  "chapter": 9,
+  "translation": "As ek geregtig is, sal my mond my skuldig verklaar; ek ⟨is⟩ onberispelik — en hy verklaar my krom.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "geregtig is"
+    },
+    {
+      "surface": "פי",
+      "gloss": "my mond"
+    },
+    {
+      "surface": "ירשיעני",
+      "gloss": "verklaar my skuldig"
+    },
+    {
+      "surface": "תם",
+      "gloss": "onberispelik"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ek"
+    },
+    {
+      "surface": "ויעקשני",
+      "gloss": "en verklaar my krom"
+    }
+  ],
+  "timestamp": "2026-10-01T00:15:27.686369765Z",
+  "model": "glm-5.3"
+}

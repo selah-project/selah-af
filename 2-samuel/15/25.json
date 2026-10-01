@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "af",
+  "chapter": 15,
+  "translation": "En die koning sê vir Tsadok: Bring ⟨את⟩ die ark van Elohim terug na die stad. As ek guns vind in die oë van Jahweh, sal hy my terugbring en my ⟨את⟩ hom laat sien, en ⟨את⟩ sy woning.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "en hy sê"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "die koning"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "vir Tsadok"
+    },
+    {
+      "surface": "השב",
+      "gloss": "bring terug"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "die ark van Elohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "die ark"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "van Elohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "na die stad"
+    },
+    {
+      "surface": "אם",
+      "gloss": "as"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ek vind"
+    },
+    {
+      "surface": "חן",
+      "gloss": "guns"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "in die oë"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "van Jahweh"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "sal hy my terugbring"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "my laat sien"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ hom",
+      "marks": "hy (Jahweh se terugkeer \/ die ark)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "en ⟨את⟩",
+      "marks": "sy woning"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "sy woning"
+    }
+  ],
+  "timestamp": "2026-09-30T21:54:50.269148589Z",
+  "model": "glm-5.3"
+}
